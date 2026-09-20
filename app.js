@@ -1,6 +1,6 @@
 /**
  * App.js — Actu du Jour Mobile PWA
- * Pure Apple News Typographic Integration (ZERO Clutter, No Badges/Pills, Elegant Inline Translation)
+ * Pure Apple News Typographic Integration (Title ALWAYS remains pure white on translation)
  */
 
 let newsData = null;
@@ -84,7 +84,7 @@ function renderArticles() {
             const displayImpact = isTranslated && item.impactFr ? item.impactFr : item.impact;
 
             return `
-              <article class="news-card group rounded-2xl bg-[#1c1c1e] border border-white/10 p-5 hover:border-white/20 transition-all shadow-xl">
+              <article class="news-card group rounded-2xl bg-[#1c1c1e] border border-white/10 p-5 transition-all shadow-xl">
                 
                 <!-- Apple News Header Line: Source • Category • Time + Translation Action -->
                 <div class="flex items-center justify-between text-xs text-[#8e8e93] uppercase font-semibold tracking-wider mb-2.5">
@@ -96,13 +96,13 @@ function renderArticles() {
                     <span>${item.time}</span>
                   </div>
 
-                  <button onclick="toggleTranslation('${item.id}')" class="text-xs font-semibold text-[#0a84ff] hover:underline normal-case shrink-0 ml-2">
+                  <button type="button" onclick="event.stopPropagation(); toggleTranslation('${item.id}');" class="text-xs font-semibold text-[#0a84ff] hover:underline focus:outline-none active:text-[#0a84ff] normal-case shrink-0 ml-2">
                     ${isTranslated ? 'Show EN' : 'Traduire FR'}
                   </button>
                 </div>
 
-                <!-- Article Title -->
-                <h3 class="font-bold text-lg text-white group-hover:text-[#0a84ff] transition-colors mb-2.5 leading-snug tracking-tight">
+                <!-- Article Title (ALWAYS Pure White) -->
+                <h3 class="font-bold text-lg text-white mb-2.5 leading-snug tracking-tight">
                   ${displayTitle}
                 </h3>
 
