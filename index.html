@@ -31,7 +31,7 @@
   
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
-    body { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif; background-color: #000000; color: #ffffff; }
+    body { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif; background-color: #000000; color: #ffffff; touch-action: pan-y; }
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     .news-card { transition: transform 0.15s ease-out, background-color 0.15s ease; }
@@ -99,7 +99,7 @@
     </div>
   </header>
 
-  <!-- Main Container (Direct Feed — No Hero Card, No Search Bar) -->
+  <!-- Main Container -->
   <main class="max-w-xl mx-auto px-4 mt-5 space-y-6">
 
     <!-- Category Sections Container -->
@@ -124,8 +124,8 @@
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic (Versioned v60.0) -->
-  <script src="app.js?v=60.0"></script>
+  <!-- JS Logic (Versioned v70.0) -->
+  <script src="app.js?v=70.0"></script>
   <script>
     lucide.createIcons();
     function forceAppRefresh() {

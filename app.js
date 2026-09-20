@@ -1,13 +1,21 @@
 /**
  * App.js — Actu du Jour Mobile PWA
- * Pure Apple News Typographic Integration (No Search Bar, Clean Category Tabs)
+ * Pure Apple News Typographic Integration (Swipe Gestures & Clean Tabs)
  */
 
 let newsData = null;
 let activeCategory = 'all';
 
+const categoriesList = ['all', 'eco-fin', 'politique', 'tech', 'faits-divers'];
+
 // Per-article translation state tracker (true = translated to French, false = English original)
 const articleTranslationState = {};
+
+// Touch Swipe State
+let touchStartX = 0;
+let touchStartY = 0;
+let touchEndX = 0;
+let touchEndY = 0;
 
 // DOM Elements
 const newsContainer = document.getElementById('news-container');
@@ -18,6 +26,7 @@ const currentDateBadge = document.getElementById('current-date-badge');
 document.addEventListener('DOMContentLoaded', async () => {
   await loadNewsData();
   setupEventListeners();
+  setupSwipeGestures();
 });
 
 // Load News JSON Data
@@ -131,21 +140,65 @@ window.toggleTranslation = function(articleId) {
   renderArticles();
 };
 
+// Switch Category Helper
+function switchCategory(catId) {
+  activeCategory = catId;
+  document.querySelectorAll('.nav-tab').forEach(t => {
+    if (t.dataset.category === catId) {
+      t.classList.add('active', 'bg-[#2c2c2e]', 'text-white', 'shadow-sm', 'font-semibold');
+      t.classList.remove('text-[#8e8e93]', 'font-medium');
+      t.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    } else {
+      t.classList.remove('active', 'bg-[#2c2c2e]', 'text-white', 'shadow-sm', 'font-semibold');
+      t.classList.add('text-[#8e8e93]', 'font-medium');
+    }
+  });
+  renderArticles();
+}
+
 // Setup Event Listeners
 function setupEventListeners() {
   document.querySelectorAll('.nav-tab').forEach(tab => {
     tab.addEventListener('click', (e) => {
-      document.querySelectorAll('.nav-tab').forEach(t => {
-        t.classList.remove('active', 'bg-[#2c2c2e]', 'text-white', 'shadow-sm', 'font-semibold');
-        t.classList.add('text-[#8e8e93]', 'font-medium');
-      });
-
-      const target = e.currentTarget;
-      target.classList.add('active', 'bg-[#2c2c2e]', 'text-white', 'shadow-sm', 'font-semibold');
-      target.classList.remove('text-[#8e8e93]', 'font-medium');
-
-      activeCategory = target.dataset.category;
-      renderArticles();
+      const catId = e.currentTarget.dataset.category;
+      switchCategory(catId);
     });
   });
+}
+
+// iOS Swipe Gesture Engine (Slide Left / Right to Switch Categories)
+function setupSwipeGestures() {
+  document.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    touchStartY = e.changedTouches[0].screenY;
+  }, { passive: true });
+
+  document.addEventListener('touchend', (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    touchEndY = e.changedTouches[0].screenY;
+    handleSwipeGesture();
+  }, { passive: true });
+}
+
+function handleSwipeGesture() {
+  const deltaX = touchEndX - touchStartX;
+  const deltaY = touchEndY - touchStartY;
+  
+  // Horizontal swipe threshold (> 50px) and dominant over vertical scrolling (|deltaX| > |deltaY|)
+  if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > 50) {
+    const currentIndex = categoriesList.indexOf(activeCategory);
+    if (currentIndex === -1) return;
+
+    if (deltaX < 0) {
+      // Swiped LEFT -> Next Category
+      if (currentIndex < categoriesList.length - 1) {
+        switchCategory(categoriesList[currentIndex + 1]);
+      }
+    } else {
+      // Swiped RIGHT -> Previous Category
+      if (currentIndex > 0) {
+        switchCategory(categoriesList[currentIndex - 1]);
+      }
+    }
+  }
 }
