@@ -1,15 +1,18 @@
 /**
- * App.js — Actu du Jour Mobile PWA (Apple HIG Edition with Scaled Typography & Dynamic Hero Visibility)
+ * App.js — Actu du Jour Mobile PWA
+ * All Articles English by Default with EN->FR Translation & iOS Speech Synthesis Fix
  */
 
 let newsData = null;
 let activeCategory = 'all';
 let searchQuery = '';
-let currentSpeechUtterance = null;
 let isPlayingAudio = false;
 
 // Per-article translation state tracker (true = translated to French, false = English original)
 const articleTranslationState = {};
+
+// Keep SpeechSynthesisUtterance in window scope to prevent iOS Safari garbage collection
+window.currentUtterance = null;
 
 // DOM Elements
 const newsContainer = document.getElementById('news-container');
@@ -32,7 +35,18 @@ const iconAudioPause = document.getElementById('icon-audio-pause');
 document.addEventListener('DOMContentLoaded', async () => {
   await loadNewsData();
   setupEventListeners();
+  initSpeechSynthesisVoices();
 });
+
+// Warm up SpeechSynthesis voices for iOS Safari
+function initSpeechSynthesisVoices() {
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.getVoices();
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
+    }
+  }
+}
 
 // Load News JSON Data
 async function loadNewsData() {
@@ -69,7 +83,7 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles (With Scaled Typography and Conditional Hero Card)
+// Filter and Render Articles (100% English Default with EN->FR Translation Button on EVERY Article)
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
 
@@ -91,8 +105,8 @@ function renderArticles() {
     const filteredItems = cat.items.filter(item => {
       if (!searchQuery) return true;
       const q = searchQuery.toLowerCase();
-      const title = articleTranslationState[item.id] ? item.titleFr : (item.title || item.titleFr);
-      const summary = articleTranslationState[item.id] ? item.summaryFr : (item.summary || item.summaryFr);
+      const title = articleTranslationState[item.id] ? (item.titleFr || item.title) : item.title;
+      const summary = articleTranslationState[item.id] ? (item.summaryFr || item.summary) : item.summary;
       return title.toLowerCase().includes(q) ||
              summary.toLowerCase().includes(q) ||
              (item.source && item.source.toLowerCase().includes(q));
@@ -122,12 +136,10 @@ function renderArticles() {
                     <span class="text-xs font-semibold tracking-wider px-3 py-1 rounded-full bg-[#3a3a3c] text-zinc-200">
                       ${item.badge || cat.name}
                     </span>
-                    ${item.isInternational ? `
-                      <button onclick="toggleTranslation('${item.id}')" class="text-xs font-medium px-3 py-1 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 hover:bg-[#3a3a3c] active:scale-95 transition-all flex items-center gap-1.5">
-                        <span>${isTranslated ? 'Français' : 'English'}</span>
-                        <span class="text-[11px] text-[#8e8e93] font-normal">(${isTranslated ? 'Original English' : 'Traduire en Français'})</span>
-                      </button>
-                    ` : ''}
+                    <button onclick="toggleTranslation('${item.id}')" class="text-xs font-medium px-3 py-1 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 hover:bg-[#3a3a3c] active:scale-95 transition-all flex items-center gap-1.5">
+                      <span>${isTranslated ? 'Français' : 'English'}</span>
+                      <span class="text-[11px] text-[#8e8e93] font-normal">(${isTranslated ? 'Original English' : 'Traduire en Français'})</span>
+                    </button>
                   </div>
                   <span class="text-xs text-[#8e8e93] font-medium">
                     ${item.time}
@@ -219,18 +231,18 @@ function setupEventListeners() {
   btnAudioStop.addEventListener('click', () => stopAudio());
 }
 
-// Web Speech API Integration
+// Robust iOS Web Speech API Engine
 function readFullSummaryAudio() {
   if (!newsData) return;
 
-  let textToRead = `Résumé de l'actualité du ${newsData.formattedDate}. `;
+  let textToRead = `Daily News Summary for ${newsData.formattedDate}. `;
   textToRead += newsData.summary + " ";
-  textToRead += "Voici les 3 points majeurs à retenir. ";
+  textToRead += "Here are the top three key takeaways. ";
   newsData.keyTakeaways.forEach((k, i) => {
-    textToRead += `Point ${i + 1} : ${k}. `;
+    textToRead += `Point ${i + 1}: ${k}. `;
   });
 
-  speakText("Flash Actualités du Jour", textToRead, 'fr-FR');
+  speakText("Daily News Summary", textToRead, 'en-US');
 }
 
 window.readArticleAudio = function(articleId) {
@@ -247,24 +259,37 @@ window.readArticleAudio = function(articleId) {
     const title = isTranslated && foundItem.titleFr ? foundItem.titleFr : foundItem.title;
     const summary = isTranslated && foundItem.summaryFr ? foundItem.summaryFr : foundItem.summary;
     const impact = isTranslated && foundItem.impactFr ? foundItem.impactFr : foundItem.impact;
-    const lang = (foundItem.isInternational && !isTranslated) ? 'en-US' : 'fr-FR';
+    const lang = isTranslated ? 'fr-FR' : 'en-US';
 
-    const text = `${title}. Source : ${foundItem.source}. ${summary} ${impact ? "Impact : " + impact : ""}`;
+    const text = `${title}. Source: ${foundItem.source}. ${summary} ${impact ? "Impact: " + impact : ""}`;
     speakText(title, text, lang);
   }
 };
 
-function speakText(title, text, lang = 'fr-FR') {
+function speakText(title, text, lang = 'en-US') {
   if (!('speechSynthesis' in window)) {
-    alert("La synthèse vocale n'est pas disponible.");
+    alert("Speech synthesis is not supported on this browser.");
     return;
   }
 
+  // iOS Safari Fix: Resume audio context inside direct user gesture
+  window.speechSynthesis.resume();
   window.speechSynthesis.cancel();
 
-  currentSpeechUtterance = new SpeechSynthesisUtterance(text);
-  currentSpeechUtterance.lang = lang;
-  currentSpeechUtterance.rate = 1.0;
+  // Store utterance globally to prevent iOS Safari garbage collection
+  window.currentUtterance = new SpeechSynthesisUtterance(text);
+  window.currentUtterance.lang = lang;
+  window.currentUtterance.rate = 1.0;
+  window.currentUtterance.pitch = 1.0;
+
+  // Try to find native voice matching lang
+  const voices = window.speechSynthesis.getVoices();
+  if (voices && voices.length > 0) {
+    const targetVoice = voices.find(v => v.lang.toLowerCase().replace('_', '-').startsWith(lang.slice(0, 2)));
+    if (targetVoice) {
+      window.currentUtterance.voice = targetVoice;
+    }
+  }
 
   audioCurrentTitle.textContent = title;
   audioPlayerBar.classList.remove('translate-y-36');
@@ -272,10 +297,13 @@ function speakText(title, text, lang = 'fr-FR') {
   iconAudioPause.classList.remove('hidden');
   isPlayingAudio = true;
 
-  currentSpeechUtterance.onend = () => stopAudio();
-  currentSpeechUtterance.onerror = () => stopAudio();
+  window.currentUtterance.onend = () => stopAudio();
+  window.currentUtterance.onerror = (e) => {
+    console.error('Speech synthesis error:', e);
+    stopAudio();
+  };
 
-  window.speechSynthesis.speak(currentSpeechUtterance);
+  window.speechSynthesis.speak(window.currentUtterance);
 }
 
 function toggleAudioPlayPause() {
