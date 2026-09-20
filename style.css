@@ -1,6 +1,11 @@
-/* Custom Utilities & Mobile Styles */
+/* Apple Human Interface Guidelines (HIG) Custom Styles */
 
-/* Hide horizontal scrollbar for clean tab scrolling */
+/* Ease-Spring Animation Curve */
+.ease-spring {
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Hide scrollbar for clean horizontal segmented control */
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
@@ -9,63 +14,62 @@
   scrollbar-width: none;
 }
 
-/* Glassmorphism Card Style */
+/* Apple Card Micro-Interactions */
 .news-card {
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.2s ease, border-color 0.2s ease;
 }
 
 .news-card:active {
-  transform: scale(0.985);
+  transform: scale(0.975);
 }
 
-/* Light Theme Overrides */
+/* Light Mode Overrides for iOS Aesthetic */
 html:not(.dark) body {
-  background-color: #f8fafc;
-  color: #0f172a;
+  background-color: #f2f2f7;
+  color: #000000;
 }
 
 html:not(.dark) header {
-  background-color: rgba(255, 255, 255, 0.85);
-  border-color: #e2e8f0;
+  background-color: rgba(249, 249, 249, 0.85);
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+html:not(.dark) input#search-input {
+  background-color: #e3e3e8;
+  color: #000000;
 }
 
 html:not(.dark) .nav-tab {
-  background-color: #f1f5f9;
-  color: #64748b;
-  border-color: #e2e8f0;
+  color: #8e8e93;
 }
 
 html:not(.dark) .nav-tab.active {
-  background-color: #0284c7;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 }
 
 html:not(.dark) #key-takeaways-card {
-  background: linear-gradient(135deg, #ffffff 0%, #f0f9ff 100%);
-  border-color: #bae6fd;
+  background: linear-gradient(180deg, #ffffff 0%, #f9f9fb 100%);
+  border-color: rgba(0, 0, 0, 0.08);
 }
 
 html:not(.dark) #daily-summary-text {
-  color: #334155;
+  color: #1c1c1e;
 }
 
 html:not(.dark) .news-card-inner {
   background-color: #ffffff;
-  border-color: #e2e8f0;
+  border-color: rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
-html:not(.dark) input#search-input {
-  background-color: #ffffff;
-  color: #0f172a;
-  border-color: #cbd5e1;
+html:not(.dark) #audio-player-bar > div {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000000;
+  border-color: rgba(0, 0, 0, 0.15);
 }
 
-/* Smooth pulse animation for active voice reading */
-@keyframes audioPulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.05); }
-}
-
-.audio-reading-active {
-  animation: audioPulse 2s infinite ease-in-out;
+html:not(.dark) #audio-player-bar #audio-current-title {
+  color: #000000;
 }
