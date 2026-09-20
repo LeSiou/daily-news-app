@@ -1,18 +1,14 @@
 /**
  * App.js — Actu du Jour Mobile PWA
- * All Articles English by Default with EN->FR Translation & iOS Speech Synthesis Fix
+ * Clean Apple HIG Interface (100% English Default with EN->FR Translation Toggle)
  */
 
 let newsData = null;
 let activeCategory = 'all';
 let searchQuery = '';
-let isPlayingAudio = false;
 
 // Per-article translation state tracker (true = translated to French, false = English original)
 const articleTranslationState = {};
-
-// Keep SpeechSynthesisUtterance in window scope to prevent iOS Safari garbage collection
-window.currentUtterance = null;
 
 // DOM Elements
 const newsContainer = document.getElementById('news-container');
@@ -23,30 +19,12 @@ const keyTakeawaysListEl = document.getElementById('key-takeaways-list');
 const keyTakeawaysCard = document.getElementById('key-takeaways-card');
 const searchInput = document.getElementById('search-input');
 const btnClearSearch = document.getElementById('btn-clear-search');
-const btnReadAll = document.getElementById('btn-read-all');
-const audioPlayerBar = document.getElementById('audio-player-bar');
-const audioCurrentTitle = document.getElementById('audio-current-title');
-const btnAudioPlayPause = document.getElementById('btn-audio-play-pause');
-const btnAudioStop = document.getElementById('btn-audio-stop');
-const iconAudioPlay = document.getElementById('icon-audio-play');
-const iconAudioPause = document.getElementById('icon-audio-pause');
 
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
   await loadNewsData();
   setupEventListeners();
-  initSpeechSynthesisVoices();
 });
-
-// Warm up SpeechSynthesis voices for iOS Safari
-function initSpeechSynthesisVoices() {
-  if ('speechSynthesis' in window) {
-    window.speechSynthesis.getVoices();
-    if (speechSynthesis.onvoiceschanged !== undefined) {
-      speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
-    }
-  }
-}
 
 // Load News JSON Data
 async function loadNewsData() {
@@ -83,7 +61,7 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles (100% English Default with EN->FR Translation Button on EVERY Article)
+// Filter and Render Articles
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
 
@@ -165,10 +143,6 @@ function renderArticles() {
                   <span class="font-medium text-[#8e8e93] text-xs">
                     ${item.source}
                   </span>
-
-                  <button onclick="readArticleAudio('${item.id}')" class="text-[#0a84ff] hover:underline flex items-center gap-1.5 font-semibold text-xs active:scale-95 transition-all">
-                    <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i> Écouter
-                  </button>
                 </div>
               </article>
             `;
@@ -225,109 +199,4 @@ function setupEventListeners() {
     btnClearSearch.classList.add('hidden');
     renderArticles();
   });
-
-  btnReadAll.addEventListener('click', () => readFullSummaryAudio());
-  btnAudioPlayPause.addEventListener('click', () => toggleAudioPlayPause());
-  btnAudioStop.addEventListener('click', () => stopAudio());
-}
-
-// Robust iOS Web Speech API Engine
-function readFullSummaryAudio() {
-  if (!newsData) return;
-
-  let textToRead = `Daily News Summary for ${newsData.formattedDate}. `;
-  textToRead += newsData.summary + " ";
-  textToRead += "Here are the top three key takeaways. ";
-  newsData.keyTakeaways.forEach((k, i) => {
-    textToRead += `Point ${i + 1}: ${k}. `;
-  });
-
-  speakText("Daily News Summary", textToRead, 'en-US');
-}
-
-window.readArticleAudio = function(articleId) {
-  if (!newsData) return;
-
-  let foundItem = null;
-  newsData.categories.forEach(c => {
-    const item = c.items.find(i => i.id === articleId);
-    if (item) foundItem = item;
-  });
-
-  if (foundItem) {
-    const isTranslated = !!articleTranslationState[articleId];
-    const title = isTranslated && foundItem.titleFr ? foundItem.titleFr : foundItem.title;
-    const summary = isTranslated && foundItem.summaryFr ? foundItem.summaryFr : foundItem.summary;
-    const impact = isTranslated && foundItem.impactFr ? foundItem.impactFr : foundItem.impact;
-    const lang = isTranslated ? 'fr-FR' : 'en-US';
-
-    const text = `${title}. Source: ${foundItem.source}. ${summary} ${impact ? "Impact: " + impact : ""}`;
-    speakText(title, text, lang);
-  }
-};
-
-function speakText(title, text, lang = 'en-US') {
-  if (!('speechSynthesis' in window)) {
-    alert("Speech synthesis is not supported on this browser.");
-    return;
-  }
-
-  // iOS Safari Fix: Resume audio context inside direct user gesture
-  window.speechSynthesis.resume();
-  window.speechSynthesis.cancel();
-
-  // Store utterance globally to prevent iOS Safari garbage collection
-  window.currentUtterance = new SpeechSynthesisUtterance(text);
-  window.currentUtterance.lang = lang;
-  window.currentUtterance.rate = 1.0;
-  window.currentUtterance.pitch = 1.0;
-
-  // Try to find native voice matching lang
-  const voices = window.speechSynthesis.getVoices();
-  if (voices && voices.length > 0) {
-    const targetVoice = voices.find(v => v.lang.toLowerCase().replace('_', '-').startsWith(lang.slice(0, 2)));
-    if (targetVoice) {
-      window.currentUtterance.voice = targetVoice;
-    }
-  }
-
-  audioCurrentTitle.textContent = title;
-  audioPlayerBar.classList.remove('translate-y-36');
-  iconAudioPlay.classList.add('hidden');
-  iconAudioPause.classList.remove('hidden');
-  isPlayingAudio = true;
-
-  window.currentUtterance.onend = () => stopAudio();
-  window.currentUtterance.onerror = (e) => {
-    console.error('Speech synthesis error:', e);
-    stopAudio();
-  };
-
-  window.speechSynthesis.speak(window.currentUtterance);
-}
-
-function toggleAudioPlayPause() {
-  if (!('speechSynthesis' in window)) return;
-
-  if (window.speechSynthesis.speaking) {
-    if (window.speechSynthesis.paused) {
-      window.speechSynthesis.resume();
-      iconAudioPlay.classList.add('hidden');
-      iconAudioPause.classList.remove('hidden');
-      isPlayingAudio = true;
-    } else {
-      window.speechSynthesis.pause();
-      iconAudioPlay.classList.remove('hidden');
-      iconAudioPause.classList.add('hidden');
-      isPlayingAudio = false;
-    }
-  }
-}
-
-function stopAudio() {
-  if ('speechSynthesis' in window) {
-    window.speechSynthesis.cancel();
-  }
-  audioPlayerBar.classList.add('translate-y-36');
-  isPlayingAudio = false;
 }

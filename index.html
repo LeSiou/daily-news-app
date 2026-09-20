@@ -37,12 +37,9 @@
     .news-card { transition: transform 0.15s ease-out, background-color 0.15s ease; }
     .news-card:active { transform: scale(0.98); }
 
-    /* iOS Safe Area Padding for Header & Floating Audio Bar */
+    /* iOS Safe Area Padding for Header */
     header.ios-header {
       padding-top: max(16px, calc(env(safe-area-inset-top) + 12px)) !important;
-    }
-    div.ios-audio-bar {
-      padding-bottom: max(16px, env(safe-area-inset-bottom)) !important;
     }
   </style>
 
@@ -58,13 +55,13 @@
     }
   </script>
 </head>
-<body class="bg-black text-white min-h-screen font-sans pb-32 selection:bg-[#0a84ff] selection:text-white antialiased">
+<body class="bg-black text-white min-h-screen font-sans pb-16 selection:bg-[#0a84ff] selection:text-white antialiased">
 
   <!-- iOS Header with Safe Area Inset Top for iPhone Dynamic Island / Notch -->
   <header class="ios-header sticky top-0 z-40 backdrop-blur-2xl bg-black/90 border-b border-white/10 px-4 pb-3.5 transition-all duration-300">
     <div class="max-w-xl mx-auto space-y-3.5">
       
-      <!-- Top Row: Date, Audio & Instant Refresh Button -->
+      <!-- Top Row: Date & Instant Refresh Button -->
       <div class="flex items-center justify-between">
         <div>
           <span id="current-date-badge" class="text-xs font-semibold uppercase tracking-wider text-[#8e8e93]">Dimanche 20 Septembre</span>
@@ -74,10 +71,6 @@
         </div>
 
         <div class="flex items-center gap-2">
-          <button id="btn-read-all" title="Écouter le résumé audio" class="h-9 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
-            <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i>
-            <span>Écouter</span>
-          </button>
           <button onclick="forceAppRefresh()" title="Forcer la mise à jour" class="w-9 h-9 rounded-full bg-[#2c2c2e] text-[#8e8e93] hover:text-white border border-white/10 flex items-center justify-center active:scale-95 transition-all">
             <i data-lucide="rotate-cw" class="w-4 h-4"></i>
           </button>
@@ -154,41 +147,14 @@
 
   </main>
 
-  <!-- iOS Floating Audio Player -->
-  <div id="audio-player-bar" class="fixed bottom-6 left-4 right-4 max-w-xl mx-auto z-50 transform translate-y-36 transition-all duration-300 ease-out">
-    <div class="ios-audio-bar bg-[#1c1c1e]/95 backdrop-blur-2xl border border-white/15 p-3.5 rounded-2xl shadow-2xl flex items-center justify-between gap-3 text-white">
-      
-      <div class="flex items-center gap-3 overflow-hidden pl-1">
-        <div class="w-9 h-9 rounded-full bg-[#2c2c2e] text-[#0a84ff] flex items-center justify-center shrink-0 border border-white/10">
-          <i data-lucide="volume-2" class="w-4 h-4"></i>
-        </div>
-        <div class="truncate">
-          <div class="text-xs font-bold text-[#8e8e93] uppercase tracking-wider">Voice Reader</div>
-          <div id="audio-current-title" class="text-xs font-semibold text-white truncate">Flash Actualités du Jour</div>
-        </div>
-      </div>
-
-      <div class="flex items-center gap-1.5 pr-1">
-        <button id="btn-audio-play-pause" class="w-9 h-9 rounded-full bg-white text-black flex items-center justify-center shrink-0 active:scale-95 transition-all">
-          <i data-lucide="pause" id="icon-audio-pause" class="w-4 h-4"></i>
-          <i data-lucide="play" id="icon-audio-play" class="w-4 h-4 hidden ml-0.5"></i>
-        </button>
-        <button id="btn-audio-stop" class="w-8 h-8 rounded-full bg-[#2c2c2e] text-[#8e8e93] hover:text-white flex items-center justify-center active:scale-95 transition-all">
-          <i data-lucide="x" class="w-4 h-4"></i>
-        </button>
-      </div>
-
-    </div>
-  </div>
-
   <!-- iOS Footer -->
   <footer class="max-w-xl mx-auto px-4 py-8 text-center text-xs text-[#8e8e93] border-t border-white/10 mt-12 space-y-1">
     <p class="font-medium text-zinc-300">Actu du Jour — Apple HIG Design System</p>
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic (Versioned v25.0) -->
-  <script src="app.js?v=25.0"></script>
+  <!-- JS Logic (Versioned v30.0) -->
+  <script src="app.js?v=30.0"></script>
   <script>
     lucide.createIcons();
     function forceAppRefresh() {

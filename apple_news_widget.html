@@ -12,7 +12,7 @@
 </head>
 <body class="bg-transparent text-white antialiased p-1">
 
-  <!-- Apple HIG Pure Monochrome Widget Container (ZERO Emojis & 100% English Default) -->
+  <!-- Apple HIG Pure Monochrome Widget Container (Clean App without Audio) -->
   <div class="bg-[#1c1c1e] text-white border border-white/10 rounded-2xl p-5 shadow-xl space-y-4 max-w-lg mx-auto">
     
     <!-- iOS Header -->
@@ -25,10 +25,9 @@
       </div>
 
       <div class="flex items-center gap-1.5">
-        <button id="widget-audio-btn" class="h-8 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
-          <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-          <span>Écouter</span>
-        </button>
+        <a href="https://lesiou.github.io/daily-news-app/?v=30.0" target="_blank" class="h-8 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
+          <span>Ouvrir L'App ↗</span>
+        </a>
       </div>
     </div>
 
@@ -86,14 +85,8 @@
 
     <!-- Footer Bar -->
     <div class="pt-2.5 border-t border-white/10 flex items-center justify-between text-xs">
-      <div class="flex items-center gap-2">
-        <div class="w-6 h-6 rounded-full bg-[#2c2c2e] text-[#0a84ff] flex items-center justify-center font-bold">
-          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z"></path></svg>
-        </div>
-        <span id="widget-audio-title" class="text-xs font-medium text-[#8e8e93] truncate max-w-[200px]">Voice Reader System</span>
-      </div>
-
-      <a href="https://lesiou.github.io/daily-news-app/?v=25.0" target="_blank" class="text-xs text-[#0a84ff] font-semibold hover:underline">Ouvrir l'App ↗</a>
+      <span class="text-xs font-medium text-[#8e8e93]">Apple HIG Design System</span>
+      <a href="https://lesiou.github.io/daily-news-app/?v=30.0" target="_blank" class="text-xs text-[#0a84ff] font-semibold hover:underline">Ouvrir l'App ↗</a>
     </div>
 
   </div>
@@ -160,35 +153,6 @@
           }
         });
       });
-    });
-
-    const btn = document.getElementById('widget-audio-btn');
-    const title = document.getElementById('widget-audio-title');
-    let speaking = false;
-
-    btn.addEventListener('click', () => {
-      if (!('speechSynthesis' in window)) return;
-      if (speaking) {
-        window.speechSynthesis.cancel();
-        btn.innerHTML = '<svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg><span>Écouter</span>';
-        title.textContent = 'Voice Reader System';
-        speaking = false;
-      } else {
-        window.speechSynthesis.resume();
-        window.speechSynthesis.cancel();
-        const text = "Daily News Summary. " + document.getElementById('widget-summary').textContent;
-        const u = new SpeechSynthesisUtterance(text);
-        u.lang = 'en-US';
-        u.onend = () => {
-          btn.innerHTML = '<svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg><span>Écouter</span>';
-          title.textContent = 'Playback Finished';
-          speaking = false;
-        };
-        window.speechSynthesis.speak(u);
-        btn.innerHTML = '<span>Stop</span>';
-        title.textContent = 'Playing Audio...';
-        speaking = true;
-      }
     });
   </script>
 
