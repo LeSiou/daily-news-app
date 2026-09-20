@@ -36,6 +36,14 @@
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     .news-card { transition: transform 0.15s ease-out, background-color 0.15s ease; }
     .news-card:active { transform: scale(0.98); }
+
+    /* iOS Safe Area Padding for Header & Floating Audio Bar */
+    header.ios-header {
+      padding-top: max(16px, calc(env(safe-area-inset-top) + 12px)) !important;
+    }
+    div.ios-audio-bar {
+      padding-bottom: max(16px, env(safe-area-inset-bottom)) !important;
+    }
   </style>
 
   <!-- Kill any old Service Worker Cache instantly -->
@@ -52,8 +60,8 @@
 </head>
 <body class="bg-black text-white min-h-screen font-sans pb-32 selection:bg-[#0a84ff] selection:text-white antialiased">
 
-  <!-- iOS Header -->
-  <header class="sticky top-0 z-40 backdrop-blur-2xl bg-black/85 border-b border-white/10 px-4 pt-4 pb-3 transition-all duration-300">
+  <!-- iOS Header with Safe Area Inset Top for iPhone Dynamic Island / Notch -->
+  <header class="ios-header sticky top-0 z-40 backdrop-blur-2xl bg-black/90 border-b border-white/10 px-4 pb-3.5 transition-all duration-300">
     <div class="max-w-xl mx-auto space-y-3.5">
       
       <!-- Top Row: Date, Audio & Instant Refresh Button -->
@@ -120,7 +128,7 @@
       </div>
 
       <p id="daily-summary-text" class="text-sm text-zinc-300 leading-relaxed font-normal">
-        L'actualité de ce dimanche s'articules autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques, et de la dynamique de l'IA agentique.
+        L'actualité de ce dimanche s'articule autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques, et de la dynamique de l'IA agentique.
       </p>
 
       <div class="space-y-3">
@@ -148,7 +156,7 @@
 
   <!-- iOS Floating Audio Player -->
   <div id="audio-player-bar" class="fixed bottom-6 left-4 right-4 max-w-xl mx-auto z-50 transform translate-y-36 transition-all duration-300 ease-out">
-    <div class="bg-[#1c1c1e]/95 backdrop-blur-2xl border border-white/15 p-3.5 rounded-2xl shadow-2xl flex items-center justify-between gap-3 text-white">
+    <div class="ios-audio-bar bg-[#1c1c1e]/95 backdrop-blur-2xl border border-white/15 p-3.5 rounded-2xl shadow-2xl flex items-center justify-between gap-3 text-white">
       
       <div class="flex items-center gap-3 overflow-hidden pl-1">
         <div class="w-9 h-9 rounded-full bg-[#2c2c2e] text-[#0a84ff] flex items-center justify-center shrink-0 border border-white/10">
@@ -179,8 +187,8 @@
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic (Versioned v20.0 like Erasmus Meal App) -->
-  <script src="app.js?v=20.0"></script>
+  <!-- JS Logic (Versioned v21.0) -->
+  <script src="app.js?v=21.0"></script>
   <script>
     lucide.createIcons();
     function forceAppRefresh() {
