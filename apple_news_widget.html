@@ -12,7 +12,7 @@
 </head>
 <body class="bg-transparent text-white antialiased p-1">
 
-  <!-- Apple HIG Pure Monochrome Widget Container (Clean App without Audio) -->
+  <!-- Apple HIG Pure Monochrome Widget Container -->
   <div class="bg-[#1c1c1e] text-white border border-white/10 rounded-2xl p-5 shadow-xl space-y-4 max-w-lg mx-auto">
     
     <!-- iOS Header -->
@@ -25,7 +25,7 @@
       </div>
 
       <div class="flex items-center gap-1.5">
-        <a href="https://lesiou.github.io/daily-news-app/?v=30.0" target="_blank" class="h-8 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
+        <a href="https://lesiou.github.io/daily-news-app/?v=40.0" target="_blank" class="h-8 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
           <span>Ouvrir L'App ↗</span>
         </a>
       </div>
@@ -39,54 +39,57 @@
       <button class="w-tab flex-1 py-2 px-3.5 rounded-lg text-center text-[#8e8e93] hover:text-white" data-cat="tech">Tech</button>
     </div>
 
-    <!-- Featured Spotlight Card -->
-    <div id="w-hero-card" class="rounded-xl bg-[#2c2c2e]/60 border border-white/5 p-4 space-y-2">
-      <div class="flex items-center justify-between text-xs text-[#0a84ff] font-bold uppercase tracking-wider">
-        <span>L'Essentiel du Matin</span>
-        <span class="text-[#8e8e93] font-normal">3 points clés</span>
-      </div>
-      <p id="widget-summary" class="text-sm text-zinc-300 leading-relaxed font-normal">
-        Today's headline news focuses on European sovereign debt strains with France projecting a record 119.3% debt-to-GDP ratio, transatlantic LNG agreements between Macron and Carney, 2027 presidential election primary proposals, and agentic AI capturing 82% of European VC funding.
-      </p>
-    </div>
-
-    <!-- News List -->
-    <div id="widget-news-list" class="space-y-3.5">
-      <!-- Article 1 (English Default with FR Toggle) -->
+    <!-- News List (Pure Apple News Typography — No Pills, No Hero Clutter) -->
+    <div id="widget-news-list" class="space-y-4">
+      
+      <!-- Article 1 -->
       <div class="art-card p-4 rounded-xl bg-[#2c2c2e]/40 border border-white/5 hover:border-white/20 transition-all" data-cat="eco">
-        <div class="flex items-center justify-between mb-2">
-          <div class="flex items-center gap-2">
-            <span class="text-xs font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-[#3a3a3c] text-zinc-200">World Finance</span>
-            <button id="toggle-art-1" class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#3a3a3c] text-[#0a84ff] border border-white/10 hover:bg-[#48484a] active:scale-95 transition-all">
-              <span>English (Traduire en Français)</span>
-            </button>
+        <div class="flex items-center justify-between text-xs text-[#8e8e93] uppercase font-semibold tracking-wider mb-2">
+          <div class="flex items-center gap-1.5">
+            <span>Reuters</span>
+            <span>•</span>
+            <span class="text-zinc-300">World Finance</span>
+            <span>•</span>
+            <span>Il y a 3h</span>
           </div>
-          <span class="text-xs text-[#8e8e93]">Il y a 3h</span>
+          <button id="toggle-art-1" class="text-xs font-semibold text-[#0a84ff] hover:underline normal-case">
+            Traduire FR
+          </button>
         </div>
-        <h3 id="title-art-1" class="text-base font-bold text-white mb-2 leading-snug">French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain</h3>
-        <p id="summary-art-1" class="text-sm text-zinc-300 leading-relaxed">France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package including pension freezes and tax cap adjustments.</p>
+        <h3 id="title-art-1" class="text-base font-bold text-white mb-2 leading-snug tracking-tight">French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain</h3>
+        <p id="summary-art-1" class="text-sm text-zinc-300 leading-relaxed font-normal mb-3">France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package including pension freezes and tax cap adjustments.</p>
+        <div id="impact-art-1" class="border-l-2 border-[#0a84ff] pl-3 py-0.5 text-xs text-zinc-400">
+          <span class="text-white font-medium">Impact :</span> OAT-Bund yield spread widened past 100 basis points across European bond markets.
+        </div>
       </div>
 
-      <!-- Article 2 (Tech - English Default with FR Toggle) -->
+      <!-- Article 2 -->
       <div class="art-card p-4 rounded-xl bg-[#2c2c2e]/40 border border-white/5 hover:border-white/20 transition-all" data-cat="tech">
-        <div class="flex items-center justify-between mb-2">
-          <div class="flex items-center gap-2">
-            <span class="text-xs font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-[#3a3a3c] text-zinc-200">Global Tech</span>
-            <button id="toggle-art-2" class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#3a3a3c] text-[#0a84ff] border border-white/10 hover:bg-[#48484a] active:scale-95 transition-all">
-              <span>English (Traduire en Français)</span>
-            </button>
+        <div class="flex items-center justify-between text-xs text-[#8e8e93] uppercase font-semibold tracking-wider mb-2">
+          <div class="flex items-center gap-1.5">
+            <span>TechCrunch</span>
+            <span>•</span>
+            <span class="text-zinc-300">Global Tech</span>
+            <span>•</span>
+            <span>Il y a 4h</span>
           </div>
-          <span class="text-xs text-[#8e8e93]">Il y a 4h</span>
+          <button id="toggle-art-2" class="text-xs font-semibold text-[#0a84ff] hover:underline normal-case">
+            Traduire FR
+          </button>
         </div>
-        <h3 id="title-art-2" class="text-base font-bold text-white mb-2 leading-snug">European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI</h3>
-        <p id="summary-art-2" class="text-sm text-zinc-300 leading-relaxed">Venture capital investment data reveals that 82% of all capital raised across European tech startups went directly into AI and cybersecurity platforms, including Hackuity's €16M Series B round.</p>
+        <h3 id="title-art-2" class="text-base font-bold text-white mb-2 leading-snug tracking-tight">European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI</h3>
+        <p id="summary-art-2" class="text-sm text-zinc-300 leading-relaxed font-normal mb-3">Venture capital investment data reveals that 82% of all capital raised across European tech startups went directly into AI and cybersecurity platforms, including Hackuity's €16M Series B round.</p>
+        <div id="impact-art-2" class="border-l-2 border-[#0a84ff] pl-3 py-0.5 text-xs text-zinc-400">
+          <span class="text-white font-medium">Impact :</span> Sustained investor shift toward practical enterprise AI agents over LLM wrappers.
+        </div>
       </div>
+
     </div>
 
     <!-- Footer Bar -->
     <div class="pt-2.5 border-t border-white/10 flex items-center justify-between text-xs">
       <span class="text-xs font-medium text-[#8e8e93]">Apple HIG Design System</span>
-      <a href="https://lesiou.github.io/daily-news-app/?v=30.0" target="_blank" class="text-xs text-[#0a84ff] font-semibold hover:underline">Ouvrir l'App ↗</a>
+      <a href="https://lesiou.github.io/daily-news-app/?v=40.0" target="_blank" class="text-xs text-[#0a84ff] font-semibold hover:underline">Ouvrir l'App ↗</a>
     </div>
 
   </div>
@@ -96,17 +99,20 @@
     const t1Btn = document.getElementById('toggle-art-1');
     const t1Title = document.getElementById('title-art-1');
     const t1Summary = document.getElementById('summary-art-1');
+    const t1Impact = document.getElementById('impact-art-1');
 
     t1Btn.addEventListener('click', () => {
       translated1 = !translated1;
       if (translated1) {
         t1Title.textContent = "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB";
         t1Summary.textContent = "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros.";
-        t1Btn.innerHTML = "<span>Français (Original English)</span>";
+        t1Impact.innerHTML = "<span class=\"text-white font-medium\">Impact :</span> L'écart de taux OAT-Bund a franchi le seuil des 100 points de base.";
+        t1Btn.textContent = "Show EN";
       } else {
         t1Title.textContent = "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain";
         t1Summary.textContent = "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package including pension freezes and tax cap adjustments.";
-        t1Btn.innerHTML = "<span>English (Traduire en Français)</span>";
+        t1Impact.innerHTML = "<span class=\"text-white font-medium\">Impact :</span> OAT-Bund yield spread widened past 100 basis points across European bond markets.";
+        t1Btn.textContent = "Traduire FR";
       }
     });
 
@@ -114,21 +120,23 @@
     const t2Btn = document.getElementById('toggle-art-2');
     const t2Title = document.getElementById('title-art-2');
     const t2Summary = document.getElementById('summary-art-2');
+    const t2Impact = document.getElementById('impact-art-2');
 
     t2Btn.addEventListener('click', () => {
       translated2 = !translated2;
       if (translated2) {
         t2Title.textContent = "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine";
         t2Summary.textContent = "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros.";
-        t2Btn.innerHTML = "<span>Français (Original English)</span>";
+        t2Impact.innerHTML = "<span class=\"text-white font-medium\">Impact :</span> Bascule marquée des investisseurs vers les agents IA d'entreprise.";
+        t2Btn.textContent = "Show EN";
       } else {
         t2Title.textContent = "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI";
         t2Summary.textContent = "Venture capital investment data reveals that 82% of all capital raised across European tech startups went directly into AI and cybersecurity platforms, including Hackuity's €16M Series B round.";
-        t2Btn.innerHTML = "<span>English (Traduire en Français)</span>";
+        t2Impact.innerHTML = "<span class=\"text-white font-medium\">Impact :</span> Sustained investor shift toward practical enterprise AI agents over LLM wrappers.";
+        t2Btn.textContent = "Traduire FR";
       }
     });
 
-    const heroCard = document.getElementById('w-hero-card');
     document.querySelectorAll('.w-tab').forEach(tab => {
       tab.addEventListener('click', (e) => {
         document.querySelectorAll('.w-tab').forEach(t => {
@@ -139,12 +147,6 @@
         e.currentTarget.classList.remove('text-[#8e8e93]');
 
         const cat = e.currentTarget.dataset.cat;
-        if (cat === 'all') {
-          heroCard.style.display = 'block';
-        } else {
-          heroCard.style.display = 'none';
-        }
-
         document.querySelectorAll('.art-card').forEach(card => {
           if (cat === 'all' || card.dataset.cat === cat) {
             card.style.display = 'block';

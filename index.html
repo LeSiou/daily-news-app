@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   
-  <!-- Anti-Cache Headers (Same as Erasmus Meal App) -->
+  <!-- Anti-Cache Headers -->
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
@@ -35,7 +35,7 @@
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     .news-card { transition: transform 0.15s ease-out, background-color 0.15s ease; }
-    .news-card:active { transform: scale(0.98); }
+    .news-card:active { transform: scale(0.985); }
 
     /* iOS Safe Area Padding for Header */
     header.ios-header {
@@ -57,11 +57,11 @@
 </head>
 <body class="bg-black text-white min-h-screen font-sans pb-16 selection:bg-[#0a84ff] selection:text-white antialiased">
 
-  <!-- iOS Header with Safe Area Inset Top for iPhone Dynamic Island / Notch -->
+  <!-- iOS Header with Safe Area Inset Top -->
   <header class="ios-header sticky top-0 z-40 backdrop-blur-2xl bg-black/90 border-b border-white/10 px-4 pb-3.5 transition-all duration-300">
     <div class="max-w-xl mx-auto space-y-3.5">
       
-      <!-- Top Row: Date & Instant Refresh Button -->
+      <!-- Top Row: Date & Refresh -->
       <div class="flex items-center justify-between">
         <div>
           <span id="current-date-badge" class="text-xs font-semibold uppercase tracking-wider text-[#8e8e93]">Dimanche 20 Septembre</span>
@@ -71,7 +71,7 @@
         </div>
 
         <div class="flex items-center gap-2">
-          <button onclick="forceAppRefresh()" title="Forcer la mise à jour" class="w-9 h-9 rounded-full bg-[#2c2c2e] text-[#8e8e93] hover:text-white border border-white/10 flex items-center justify-center active:scale-95 transition-all">
+          <button onclick="forceAppRefresh()" title="Forcer la mise à jour" class="w-9 h-9 rounded-full bg-[#1c1c1e] text-[#8e8e93] hover:text-white border border-white/10 flex items-center justify-center active:scale-95 transition-all">
             <i data-lucide="rotate-cw" class="w-4 h-4"></i>
           </button>
         </div>
@@ -80,15 +80,15 @@
       <!-- iOS Search Bar -->
       <div class="relative">
         <i data-lucide="search" class="w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-[#8e8e93]"></i>
-        <input type="text" id="search-input" placeholder="Rechercher une actualité..." class="w-full bg-[#2c2c2e] text-sm text-white placeholder-[#8e8e93] pl-10 pr-8 py-2.5 rounded-xl border border-transparent focus:outline-none focus:bg-[#3a3a3c] transition-all">
+        <input type="text" id="search-input" placeholder="Rechercher une actualité..." class="w-full bg-[#1c1c1e] text-sm text-white placeholder-[#8e8e93] pl-10 pr-8 py-2.5 rounded-xl border border-transparent focus:outline-none focus:bg-[#2c2c2e] transition-all">
         <button id="btn-clear-search" class="hidden absolute right-2.5 top-1/2 -translate-y-1/2 text-[#8e8e93] hover:text-white p-1">
           <i data-lucide="x-circle" class="w-4 h-4"></i>
         </button>
       </div>
 
-      <!-- iOS Segmented Control Tabs (Monochrome & Scaled Fonts) -->
-      <div class="p-1 rounded-xl bg-[#2c2c2e] flex items-center gap-1 overflow-x-auto no-scrollbar border border-white/5 text-xs font-medium">
-        <button class="nav-tab active flex-1 py-2 px-3.5 rounded-lg text-center bg-[#1c1c1e] text-white font-semibold shadow-sm" data-category="all">
+      <!-- iOS Segmented Control Tabs (Monochrome & Pure) -->
+      <div class="p-1 rounded-xl bg-[#1c1c1e] flex items-center gap-1 overflow-x-auto no-scrollbar border border-white/5 text-xs font-medium">
+        <button class="nav-tab active flex-1 py-2 px-3.5 rounded-lg text-center bg-[#2c2c2e] text-white font-semibold shadow-sm" data-category="all">
           À la une
         </button>
         <button class="nav-tab flex-1 py-2 px-3.5 rounded-lg text-center text-[#8e8e93] hover:text-white transition-all" data-category="eco-fin">
@@ -108,28 +108,8 @@
     </div>
   </header>
 
-  <!-- Main Container -->
+  <!-- Main Container (Direct Feed — No Hero Card Clutter) -->
   <main class="max-w-xl mx-auto px-4 mt-5 space-y-6">
-
-    <!-- Apple News Style Hero Card (Visible ONLY on "À la une" tab when search is empty) -->
-    <section id="key-takeaways-card" class="rounded-2xl bg-[#1c1c1e] border border-white/10 p-5 shadow-xl space-y-3.5">
-      <div class="flex items-center justify-between pb-2 border-b border-white/10">
-        <span class="text-xs font-bold uppercase tracking-wider text-[#0a84ff] flex items-center gap-1.5">
-          <i data-lucide="sparkles" class="w-4 h-4"></i> L'Essentiel du Matin
-        </span>
-        <span class="text-xs text-[#8e8e93] font-normal">3 points clés</span>
-      </div>
-
-      <p id="daily-summary-text" class="text-sm text-zinc-300 leading-relaxed font-normal">
-        Today's headline news focuses on European sovereign debt strains with France projecting a record 119.3% debt-to-GDP ratio, transatlantic LNG agreements between Macron and Carney, 2027 presidential election primary proposals, and agentic AI capturing 82% of European VC funding.
-      </p>
-
-      <div class="space-y-3">
-        <ul id="key-takeaways-list" class="space-y-3">
-          <!-- Injected via JS -->
-        </ul>
-      </div>
-    </section>
 
     <!-- Category Sections Container -->
     <div id="news-container" class="space-y-6">
@@ -153,8 +133,8 @@
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic (Versioned v30.0) -->
-  <script src="app.js?v=30.0"></script>
+  <!-- JS Logic (Versioned v40.0) -->
+  <script src="app.js?v=40.0"></script>
   <script>
     lucide.createIcons();
     function forceAppRefresh() {
