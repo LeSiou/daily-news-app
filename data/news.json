@@ -1,11 +1,11 @@
 {
   "date": "2026-09-20",
   "formattedDate": "Dimanche 20 Septembre 2026",
-  "summary": "L'actualité de ce dimanche est marquée par des annonces de dette publique record en France (119,3% du PIB), les préparatifs politiques pour 2027, l'essor des levées de fonds IA dans la French Tech et les avancées de la diplomatie franco-canadienne.",
+  "summary": "L'actualité de ce dimanche s'articule autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques entre la France et le Canada, des mouvements stratégiques en vue de la présidentielle 2027 et de la domination continue de l'IA agentique dans les levées de fonds tech.",
   "keyTakeaways": [
-    "Dette publique française : Projections à 119,3% du PIB pour 2026 et 54 milliards € d'efforts budgétaires ciblés.",
-    "IA & French Tech : 82% des levées de fonds de la semaine captées par les startups de l'Intelligence Artificielle.",
-    "Politique 2027 : François Bayrou propose une primaire du bloc central pour désigner un candidat unique."
+    "Dette & Budget : Le ministère de l'Économie projette une dette à 119,3% du PIB pour 2026 et prépare 54 milliards d'euros d'économies ciblées.",
+    "International & Énergie : Emmanuel Macron et Mark Carney renforcent le partenariat franco-canadien sur le Gaz Naturel Liquéfié (GNL).",
+    "Tech & IA Agentique : 82% des 82 millions d'euros levés cette semaine par la French Tech sont consacrés aux solutions d'IA et de cybersécurité."
   ],
   "categories": [
     {
@@ -16,30 +16,45 @@
       "items": [
         {
           "id": "eco-1",
-          "title": "Finances publiques : La dette française projetée à 119,3% du PIB",
-          "source": "Ministère de l'Économie / Banque de France",
+          "isInternational": true,
+          "language": "en",
+          "title": "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain",
+          "titleFr": "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB",
+          "source": "Reuters / Ministère de l'Économie",
           "time": "Il y a 3 heures",
-          "summary": "Le ministère de l'Économie confirme des projections de dette record atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Le gouvernement prépare un plan d'effort budgétaire de 54 milliards d'euros, ciblant notamment une sous-indexation des pensions de retraite et le plafonnement de plusieurs abattements fiscaux.",
-          "impact": "Tensions accrues sur le spread OAT-Bund (écart de taux avec l'Allemagne) qui a franchi la barre des 100 points de base.",
-          "badge": "Alerte Budgétaire"
+          "summary": "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026 and rising to 121.7% by 2027. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package. Proposed measures include temporary freezes on pension indexation and caps on tax allowances, triggering intense parliamentary debates.",
+          "summaryFr": "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros. Les mesures envisagées incluent le gel temporaire de l'indexation des retraites et le plafonnement d'abattements fiscaux, suscitant de vives tensions à l'Assemblée.",
+          "impact": "OAT-Bund yield spread widened past 100 basis points, reflecting heightened sovereign debt risk premiums across European bond markets.",
+          "impactFr": "L'écart de taux OAT-Bund a franchi le seuil des 100 points de base, traduisant une prime de risque accrue sur les marchés obligataires européens.",
+          "badge": "World Finance"
         },
         {
           "id": "eco-2",
-          "title": "Croissance française : L'INSEE révise la prévision 2026 à 0,5%",
-          "source": "INSEE / Banque de France",
-          "time": "Il y a 5 heures",
-          "summary": "Face à l'atonie de la demande intérieure et aux coûts de financement élevés, la croissance du PIB français pour 2026 a été abaissée entre 0,4% et 0,5%. Le secteur viticole alerte également sur une récolte au plus bas depuis 70 ans en raison des aléas climatiques.",
-          "impact": "Ralentissement marqué de la consommation des ménages et pression sur l'investissement des PME.",
-          "badge": "Conjoncture"
+          "isInternational": true,
+          "language": "en",
+          "title": "France-Canada Energy Summit: Macron and Carney Secure LNG Supply Agreement",
+          "titleFr": "Diplomatie économique : Accord GNL d'urgence entre la France et le Canada",
+          "source": "Bloomberg / Élysée",
+          "time": "Il y a 4 heures",
+          "summary": "During bilateral meetings in Saint-Pierre-et-Miquelon, French President Emmanuel Macron and Canadian Prime Minister Mark Carney finalized strategic agreements to expand Canadian Liquefied Natural Gas (LNG) shipments to Europe. The dialogue aims to diversify energy supplies away from volatile Middle Eastern corridors while strengthening transatlantic economic ties.",
+          "summaryFr": "Lors de rencontres bilatérales à Saint-Pierre-et-Miquelon, Emmanuel Macron et le Premier ministre canadien Mark Carney ont finalisé des accords stratégiques visant à intensifier les livraisons de gaz naturel liquéfié (GNL) canadien vers l'Europe. Ce rapprochement vise à sécuriser les approvisionnements face à la volatilité des cours au Moyen-Orient.",
+          "impact": "Provides long-term energy security hedging for European utilities amidst global oil market uncertainty.",
+          "impactFr": "Sécurisation à long terme des approvisionnements énergétiques des PME et ménages européens.",
+          "badge": "Global Energy"
         },
         {
           "id": "eco-3",
-          "title": "Diplomatie économique : Rencontre Macron-Carney au Canada",
-          "source": "Élysée / Presse Canadienne",
-          "time": "Il y a 2 heures",
-          "summary": "En déplacement à Saint-Pierre-et-Miquelon, Emmanuel Macron a échangé avec le Premier ministre canadien Mark Carney pour sécuriser des contrats d'approvisionnement en GNL (Gaz Naturel Liquéfié) et renforcer les partenariats énergétiques transatlantiques.",
-          "impact": "Sécurisation stratégique des ressources énergétiques européennes.",
-          "badge": "Énergie"
+          "isInternational": false,
+          "language": "fr",
+          "title": "Croissance française : L'INSEE ajuste la prévision 2026 à 0,5% sur fond de léthargie de la consommation",
+          "titleFr": "Croissance française : L'INSEE ajuste la prévision 2026 à 0,5%",
+          "source": "INSEE / Banque de France",
+          "time": "Il y a 5 heures",
+          "summary": "L'INSEE et la Banque de France ont ajusté leurs prévisions de croissance du PIB pour 2026 entre 0,4% et 0,5%, contre 0,7% initialement attendu. Ce ralentissement découle d'une consommation des ménages hésitante, du coût élevé du crédit pour les PME et d'un recul inédit de la production viticole provoqué par la sécheresse estivale.",
+          "summaryFr": "L'INSEE et la Banque de France ont ajusté leurs prévisions de croissance du PIB pour 2026 entre 0,4% et 0,5%, contre 0,7% initialement attendu. Ce ralentissement découle d'une consommation des ménages hésitante, du coût élevé du crédit pour les PME et d'un recul inédit de la production viticole provoqué par la sécheresse estivale.",
+          "impact": "Pression sur la rentabilité des entreprises industrielles et révision à la baisse des créations d'emplois.",
+          "impactFr": "Pression sur la rentabilité des entreprises industrielles et révision à la baisse des créations d'emplois.",
+          "badge": "Conjoncture FR"
         }
       ]
     },
@@ -51,20 +66,29 @@
       "items": [
         {
           "id": "pol-1",
-          "title": "Présidentielle 2027 : François Bayrou pousse pour une primaire du bloc central",
-          "source": "MoDem / AFP",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
+          "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central",
+          "source": "MoDem / AFP / Le Figaro",
           "time": "Il y a 4 heures",
-          "summary": "François Bayrou a détaillé sa proposition d'une primaire ouverte du centre et de la majorité pour désigner un candidat unique à l'élection présidentielle de 2027. L'initiative suscite des réserves auprès d'Édouard Philippe et d'autres figures de l'ex-majorité.",
-          "impact": "Débat stratégique majeur sur la structuration du bloc central.",
+          "summary": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
+          "summaryFr": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
+          "impact": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
+          "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
           "badge": "Présidentielle 2027"
         },
         {
           "id": "pol-2",
-          "title": "Manifestations à Paris contre le projet de loi sur l'usage des armes",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Sécurité : Défilé parisien contre le projet de loi sur la présomption d'usage des armes",
           "source": "Préfecture de Police / Le Monde",
           "time": "Il y a 6 heures",
-          "summary": "Plusieurs milliers de personnes ont défilé ce dimanche à Paris pour protester contre la proposition de loi instaurant une presomption d'usage des armes pour les forces de l'ordre en intervention.",
-          "impact": "Tensions politiques à l'Assemblée nationale avant l'examen du texte.",
+          "summary": "Plusieurs milliers de personnes se sont rassemblées ce dimanche à Paris à l'appel de syndicats et d'associations pour manifester contre la proposition de loi prévoyant l'instauration d'une présomption d'usage légitime des armes par les forces de l'ordre en intervention. Le texte doit être examiné dans les prochains jours.",
+          "summaryFr": "Plusieurs milliers de personnes se sont rassemblées ce dimanche à Paris à l'appel de syndicats et d'associations pour manifester contre la proposition de loi prévoyant l'instauration d'une présomption d'usage légitime des armes par les forces de l'ordre en intervention. Le texte doit être examiné dans les prochains jours.",
+          "impact": "Tensions politiques palpables au Parlement avant le début des débats en séance publique.",
+          "impactFr": "Tensions politiques palpables au Parlement avant le début des débats en séance publique.",
           "badge": "Société & Loi"
         }
       ]
@@ -77,21 +101,30 @@
       "items": [
         {
           "id": "tech-1",
-          "title": "French Tech : L'IA capte 82% des levées de fonds de la semaine",
-          "source": "Maddyness / FrenchWeb",
+          "isInternational": true,
+          "language": "en",
+          "title": "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI",
+          "titleFr": "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine",
+          "source": "TechCrunch / Maddyness",
           "time": "Il y a 4 heures",
-          "summary": "Sur les 82 millions d'euros levés cette semaine par la French Tech, 82% ont été fléchés vers la cybersécurité et l'IA agentique. La startup Hackuity a notamment bouclé un tour de 16M€ pour sa plateforme de remédiation automatisée.",
-          "impact": "Domination continue de l'IA agentique dans le paysage du capital-risque européen.",
-          "badge": "Levée de fonds"
+          "summary": "Venture capital investment data for mid-September reveals that 82% of all capital raised across European tech startups went directly into Artificial Intelligence and automated cybersecurity platforms. Cybersecurity firm Hackuity closed a €16 million Series B round dedicated to agent-driven vulnerability remediation systems.",
+          "summaryFr": "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros pour sa plateforme de remédiation pilotée par des agents IA.",
+          "impact": "Sustained investor shift toward practical enterprise AI agents over general LLM wrappers.",
+          "impactFr": "Bascule marquée des investisseurs vers les agents IA d'entreprise plutôt que les simples wrappers LLM.",
+          "badge": "Global Tech"
         },
         {
           "id": "tech-2",
-          "title": "Régulation IA : Thales et le Sénat demandent des garde-fous contraignants",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Régulation de l'IA : Thales appelle les États à imposer des garde-fous juridiques contraignants",
           "source": "Thales Press / Usine Nouvelle",
           "time": "Il y a 7 heures",
-          "summary": "Patrice Caine, PDG de Thales, insiste sur la nécessité de compléter les contrôles techniques de l'IA par des régulations étatiques strictes. En parallèle, les exigences de l'AI Act européen relatives au marquage des contenus IA sont pleinement entrées en vigueur.",
-          "impact": "Mise en conformité obligatoire pour les générateurs de contenus et de code.",
-          "badge": "Régulation AI Act"
+          "summary": "Le PDG de Thales, Patrice Caine, a déclaré que si les verrous techniques sur l'IA sont indispensables, ils restent insuffisants sans un cadre réglementaire étatique strict. Cette prise de parole intervient alors que les règles de transparence sur le marquage des contenus générés par IA sont désormais pleinement applicables sous l'AI Act européen.",
+          "summaryFr": "Le PDG de Thales, Patrice Caine, a déclaré que si les verrous techniques sur l'IA sont indispensables, ils restent insuffisants sans un cadre réglementaire étatique strict. Cette prise de parole intervient alors que les règles de transparence sur le marquage des contenus générés par IA sont désormais pleinement applicables sous l'AI Act européen.",
+          "impact": "Obligation de mise en conformité immédiate pour l'ensemble des éditeurs de logiciels utilisant des modèles génératifs.",
+          "impactFr": "Obligation de mise en conformité immédiate pour l'ensemble des éditeurs de logiciels utilisant des modèles génératifs.",
+          "badge": "AI Act EU"
         }
       ]
     },
@@ -103,20 +136,28 @@
       "items": [
         {
           "id": "fd-1",
-          "title": "Indre-et-Loire : Nuit de tensions urbaines à Saint-Pierre-des-Corps",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Saint-Pierre-des-Corps : Nuit d'affrontements urbains après un accident de la circulation",
           "source": "Nouvelle République / Police Nationale",
           "time": "Il y a 8 heures",
-          "summary": "Des affrontements et incendies de véhicules se sont produits dans la nuit de samedi à dimanche suite à la collision entre un deux-roues et une patrouille de police. Plusieurs policiers ont été blessés.",
-          "impact": "Renforcement des effectifs de maintien de l'ordre sur place.",
+          "summary": "Des heurts violents ont secoué le quartier de la Rabaterie à Saint-Pierre-des-Corps dans la nuit de samedi à dimanche, à la suite d'un accident impliquant une moto et un véhicule de police secours. Plusieurs conteneurs et véhicules ont été incendiés, et trois policiers ont été légèrement blessés.",
+          "summaryFr": "Des heurts violents ont secoué le quartier de la Rabaterie à Saint-Pierre-des-Corps dans la nuit de samedi à dimanche, à la suite d'un accident impliquant une moto et un véhicule de police secours. Plusieurs conteneurs et véhicules ont été incendiés, et trois policiers ont été légèrement blessés.",
+          "impact": "Dispositif de sécurité renforcé pour la nuit à venir.",
+          "impactFr": "Dispositif de sécurité renforcé pour la nuit à venir.",
           "badge": "Sécurité"
         },
         {
           "id": "fd-2",
-          "title": "Charente : 12 ans de réclusion criminelle pour 32 incendies volontaires",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
           "source": "Cour criminelle de la Charente / Sud Ouest",
           "time": "Il y a 10 heures",
-          "summary": "Un individu a été condamné par la cour criminelle à 12 ans de prison ferme pour une série de 32 départs de feu criminels déclenchés entre 2022 et 2023.",
-          "impact": "Fin d'une longue procédure judiciaire et soulagement local.",
+          "summary": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
+          "summaryFr": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
+          "impact": "Soulagement des communes et des sapeurs-pompiers locaux.",
+          "impactFr": "Soulagement des communes et des sapeurs-pompiers locaux.",
           "badge": "Justice"
         }
       ]

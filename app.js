@@ -1,5 +1,5 @@
 /**
- * App.js — Actu du Jour Mobile PWA (Pure Apple HIG Edition)
+ * App.js — Actu du Jour Mobile PWA (Apple HIG Edition with EN/FR Translation)
  */
 
 let newsData = null;
@@ -7,6 +7,9 @@ let activeCategory = 'all';
 let searchQuery = '';
 let currentSpeechUtterance = null;
 let isPlayingAudio = false;
+
+// Per-article translation state tracker (true = translated to French, false = English original)
+const articleTranslationState = {};
 
 // DOM Elements
 const newsContainer = document.getElementById('news-container');
@@ -67,7 +70,7 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles (Pure Apple HIG Monochrome Palette)
+// Filter and Render Articles with EN/FR Translation Support
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
 
@@ -80,8 +83,10 @@ function renderArticles() {
     const filteredItems = cat.items.filter(item => {
       if (!searchQuery) return true;
       const q = searchQuery.toLowerCase();
-      return item.title.toLowerCase().includes(q) ||
-             item.summary.toLowerCase().includes(q) ||
+      const title = articleTranslationState[item.id] ? item.titleFr : (item.title || item.titleFr);
+      const summary = articleTranslationState[item.id] ? item.summaryFr : (item.summary || item.summaryFr);
+      return title.toLowerCase().includes(q) ||
+             summary.toLowerCase().includes(q) ||
              (item.source && item.source.toLowerCase().includes(q));
     });
 
@@ -96,43 +101,58 @@ function renderArticles() {
         </div>
 
         <div class="grid grid-cols-1 gap-3">
-          ${filteredItems.map(item => `
-            <article class="news-card group rounded-2xl bg-apple-card border border-apple-separator p-4 hover:border-apple-gray4 transition-all news-card-inner">
-              <div class="flex items-center justify-between mb-2">
-                <span class="text-[10px] font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-apple-gray5 text-slate-300 border border-apple-separator">
-                  ${item.badge || cat.name}
-                </span>
-                <span class="text-[11px] text-apple-gray font-medium">
-                  ${item.time}
-                </span>
-              </div>
+          ${filteredItems.map(item => {
+            const isTranslated = !!articleTranslationState[item.id];
+            const displayTitle = isTranslated && item.titleFr ? item.titleFr : item.title;
+            const displaySummary = isTranslated && item.summaryFr ? item.summaryFr : item.summary;
+            const displayImpact = isTranslated && item.impactFr ? item.impactFr : item.impact;
 
-              <h3 class="font-bold text-sm text-white group-hover:text-apple-blue transition-colors mb-2 leading-snug tracking-tight">
-                ${item.title}
-              </h3>
-
-              <p class="text-xs text-slate-300 leading-relaxed mb-3 font-normal">
-                ${item.summary}
-              </p>
-
-              ${item.impact ? `
-                <div class="p-3 rounded-xl bg-apple-gray5 border border-apple-separator text-xs text-slate-300 mb-3 flex items-start gap-2.5">
-                  <i data-lucide="info" class="w-4 h-4 text-apple-blue shrink-0 mt-0.5"></i>
-                  <span class="leading-relaxed"><strong class="text-white font-medium">Impact :</strong> ${item.impact}</span>
+            return `
+              <article class="news-card group rounded-2xl bg-apple-card border border-apple-separator p-4 hover:border-apple-gray4 transition-all news-card-inner">
+                <div class="flex items-center justify-between mb-2">
+                  <div class="flex items-center gap-1.5">
+                    <span class="text-[10px] font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-apple-gray5 text-slate-300 border border-apple-separator">
+                      ${item.badge || cat.name}
+                    </span>
+                    ${item.isInternational ? `
+                      <button onclick="toggleTranslation('${item.id}')" class="text-[10px] font-medium px-2 py-0.5 rounded-full bg-apple-blue/15 text-apple-blue border border-apple-blue/30 hover:bg-apple-blue/25 active:scale-95 transition-all flex items-center gap-1">
+                        <span>${isTranslated ? '🇫🇷 Traduit' : '🇬🇧 English'}</span>
+                        <span class="text-[9px] text-slate-400 font-bold">(${isTranslated ? 'Original 🇬🇧' : 'Traduire 🇫🇷'})</span>
+                      </button>
+                    ` : ''}
+                  </div>
+                  <span class="text-[11px] text-apple-gray font-medium">
+                    ${item.time}
+                  </span>
                 </div>
-              ` : ''}
 
-              <div class="flex items-center justify-between text-[11px] text-apple-gray pt-2 border-t border-apple-separator">
-                <span class="font-medium text-apple-gray">
-                  ${item.source}
-                </span>
+                <h3 class="font-bold text-sm text-white group-hover:text-apple-blue transition-colors mb-2 leading-snug tracking-tight">
+                  ${displayTitle}
+                </h3>
 
-                <button onclick="readArticleAudio('${item.id}')" class="text-apple-blue hover:underline flex items-center gap-1 font-semibold active:scale-95 transition-all">
-                  <i data-lucide="play" class="w-3 h-3 fill-current"></i> Écouter
-                </button>
-              </div>
-            </article>
-          `).join('')}
+                <p class="text-xs text-slate-300 leading-relaxed mb-3 font-normal">
+                  ${displaySummary}
+                </p>
+
+                ${displayImpact ? `
+                  <div class="p-3 rounded-xl bg-apple-gray5 border border-apple-separator text-xs text-slate-300 mb-3 flex items-start gap-2.5">
+                    <i data-lucide="info" class="w-4 h-4 text-apple-blue shrink-0 mt-0.5"></i>
+                    <span class="leading-relaxed"><strong class="text-white font-medium">Impact :</strong> ${displayImpact}</span>
+                  </div>
+                ` : ''}
+
+                <div class="flex items-center justify-between text-[11px] text-apple-gray pt-2 border-t border-apple-separator">
+                  <span class="font-medium text-apple-gray">
+                    ${item.source}
+                  </span>
+
+                  <button onclick="readArticleAudio('${item.id}')" class="text-apple-blue hover:underline flex items-center gap-1 font-semibold active:scale-95 transition-all">
+                    <i data-lucide="play" class="w-3 h-3 fill-current"></i> Écouter
+                  </button>
+                </div>
+              </article>
+            `;
+          }).join('')}
         </div>
       </section>
     `;
@@ -148,6 +168,12 @@ function renderArticles() {
 
   if (window.lucide) window.lucide.createIcons();
 }
+
+// Toggle translation per article
+window.toggleTranslation = function(articleId) {
+  articleTranslationState[articleId] = !articleTranslationState[articleId];
+  renderArticles();
+};
 
 // Setup Event Listeners
 function setupEventListeners() {
@@ -191,7 +217,7 @@ function setupEventListeners() {
   });
 }
 
-// Web Speech API Integration
+// Web Speech API Integration (with automatic EN / FR voice detection)
 function readFullSummaryAudio() {
   if (!newsData) return;
 
@@ -202,7 +228,7 @@ function readFullSummaryAudio() {
     textToRead += `Point ${i + 1} : ${k}. `;
   });
 
-  speakText("Flash Actualités du Jour", textToRead);
+  speakText("Flash Actualités du Jour", textToRead, 'fr-FR');
 }
 
 window.readArticleAudio = function(articleId) {
@@ -215,12 +241,18 @@ window.readArticleAudio = function(articleId) {
   });
 
   if (foundItem) {
-    const text = `${foundItem.title}. Source : ${foundItem.source}. ${foundItem.summary} ${foundItem.impact ? "Impact : " + foundItem.impact : ""}`;
-    speakText(foundItem.title, text);
+    const isTranslated = !!articleTranslationState[articleId];
+    const title = isTranslated && foundItem.titleFr ? foundItem.titleFr : foundItem.title;
+    const summary = isTranslated && foundItem.summaryFr ? foundItem.summaryFr : foundItem.summary;
+    const impact = isTranslated && foundItem.impactFr ? foundItem.impactFr : foundItem.impact;
+    const lang = (foundItem.isInternational && !isTranslated) ? 'en-US' : 'fr-FR';
+
+    const text = `${title}. Source : ${foundItem.source}. ${summary} ${impact ? "Impact : " + impact : ""}`;
+    speakText(title, text, lang);
   }
 };
 
-function speakText(title, text) {
+function speakText(title, text, lang = 'fr-FR') {
   if (!('speechSynthesis' in window)) {
     alert("La synthèse vocale n'est pas disponible.");
     return;
@@ -229,7 +261,7 @@ function speakText(title, text) {
   window.speechSynthesis.cancel();
 
   currentSpeechUtterance = new SpeechSynthesisUtterance(text);
-  currentSpeechUtterance.lang = 'fr-FR';
+  currentSpeechUtterance.lang = lang;
   currentSpeechUtterance.rate = 1.0;
 
   audioCurrentTitle.textContent = title;
