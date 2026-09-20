@@ -1,0 +1,71 @@
+/* Custom Utilities & Mobile Styles */
+
+/* Hide horizontal scrollbar for clean tab scrolling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Glassmorphism Card Style */
+.news-card {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.news-card:active {
+  transform: scale(0.985);
+}
+
+/* Light Theme Overrides */
+html:not(.dark) body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+html:not(.dark) header {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-color: #e2e8f0;
+}
+
+html:not(.dark) .nav-tab {
+  background-color: #f1f5f9;
+  color: #64748b;
+  border-color: #e2e8f0;
+}
+
+html:not(.dark) .nav-tab.active {
+  background-color: #0284c7;
+  color: #ffffff;
+}
+
+html:not(.dark) #key-takeaways-card {
+  background: linear-gradient(135deg, #ffffff 0%, #f0f9ff 100%);
+  border-color: #bae6fd;
+}
+
+html:not(.dark) #daily-summary-text {
+  color: #334155;
+}
+
+html:not(.dark) .news-card-inner {
+  background-color: #ffffff;
+  border-color: #e2e8f0;
+}
+
+html:not(.dark) input#search-input {
+  background-color: #ffffff;
+  color: #0f172a;
+  border-color: #cbd5e1;
+}
+
+/* Smooth pulse animation for active voice reading */
+@keyframes audioPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+
+.audio-reading-active {
+  animation: audioPulse 2s infinite ease-in-out;
+}

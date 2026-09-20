@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-20",
+  "formattedDate": "Dimanche 20 Septembre 2026",
+  "summary": "L'actualité de ce dimanche est marquée par des annonces de dette publique record en France (119,3% du PIB), les préparatifs politiques pour 2027, l'essor des levées de fonds IA dans la French Tech et les avancées de la diplomatie franco-canadienne.",
+  "keyTakeaways": [
+    "Dette publique française : Projections à 119,3% du PIB pour 2026 et 54 milliards € d'efforts budgétaires ciblés.",
+    "IA & French Tech : 82% des levées de fonds de la semaine captées par les startups de l'Intelligence Artificielle.",
+    "Politique 2027 : François Bayrou propose une primaire du bloc central pour désigner un candidat unique."
+  ],
+  "categories": [
+    {
+      "id": "eco-fin",
+      "name": "Économie & Finance",
+      "icon": "trending-up",
+      "color": "emerald",
+      "items": [
+        {
+          "id": "eco-1",
+          "title": "Finances publiques : La dette française projetée à 119,3% du PIB",
+          "source": "Ministère de l'Économie / Banque de France",
+          "time": "Il y a 3 heures",
+          "summary": "Le ministère de l'Économie confirme des projections de dette record atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Le gouvernement prépare un plan d'effort budgétaire de 54 milliards d'euros, ciblant notamment une sous-indexation des pensions de retraite et le plafonnement de plusieurs abattements fiscaux.",
+          "impact": "Tensions accrues sur le spread OAT-Bund (écart de taux avec l'Allemagne) qui a franchi la barre des 100 points de base.",
+          "badge": "Alerte Budgétaire"
+        },
+        {
+          "id": "eco-2",
+          "title": "Croissance française : L'INSEE révise la prévision 2026 à 0,5%",
+          "source": "INSEE / Banque de France",
+          "time": "Il y a 5 heures",
+          "summary": "Face à l'atonie de la demande intérieure et aux coûts de financement élevés, la croissance du PIB français pour 2026 a été abaissée entre 0,4% et 0,5%. Le secteur viticole alerte également sur une récolte au plus bas depuis 70 ans en raison des aléas climatiques.",
+          "impact": "Ralentissement marqué de la consommation des ménages et pression sur l'investissement des PME.",
+          "badge": "Conjoncture"
+        },
+        {
+          "id": "eco-3",
+          "title": "Diplomatie économique : Rencontre Macron-Carney au Canada",
+          "source": "Élysée / Presse Canadienne",
+          "time": "Il y a 2 heures",
+          "summary": "En déplacement à Saint-Pierre-et-Miquelon, Emmanuel Macron a échangé avec le Premier ministre canadien Mark Carney pour sécuriser des contrats d'approvisionnement en GNL (Gaz Naturel Liquéfié) et renforcer les partenariats énergétiques transatlantiques.",
+          "impact": "Sécurisation stratégique des ressources énergétiques européennes.",
+          "badge": "Énergie"
+        }
+      ]
+    },
+    {
+      "id": "politique",
+      "name": "Politique",
+      "icon": "landmark",
+      "color": "blue",
+      "items": [
+        {
+          "id": "pol-1",
+          "title": "Présidentielle 2027 : François Bayrou pousse pour une primaire du bloc central",
+          "source": "MoDem / AFP",
+          "time": "Il y a 4 heures",
+          "summary": "François Bayrou a détaillé sa proposition d'une primaire ouverte du centre et de la majorité pour désigner un candidat unique à l'élection présidentielle de 2027. L'initiative suscite des réserves auprès d'Édouard Philippe et d'autres figures de l'ex-majorité.",
+          "impact": "Débat stratégique majeur sur la structuration du bloc central.",
+          "badge": "Présidentielle 2027"
+        },
+        {
+          "id": "pol-2",
+          "title": "Manifestations à Paris contre le projet de loi sur l'usage des armes",
+          "source": "Préfecture de Police / Le Monde",
+          "time": "Il y a 6 heures",
+          "summary": "Plusieurs milliers de personnes ont défilé ce dimanche à Paris pour protester contre la proposition de loi instaurant une presomption d'usage des armes pour les forces de l'ordre en intervention.",
+          "impact": "Tensions politiques à l'Assemblée nationale avant l'examen du texte.",
+          "badge": "Société & Loi"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech & IA",
+      "icon": "cpu",
+      "color": "purple",
+      "items": [
+        {
+          "id": "tech-1",
+          "title": "French Tech : L'IA capte 82% des levées de fonds de la semaine",
+          "source": "Maddyness / FrenchWeb",
+          "time": "Il y a 4 heures",
+          "summary": "Sur les 82 millions d'euros levés cette semaine par la French Tech, 82% ont été fléchés vers la cybersécurité et l'IA agentique. La startup Hackuity a notamment bouclé un tour de 16M€ pour sa plateforme de remédiation automatisée.",
+          "impact": "Domination continue de l'IA agentique dans le paysage du capital-risque européen.",
+          "badge": "Levée de fonds"
+        },
+        {
+          "id": "tech-2",
+          "title": "Régulation IA : Thales et le Sénat demandent des garde-fous contraignants",
+          "source": "Thales Press / Usine Nouvelle",
+          "time": "Il y a 7 heures",
+          "summary": "Patrice Caine, PDG de Thales, insiste sur la nécessité de compléter les contrôles techniques de l'IA par des régulations étatiques strictes. En parallèle, les exigences de l'AI Act européen relatives au marquage des contenus IA sont pleinement entrées en vigueur.",
+          "impact": "Mise en conformité obligatoire pour les générateurs de contenus et de code.",
+          "badge": "Régulation AI Act"
+        }
+      ]
+    },
+    {
+      "id": "faits-divers",
+      "name": "Faits Divers & Société",
+      "icon": "shield-alert",
+      "color": "amber",
+      "items": [
+        {
+          "id": "fd-1",
+          "title": "Indre-et-Loire : Nuit de tensions urbaines à Saint-Pierre-des-Corps",
+          "source": "Nouvelle République / Police Nationale",
+          "time": "Il y a 8 heures",
+          "summary": "Des affrontements et incendies de véhicules se sont produits dans la nuit de samedi à dimanche suite à la collision entre un deux-roues et une patrouille de police. Plusieurs policiers ont été blessés.",
+          "impact": "Renforcement des effectifs de maintien de l'ordre sur place.",
+          "badge": "Sécurité"
+        },
+        {
+          "id": "fd-2",
+          "title": "Charente : 12 ans de réclusion criminelle pour 32 incendies volontaires",
+          "source": "Cour criminelle de la Charente / Sud Ouest",
+          "time": "Il y a 10 heures",
+          "summary": "Un individu a été condamné par la cour criminelle à 12 ans de prison ferme pour une série de 32 départs de feu criminels déclenchés entre 2022 et 2023.",
+          "impact": "Fin d'une longue procédure judiciaire et soulagement local.",
+          "badge": "Justice"
+        }
+      ]
+    }
+  ]
+}
