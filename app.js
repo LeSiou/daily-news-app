@@ -1,5 +1,5 @@
 /**
- * App.js — Actu du Jour Mobile PWA (Apple HIG Edition)
+ * App.js — Actu du Jour Mobile PWA (Pure Apple HIG Edition)
  */
 
 let newsData = null;
@@ -25,14 +25,6 @@ const iconAudioPlay = document.getElementById('icon-audio-play');
 const iconAudioPause = document.getElementById('icon-audio-pause');
 const btnThemeToggle = document.getElementById('btn-theme-toggle');
 
-// Apple Colors map
-const categoryStyles = {
-  'eco-fin': { bg: 'bg-emerald-500/15', text: 'text-emerald-400', border: 'border-emerald-500/30', icon: 'trending-up' },
-  'politique': { bg: 'bg-blue-500/15', text: 'text-blue-400', border: 'border-blue-500/30', icon: 'landmark' },
-  'tech': { bg: 'bg-purple-500/15', text: 'text-purple-400', border: 'border-purple-500/30', icon: 'cpu' },
-  'faits-divers': { bg: 'bg-amber-500/15', text: 'text-amber-400', border: 'border-amber-500/30', icon: 'shield-alert' }
-};
-
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
   setupTheme();
@@ -48,7 +40,7 @@ async function loadNewsData() {
     renderApp();
   } catch (err) {
     console.error('Erreur chargement news:', err);
-    newsContainer.innerHTML = `<div class="p-4 bg-red-500/10 text-red-400 rounded-2xl text-center text-sm">Impossible de charger les actualités.</div>`;
+    newsContainer.innerHTML = `<div class="p-4 bg-apple-card border border-apple-separator text-apple-gray rounded-xl text-center text-sm">Impossible de charger les actualités.</div>`;
   }
 }
 
@@ -56,7 +48,6 @@ async function loadNewsData() {
 function renderApp() {
   if (!newsData) return;
 
-  // Set date
   if (currentDateBadge) {
     currentDateBadge.textContent = newsData.formattedDate || newsData.date;
   }
@@ -64,12 +55,11 @@ function renderApp() {
     dailySummaryTextEl.textContent = newsData.summary;
   }
 
-  // Key Takeaways list
   if (keyTakeawaysListEl) {
     keyTakeawaysListEl.innerHTML = newsData.keyTakeaways.map((item, idx) => `
       <li class="flex items-start gap-3 text-xs text-slate-200">
-        <span class="w-5 h-5 rounded-full bg-ios-blue/20 text-ios-blue border border-ios-blue/30 flex items-center justify-center shrink-0 font-bold text-[10px] mt-0.5">${idx + 1}</span>
-        <span class="leading-relaxed text-slate-300">${item}</span>
+        <span class="w-5 h-5 rounded-full bg-apple-gray5 text-apple-gray border border-apple-separator flex items-center justify-center shrink-0 font-semibold text-[10px] mt-0.5">${idx + 1}</span>
+        <span class="leading-relaxed text-slate-300 font-normal">${item}</span>
       </li>
     `).join('');
   }
@@ -77,7 +67,7 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles
+// Filter and Render Articles (Pure Apple HIG Monochrome Palette)
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
 
@@ -85,10 +75,8 @@ function renderArticles() {
   let html = '';
 
   newsData.categories.forEach(cat => {
-    // Category level filter
     if (activeCategory !== 'all' && activeCategory !== cat.id) return;
 
-    // Filter items by search query
     const filteredItems = cat.items.filter(item => {
       if (!searchQuery) return true;
       const q = searchQuery.toLowerCase();
@@ -100,33 +88,26 @@ function renderArticles() {
     if (filteredItems.length === 0) return;
     totalVisible += filteredItems.length;
 
-    const style = categoryStyles[cat.id] || { bg: 'bg-ios-blue/15', text: 'text-ios-blue', border: 'border-ios-blue/30', icon: 'bookmark' };
-
     html += `
       <section class="space-y-3">
-        <div class="flex items-center justify-between px-1">
-          <div class="flex items-center gap-2">
-            <span class="p-1 rounded-md ${style.bg} ${style.text}">
-              <i data-lucide="${cat.icon}" class="w-4 h-4"></i>
-            </span>
-            <h2 class="font-bold text-sm tracking-tight text-white uppercase">${cat.name}</h2>
-          </div>
-          <span class="text-[11px] font-semibold text-ios-gray">${filteredItems.length} article${filteredItems.length > 1 ? 's' : ''}</span>
+        <div class="flex items-center justify-between px-1 border-b border-apple-separator pb-1.5">
+          <h2 class="font-bold text-xs tracking-wider text-apple-gray uppercase">${cat.name}</h2>
+          <span class="text-[11px] font-medium text-apple-gray">${filteredItems.length} article${filteredItems.length > 1 ? 's' : ''}</span>
         </div>
 
         <div class="grid grid-cols-1 gap-3">
           ${filteredItems.map(item => `
-            <article class="news-card group rounded-2xl bg-ios-gray6/90 border border-white/10 p-4 hover:border-white/20 transition-all news-card-inner backdrop-blur-lg shadow-lg">
+            <article class="news-card group rounded-2xl bg-apple-card border border-apple-separator p-4 hover:border-apple-gray4 transition-all news-card-inner">
               <div class="flex items-center justify-between mb-2">
-                <span class="text-[10px] font-bold tracking-wider px-2.5 py-0.5 rounded-full ${style.bg} ${style.text} border ${style.border}">
+                <span class="text-[10px] font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-apple-gray5 text-slate-300 border border-apple-separator">
                   ${item.badge || cat.name}
                 </span>
-                <span class="text-[11px] text-ios-gray flex items-center gap-1 font-medium">
-                  <i data-lucide="clock" class="w-3 h-3"></i> ${item.time}
+                <span class="text-[11px] text-apple-gray font-medium">
+                  ${item.time}
                 </span>
               </div>
 
-              <h3 class="font-bold text-sm text-white group-hover:text-ios-blue transition-colors mb-2 leading-snug tracking-tight">
+              <h3 class="font-bold text-sm text-white group-hover:text-apple-blue transition-colors mb-2 leading-snug tracking-tight">
                 ${item.title}
               </h3>
 
@@ -135,19 +116,19 @@ function renderArticles() {
               </p>
 
               ${item.impact ? `
-                <div class="p-3 rounded-xl bg-black/40 border border-white/5 text-xs text-slate-300 mb-3 flex items-start gap-2.5">
-                  <i data-lucide="info" class="w-4 h-4 text-ios-blue shrink-0 mt-0.5"></i>
-                  <span class="leading-relaxed"><strong class="text-white font-semibold">Impact :</strong> ${item.impact}</span>
+                <div class="p-3 rounded-xl bg-apple-gray5 border border-apple-separator text-xs text-slate-300 mb-3 flex items-start gap-2.5">
+                  <i data-lucide="info" class="w-4 h-4 text-apple-blue shrink-0 mt-0.5"></i>
+                  <span class="leading-relaxed"><strong class="text-white font-medium">Impact :</strong> ${item.impact}</span>
                 </div>
               ` : ''}
 
-              <div class="flex items-center justify-between text-[11px] text-ios-gray pt-2 border-t border-white/5">
-                <span class="font-medium text-ios-gray flex items-center gap-1.5">
-                  <i data-lucide="newspaper" class="w-3.5 h-3.5 text-ios-gray2"></i> ${item.source}
+              <div class="flex items-center justify-between text-[11px] text-apple-gray pt-2 border-t border-apple-separator">
+                <span class="font-medium text-apple-gray">
+                  ${item.source}
                 </span>
 
-                <button onclick="readArticleAudio('${item.id}')" class="text-ios-blue hover:underline flex items-center gap-1 font-semibold active:scale-95 transition-all">
-                  <i data-lucide="volume-2" class="w-3.5 h-3.5"></i> Écouter
+                <button onclick="readArticleAudio('${item.id}')" class="text-apple-blue hover:underline flex items-center gap-1 font-semibold active:scale-95 transition-all">
+                  <i data-lucide="play" class="w-3 h-3 fill-current"></i> Écouter
                 </button>
               </div>
             </article>
@@ -170,24 +151,22 @@ function renderArticles() {
 
 // Setup Event Listeners
 function setupEventListeners() {
-  // Category Segmented Control Tabs
   document.querySelectorAll('.nav-tab').forEach(tab => {
     tab.addEventListener('click', (e) => {
       document.querySelectorAll('.nav-tab').forEach(t => {
-        t.classList.remove('active', 'bg-ios-card', 'text-white', 'shadow-md', 'border', 'border-white/10', 'font-semibold');
-        t.classList.add('text-ios-gray', 'font-medium');
+        t.classList.remove('active', 'bg-apple-card', 'text-white', 'shadow-sm', 'font-semibold');
+        t.classList.add('text-apple-gray', 'font-medium');
       });
 
       const target = e.currentTarget;
-      target.classList.add('active', 'bg-ios-card', 'text-white', 'shadow-md', 'border', 'border-white/10', 'font-semibold');
-      target.classList.remove('text-ios-gray', 'font-medium');
+      target.classList.add('active', 'bg-apple-card', 'text-white', 'shadow-sm', 'font-semibold');
+      target.classList.remove('text-apple-gray', 'font-medium');
 
       activeCategory = target.dataset.category;
       renderArticles();
     });
   });
 
-  // Search Input
   searchInput.addEventListener('input', (e) => {
     searchQuery = e.target.value.trim();
     btnClearSearch.classList.toggle('hidden', searchQuery === '');
@@ -201,12 +180,10 @@ function setupEventListeners() {
     renderArticles();
   });
 
-  // Audio Controls
   btnReadAll.addEventListener('click', () => readFullSummaryAudio());
   btnAudioPlayPause.addEventListener('click', () => toggleAudioPlayPause());
   btnAudioStop.addEventListener('click', () => stopAudio());
 
-  // Theme Toggle
   btnThemeToggle.addEventListener('click', () => {
     document.documentElement.classList.toggle('dark');
     const isDark = document.documentElement.classList.contains('dark');
@@ -293,7 +270,6 @@ function stopAudio() {
   isPlayingAudio = false;
 }
 
-// Theme setup
 function setupTheme() {
   const savedTheme = localStorage.getItem('theme');
   if (savedTheme === 'light') {
