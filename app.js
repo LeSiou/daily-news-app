@@ -1,5 +1,5 @@
 /**
- * App.js — Actu du Jour Mobile PWA (Pure Apple HIG Monochrome - Direct Hex Classes)
+ * App.js — Actu du Jour Mobile PWA (Apple HIG Edition with Scaled Typography & Dynamic Hero Visibility)
  */
 
 let newsData = null;
@@ -17,6 +17,7 @@ const emptyState = document.getElementById('empty-state');
 const currentDateBadge = document.getElementById('current-date-badge');
 const dailySummaryTextEl = document.getElementById('daily-summary-text');
 const keyTakeawaysListEl = document.getElementById('key-takeaways-list');
+const keyTakeawaysCard = document.getElementById('key-takeaways-card');
 const searchInput = document.getElementById('search-input');
 const btnClearSearch = document.getElementById('btn-clear-search');
 const btnReadAll = document.getElementById('btn-read-all');
@@ -58,9 +59,9 @@ function renderApp() {
 
   if (keyTakeawaysListEl) {
     keyTakeawaysListEl.innerHTML = newsData.keyTakeaways.map((item, idx) => `
-      <li class="flex items-start gap-3 text-xs text-zinc-300">
-        <span class="w-5 h-5 rounded-full bg-[#2c2c2e] text-[#8e8e93] border border-white/10 flex items-center justify-center shrink-0 font-semibold text-[10px] mt-0.5">${idx + 1}</span>
-        <span class="leading-relaxed text-zinc-300 font-normal">${item}</span>
+      <li class="flex items-start gap-3 text-sm text-zinc-200">
+        <span class="w-6 h-6 rounded-full bg-[#2c2c2e] text-[#8e8e93] border border-white/10 flex items-center justify-center shrink-0 font-semibold text-xs mt-0.5">${idx + 1}</span>
+        <span class="leading-relaxed text-zinc-300 font-normal text-sm">${item}</span>
       </li>
     `).join('');
   }
@@ -68,9 +69,18 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles (Pure Apple HIG Monochrome Palette)
+// Filter and Render Articles (With Scaled Typography and Conditional Hero Card)
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
+
+  // Toggle "L'Essentiel du Matin" visibility: Show ONLY on "À la une" (all) tab when search is empty
+  if (keyTakeawaysCard) {
+    if (activeCategory === 'all' && searchQuery === '') {
+      keyTakeawaysCard.classList.remove('hidden');
+    } else {
+      keyTakeawaysCard.classList.add('hidden');
+    }
+  }
 
   let totalVisible = 0;
   let html = '';
@@ -92,13 +102,13 @@ function renderArticles() {
     totalVisible += filteredItems.length;
 
     html += `
-      <section class="space-y-3">
-        <div class="flex items-center justify-between px-1 border-b border-white/10 pb-1.5">
-          <h2 class="font-bold text-xs tracking-wider text-[#8e8e93] uppercase">${cat.name}</h2>
-          <span class="text-[11px] font-medium text-[#8e8e93]">${filteredItems.length} article${filteredItems.length > 1 ? 's' : ''}</span>
+      <section class="space-y-3.5">
+        <div class="flex items-center justify-between px-1 border-b border-white/10 pb-2">
+          <h2 class="font-bold text-sm tracking-wider text-[#8e8e93] uppercase">${cat.name}</h2>
+          <span class="text-xs font-medium text-[#8e8e93]">${filteredItems.length} article${filteredItems.length > 1 ? 's' : ''}</span>
         </div>
 
-        <div class="grid grid-cols-1 gap-3">
+        <div class="grid grid-cols-1 gap-4">
           ${filteredItems.map(item => {
             const isTranslated = !!articleTranslationState[item.id];
             const displayTitle = isTranslated && item.titleFr ? item.titleFr : item.title;
@@ -106,46 +116,46 @@ function renderArticles() {
             const displayImpact = isTranslated && item.impactFr ? item.impactFr : item.impact;
 
             return `
-              <article class="news-card group rounded-2xl bg-[#1c1c1e] border border-white/10 p-4 hover:border-white/20 transition-all news-card-inner">
-                <div class="flex items-center justify-between mb-2">
-                  <div class="flex items-center gap-1.5">
-                    <span class="text-[9px] font-semibold tracking-wider px-2.5 py-0.5 rounded-full bg-[#3a3a3c] text-zinc-300">
+              <article class="news-card group rounded-2xl bg-[#1c1c1e] border border-white/10 p-5 hover:border-white/20 transition-all news-card-inner shadow-lg">
+                <div class="flex items-center justify-between mb-2.5">
+                  <div class="flex items-center gap-2">
+                    <span class="text-xs font-semibold tracking-wider px-3 py-1 rounded-full bg-[#3a3a3c] text-zinc-200">
                       ${item.badge || cat.name}
                     </span>
                     ${item.isInternational ? `
-                      <button onclick="toggleTranslation('${item.id}')" class="text-[9px] font-medium px-2.5 py-0.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 hover:bg-[#3a3a3c] active:scale-95 transition-all flex items-center gap-1">
+                      <button onclick="toggleTranslation('${item.id}')" class="text-xs font-medium px-3 py-1 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 hover:bg-[#3a3a3c] active:scale-95 transition-all flex items-center gap-1.5">
                         <span>${isTranslated ? 'Français' : 'English'}</span>
-                        <span class="text-[9px] text-[#8e8e93] font-normal">(${isTranslated ? 'Original English' : 'Traduire en Français'})</span>
+                        <span class="text-[11px] text-[#8e8e93] font-normal">(${isTranslated ? 'Original English' : 'Traduire en Français'})</span>
                       </button>
                     ` : ''}
                   </div>
-                  <span class="text-[10px] text-[#8e8e93] font-medium">
+                  <span class="text-xs text-[#8e8e93] font-medium">
                     ${item.time}
                   </span>
                 </div>
 
-                <h3 class="font-bold text-xs text-white group-hover:text-[#0a84ff] transition-colors mb-1.5 leading-snug tracking-tight">
+                <h3 class="font-bold text-base text-white group-hover:text-[#0a84ff] transition-colors mb-2 leading-snug tracking-tight">
                   ${displayTitle}
                 </h3>
 
-                <p class="text-xs text-zinc-300 leading-relaxed mb-3 font-normal">
+                <p class="text-sm text-zinc-300 leading-relaxed mb-3.5 font-normal">
                   ${displaySummary}
                 </p>
 
                 ${displayImpact ? `
-                  <div class="p-3 rounded-xl bg-[#2c2c2e]/60 border border-white/5 text-xs text-zinc-300 mb-3 flex items-start gap-2.5">
+                  <div class="p-3.5 rounded-xl bg-[#2c2c2e]/70 border border-white/5 text-sm text-zinc-300 mb-3.5 flex items-start gap-2.5">
                     <i data-lucide="info" class="w-4 h-4 text-[#0a84ff] shrink-0 mt-0.5"></i>
-                    <span class="leading-relaxed"><strong class="text-white font-medium">Impact :</strong> ${displayImpact}</span>
+                    <span class="leading-relaxed text-sm"><strong class="text-white font-medium">Impact :</strong> ${displayImpact}</span>
                   </div>
                 ` : ''}
 
-                <div class="flex items-center justify-between text-[11px] text-[#8e8e93] pt-2 border-t border-white/10">
-                  <span class="font-medium text-[#8e8e93]">
+                <div class="flex items-center justify-between text-xs text-[#8e8e93] pt-2.5 border-t border-white/10">
+                  <span class="font-medium text-[#8e8e93] text-xs">
                     ${item.source}
                   </span>
 
-                  <button onclick="readArticleAudio('${item.id}')" class="text-[#0a84ff] hover:underline flex items-center gap-1 font-semibold active:scale-95 transition-all">
-                    <i data-lucide="play" class="w-3 h-3 fill-current"></i> Écouter
+                  <button onclick="readArticleAudio('${item.id}')" class="text-[#0a84ff] hover:underline flex items-center gap-1.5 font-semibold text-xs active:scale-95 transition-all">
+                    <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i> Écouter
                   </button>
                 </div>
               </article>
