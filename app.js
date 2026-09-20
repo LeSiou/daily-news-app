@@ -1,5 +1,5 @@
 /**
- * App.js — Actu du Jour Mobile PWA (Apple HIG Edition with EN/FR Translation)
+ * App.js — Actu du Jour Mobile PWA (Pure Apple HIG Edition — ZERO Emojis)
  */
 
 let newsData = null;
@@ -70,7 +70,7 @@ function renderApp() {
   renderArticles();
 }
 
-// Filter and Render Articles with EN/FR Translation Support
+// Filter and Render Articles (Pure Apple HIG Monochrome Palette & ZERO Emojis)
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
 
@@ -115,9 +115,9 @@ function renderArticles() {
                       ${item.badge || cat.name}
                     </span>
                     ${item.isInternational ? `
-                      <button onclick="toggleTranslation('${item.id}')" class="text-[10px] font-medium px-2 py-0.5 rounded-full bg-apple-blue/15 text-apple-blue border border-apple-blue/30 hover:bg-apple-blue/25 active:scale-95 transition-all flex items-center gap-1">
-                        <span>${isTranslated ? '🇫🇷 Traduit' : '🇬🇧 English'}</span>
-                        <span class="text-[9px] text-slate-400 font-bold">(${isTranslated ? 'Original 🇬🇧' : 'Traduire 🇫🇷'})</span>
+                      <button onclick="toggleTranslation('${item.id}')" class="text-[10px] font-medium px-2.5 py-0.5 rounded-full bg-apple-gray5 text-apple-blue border border-apple-separator hover:bg-apple-gray4 active:scale-95 transition-all flex items-center gap-1">
+                        <span>${isTranslated ? 'Français' : 'English'}</span>
+                        <span class="text-[9px] text-apple-gray font-normal">(${isTranslated ? 'Original English' : 'Traduire en Français'})</span>
                       </button>
                     ` : ''}
                   </div>
