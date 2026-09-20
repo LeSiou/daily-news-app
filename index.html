@@ -3,14 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  
+  <!-- Anti-Cache Headers (Same as Erasmus Meal App) -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
   <title>Actualités — Apple HIG</title>
   
-  <!-- PWA Meta Tags -->
+  <!-- iOS Meta Tags -->
   <meta name="theme-color" content="#000000">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Actualités">
-  <link rel="manifest" href="manifest.json?v=3">
   <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/2965/2965879.png">
 
   <!-- San Francisco font alternative (Plus Jakarta Sans) -->
@@ -19,7 +24,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
 
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
@@ -32,6 +37,18 @@
     .news-card { transition: transform 0.15s ease-out, background-color 0.15s ease; }
     .news-card:active { transform: scale(0.98); }
   </style>
+
+  <!-- Kill any old Service Worker Cache instantly -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(registrations => {
+        registrations.forEach(r => r.unregister());
+      });
+    }
+    if ('caches' in window) {
+      caches.keys().then(keys => keys.forEach(k => caches.delete(k)));
+    }
+  </script>
 </head>
 <body class="bg-black text-white min-h-screen font-sans pb-32 selection:bg-[#0a84ff] selection:text-white antialiased">
 
@@ -39,7 +56,7 @@
   <header class="sticky top-0 z-40 backdrop-blur-2xl bg-black/85 border-b border-white/10 px-4 pt-4 pb-3 transition-all duration-300">
     <div class="max-w-xl mx-auto space-y-3.5">
       
-      <!-- Top Row: Date & Audio Button -->
+      <!-- Top Row: Date, Audio & Instant Refresh Button -->
       <div class="flex items-center justify-between">
         <div>
           <span id="current-date-badge" class="text-xs font-semibold uppercase tracking-wider text-[#8e8e93]">Dimanche 20 Septembre</span>
@@ -52,6 +69,9 @@
           <button id="btn-read-all" title="Écouter le résumé audio" class="h-9 px-3.5 rounded-full bg-[#2c2c2e] text-[#0a84ff] border border-white/10 text-xs font-semibold flex items-center gap-1.5 active:scale-95 transition-all">
             <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i>
             <span>Écouter</span>
+          </button>
+          <button onclick="forceAppRefresh()" title="Forcer la mise à jour" class="w-9 h-9 rounded-full bg-[#2c2c2e] text-[#8e8e93] hover:text-white border border-white/10 flex items-center justify-center active:scale-95 transition-all">
+            <i data-lucide="rotate-cw" class="w-4 h-4"></i>
           </button>
         </div>
       </div>
@@ -100,7 +120,7 @@
       </div>
 
       <p id="daily-summary-text" class="text-sm text-zinc-300 leading-relaxed font-normal">
-        L'actualité de ce dimanche s'articule autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques, et de la dynamique de l'IA agentique.
+        L'actualité de ce dimanche s'articules autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques, et de la dynamique de l'IA agentique.
       </p>
 
       <div class="space-y-3">
@@ -159,16 +179,14 @@
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic -->
-  <script src="app.js?v=3"></script>
+  <!-- JS Logic (Versioned v20.0 like Erasmus Meal App) -->
+  <script src="app.js?v=20.0"></script>
   <script>
     lucide.createIcons();
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(registrations => {
-        for (let registration of registrations) {
-          registration.unregister();
-        }
-      });
+    function forceAppRefresh() {
+      localStorage.clear();
+      sessionStorage.clear();
+      window.location.reload(true);
     }
   </script>
 </body>
