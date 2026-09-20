@@ -77,15 +77,6 @@
         </div>
       </div>
 
-      <!-- iOS Search Bar -->
-      <div class="relative">
-        <i data-lucide="search" class="w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-[#8e8e93]"></i>
-        <input type="text" id="search-input" placeholder="Rechercher une actualité..." class="w-full bg-[#1c1c1e] text-sm text-white placeholder-[#8e8e93] pl-10 pr-8 py-2.5 rounded-xl border border-transparent focus:outline-none focus:bg-[#2c2c2e] transition-all">
-        <button id="btn-clear-search" class="hidden absolute right-2.5 top-1/2 -translate-y-1/2 text-[#8e8e93] hover:text-white p-1">
-          <i data-lucide="x-circle" class="w-4 h-4"></i>
-        </button>
-      </div>
-
       <!-- iOS Segmented Control Tabs (Monochrome & Pure) -->
       <div class="p-1 rounded-xl bg-[#1c1c1e] flex items-center gap-1 overflow-x-auto no-scrollbar border border-white/5 text-xs font-medium">
         <button class="nav-tab active flex-1 py-2 px-3.5 rounded-lg text-center bg-[#2c2c2e] text-white font-semibold shadow-sm" data-category="all">
@@ -108,7 +99,7 @@
     </div>
   </header>
 
-  <!-- Main Container (Direct Feed — No Hero Card Clutter) -->
+  <!-- Main Container (Direct Feed — No Hero Card, No Search Bar) -->
   <main class="max-w-xl mx-auto px-4 mt-5 space-y-6">
 
     <!-- Category Sections Container -->
@@ -119,10 +110,10 @@
     <!-- Empty State -->
     <div id="empty-state" class="hidden text-center py-16 bg-[#1c1c1e] rounded-2xl border border-white/10 p-6">
       <div class="w-12 h-12 mx-auto rounded-full bg-[#2c2c2e] flex items-center justify-center text-[#8e8e93] mb-3">
-        <i data-lucide="search-x" class="w-6 h-6"></i>
+        <i data-lucide="newspaper" class="w-6 h-6"></i>
       </div>
-      <h3 class="font-bold text-white text-base mb-1">Aucun résultat</h3>
-      <p class="text-xs text-[#8e8e93]">Ajustez votre recherche ou changez de thématique.</p>
+      <h3 class="font-bold text-white text-base mb-1">Aucune actualité disponible</h3>
+      <p class="text-xs text-[#8e8e93]">Sélectionnez une autre catégorie.</p>
     </div>
 
   </main>
@@ -133,8 +124,8 @@
     <p class="text-xs text-[#8e8e93]">Dépôt GitHub : <a href="https://github.com/LeSiou/daily-news-app" target="_blank" class="underline hover:text-[#0a84ff]">LeSiou/daily-news-app</a></p>
   </footer>
 
-  <!-- JS Logic (Versioned v40.0) -->
-  <script src="app.js?v=40.0"></script>
+  <!-- JS Logic (Versioned v60.0) -->
+  <script src="app.js?v=60.0"></script>
   <script>
     lucide.createIcons();
     function forceAppRefresh() {

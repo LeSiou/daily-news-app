@@ -1,11 +1,10 @@
 /**
  * App.js — Actu du Jour Mobile PWA
- * Pure Apple News Typographic Integration (Title ALWAYS remains pure white on translation)
+ * Pure Apple News Typographic Integration (No Search Bar, Clean Category Tabs)
  */
 
 let newsData = null;
 let activeCategory = 'all';
-let searchQuery = '';
 
 // Per-article translation state tracker (true = translated to French, false = English original)
 const articleTranslationState = {};
@@ -14,8 +13,6 @@ const articleTranslationState = {};
 const newsContainer = document.getElementById('news-container');
 const emptyState = document.getElementById('empty-state');
 const currentDateBadge = document.getElementById('current-date-badge');
-const searchInput = document.getElementById('search-input');
-const btnClearSearch = document.getElementById('btn-clear-search');
 
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
@@ -56,16 +53,7 @@ function renderArticles() {
   newsData.categories.forEach(cat => {
     if (activeCategory !== 'all' && activeCategory !== cat.id) return;
 
-    const filteredItems = cat.items.filter(item => {
-      if (!searchQuery) return true;
-      const q = searchQuery.toLowerCase();
-      const title = articleTranslationState[item.id] ? (item.titleFr || item.title) : item.title;
-      const summary = articleTranslationState[item.id] ? (item.summaryFr || item.summary) : item.summary;
-      return title.toLowerCase().includes(q) ||
-             summary.toLowerCase().includes(q) ||
-             (item.source && item.source.toLowerCase().includes(q));
-    });
-
+    const filteredItems = cat.items;
     if (filteredItems.length === 0) return;
     totalVisible += filteredItems.length;
 
@@ -159,18 +147,5 @@ function setupEventListeners() {
       activeCategory = target.dataset.category;
       renderArticles();
     });
-  });
-
-  searchInput.addEventListener('input', (e) => {
-    searchQuery = e.target.value.trim();
-    btnClearSearch.classList.toggle('hidden', searchQuery === '');
-    renderArticles();
-  });
-
-  btnClearSearch.addEventListener('click', () => {
-    searchInput.value = '';
-    searchQuery = '';
-    btnClearSearch.classList.add('hidden');
-    renderArticles();
   });
 }
