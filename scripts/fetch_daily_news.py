@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 fetch_daily_news.py
-Automated REAL daily news fetcher & GitHub Pages updater for Actu du Jour (LeSiou/daily-news-app)
-Fetches live RSS feeds from Le Monde, BBC, TechCrunch, France Info, Les Echos.
-Auto-translates English articles to French via Google Translate API (gtx).
-Runs every morning at 08h00 via GitHub Actions & Antigravity scheduler.
+Automated 100% International English News Fetcher & GitHub Pages updater for Actu du Jour.
+Fetches 100% English RSS feeds across ALL categories (BBC World, BBC Business, TechCrunch, BBC Society/US).
+Auto-translates all English articles to French via Google Translate API (gtx).
+Allows full "Traduire en FR" / "Afficher VO (EN)" toggle on every single article across the entire app.
 """
 
 import os
@@ -62,7 +62,7 @@ def translate_en_to_fr(text, timeout=6):
         log(f"Translation error for '{text[:30]}...': {e}")
         return text
 
-def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
+def fetch_rss_items(feed_url, default_source, category_badge, limit=2):
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
@@ -89,37 +89,23 @@ def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
 
                 time_str = "08h00"
                 
-                if is_en:
-                    log(f"Translating RSS item: {title[:40]}...")
-                    title_fr = translate_en_to_fr(title)
-                    summary_fr = translate_en_to_fr(desc[:400])
-                    item_obj = {
-                        "isInternational": True,
-                        "language": "en",
-                        "title": title,
-                        "titleFr": title_fr if title_fr else title,
-                        "source": default_source,
-                        "time": time_str,
-                        "summary": desc,
-                        "summaryFr": summary_fr if summary_fr else desc,
-                        "impact": f"Global market & political signal via {default_source}",
-                        "impactFr": f"Signal majeur transmis par {default_source}",
-                        "badge": "World News"
-                    }
-                else:
-                    item_obj = {
-                        "isInternational": False,
-                        "language": "fr",
-                        "title": title,
-                        "titleFr": title,
-                        "source": default_source,
-                        "time": time_str,
-                        "summary": desc,
-                        "summaryFr": desc,
-                        "impact": f"Analyse directe par {default_source}",
-                        "impactFr": f"Analyse directe par {default_source}",
-                        "badge": "France"
-                    }
+                log(f"Translating EN item ({default_source}): {title[:40]}...")
+                title_fr = translate_en_to_fr(title)
+                summary_fr = translate_en_to_fr(desc[:400])
+                
+                item_obj = {
+                    "isInternational": True,
+                    "language": "en",
+                    "title": title,
+                    "titleFr": title_fr if title_fr else title,
+                    "source": default_source,
+                    "time": time_str,
+                    "summary": desc,
+                    "summaryFr": summary_fr if summary_fr else desc,
+                    "impact": f"Global market & political signal via {default_source}",
+                    "impactFr": f"Signal international majeur via {default_source}",
+                    "badge": category_badge
+                }
                 items_out.append(item_obj)
     except Exception as e:
         log(f"Error fetching RSS {feed_url}: {e}")
@@ -135,39 +121,31 @@ def build_live_news_dataset():
     month_name = french_months[today.month - 1]
     formatted_date = f"{day_name} {today.day} {month_name} {today.year}"
 
-    log(f"=== Collecte des actualités RSS Google Translate du {formatted_date} ===")
+    log(f"=== Collecte des actualités 100% ANGLAISES du {formatted_date} ===")
 
-    # Category 1: Economie & Finance
-    eco_items = fetch_rss_items("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business", is_en=True, limit=2)
-    if not eco_items:
-        eco_items = fetch_rss_items("https://www.lesechos.fr/rss/rss_economie.xml", "Les Echos", is_en=False, limit=2)
+    # Category 1: Économie & Finance (BBC Business & Reuters/Bloomberg)
+    eco_items = fetch_rss_items("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business", "Économie", limit=2)
     for idx, item in enumerate(eco_items):
         item["id"] = f"eco-{idx+1}-{today.isoformat()}"
-        item["badge"] = "Économie"
 
-    # Category 2: Politique
-    pol_items = fetch_rss_items("https://www.lemonde.fr/rss/une.xml", "Le Monde", is_en=False, limit=2)
-    if not pol_items:
-        pol_items = fetch_rss_items("https://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", is_en=True, limit=2)
+    # Category 2: Politique (BBC World News)
+    pol_items = fetch_rss_items("https://feeds.bbci.co.uk/news/world/rss.xml", "BBC World News", "Politique", limit=2)
     for idx, item in enumerate(pol_items):
         item["id"] = f"pol-{idx+1}-{today.isoformat()}"
-        item["badge"] = "Politique"
 
-    # Category 3: Tech & IA
-    tech_items = fetch_rss_items("https://techcrunch.com/feed/", "TechCrunch", is_en=True, limit=2)
+    # Category 3: Tech & IA (TechCrunch)
+    tech_items = fetch_rss_items("https://techcrunch.com/feed/", "TechCrunch", "Global Tech", limit=2)
     if not tech_items:
-        tech_items = fetch_rss_items("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC Tech", is_en=True, limit=2)
+        tech_items = fetch_rss_items("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC Tech", "Global Tech", limit=2)
     for idx, item in enumerate(tech_items):
         item["id"] = f"tech-{idx+1}-{today.isoformat()}"
-        item["badge"] = "Global Tech"
 
-    # Category 4: Faits Divers & Société
-    fd_items = fetch_rss_items("https://www.francetvinfo.fr/titres.rss", "France Info", is_en=False, limit=2)
+    # Category 4: Faits Divers & Société (BBC World US & International)
+    fd_items = fetch_rss_items("https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", "BBC International", "Société", limit=2)
     if not fd_items:
-        fd_items = fetch_rss_items("https://www.lefigaro.fr/rss/figaro_actualites.xml", "Le Figaro", is_en=False, limit=2)
+        fd_items = fetch_rss_items("https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "BBC Culture", "Société", limit=2)
     for idx, item in enumerate(fd_items):
         item["id"] = f"fd-{idx+1}-{today.isoformat()}"
-        item["badge"] = "Société"
 
     takeaways = []
     if eco_items:
@@ -180,9 +158,9 @@ def build_live_news_dataset():
     news_payload = {
         "date": today.isoformat(),
         "formattedDate": formatted_date,
-        "summary": f"Le bulletin d'actualités en direct du {formatted_date} synthétise les derniers titres de Le Monde, BBC News, TechCrunch et France Info.",
+        "summary": f"Le bulletin international en anglais du {formatted_date} regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
         "keyTakeaways": takeaways if takeaways else [
-            f"Découvrez les dernières actualités et analyses en direct du {formatted_date}."
+            f"Toutes les actualités mondiales du {formatted_date} en version originale avec traduction instantanée."
         ],
         "categories": [
             {
@@ -224,19 +202,19 @@ def update_and_push():
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(dataset, f, ensure_ascii=False, indent=2)
-    log("Fichier data/news.json mis à jour avec les traductions Google Translate.")
+    log("Fichier data/news.json mis à jour avec 100% d'actualités en anglais traduisibles.")
 
     if not os.environ.get("GITHUB_ACTIONS"):
         try:
             subprocess.run(["git", "add", "data/news.json"], cwd=PROJECT_DIR, check=True)
-            commit_msg = f"Update news with Google Translate: {datetime.date.today().isoformat()}"
+            commit_msg = f"Update all categories to 100% English feeds: {datetime.date.today().isoformat()}"
             subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_DIR, check=False)
             subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_DIR, check=True)
-            log("Actualités traduites poussées sur GitHub.")
+            log("Actualités 100% en anglais traduisibles poussées sur GitHub.")
         except Exception as e:
             log(f"Erreur lors du push Git local: {e}")
 
 if __name__ == "__main__":
-    log("Début de l'exécution du script avec Google Translate.")
+    log("Début de la génération 100% anglais.")
     update_and_push()
     log("Fin de l'exécution.")
