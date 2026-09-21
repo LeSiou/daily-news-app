@@ -1,15 +1,9 @@
 {
-  "date": "2026-09-20",
-  "formattedDate": "Dimanche 20 Septembre 2026",
-  "summary": "Today's headline news focuses on European sovereign debt strains with France projecting a record 119.3% debt-to-GDP ratio, transatlantic LNG agreements between Macron and Carney, 2027 presidential election primary proposals, and agentic AI capturing 82% of European VC funding.",
-  "summaryFr": "L'actualité de ce dimanche s'articule autour des tensions budgétaires européennes avec une dette publique française à 119,3% du PIB, des négociations énergétiques transatlantiques entre la France et le Canada, des préparatifs politiques pour 2027 et de l'essor de l'IA agentique.",
+  "date": "2026-09-21",
+  "formattedDate": "Lundi 21 Septembre 2026",
+  "summary": "L'actualité du Lundi 21 Septembre 2026 s'articule autour des tensions budgétaires européennes, des négociations énergétiques transatlantiques, des réarrangements politiques pour 2027 et de la dynamique de l'IA agentique.",
   "keyTakeaways": [
-    "Sovereign Debt Strain: French Ministry of Economy projects public debt at 119.3% of GDP for 2026 with €54 billion in spending cuts planned.",
-    "Transatlantic Energy: Emmanuel Macron and Canadian PM Mark Carney finalize landmark Liquefied Natural Gas (LNG) supply agreements.",
-    "Agentic AI Dominance: 82% of mid-September European tech venture funding backed AI security platforms, led by Hackuity's €16M Series B."
-  ],
-  "keyTakeawaysFr": [
-    "Dette & Budget : Le ministère de l'Économie projette une dette à 119,3% du PIB pour 2026 et prépare 54 milliards d'euros d'économies ciblées.",
+    "Économie & Dette : Suivi de la trajectoire budgétaire française (119,3% du PIB) et des 54 milliards d'économies en préparation.",
     "International & Énergies : Accord GNL renforcé entre la France et le Canada pour sécuriser les approvisionnements européens.",
     "Tech & IA : Domination de l'IA agentique qui capte 82% des levées de fonds tech de la semaine."
   ],
@@ -21,13 +15,13 @@
       "color": "emerald",
       "items": [
         {
-          "id": "eco-1",
+          "id": "eco-1-2026-09-21",
           "isInternational": true,
           "language": "en",
           "title": "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain",
           "titleFr": "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB",
           "source": "Reuters / Ministère de l'Économie",
-          "time": "Il y a 3h",
+          "time": "08h00",
           "summary": "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026 and rising to 121.7% by 2027. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package. Proposed measures include temporary freezes on pension indexation and caps on tax allowances, triggering intense parliamentary debates.",
           "summaryFr": "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros. Les mesures envisagées incluent le gel temporaire de l'indexation des retraites et le plafonnement d'abattements fiscaux, suscitant de vives tensions à l'Assemblée.",
           "impact": "OAT-Bund yield spread widened past 100 basis points, reflecting heightened sovereign debt risk premiums across European bond markets.",
@@ -35,32 +29,18 @@
           "badge": "World Finance"
         },
         {
-          "id": "eco-2",
+          "id": "eco-2-2026-09-21",
           "isInternational": true,
           "language": "en",
           "title": "France-Canada Energy Summit: Macron and Carney Secure LNG Supply Agreement",
           "titleFr": "Diplomatie économique : Accord GNL d'urgence entre la France et le Canada",
           "source": "Bloomberg / Élysée",
-          "time": "Il y a 4h",
+          "time": "08h00",
           "summary": "During bilateral meetings in Saint-Pierre-et-Miquelon, French President Emmanuel Macron and Canadian Prime Minister Mark Carney finalized strategic agreements to expand Canadian Liquefied Natural Gas (LNG) shipments to Europe. The dialogue aims to diversify energy supplies away from volatile Middle Eastern corridors while strengthening transatlantic economic ties.",
           "summaryFr": "Lors de rencontres bilatérales à Saint-Pierre-et-Miquelon, Emmanuel Macron et le Premier ministre canadien Mark Carney ont finalisé des accords stratégiques visant à intensifier les livraisons de gaz naturel liquéfié (GNL) canadien vers l'Europe. Ce rapprochement vise à sécuriser les approvisionnements face à la volatilité des cours au Moyen-Orient.",
           "impact": "Provides long-term energy security hedging for European utilities amidst global oil market uncertainty.",
           "impactFr": "Sécurisation à long terme des approvisionnements énergétiques des PME et ménages européens.",
           "badge": "Global Energy"
-        },
-        {
-          "id": "eco-3",
-          "isInternational": true,
-          "language": "en",
-          "title": "French Economic Growth: INSEE Adjusts 2026 Forecast to 0.5% Amid Stagnant Consumer Spending",
-          "titleFr": "Croissance française : L'INSEE ajuste la prévision 2026 à 0,5% sur fond de léthargie de la consommation",
-          "source": "INSEE / Banque de France",
-          "time": "Il y a 5h",
-          "summary": "INSEE and the Bank of France adjusted their 2026 GDP growth forecasts down to 0.4%-0.5%, compared to initial projections of 0.7%. The slowdown stems from hesitant household consumption, high corporate borrowing costs for SMEs, and an unprecedented drop in wine harvesting caused by summer droughts.",
-          "summaryFr": "L'INSEE et la Banque de France ont ajusté leurs prévisions de croissance du PIB pour 2026 entre 0,4% et 0,5%, contre 0,7% initialement attendu. Ce ralentissement découle d'une consommation des ménages hésitante, du coût élevé du crédit pour les PME et d'un recul inédit de la production viticole provoqué par la sécheresse estivale.",
-          "impact": "Increased pressure on industrial corporate margins and downward revisions for national hiring plans.",
-          "impactFr": "Pression sur la rentabilité des entreprises industrielles et révision à la baisse des créations d'emplois.",
-          "badge": "Macro Economy"
         }
       ]
     },
@@ -71,32 +51,18 @@
       "color": "blue",
       "items": [
         {
-          "id": "pol-1",
-          "isInternational": true,
-          "language": "en",
-          "title": "2027 Presidential Race: François Bayrou Proposes Central Bloc Primary for Unity Candidate",
-          "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
-          "source": "AFP / Le Figaro",
-          "time": "Il y a 4h",
-          "summary": "MoDem leader François Bayrou publicly advocated for an open primary uniting all former presidential majority factions to select a single candidate for the 2027 election. The initiative met noticeable pushback from Édouard Philippe and other key figures seeking to maintain independence.",
+          "id": "pol-1-2026-09-21",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
+          "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central",
+          "source": "MoDem / AFP",
+          "time": "08h00",
+          "summary": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
           "summaryFr": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
-          "impact": "Reshapes alliance dynamics across France's political center as early 2027 campaign maneuvering begins.",
-          "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes manœuvres pour 2027.",
-          "badge": "Politics & Elections"
-        },
-        {
-          "id": "pol-2",
-          "isInternational": true,
-          "language": "en",
-          "title": "Security & Legislation: Protests in Paris Against Police Firearm Usage Bill",
-          "titleFr": "Sécurité : Défilé parisien contre le projet de loi sur la présomption d'usage des armes",
-          "source": "Le Monde / Police HQ",
-          "time": "Il y a 6h",
-          "summary": "Thousands of demonstrators gathered in Paris on Sunday, organized by trade unions and civil rights organizations, to protest against proposed legislation creating a legal presumption of lawful firearm usage for police officers on duty. Parliamentary debate is set to begin this week.",
-          "summaryFr": "Plusieurs milliers de personnes se sont rassemblées ce dimanche à Paris à l'appel de syndicats et d'associations pour manifester contre la proposition de loi prévoyant l'instauration d'une présomption d'usage légitime des armes par les forces de l'ordre en intervention. Le texte doit être examiné dans les prochains jours.",
-          "impact": "Heightened political friction in Parliament ahead of plenary assembly debates.",
-          "impactFr": "Tensions politiques palpables au Parlement avant le début des débats en séance publique.",
-          "badge": "Society & Law"
+          "impact": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
+          "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
+          "badge": "Présidentielle 2027"
         }
       ]
     },
@@ -107,32 +73,18 @@
       "color": "purple",
       "items": [
         {
-          "id": "tech-1",
+          "id": "tech-1-2026-09-21",
           "isInternational": true,
           "language": "en",
           "title": "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI",
           "titleFr": "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine",
           "source": "TechCrunch / Maddyness",
-          "time": "Il y a 4h",
+          "time": "08h00",
           "summary": "Venture capital investment data for mid-September reveals that 82% of all capital raised across European tech startups went directly into Artificial Intelligence and automated cybersecurity platforms. Cybersecurity firm Hackuity closed a €16 million Series B round dedicated to agent-driven vulnerability remediation systems.",
           "summaryFr": "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros pour sa plateforme de remédiation pilotée par des agents IA.",
           "impact": "Sustained investor shift toward practical enterprise AI agents over general LLM wrappers.",
           "impactFr": "Bascule marquée des investisseurs vers les agents IA d'entreprise plutôt que les simples wrappers LLM.",
           "badge": "Global Tech"
-        },
-        {
-          "id": "tech-2",
-          "isInternational": true,
-          "language": "en",
-          "title": "AI Regulation: Thales CEO Urges Governments to Mandate Binding Legal Safeguards",
-          "titleFr": "Régulation de l'IA : Thales appelle les États à imposer des garde-fous juridiques contraignants",
-          "source": "Bloomberg Tech / Usine Nouvelle",
-          "time": "Il y a 7h",
-          "summary": "Thales Group CEO Patrice Caine declared that technical AI controls are insufficient without strict state-enforced regulatory frameworks. The statement coincides with EU AI Act enforcement milestones making generative AI content transparency labeling mandatory across Europe.",
-          "summaryFr": "Le PDG de Thales, Patrice Caine, a déclaré que si les verrous techniques sur l'IA sont indispensables, ils restent insuffisants sans un cadre réglementaire étatique strict. Cette prise de parole intervient alors que les règles de transparence sur le marquage des contenus générés par IA sont désormais pleinement applicables sous l'AI Act européen.",
-          "impact": "Mandatory immediate compliance reviews for software vendors utilizing generative foundation models.",
-          "impactFr": "Obligation de mise en conformité immédiate pour l'ensemble des éditeurs de logiciels utilisant des modèles génératifs.",
-          "badge": "EU AI Act"
         }
       ]
     },
@@ -143,32 +95,17 @@
       "color": "amber",
       "items": [
         {
-          "id": "fd-1",
-          "isInternational": true,
-          "language": "en",
-          "title": "Security & Public Order: Violent Urban Clashes in Saint-Pierre-des-Corps Following Road Collision",
-          "titleFr": "Saint-Pierre-des-Corps : Nuit d'affrontements urbains après un accident de la circulation",
-          "source": "Nouvelle République / Police",
-          "time": "Il y a 8h",
-          "summary": "Violent clashes erupted in the Rabaterie district of Saint-Pierre-des-Corps overnight following a collision between a motorcycle and a police patrol car. Multiple vehicles and waste containers were set on fire, leaving three officers injured.",
-          "summaryFr": "Des heurts violents ont secoué le quartier de la Rabaterie à Saint-Pierre-des-Corps dans la nuit de samedi à dimanche, à la suite d'un accident impliquant une moto et un véhicule de police secours. Plusieurs conteneurs et véhicules ont été incendiés, et trois policiers ont été légèrement blessés.",
-          "impact": "Reinforced riot control personnel deployed for upcoming evening patrols.",
-          "impactFr": "Dispositif de sécurité renforcé pour la nuit à venir.",
-          "badge": "Public Order"
-        },
-        {
-          "id": "fd-2",
-          "isInternational": true,
-          "language": "en",
-          "title": "Judicial Ruling: 12-Year Prison Sentence Delivered to Arsonist Behind 32 Wildfires in Charente",
-          "titleFr": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
-          "source": "Sud Ouest / Criminal Court",
-          "time": "Il y a 10h",
-          "summary": "The Charente Criminal Court sentenced a 34-year-old man to 12 years in prison for committing 32 intentional forest and agricultural building arsons between summer 2022 and autumn 2023. The convict will be subject to strict socio-judicial monitoring upon release.",
+          "id": "fd-1-2026-09-21",
+          "isInternational": false,
+          "language": "fr",
+          "title": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
+          "source": "Cour criminelle de la Charente / Sud Ouest",
+          "time": "08h00",
+          "summary": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
           "summaryFr": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
-          "impact": "Brings relief to local municipalities and firefighting units across the region.",
+          "impact": "Soulagement des communes et des sapeurs-pompiers locaux.",
           "impactFr": "Soulagement des communes et des sapeurs-pompiers locaux.",
-          "badge": "Justice & Courts"
+          "badge": "Justice"
         }
       ]
     }
