@@ -3,7 +3,7 @@
 fetch_daily_news.py
 Automated REAL daily news fetcher & GitHub Pages updater for Actu du Jour (LeSiou/daily-news-app)
 Fetches live RSS feeds from Le Monde, BBC, TechCrunch, France Info, Les Echos.
-Auto-translates English articles to French via MyMemory API.
+Auto-translates English articles to French via Google Translate API (gtx).
 Runs every morning at 08h00 via GitHub Actions & Antigravity scheduler.
 """
 
@@ -42,22 +42,24 @@ def clean_text(raw_html):
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
-def translate_en_to_fr(text, timeout=4):
+def translate_en_to_fr(text, timeout=6):
     if not text:
         return ""
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
     try:
-        clean_input = text[:350]
-        url = f"https://api.mymemory.translated.net/get?q={urllib.parse.quote(clean_input)}&langpair=en|fr"
+        clean_input = text[:500]
+        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q={urllib.parse.quote(clean_input)}"
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'})
         with urllib.request.urlopen(req, context=ctx, timeout=timeout) as resp:
             data = json.loads(resp.read().decode('utf-8'))
-            translated = data.get('responseData', {}).get('translatedText', text)
-            return clean_text(translated)
+            if data and data[0]:
+                translated = ''.join([s[0] for s in data[0] if s and s[0]])
+                return clean_text(translated)
+            return text
     except Exception as e:
-        log(f"Translation warning for '{text[:30]}...': {e}")
+        log(f"Translation error for '{text[:30]}...': {e}")
         return text
 
 def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
@@ -85,14 +87,12 @@ def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
                 if not desc or len(desc) < 15:
                     desc = title
 
-                pub_date = item.findtext('pubDate') or datetime.datetime.now().strftime("%Hh%M")
                 time_str = "08h00"
                 
-                # Format EN / FR
                 if is_en:
                     log(f"Translating RSS item: {title[:40]}...")
                     title_fr = translate_en_to_fr(title)
-                    summary_fr = translate_en_to_fr(desc[:300])
+                    summary_fr = translate_en_to_fr(desc[:400])
                     item_obj = {
                         "isInternational": True,
                         "language": "en",
@@ -103,7 +103,7 @@ def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
                         "summary": desc,
                         "summaryFr": summary_fr if summary_fr else desc,
                         "impact": f"Global market & political signal via {default_source}",
-                        "impactFr": f"Signal marché et géopolitique majeur transmis par {default_source}",
+                        "impactFr": f"Signal majeur transmis par {default_source}",
                         "badge": "World News"
                     }
                 else:
@@ -116,8 +116,8 @@ def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
                         "time": time_str,
                         "summary": desc,
                         "summaryFr": desc,
-                        "impact": f"Analyse et suivi direct par {default_source}",
-                        "impactFr": f"Analyse et suivi direct par {default_source}",
+                        "impact": f"Analyse directe par {default_source}",
+                        "impactFr": f"Analyse directe par {default_source}",
                         "badge": "France"
                     }
                 items_out.append(item_obj)
@@ -135,7 +135,7 @@ def build_live_news_dataset():
     month_name = french_months[today.month - 1]
     formatted_date = f"{day_name} {today.day} {month_name} {today.year}"
 
-    log(f"=== Début de la collecte des VRAIES actualités RSS du {formatted_date} ===")
+    log(f"=== Collecte des actualités RSS Google Translate du {formatted_date} ===")
 
     # Category 1: Economie & Finance
     eco_items = fetch_rss_items("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business", is_en=True, limit=2)
@@ -169,7 +169,6 @@ def build_live_news_dataset():
         item["id"] = f"fd-{idx+1}-{today.isoformat()}"
         item["badge"] = "Société"
 
-    # Generate key takeaways from top stories
     takeaways = []
     if eco_items:
         takeaways.append(f"Économie : {eco_items[0].get('titleFr', eco_items[0]['title'])}")
@@ -225,20 +224,19 @@ def update_and_push():
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(dataset, f, ensure_ascii=False, indent=2)
-    log("Fichier data/news.json mis à jour avec les VRAIES actualités en direct.")
+    log("Fichier data/news.json mis à jour avec les traductions Google Translate.")
 
-    # Commit & push localement si hors GitHub Actions
     if not os.environ.get("GITHUB_ACTIONS"):
         try:
             subprocess.run(["git", "add", "data/news.json"], cwd=PROJECT_DIR, check=True)
-            commit_msg = f"Live news feed update: {datetime.date.today().isoformat()}"
+            commit_msg = f"Update news with Google Translate: {datetime.date.today().isoformat()}"
             subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_DIR, check=False)
             subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_DIR, check=True)
-            log("Actualités en direct poussées sur GitHub (lesiou.github.io/daily-news-app).")
+            log("Actualités traduites poussées sur GitHub.")
         except Exception as e:
             log(f"Erreur lors du push Git local: {e}")
 
 if __name__ == "__main__":
-    log("Début de l'exécution du script de mise à jour des VRAIES actualités en direct.")
+    log("Début de l'exécution du script avec Google Translate.")
     update_and_push()
     log("Fin de l'exécution.")

@@ -1,6 +1,6 @@
 /**
  * App.js — Actu du Jour Mobile PWA
- * Pure Apple News Typographic Integration (Swipe Gestures & Clean Tabs)
+ * Pure Apple News Typographic Integration with Real-Time Google Translation
  */
 
 let newsData = null;
@@ -10,6 +10,7 @@ const categoriesList = ['all', 'eco-fin', 'politique', 'tech', 'faits-divers'];
 
 // Per-article translation state tracker (true = translated to French, false = English original)
 const articleTranslationState = {};
+const translatingArticles = {};
 
 // Touch Swipe State
 let touchStartX = 0;
@@ -52,6 +53,23 @@ function renderApp() {
   renderArticles();
 }
 
+// Client-side Google Translate API helper
+async function translateText(text) {
+  if (!text) return '';
+  try {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q=${encodeURIComponent(text)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if (data && data[0]) {
+      return data[0].map(s => s[0]).join('');
+    }
+    return text;
+  } catch (err) {
+    console.error('Google Translate error:', err);
+    return text;
+  }
+}
+
 // Filter and Render Articles with Pure Apple News Typography
 function renderArticles() {
   if (!newsData || !newsData.categories) return;
@@ -75,10 +93,13 @@ function renderArticles() {
 
         <div class="grid grid-cols-1 gap-4">
           ${filteredItems.map(item => {
+            const isFrenchNative = item.language === 'fr';
             const isTranslated = !!articleTranslationState[item.id];
-            const displayTitle = isTranslated && item.titleFr ? item.titleFr : item.title;
-            const displaySummary = isTranslated && item.summaryFr ? item.summaryFr : item.summary;
-            const displayImpact = isTranslated && item.impactFr ? item.impactFr : item.impact;
+            const isTranslating = !!translatingArticles[item.id];
+
+            const displayTitle = (isTranslated && item.titleFr) ? item.titleFr : item.title;
+            const displaySummary = (isTranslated && item.summaryFr) ? item.summaryFr : item.summary;
+            const displayImpact = (isTranslated && item.impactFr) ? item.impactFr : item.impact;
 
             return `
               <article class="news-card group rounded-2xl bg-[#1c1c1e] border border-white/10 p-5 transition-all shadow-xl">
@@ -93,9 +114,13 @@ function renderArticles() {
                     <span>${item.time}</span>
                   </div>
 
-                  <button type="button" onclick="event.stopPropagation(); toggleTranslation('${item.id}');" class="text-xs font-semibold text-[#0a84ff] hover:underline focus:outline-none active:text-[#0a84ff] normal-case shrink-0 ml-2">
-                    ${isTranslated ? 'Show EN' : 'Traduire FR'}
-                  </button>
+                  ${!isFrenchNative ? `
+                    <button type="button" onclick="event.stopPropagation(); toggleTranslation('${item.id}');" class="text-xs font-semibold text-[#0a84ff] hover:underline focus:outline-none active:text-[#0a84ff] normal-case shrink-0 ml-2">
+                      ${isTranslating ? 'Traduction...' : (isTranslated ? 'Afficher VO (EN)' : 'Traduire en FR')}
+                    </button>
+                  ` : `
+                    <span class="text-[10px] font-mono text-[#8e8e93] bg-[#2c2c2e] px-1.5 py-0.5 rounded">FR</span>
+                  `}
                 </div>
 
                 <!-- Article Title (ALWAYS Pure White) -->
@@ -134,9 +159,39 @@ function renderArticles() {
   if (window.lucide) window.lucide.createIcons();
 }
 
-// Toggle translation per article
-window.toggleTranslation = function(articleId) {
-  articleTranslationState[articleId] = !articleTranslationState[articleId];
+// Toggle translation per article (with automatic client-side fallback)
+window.toggleTranslation = async function(articleId) {
+  if (translatingArticles[articleId]) return;
+
+  const willBeTranslated = !articleTranslationState[articleId];
+  articleTranslationState[articleId] = willBeTranslated;
+
+  let targetItem = null;
+  if (newsData && newsData.categories) {
+    for (const cat of newsData.categories) {
+      const found = cat.items.find(i => i.id === articleId);
+      if (found) { targetItem = found; break; }
+    }
+  }
+
+  // If user turns on translation and translation is missing or identical to EN
+  if (willBeTranslated && targetItem && (!targetItem.titleFr || targetItem.titleFr === targetItem.title)) {
+    translatingArticles[articleId] = true;
+    renderArticles();
+
+    try {
+      targetItem.titleFr = await translateText(targetItem.title);
+      targetItem.summaryFr = await translateText(targetItem.summary);
+      if (targetItem.impact) {
+        targetItem.impactFr = await translateText(targetItem.impact);
+      }
+    } catch (e) {
+      console.error('Erreur traduction dynamic:', e);
+    } finally {
+      delete translatingArticles[articleId];
+    }
+  }
+
   renderArticles();
 };
 
@@ -184,18 +239,15 @@ function handleSwipeGesture() {
   const deltaX = touchEndX - touchStartX;
   const deltaY = touchEndY - touchStartY;
   
-  // Horizontal swipe threshold (> 50px) and dominant over vertical scrolling (|deltaX| > |deltaY|)
   if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > 50) {
     const currentIndex = categoriesList.indexOf(activeCategory);
     if (currentIndex === -1) return;
 
     if (deltaX < 0) {
-      // Swiped LEFT -> Next Category
       if (currentIndex < categoriesList.length - 1) {
         switchCategory(categoriesList[currentIndex + 1]);
       }
     } else {
-      // Swiped RIGHT -> Previous Category
       if (currentIndex > 0) {
         switchCategory(categoriesList[currentIndex - 1]);
       }
