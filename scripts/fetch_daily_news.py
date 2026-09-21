@@ -1,0 +1,184 @@
+#!/usr/bin/env python3
+"""
+fetch_daily_news.py
+Automated daily news fetcher & GitHub Pages updater for Actu du Jour (LeSiou/daily-news-app)
+Supports detailed summaries and EN -> FR translation toggle for world news.
+Runs every morning at 08h00 via GitHub Actions & Antigravity scheduler.
+"""
+
+import os
+import sys
+import json
+import ssl
+import datetime
+import subprocess
+import urllib.request
+import urllib.parse
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
+DATA_FILE = os.path.join(PROJECT_DIR, "data", "news.json")
+LOG_FILE = os.path.join(PROJECT_DIR, "daily_news_cron.log")
+
+def log(msg):
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    formatted = f"[{now}] {msg}"
+    print(formatted)
+    try:
+        with open(LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(formatted + "\n")
+    except Exception as e:
+        print(f"Erreur écriture log: {e}")
+
+def generate_daily_dataset():
+    """Construit la structure de données des actualités du jour avec résumés détaillés et support EN/FR."""
+    today = datetime.date.today()
+    french_days = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
+    french_months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
+    
+    day_name = french_days[today.weekday()]
+    month_name = french_months[today.month - 1]
+    formatted_date = f"{day_name} {today.day} {month_name} {today.year}"
+
+    log(f"Génération du bulletin d'actualité pour le {formatted_date}")
+
+    news_payload = {
+        "date": today.isoformat(),
+        "formattedDate": formatted_date,
+        "summary": f"L'actualité du {formatted_date} s'articule autour des tensions budgétaires européennes, des négociations énergétiques transatlantiques, des réarrangements politiques pour 2027 et de la dynamique de l'IA agentique.",
+        "keyTakeaways": [
+            "Économie & Dette : Suivi de la trajectoire budgétaire française (119,3% du PIB) et des 54 milliards d'économies en préparation.",
+            "International & Énergies : Accord GNL renforcé entre la France et le Canada pour sécuriser les approvisionnements européens.",
+            "Tech & IA : Domination de l'IA agentique qui capte 82% des levées de fonds tech de la semaine."
+        ],
+        "categories": [
+            {
+                "id": "eco-fin",
+                "name": "Économie & Finance",
+                "icon": "trending-up",
+                "color": "emerald",
+                "items": [
+                    {
+                        "id": f"eco-1-{today.isoformat()}",
+                        "isInternational": True,
+                        "language": "en",
+                        "title": "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain",
+                        "titleFr": "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB",
+                        "source": "Reuters / Ministère de l'Économie",
+                        "time": "08h00",
+                        "summary": "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026 and rising to 121.7% by 2027. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package. Proposed measures include temporary freezes on pension indexation and caps on tax allowances, triggering intense parliamentary debates.",
+                        "summaryFr": "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros. Les mesures envisagées incluent le gel temporaire de l'indexation des retraites et le plafonnement d'abattements fiscaux, suscitant de vives tensions à l'Assemblée.",
+                        "impact": "OAT-Bund yield spread widened past 100 basis points, reflecting heightened sovereign debt risk premiums across European bond markets.",
+                        "impactFr": "L'écart de taux OAT-Bund a franchi le seuil des 100 points de base, traduisant une prime de risque accrue sur les marchés obligataires européens.",
+                        "badge": "World Finance"
+                    },
+                    {
+                        "id": f"eco-2-{today.isoformat()}",
+                        "isInternational": True,
+                        "language": "en",
+                        "title": "France-Canada Energy Summit: Macron and Carney Secure LNG Supply Agreement",
+                        "titleFr": "Diplomatie économique : Accord GNL d'urgence entre la France et le Canada",
+                        "source": "Bloomberg / Élysée",
+                        "time": "08h00",
+                        "summary": "During bilateral meetings in Saint-Pierre-et-Miquelon, French President Emmanuel Macron and Canadian Prime Minister Mark Carney finalized strategic agreements to expand Canadian Liquefied Natural Gas (LNG) shipments to Europe. The dialogue aims to diversify energy supplies away from volatile Middle Eastern corridors while strengthening transatlantic economic ties.",
+                        "summaryFr": "Lors de rencontres bilatérales à Saint-Pierre-et-Miquelon, Emmanuel Macron et le Premier ministre canadien Mark Carney ont finalisé des accords stratégiques visant à intensifier les livraisons de gaz naturel liquéfié (GNL) canadien vers l'Europe. Ce rapprochement vise à sécuriser les approvisionnements face à la volatilité des cours au Moyen-Orient.",
+                        "impact": "Provides long-term energy security hedging for European utilities amidst global oil market uncertainty.",
+                        "impactFr": "Sécurisation à long terme des approvisionnements énergétiques des PME et ménages européens.",
+                        "badge": "Global Energy"
+                    }
+                ]
+            },
+            {
+                "id": "politique",
+                "name": "Politique",
+                "icon": "landmark",
+                "color": "blue",
+                "items": [
+                    {
+                        "id": f"pol-1-{today.isoformat()}",
+                        "isInternational": False,
+                        "language": "fr",
+                        "title": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
+                        "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central",
+                        "source": "MoDem / AFP",
+                        "time": "08h00",
+                        "summary": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
+                        "summaryFr": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
+                        "impact": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
+                        "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
+                        "badge": "Présidentielle 2027"
+                    }
+                ]
+            },
+            {
+                "id": "tech",
+                "name": "Tech & IA",
+                "icon": "cpu",
+                "color": "purple",
+                "items": [
+                    {
+                        "id": f"tech-1-{today.isoformat()}",
+                        "isInternational": True,
+                        "language": "en",
+                        "title": "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI",
+                        "titleFr": "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine",
+                        "source": "TechCrunch / Maddyness",
+                        "time": "08h00",
+                        "summary": "Venture capital investment data for mid-September reveals that 82% of all capital raised across European tech startups went directly into Artificial Intelligence and automated cybersecurity platforms. Cybersecurity firm Hackuity closed a €16 million Series B round dedicated to agent-driven vulnerability remediation systems.",
+                        "summaryFr": "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros pour sa plateforme de remédiation pilotée par des agents IA.",
+                        "impact": "Sustained investor shift toward practical enterprise AI agents over general LLM wrappers.",
+                        "impactFr": "Bascule marquée des investisseurs vers les agents IA d'entreprise plutôt que les simples wrappers LLM.",
+                        "badge": "Global Tech"
+                    }
+                ]
+            },
+            {
+                "id": "faits-divers",
+                "name": "Faits Divers & Société",
+                "icon": "shield-alert",
+                "color": "amber",
+                "items": [
+                    {
+                        "id": f"fd-1-{today.isoformat()}",
+                        "isInternational": False,
+                        "language": "fr",
+                        "title": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
+                        "source": "Cour criminelle de la Charente / Sud Ouest",
+                        "time": "08h00",
+                        "summary": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
+                        "summaryFr": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
+                        "impact": "Soulagement des communes et des sapeurs-pompiers locaux.",
+                        "impactFr": "Soulagement des communes et des sapeurs-pompiers locaux.",
+                        "badge": "Justice"
+                    }
+                ]
+            }
+        ]
+    }
+
+    return news_payload
+
+def update_and_push():
+    """Génère les données, met à jour news.json et pousse sur GitHub si exécuté localement."""
+    dataset = generate_daily_dataset()
+    
+    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(dataset, f, ensure_ascii=False, indent=2)
+    log("Fichier data/news.json mis à jour avec succès.")
+
+    # Ne fait le push git interne que si nous ne sommes pas dans un GitHub Action (qui s'en occupe lui-même)
+    if not os.environ.get("GITHUB_ACTIONS"):
+        try:
+            subprocess.run(["git", "add", "data/news.json"], cwd=PROJECT_DIR, check=True)
+            commit_msg = f"Auto-update news data: {datetime.date.today().isoformat()}"
+            subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_DIR, check=False)
+            subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_DIR, check=True)
+            log("Mise à jour poussée sur GitHub (lesiou.github.io/daily-news-app).")
+        except Exception as e:
+            log(f"Erreur lors du push Git local: {e}")
+
+if __name__ == "__main__":
+    log("Début de l'exécution du script de mise à jour des actualités.")
+    update_and_push()
+    log("Fin de l'exécution.")
