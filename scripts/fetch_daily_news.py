@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 fetch_daily_news.py
-Automated daily news fetcher & GitHub Pages updater for Actu du Jour (LeSiou/daily-news-app)
-Supports detailed summaries and EN -> FR translation toggle for world news.
+Automated REAL daily news fetcher & GitHub Pages updater for Actu du Jour (LeSiou/daily-news-app)
+Fetches live RSS feeds from Le Monde, BBC, TechCrunch, France Info, Les Echos.
+Auto-translates English articles to French via MyMemory API.
 Runs every morning at 08h00 via GitHub Actions & Antigravity scheduler.
 """
 
@@ -12,11 +13,14 @@ import json
 import ssl
 import datetime
 import subprocess
+import re
+import html
 import urllib.request
 import urllib.parse
+import xml.etree.ElementTree as ET
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
+PROJECT_DIR = os.path.dirname(SCRIPT_DIR) if os.path.basename(SCRIPT_DIR) == "scripts" else SCRIPT_DIR
 DATA_FILE = os.path.join(PROJECT_DIR, "data", "news.json")
 LOG_FILE = os.path.join(PROJECT_DIR, "daily_news_cron.log")
 
@@ -28,10 +32,101 @@ def log(msg):
         with open(LOG_FILE, "a", encoding="utf-8") as f:
             f.write(formatted + "\n")
     except Exception as e:
-        print(f"Erreur écriture log: {e}")
+        pass
 
-def generate_daily_dataset():
-    """Construit la structure de données des actualités du jour avec résumés détaillés et support EN/FR."""
+def clean_text(raw_html):
+    if not raw_html:
+        return ""
+    text = re.sub(r'<[^>]+>', '', raw_html)
+    text = html.unescape(text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
+
+def translate_en_to_fr(text, timeout=4):
+    if not text:
+        return ""
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    try:
+        clean_input = text[:350]
+        url = f"https://api.mymemory.translated.net/get?q={urllib.parse.quote(clean_input)}&langpair=en|fr"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'})
+        with urllib.request.urlopen(req, context=ctx, timeout=timeout) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+            translated = data.get('responseData', {}).get('translatedText', text)
+            return clean_text(translated)
+    except Exception as e:
+        log(f"Translation warning for '{text[:30]}...': {e}")
+        return text
+
+def fetch_rss_items(feed_url, default_source, is_en=False, limit=2):
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    items_out = []
+    
+    try:
+        req = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'})
+        with urllib.request.urlopen(req, context=ctx, timeout=6) as resp:
+            raw_data = resp.read()
+            root = ET.fromstring(raw_data)
+            
+            channel_items = root.findall('.//item')[:limit]
+            for idx, item in enumerate(channel_items):
+                raw_title = item.findtext('title') or ""
+                raw_desc = item.findtext('description') or item.findtext('{http://purl.org/rss/1.0/modules/content/}encoded') or ""
+                
+                title = clean_text(raw_title)
+                desc = clean_text(raw_desc)
+                
+                if not title or len(title) < 10:
+                    continue
+                if not desc or len(desc) < 15:
+                    desc = title
+
+                pub_date = item.findtext('pubDate') or datetime.datetime.now().strftime("%Hh%M")
+                time_str = "08h00"
+                
+                # Format EN / FR
+                if is_en:
+                    log(f"Translating RSS item: {title[:40]}...")
+                    title_fr = translate_en_to_fr(title)
+                    summary_fr = translate_en_to_fr(desc[:300])
+                    item_obj = {
+                        "isInternational": True,
+                        "language": "en",
+                        "title": title,
+                        "titleFr": title_fr if title_fr else title,
+                        "source": default_source,
+                        "time": time_str,
+                        "summary": desc,
+                        "summaryFr": summary_fr if summary_fr else desc,
+                        "impact": f"Global market & political signal via {default_source}",
+                        "impactFr": f"Signal marché et géopolitique majeur transmis par {default_source}",
+                        "badge": "World News"
+                    }
+                else:
+                    item_obj = {
+                        "isInternational": False,
+                        "language": "fr",
+                        "title": title,
+                        "titleFr": title,
+                        "source": default_source,
+                        "time": time_str,
+                        "summary": desc,
+                        "summaryFr": desc,
+                        "impact": f"Analyse et suivi direct par {default_source}",
+                        "impactFr": f"Analyse et suivi direct par {default_source}",
+                        "badge": "France"
+                    }
+                items_out.append(item_obj)
+    except Exception as e:
+        log(f"Error fetching RSS {feed_url}: {e}")
+        
+    return items_out
+
+def build_live_news_dataset():
     today = datetime.date.today()
     french_days = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
     french_months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
@@ -40,16 +135,55 @@ def generate_daily_dataset():
     month_name = french_months[today.month - 1]
     formatted_date = f"{day_name} {today.day} {month_name} {today.year}"
 
-    log(f"Génération du bulletin d'actualité pour le {formatted_date}")
+    log(f"=== Début de la collecte des VRAIES actualités RSS du {formatted_date} ===")
+
+    # Category 1: Economie & Finance
+    eco_items = fetch_rss_items("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business", is_en=True, limit=2)
+    if not eco_items:
+        eco_items = fetch_rss_items("https://www.lesechos.fr/rss/rss_economie.xml", "Les Echos", is_en=False, limit=2)
+    for idx, item in enumerate(eco_items):
+        item["id"] = f"eco-{idx+1}-{today.isoformat()}"
+        item["badge"] = "Économie"
+
+    # Category 2: Politique
+    pol_items = fetch_rss_items("https://www.lemonde.fr/rss/une.xml", "Le Monde", is_en=False, limit=2)
+    if not pol_items:
+        pol_items = fetch_rss_items("https://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", is_en=True, limit=2)
+    for idx, item in enumerate(pol_items):
+        item["id"] = f"pol-{idx+1}-{today.isoformat()}"
+        item["badge"] = "Politique"
+
+    # Category 3: Tech & IA
+    tech_items = fetch_rss_items("https://techcrunch.com/feed/", "TechCrunch", is_en=True, limit=2)
+    if not tech_items:
+        tech_items = fetch_rss_items("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC Tech", is_en=True, limit=2)
+    for idx, item in enumerate(tech_items):
+        item["id"] = f"tech-{idx+1}-{today.isoformat()}"
+        item["badge"] = "Global Tech"
+
+    # Category 4: Faits Divers & Société
+    fd_items = fetch_rss_items("https://www.francetvinfo.fr/titres.rss", "France Info", is_en=False, limit=2)
+    if not fd_items:
+        fd_items = fetch_rss_items("https://www.lefigaro.fr/rss/figaro_actualites.xml", "Le Figaro", is_en=False, limit=2)
+    for idx, item in enumerate(fd_items):
+        item["id"] = f"fd-{idx+1}-{today.isoformat()}"
+        item["badge"] = "Société"
+
+    # Generate key takeaways from top stories
+    takeaways = []
+    if eco_items:
+        takeaways.append(f"Économie : {eco_items[0].get('titleFr', eco_items[0]['title'])}")
+    if pol_items:
+        takeaways.append(f"Politique : {pol_items[0].get('titleFr', pol_items[0]['title'])}")
+    if tech_items:
+        takeaways.append(f"Tech & IA : {tech_items[0].get('titleFr', tech_items[0]['title'])}")
 
     news_payload = {
         "date": today.isoformat(),
         "formattedDate": formatted_date,
-        "summary": f"L'actualité du {formatted_date} s'articule autour des tensions budgétaires européennes, des négociations énergétiques transatlantiques, des réarrangements politiques pour 2027 et de la dynamique de l'IA agentique.",
-        "keyTakeaways": [
-            "Économie & Dette : Suivi de la trajectoire budgétaire française (119,3% du PIB) et des 54 milliards d'économies en préparation.",
-            "International & Énergies : Accord GNL renforcé entre la France et le Canada pour sécuriser les approvisionnements européens.",
-            "Tech & IA : Domination de l'IA agentique qui capte 82% des levées de fonds tech de la semaine."
+        "summary": f"Le bulletin d'actualités en direct du {formatted_date} synthétise les derniers titres de Le Monde, BBC News, TechCrunch et France Info.",
+        "keyTakeaways": takeaways if takeaways else [
+            f"Découvrez les dernières actualités et analyses en direct du {formatted_date}."
         ],
         "categories": [
             {
@@ -57,101 +191,28 @@ def generate_daily_dataset():
                 "name": "Économie & Finance",
                 "icon": "trending-up",
                 "color": "emerald",
-                "items": [
-                    {
-                        "id": f"eco-1-{today.isoformat()}",
-                        "isInternational": True,
-                        "language": "en",
-                        "title": "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain",
-                        "titleFr": "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB",
-                        "source": "Reuters / Ministère de l'Économie",
-                        "time": "08h00",
-                        "summary": "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026 and rising to 121.7% by 2027. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package. Proposed measures include temporary freezes on pension indexation and caps on tax allowances, triggering intense parliamentary debates.",
-                        "summaryFr": "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros. Les mesures envisagées incluent le gel temporaire de l'indexation des retraites et le plafonnement d'abattements fiscaux, suscitant de vives tensions à l'Assemblée.",
-                        "impact": "OAT-Bund yield spread widened past 100 basis points, reflecting heightened sovereign debt risk premiums across European bond markets.",
-                        "impactFr": "L'écart de taux OAT-Bund a franchi le seuil des 100 points de base, traduisant une prime de risque accrue sur les marchés obligataires européens.",
-                        "badge": "World Finance"
-                    },
-                    {
-                        "id": f"eco-2-{today.isoformat()}",
-                        "isInternational": True,
-                        "language": "en",
-                        "title": "France-Canada Energy Summit: Macron and Carney Secure LNG Supply Agreement",
-                        "titleFr": "Diplomatie économique : Accord GNL d'urgence entre la France et le Canada",
-                        "source": "Bloomberg / Élysée",
-                        "time": "08h00",
-                        "summary": "During bilateral meetings in Saint-Pierre-et-Miquelon, French President Emmanuel Macron and Canadian Prime Minister Mark Carney finalized strategic agreements to expand Canadian Liquefied Natural Gas (LNG) shipments to Europe. The dialogue aims to diversify energy supplies away from volatile Middle Eastern corridors while strengthening transatlantic economic ties.",
-                        "summaryFr": "Lors de rencontres bilatérales à Saint-Pierre-et-Miquelon, Emmanuel Macron et le Premier ministre canadien Mark Carney ont finalisé des accords stratégiques visant à intensifier les livraisons de gaz naturel liquéfié (GNL) canadien vers l'Europe. Ce rapprochement vise à sécuriser les approvisionnements face à la volatilité des cours au Moyen-Orient.",
-                        "impact": "Provides long-term energy security hedging for European utilities amidst global oil market uncertainty.",
-                        "impactFr": "Sécurisation à long terme des approvisionnements énergétiques des PME et ménages européens.",
-                        "badge": "Global Energy"
-                    }
-                ]
+                "items": eco_items
             },
             {
                 "id": "politique",
                 "name": "Politique",
                 "icon": "landmark",
                 "color": "blue",
-                "items": [
-                    {
-                        "id": f"pol-1-{today.isoformat()}",
-                        "isInternational": False,
-                        "language": "fr",
-                        "title": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
-                        "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central",
-                        "source": "MoDem / AFP",
-                        "time": "08h00",
-                        "summary": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
-                        "summaryFr": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
-                        "impact": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
-                        "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
-                        "badge": "Présidentielle 2027"
-                    }
-                ]
+                "items": pol_items
             },
             {
                 "id": "tech",
                 "name": "Tech & IA",
                 "icon": "cpu",
                 "color": "purple",
-                "items": [
-                    {
-                        "id": f"tech-1-{today.isoformat()}",
-                        "isInternational": True,
-                        "language": "en",
-                        "title": "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI",
-                        "titleFr": "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine",
-                        "source": "TechCrunch / Maddyness",
-                        "time": "08h00",
-                        "summary": "Venture capital investment data for mid-September reveals that 82% of all capital raised across European tech startups went directly into Artificial Intelligence and automated cybersecurity platforms. Cybersecurity firm Hackuity closed a €16 million Series B round dedicated to agent-driven vulnerability remediation systems.",
-                        "summaryFr": "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros pour sa plateforme de remédiation pilotée par des agents IA.",
-                        "impact": "Sustained investor shift toward practical enterprise AI agents over general LLM wrappers.",
-                        "impactFr": "Bascule marquée des investisseurs vers les agents IA d'entreprise plutôt que les simples wrappers LLM.",
-                        "badge": "Global Tech"
-                    }
-                ]
+                "items": tech_items
             },
             {
                 "id": "faits-divers",
                 "name": "Faits Divers & Société",
                 "icon": "shield-alert",
                 "color": "amber",
-                "items": [
-                    {
-                        "id": f"fd-1-{today.isoformat()}",
-                        "isInternational": False,
-                        "language": "fr",
-                        "title": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
-                        "source": "Cour criminelle de la Charente / Sud Ouest",
-                        "time": "08h00",
-                        "summary": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
-                        "summaryFr": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
-                        "impact": "Soulagement des communes et des sapeurs-pompiers locaux.",
-                        "impactFr": "Soulagement des communes et des sapeurs-pompiers locaux.",
-                        "badge": "Justice"
-                    }
-                ]
+                "items": fd_items
             }
         ]
     }
@@ -159,26 +220,25 @@ def generate_daily_dataset():
     return news_payload
 
 def update_and_push():
-    """Génère les données, met à jour news.json et pousse sur GitHub si exécuté localement."""
-    dataset = generate_daily_dataset()
+    dataset = build_live_news_dataset()
     
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(dataset, f, ensure_ascii=False, indent=2)
-    log("Fichier data/news.json mis à jour avec succès.")
+    log("Fichier data/news.json mis à jour avec les VRAIES actualités en direct.")
 
-    # Ne fait le push git interne que si nous ne sommes pas dans un GitHub Action (qui s'en occupe lui-même)
+    # Commit & push localement si hors GitHub Actions
     if not os.environ.get("GITHUB_ACTIONS"):
         try:
             subprocess.run(["git", "add", "data/news.json"], cwd=PROJECT_DIR, check=True)
-            commit_msg = f"Auto-update news data: {datetime.date.today().isoformat()}"
+            commit_msg = f"Live news feed update: {datetime.date.today().isoformat()}"
             subprocess.run(["git", "commit", "-m", commit_msg], cwd=PROJECT_DIR, check=False)
             subprocess.run(["git", "push", "origin", "main"], cwd=PROJECT_DIR, check=True)
-            log("Mise à jour poussée sur GitHub (lesiou.github.io/daily-news-app).")
+            log("Actualités en direct poussées sur GitHub (lesiou.github.io/daily-news-app).")
         except Exception as e:
             log(f"Erreur lors du push Git local: {e}")
 
 if __name__ == "__main__":
-    log("Début de l'exécution du script de mise à jour des actualités.")
+    log("Début de l'exécution du script de mise à jour des VRAIES actualités en direct.")
     update_and_push()
     log("Fin de l'exécution.")
