@@ -1,11 +1,11 @@
 {
   "date": "2026-09-21",
   "formattedDate": "Lundi 21 Septembre 2026",
-  "summary": "L'actualité du Lundi 21 Septembre 2026 s'articule autour des tensions budgétaires européennes, des négociations énergétiques transatlantiques, des réarrangements politiques pour 2027 et de la dynamique de l'IA agentique.",
+  "summary": "Le bulletin d'actualités en direct du Lundi 21 Septembre 2026 synthétise les derniers titres de Le Monde, BBC News, TechCrunch et France Info.",
   "keyTakeaways": [
-    "Économie & Dette : Suivi de la trajectoire budgétaire française (119,3% du PIB) et des 54 milliards d'économies en préparation.",
-    "International & Énergies : Accord GNL renforcé entre la France et le Canada pour sécuriser les approvisionnements européens.",
-    "Tech & IA : Domination de l'IA agentique qui capte 82% des levées de fonds tech de la semaine."
+    "Économie : Le Royaume-Uni devrait « faire équipe » avec le Canada dans le cadre d'une nouvelle alliance européenne, a déclaré un ministre canadien à la BBC",
+    "Politique : Elif Eralp, le nouveau visage de la gauche radicale après sa victoire à Berlin",
+    "Tech & IA : Plus que 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026"
   ],
   "categories": [
     {
@@ -15,32 +15,32 @@
       "color": "emerald",
       "items": [
         {
-          "id": "eco-1-2026-09-21",
           "isInternational": true,
           "language": "en",
-          "title": "French Sovereign Debt Projected at Record 119.3% of GDP Amid EU Budget Strain",
-          "titleFr": "Finances publiques : La dette française projetée à un niveau record de 119,3% du PIB",
-          "source": "Reuters / Ministère de l'Économie",
+          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+          "titleFr": "Le Royaume-Uni devrait « faire équipe » avec le Canada dans le cadre d'une nouvelle alliance européenne, a déclaré un ministre canadien à la BBC",
+          "source": "BBC Business",
           "time": "08h00",
-          "summary": "France's Ministry of Economy has confirmed updated fiscal projections showing public debt reaching 119.3% of GDP in 2026 and rising to 121.7% by 2027. Facing a persistent budget deficit of 5.4%, the government is drafting a €54 billion expenditure reduction package. Proposed measures include temporary freezes on pension indexation and caps on tax allowances, triggering intense parliamentary debates.",
-          "summaryFr": "Le ministère de l'Économie a confirmé des projections révisées montrant une dette publique atteignant 119,3% du PIB en 2026 et 121,7% en 2027. Face à un déficit budgétaire maintenu à 5,4%, le gouvernement prépare un plan d'économies de 54 milliards d'euros. Les mesures envisagées incluent le gel temporaire de l'indexation des retraites et le plafonnement d'abattements fiscaux, suscitant de vives tensions à l'Assemblée.",
-          "impact": "OAT-Bund yield spread widened past 100 basis points, reflecting heightened sovereign debt risk premiums across European bond markets.",
-          "impactFr": "L'écart de taux OAT-Bund a franchi le seuil des 100 points de base, traduisant une prime de risque accrue sur les marchés obligataires européens.",
-          "badge": "World Finance"
+          "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+          "summaryFr": "Cela survient après que le président de la Commission européenne a proposé « d'ouvrir la porte » au Canada pour qu'il devienne membre associé de l'UE.",
+          "impact": "Global market & political signal via BBC Business",
+          "impactFr": "Signal marché et géopolitique majeur transmis par BBC Business",
+          "badge": "Économie",
+          "id": "eco-1-2026-09-21"
         },
         {
-          "id": "eco-2-2026-09-21",
           "isInternational": true,
           "language": "en",
-          "title": "France-Canada Energy Summit: Macron and Carney Secure LNG Supply Agreement",
-          "titleFr": "Diplomatie économique : Accord GNL d'urgence entre la France et le Canada",
-          "source": "Bloomberg / Élysée",
+          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+          "titleFr": "Les États-Unis et la Chine discutent du plan de sécurité de l'IA avant le sommet Trump-Xi",
+          "source": "BBC Business",
           "time": "08h00",
-          "summary": "During bilateral meetings in Saint-Pierre-et-Miquelon, French President Emmanuel Macron and Canadian Prime Minister Mark Carney finalized strategic agreements to expand Canadian Liquefied Natural Gas (LNG) shipments to Europe. The dialogue aims to diversify energy supplies away from volatile Middle Eastern corridors while strengthening transatlantic economic ties.",
-          "summaryFr": "Lors de rencontres bilatérales à Saint-Pierre-et-Miquelon, Emmanuel Macron et le Premier ministre canadien Mark Carney ont finalisé des accords stratégiques visant à intensifier les livraisons de gaz naturel liquéfié (GNL) canadien vers l'Europe. Ce rapprochement vise à sécuriser les approvisionnements face à la volatilité des cours au Moyen-Orient.",
-          "impact": "Provides long-term energy security hedging for European utilities amidst global oil market uncertainty.",
-          "impactFr": "Sécurisation à long terme des approvisionnements énergétiques des PME et ménages européens.",
-          "badge": "Global Energy"
+          "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+          "summaryFr": "De hauts responsables américains et chinois se sont entretenus à New York dimanche avant un sommet Trump-Xi cette semaine.",
+          "impact": "Global market & political signal via BBC Business",
+          "impactFr": "Signal marché et géopolitique majeur transmis par BBC Business",
+          "badge": "Économie",
+          "id": "eco-2-2026-09-21"
         }
       ]
     },
@@ -51,18 +51,32 @@
       "color": "blue",
       "items": [
         {
-          "id": "pol-1-2026-09-21",
           "isInternational": false,
           "language": "fr",
-          "title": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central pour sceller une candidature unique",
-          "titleFr": "Présidentielle 2027 : François Bayrou propose une primaire du bloc central",
-          "source": "MoDem / AFP",
+          "title": "Elif Eralp, le nouveau visage de la gauche radicale après sa victoire à Berlin",
+          "titleFr": "Elif Eralp, le nouveau visage de la gauche radicale après sa victoire à Berlin",
+          "source": "Le Monde",
           "time": "08h00",
-          "summary": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
-          "summaryFr": "Le président du MoDem François Bayrou a publiquement plaidé pour l'organisation d'une primaire ouverte réunissant l'ensemble des sensibilités de l'ex-majorité présidentielle afin de désigner un candidat unique en 2027. Cette initiative suscite des réserves marquées chez Édouard Philippe et d'autres figures soucieuses de préserver leur autonomie.",
-          "impact": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
-          "impactFr": "Reconfiguration des alliances au centre de l'échiquier politique et ouverture des grandes grandes manœuvres pour 2027.",
-          "badge": "Présidentielle 2027"
+          "summary": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande, dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
+          "summaryFr": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande, dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
+          "impact": "Analyse et suivi direct par Le Monde",
+          "impactFr": "Analyse et suivi direct par Le Monde",
+          "badge": "Politique",
+          "id": "pol-1-2026-09-21"
+        },
+        {
+          "isInternational": false,
+          "language": "fr",
+          "title": "La genèse de la loi intégrale contre les violences sexistes et sexuelles, une conquête féministe",
+          "titleFr": "La genèse de la loi intégrale contre les violences sexistes et sexuelles, une conquête féministe",
+          "source": "Le Monde",
+          "time": "08h00",
+          "summary": "Depuis 2024, les collectifs féministes et enfantistes travaillent main dans la main à un texte global contre les violences sexistes et sexuelles. A compter de lundi, les députés se penchent dans le détail, au sein d’une commission spéciale, sur ses 69 articles.",
+          "summaryFr": "Depuis 2024, les collectifs féministes et enfantistes travaillent main dans la main à un texte global contre les violences sexistes et sexuelles. A compter de lundi, les députés se penchent dans le détail, au sein d’une commission spéciale, sur ses 69 articles.",
+          "impact": "Analyse et suivi direct par Le Monde",
+          "impactFr": "Analyse et suivi direct par Le Monde",
+          "badge": "Politique",
+          "id": "pol-2-2026-09-21"
         }
       ]
     },
@@ -73,18 +87,32 @@
       "color": "purple",
       "items": [
         {
-          "id": "tech-1-2026-09-21",
           "isInternational": true,
           "language": "en",
-          "title": "European AI Startups Capture 82% of Weekly VC Funding Driven by Agentic AI",
-          "titleFr": "French Tech : L'IA agentique capte 82% des levées de fonds de la semaine",
-          "source": "TechCrunch / Maddyness",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "titleFr": "Plus que 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Venture capital investment data for mid-September reveals that 82% of all capital raised across European tech startups went directly into Artificial Intelligence and automated cybersecurity platforms. Cybersecurity firm Hackuity closed a €16 million Series B round dedicated to agent-driven vulnerability remediation systems.",
-          "summaryFr": "Les données de capital-risque de mi-septembre révèlent que 82% des fonds levés par les startups européennes ont été captés par l'intelligence artificielle et la cybersécurité automatisée. La société Hackuity a notamment levé 16 millions d'euros pour sa plateforme de remédiation pilotée par des agents IA.",
-          "impact": "Sustained investor shift toward practical enterprise AI agents over general LLM wrappers.",
-          "impactFr": "Bascule marquée des investisseurs vers les agents IA d'entreprise plutôt que les simples wrappers LLM.",
-          "badge": "Global Tech"
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+          "summaryFr": "Le prix actuel du billet se termine dans 6 jours le 25 septembre à 23 h 59 (HP). Rejoignez plus de 10000 fondateurs, investisseurs et leaders technologiques chez Disrupt et économisez jusqu'à 200 $ sur votre billet d'ici là.",
+          "impact": "Global market & political signal via TechCrunch",
+          "impactFr": "Signal marché et géopolitique majeur transmis par TechCrunch",
+          "badge": "Global Tech",
+          "id": "tech-1-2026-09-21"
+        },
+        {
+          "isInternational": true,
+          "language": "en",
+          "title": "World model companies are keeping a lot of secrets",
+          "titleFr": "Les entreprises mondiales de mannequins gardent beaucoup de secrets",
+          "source": "TechCrunch",
+          "time": "08h00",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+          "summaryFr": "Tout le monde dans le monde des mannequins est assis sur un tas d'argent et une tonne de buzz, mais bonne chance pour amener n'importe qui — des fondateurs à leurs propres fournisseurs de données — à vous dire ce qu'ils construisent réellement.",
+          "impact": "Global market & political signal via TechCrunch",
+          "impactFr": "Signal marché et géopolitique majeur transmis par TechCrunch",
+          "badge": "Global Tech",
+          "id": "tech-2-2026-09-21"
         }
       ]
     },
@@ -95,17 +123,32 @@
       "color": "amber",
       "items": [
         {
-          "id": "fd-1-2026-09-21",
           "isInternational": false,
           "language": "fr",
-          "title": "Charente : 12 ans de réclusion criminelle infligés à l'auteur de 32 départs de feux",
-          "source": "Cour criminelle de la Charente / Sud Ouest",
+          "title": "Quelles sont les pistes d'aides étudiées par le gouvernement lundi face à la flambée des prix des carburants ?",
+          "titleFr": "Quelles sont les pistes d'aides étudiées par le gouvernement lundi face à la flambée des prix des carburants ?",
+          "source": "France Info",
           "time": "08h00",
-          "summary": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
-          "summaryFr": "La cour criminelle départementale de la Charente a condamné un homme de 34 ans à 12 années de prison ferme pour une série de 32 incendies volontaires de forêts et de bâtiments agricoles perpétrés entre l'été 2022 et l'automne 2023. L'accusé s'est vu infliger un suivi socio-judiciaire strict à sa sortie.",
-          "impact": "Soulagement des communes et des sapeurs-pompiers locaux.",
-          "impactFr": "Soulagement des communes et des sapeurs-pompiers locaux.",
-          "badge": "Justice"
+          "summary": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement, qui se réunit lundi.",
+          "summaryFr": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement, qui se réunit lundi.",
+          "impact": "Analyse et suivi direct par France Info",
+          "impactFr": "Analyse et suivi direct par France Info",
+          "badge": "Société",
+          "id": "fd-1-2026-09-21"
+        },
+        {
+          "isInternational": false,
+          "language": "fr",
+          "title": "Les Pyrénées-Orientales, l'Aude et le Gard classés en rouge pour un risque \"très élevé\" de feux de forêt lundi",
+          "titleFr": "Les Pyrénées-Orientales, l'Aude et le Gard classés en rouge pour un risque \"très élevé\" de feux de forêt lundi",
+          "source": "France Info",
+          "time": "08h00",
+          "summary": "Cinq départements sont également classés en orange, pour un risque \"élevé\" : l'Hérault, l'Ardèche, la Drôme, le Vaucluse et les Bouches-du-Rhône.",
+          "summaryFr": "Cinq départements sont également classés en orange, pour un risque \"élevé\" : l'Hérault, l'Ardèche, la Drôme, le Vaucluse et les Bouches-du-Rhône.",
+          "impact": "Analyse et suivi direct par France Info",
+          "impactFr": "Analyse et suivi direct par France Info",
+          "badge": "Société",
+          "id": "fd-2-2026-09-21"
         }
       ]
     }
