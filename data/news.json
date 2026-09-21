@@ -3,9 +3,9 @@
   "formattedDate": "Lundi 21 Septembre 2026",
   "summary": "Le bulletin d'actualités en direct du Lundi 21 Septembre 2026 synthétise les derniers titres de Le Monde, BBC News, TechCrunch et France Info.",
   "keyTakeaways": [
-    "Économie : Le Royaume-Uni devrait « faire équipe » avec le Canada dans le cadre d'une nouvelle alliance européenne, a déclaré un ministre canadien à la BBC",
+    "Économie : Le Royaume-Uni devrait « faire équipe » avec le Canada dans une nouvelle alliance européenne, déclare le ministre canadien à la BBC",
     "Politique : Elif Eralp, le nouveau visage de la gauche radicale après sa victoire à Berlin",
-    "Tech & IA : Plus que 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026"
+    "Tech & IA : Il reste 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026"
   ],
   "categories": [
     {
@@ -18,13 +18,13 @@
           "isInternational": true,
           "language": "en",
           "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-          "titleFr": "Le Royaume-Uni devrait « faire équipe » avec le Canada dans le cadre d'une nouvelle alliance européenne, a déclaré un ministre canadien à la BBC",
+          "titleFr": "Le Royaume-Uni devrait « faire équipe » avec le Canada dans une nouvelle alliance européenne, déclare le ministre canadien à la BBC",
           "source": "BBC Business",
           "time": "08h00",
           "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
           "summaryFr": "Cela survient après que le président de la Commission européenne a proposé « d'ouvrir la porte » au Canada pour qu'il devienne membre associé de l'UE.",
           "impact": "Global market & political signal via BBC Business",
-          "impactFr": "Signal marché et géopolitique majeur transmis par BBC Business",
+          "impactFr": "Signal majeur transmis par BBC Business",
           "badge": "Économie",
           "id": "eco-1-2026-09-21"
         },
@@ -32,13 +32,13 @@
           "isInternational": true,
           "language": "en",
           "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "titleFr": "Les États-Unis et la Chine discutent du plan de sécurité de l'IA avant le sommet Trump-Xi",
+          "titleFr": "Les États-Unis et la Chine discutent d’un plan de sécurité de l’IA avant le sommet Trump-Xi",
           "source": "BBC Business",
           "time": "08h00",
           "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-          "summaryFr": "De hauts responsables américains et chinois se sont entretenus à New York dimanche avant un sommet Trump-Xi cette semaine.",
+          "summaryFr": "De hauts responsables américains et chinois ont eu des entretiens dimanche à New York avant le sommet Trump-Xi cette semaine.",
           "impact": "Global market & political signal via BBC Business",
-          "impactFr": "Signal marché et géopolitique majeur transmis par BBC Business",
+          "impactFr": "Signal majeur transmis par BBC Business",
           "badge": "Économie",
           "id": "eco-2-2026-09-21"
         }
@@ -59,22 +59,22 @@
           "time": "08h00",
           "summary": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande, dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
           "summaryFr": "Die Linke est arrivé en tête des élections régionales dans la capitale allemande, dimanche 20 septembre. Le fruit d’un renouvellement de ses dirigeants et d’une campagne inspirée des méthodes du sénateur américain Bernie Sanders.",
-          "impact": "Analyse et suivi direct par Le Monde",
-          "impactFr": "Analyse et suivi direct par Le Monde",
+          "impact": "Analyse directe par Le Monde",
+          "impactFr": "Analyse directe par Le Monde",
           "badge": "Politique",
           "id": "pol-1-2026-09-21"
         },
         {
           "isInternational": false,
           "language": "fr",
-          "title": "La genèse de la loi intégrale contre les violences sexistes et sexuelles, une conquête féministe",
-          "titleFr": "La genèse de la loi intégrale contre les violences sexistes et sexuelles, une conquête féministe",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky assure que les attaques sur la région de Moscou pendant les élections « ont eu un impact très important »",
+          "titleFr": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky assure que les attaques sur la région de Moscou pendant les élections « ont eu un impact très important »",
           "source": "Le Monde",
           "time": "08h00",
-          "summary": "Depuis 2024, les collectifs féministes et enfantistes travaillent main dans la main à un texte global contre les violences sexistes et sexuelles. A compter de lundi, les députés se penchent dans le détail, au sein d’une commission spéciale, sur ses 69 articles.",
-          "summaryFr": "Depuis 2024, les collectifs féministes et enfantistes travaillent main dans la main à un texte global contre les violences sexistes et sexuelles. A compter de lundi, les députés se penchent dans le détail, au sein d’une commission spéciale, sur ses 69 articles.",
-          "impact": "Analyse et suivi direct par Le Monde",
-          "impactFr": "Analyse et suivi direct par Le Monde",
+          "summary": "Alors que les résultats des législatives en Russie se précisent, avec une large avance pour le parti de Vladimir Poutine, le ministère de la défense a assuré que Moscou « poursuivrait et intensifierait » ses frappes sur l’Ukraine avec des « armes de haute précision ».",
+          "summaryFr": "Alors que les résultats des législatives en Russie se précisent, avec une large avance pour le parti de Vladimir Poutine, le ministère de la défense a assuré que Moscou « poursuivrait et intensifierait » ses frappes sur l’Ukraine avec des « armes de haute précision ».",
+          "impact": "Analyse directe par Le Monde",
+          "impactFr": "Analyse directe par Le Monde",
           "badge": "Politique",
           "id": "pol-2-2026-09-21"
         }
@@ -90,13 +90,13 @@
           "isInternational": true,
           "language": "en",
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-          "titleFr": "Plus que 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026",
+          "titleFr": "Il reste 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026",
           "source": "TechCrunch",
           "time": "08h00",
           "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-          "summaryFr": "Le prix actuel du billet se termine dans 6 jours le 25 septembre à 23 h 59 (HP). Rejoignez plus de 10000 fondateurs, investisseurs et leaders technologiques chez Disrupt et économisez jusqu'à 200 $ sur votre billet d'ici là.",
+          "summaryFr": "Le prix actuel des billets se termine dans 6 jours, le 25 septembre à 23 h 59. PT. Rejoignez plus de 10 000 fondateurs, investisseurs et leaders technologiques chez Disrupt et économisez jusque-là jusqu'à 200 $ sur votre billet.",
           "impact": "Global market & political signal via TechCrunch",
-          "impactFr": "Signal marché et géopolitique majeur transmis par TechCrunch",
+          "impactFr": "Signal majeur transmis par TechCrunch",
           "badge": "Global Tech",
           "id": "tech-1-2026-09-21"
         },
@@ -104,13 +104,13 @@
           "isInternational": true,
           "language": "en",
           "title": "World model companies are keeping a lot of secrets",
-          "titleFr": "Les entreprises mondiales de mannequins gardent beaucoup de secrets",
+          "titleFr": "Les entreprises modèles mondiales gardent beaucoup de secrets",
           "source": "TechCrunch",
           "time": "08h00",
           "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-          "summaryFr": "Tout le monde dans le monde des mannequins est assis sur un tas d'argent et une tonne de buzz, mais bonne chance pour amener n'importe qui — des fondateurs à leurs propres fournisseurs de données — à vous dire ce qu'ils construisent réellement.",
+          "summaryFr": "Tout le monde dans le monde des modèles mondiaux est assis sur une pile d'argent et une tonne de buzz, mais bonne chance pour que quiconque – des fondateurs à leurs propres fournisseurs de données – vous dise ce qu'ils construisent réellement.",
           "impact": "Global market & political signal via TechCrunch",
-          "impactFr": "Signal marché et géopolitique majeur transmis par TechCrunch",
+          "impactFr": "Signal majeur transmis par TechCrunch",
           "badge": "Global Tech",
           "id": "tech-2-2026-09-21"
         }
@@ -131,8 +131,8 @@
           "time": "08h00",
           "summary": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement, qui se réunit lundi.",
           "summaryFr": "L'exécutif cherche à renforcer sa réponse à la crise énergétique alors que les prix à la pompe atteignent des niveaux records. Mais plusieurs arbitrages doivent encore être rendus par le gouvernement, qui se réunit lundi.",
-          "impact": "Analyse et suivi direct par France Info",
-          "impactFr": "Analyse et suivi direct par France Info",
+          "impact": "Analyse directe par France Info",
+          "impactFr": "Analyse directe par France Info",
           "badge": "Société",
           "id": "fd-1-2026-09-21"
         },
@@ -145,8 +145,8 @@
           "time": "08h00",
           "summary": "Cinq départements sont également classés en orange, pour un risque \"élevé\" : l'Hérault, l'Ardèche, la Drôme, le Vaucluse et les Bouches-du-Rhône.",
           "summaryFr": "Cinq départements sont également classés en orange, pour un risque \"élevé\" : l'Hérault, l'Ardèche, la Drôme, le Vaucluse et les Bouches-du-Rhône.",
-          "impact": "Analyse et suivi direct par France Info",
-          "impactFr": "Analyse et suivi direct par France Info",
+          "impact": "Analyse directe par France Info",
+          "impactFr": "Analyse directe par France Info",
           "badge": "Société",
           "id": "fd-2-2026-09-21"
         }
