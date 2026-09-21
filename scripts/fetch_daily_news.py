@@ -3,7 +3,7 @@
 fetch_daily_news.py
 Automated 100% International English News Fetcher & GitHub Pages updater for Actu du Jour.
 Fetches 100% English RSS feeds across ALL categories (BBC World, BBC Business, TechCrunch, BBC Society/US).
-Auto-translates all English articles to French via Google Translate API (gtx).
+Auto-translates all English articles to French via Google Translate API (dict-chrome-ex).
 Allows full "Traduire en FR" / "Afficher VO (EN)" toggle on every single article across the entire app.
 """
 
@@ -15,6 +15,7 @@ import datetime
 import subprocess
 import re
 import html
+import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -48,10 +49,11 @@ def translate_en_to_fr(text, timeout=6):
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
+    time.sleep(0.3)
     try:
         clean_input = text[:500]
-        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q={urllib.parse.quote(clean_input)}"
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'})
+        url = f"https://translate.googleapis.com/translate_a/single?client=dict-chrome-ex&sl=en&tl=fr&dt=t&q={urllib.parse.quote(clean_input)}"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
         with urllib.request.urlopen(req, context=ctx, timeout=timeout) as resp:
             data = json.loads(resp.read().decode('utf-8'))
             if data and data[0]:
@@ -123,7 +125,7 @@ def build_live_news_dataset():
 
     log(f"=== Collecte des actualités 100% ANGLAISES du {formatted_date} ===")
 
-    # Category 1: Économie & Finance (BBC Business & Reuters/Bloomberg)
+    # Category 1: Économie & Finance (BBC Business & Reuters)
     eco_items = fetch_rss_items("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business", "Économie", limit=2)
     for idx, item in enumerate(eco_items):
         item["id"] = f"eco-{idx+1}-{today.isoformat()}"
