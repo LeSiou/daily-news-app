@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-21",
-  "formattedDate": "Lundi 21 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 21 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-22",
+  "formattedDate": "Mardi 22 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 22 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le Royaume-Uni devrait « faire équipe » avec le Canada dans une nouvelle alliance européenne, déclare le ministre canadien à la BBC",
-    "Politique : Le chancelier allemand Merz qualifie les élections régionales de « désastre » pour son parti mais promet de rester",
-    "Tech & IA : Il reste 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026"
+    "Économie : Ineos de Sir Jim Ratcliffe va mettre en veilleuse trois sites chimiques majeurs à Hull",
+    "Politique : Les principaux médias américains boycottent la couverture médiatique partagée par Trump pour protester contre l’interdiction des médias",
+    "Tech & IA : Morphotonics lève 40 millions d'euros pour étendre sa technologie d'affichage aux centres de données"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-          "titleFr": "Le Royaume-Uni devrait « faire équipe » avec le Canada dans une nouvelle alliance européenne, déclare le ministre canadien à la BBC",
+          "title": "Sir Jim Ratcliffe's Ineos to mothball three major chemical sites in Hull",
+          "titleFr": "Ineos de Sir Jim Ratcliffe va mettre en veilleuse trois sites chimiques majeurs à Hull",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-          "summaryFr": "Cela survient après que le président de la Commission européenne a proposé « d'ouvrir la porte » au Canada pour qu'il devienne membre associé de l'UE.",
+          "summary": "The wholesale price of natural gas has almost doubled in the UK and Europe since July.",
+          "summaryFr": "Le prix de gros du gaz naturel a presque doublé au Royaume-Uni et en Europe depuis juillet.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-21"
+          "id": "eco-1-2026-09-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "titleFr": "Les États-Unis et la Chine discutent d’un plan de sécurité de l’IA avant le sommet Trump-Xi",
+          "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+          "titleFr": "Une hausse inattendue des emprunts au Royaume-Uni ajoute à la pression pré-budgétaire sur la chancelière",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-          "summaryFr": "De hauts responsables américains et chinois ont eu des entretiens dimanche à New York avant le sommet Trump-Xi cette semaine.",
+          "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+          "summaryFr": "Les emprunts ont été plus élevés que prévu en août alors que l'inflation exerce une pression accrue sur le gouvernement avant le budget.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-21"
+          "id": "eco-2-2026-09-22"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "titleFr": "Le chancelier allemand Merz qualifie les élections régionales de « désastre » pour son parti mais promet de rester",
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "titleFr": "Les principaux médias américains boycottent la couverture médiatique partagée par Trump pour protester contre l’interdiction des médias",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-          "summaryFr": "Les sondages à la sortie des urnes montrent des pertes préjudiciables pour le parti de centre-droit CDU de Merz dans le Land de Mecklembourg-Poméranie-Occidentale et à Berlin.",
+          "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+          "summaryFr": "La couverture régulière de l'actualité du président a été perturbée après qu'il ait banni CNN, MS NOW et Politico de la Maison Blanche.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-21"
+          "id": "pol-1-2026-09-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-          "titleFr": "Les élections russes ont eu peu de surprises, mais la manière dont le Kremlin utilisera les résultats sera cruciale",
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "titleFr": "La Lituanie est prête à « riposter » mais a des plans d'évacuation face aux menaces russes, déclare le Premier ministre à la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-          "summaryFr": "Vladimir Poutine utilisera probablement ce résultat pour réclamer que la plupart des Russes soutiennent la soi-disant opération militaire spéciale en Ukraine, écrit Steve Rosenberg de la BBC.",
+          "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+          "summaryFr": "Sinkevičius a déclaré à BBC Newsnight que les Lituaniens se sentaient « constamment menacés » par Moscou, mais que la nation était prête à « riposter » si elle était attaquée.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-21"
+          "id": "pol-2-2026-09-22"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-          "titleFr": "Il reste 6 jours pour économiser jusqu'à 200 $ sur TechCrunch Disrupt 2026",
+          "title": "Morphotonics raises €40M to expand its display tech into data centers",
+          "titleFr": "Morphotonics lève 40 millions d'euros pour étendre sa technologie d'affichage aux centres de données",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-          "summaryFr": "Le prix actuel des billets se termine dans 6 jours, le 25 septembre à 23 h 59. PT. Rejoignez plus de 10 000 fondateurs, investisseurs et leaders technologiques chez Disrupt et économisez jusque-là jusqu'à 200 $ sur votre billet.",
+          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+          "summaryFr": "La société de deeptech Morphotonics lève 40 millions d'euros auprès d'investisseurs dont 3M Ventures, Innovation Industries, BOM et Invest-NL.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-21"
+          "id": "tech-1-2026-09-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "World model companies are keeping a lot of secrets",
-          "titleFr": "Les entreprises modèles mondiales gardent beaucoup de secrets",
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "titleFr": "L’homme qui a construit les magasins Apple n’achète pas le pari de la Silicon Valley sur les achats par l’IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-          "summaryFr": "Tout le monde dans le monde des modèles mondiaux est assis sur une pile d'argent et une tonne de buzz, mais bonne chance pour que quiconque – des fondateurs à leurs propres fournisseurs de données – vous dise ce qu'ils construisent réellement.",
+          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+          "summaryFr": "L'architecte de l'Apple Store, Ron Johnson, affirme que la sauce secrète d'Apple a toujours été ses employés.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-21"
+          "id": "tech-2-2026-09-22"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "titleFr": "Ed Sheeran admet ses « erreurs » lors de sa première émission depuis la controverse sur Macklemore",
+          "title": "Flights at major US airports delayed after cable cut by construction workers",
+          "titleFr": "Les vols dans les principaux aéroports américains ont été retardés après que le câble a été coupé par des ouvriers du bâtiment",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-          "summaryFr": "Le chanteur a parlé d’Israël et de Gaza après que Macklemore ait été exclu de sa tournée pour avoir tenu des propos pro-palestiniens sur scène.",
+          "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+          "summaryFr": "Le câble a été réparé et les aéroports reprennent leurs opérations normales, a déclaré le secrétaire américain aux Transports.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-21"
+          "id": "fd-1-2026-09-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-          "titleFr": "L’OTAN salue l’accord avec le Groenland alors que Trump affirme qu’il donnera aux États-Unis un « contrôle permanent de la sécurité »",
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "titleFr": "CNN, MS NOW et Politico intentent une action en justice contre l'interdiction de Trump à la Maison Blanche",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-          "summaryFr": "Le Danemark et les États-Unis sont parvenus à un accord après des mois de menaces de Donald Trump d'annexer le territoire.",
+          "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+          "summaryFr": "Les principaux réseaux américains ont ensuite suspendu la couverture télévisée de Trump à la Maison Blanche alors qu'il se rendait à New York pour un sommet de l'ONU.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-21"
+          "id": "fd-2-2026-09-22"
         }
       ]
     }
