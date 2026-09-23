@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-22",
-  "formattedDate": "Mardi 22 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 22 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-23",
+  "formattedDate": "Mercredi 23 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 23 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Ineos de Sir Jim Ratcliffe va mettre en veilleuse trois sites chimiques majeurs à Hull",
-    "Politique : Les principaux médias américains boycottent la couverture médiatique partagée par Trump pour protester contre l’interdiction des médias",
-    "Tech & IA : Morphotonics lève 40 millions d'euros pour étendre sa technologie d'affichage aux centres de données"
+    "Économie : L'économie britannique connaîtra une croissance inférieure aux prévisions l'année prochaine, selon l'OCDE",
+    "Politique : Les États-Unis et l’Iran tiennent leurs premières négociations depuis juin après la menace « d’anéantissement » de Trump",
+    "Tech & IA : « Nous menons déjà la bataille d’hier » : le Premier ministre grec se montre franc à propos de l’IA"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Sir Jim Ratcliffe's Ineos to mothball three major chemical sites in Hull",
-          "titleFr": "Ineos de Sir Jim Ratcliffe va mettre en veilleuse trois sites chimiques majeurs à Hull",
+          "title": "UK economy will grow by less than expected next year, OECD says",
+          "titleFr": "L'économie britannique connaîtra une croissance inférieure aux prévisions l'année prochaine, selon l'OCDE",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The wholesale price of natural gas has almost doubled in the UK and Europe since July.",
-          "summaryFr": "Le prix de gros du gaz naturel a presque doublé au Royaume-Uni et en Europe depuis juillet.",
+          "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+          "summaryFr": "La hausse des prix de l’énergie due au conflit au Moyen-Orient et au changement climatique pourrait nuire à la croissance.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-22"
+          "id": "eco-1-2026-09-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-          "titleFr": "Une hausse inattendue des emprunts au Royaume-Uni ajoute à la pression pré-budgétaire sur la chancelière",
+          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "titleFr": "Les constructeurs automobiles européens sont en crise. La menace de guerre les sauvera-t-elle ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-          "summaryFr": "Les emprunts ont été plus élevés que prévu en août alors que l'inflation exerce une pression accrue sur le gouvernement avant le budget.",
+          "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+          "summaryFr": "Les dirigeants du secteur automobile à travers l’Europe espèrent que le réarmement pourra les aider à déployer à nouveau leurs muscles industriels.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-22"
+          "id": "eco-2-2026-09-23"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-          "titleFr": "Les principaux médias américains boycottent la couverture médiatique partagée par Trump pour protester contre l’interdiction des médias",
+          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+          "titleFr": "Les États-Unis et l’Iran tiennent leurs premières négociations depuis juin après la menace « d’anéantissement » de Trump",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
-          "summaryFr": "La couverture régulière de l'actualité du président a été perturbée après qu'il ait banni CNN, MS NOW et Politico de la Maison Blanche.",
+          "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+          "summaryFr": "Ces pourparlers sont les premiers depuis l'échec du cessez-le-feu en juin, les parties échangeant des tirs par intermittence.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-22"
+          "id": "pol-1-2026-09-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-          "titleFr": "La Lituanie est prête à « riposter » mais a des plans d'évacuation face aux menaces russes, déclare le Premier ministre à la BBC",
+          "title": "Reports of violence against women in Gaza surge, UN agency finds",
+          "titleFr": "Les rapports faisant état de violences contre les femmes à Gaza se multiplient, selon une agence de l'ONU",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-          "summaryFr": "Sinkevičius a déclaré à BBC Newsnight que les Lituaniens se sentaient « constamment menacés » par Moscou, mais que la nation était prête à « riposter » si elle était attaquée.",
+          "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+          "summaryFr": "Le Fonds des Nations Unies pour la population affirme également qu'il y a eu une « grave augmentation » du nombre de mariages précoces et forcés.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-22"
+          "id": "pol-2-2026-09-23"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Morphotonics raises €40M to expand its display tech into data centers",
-          "titleFr": "Morphotonics lève 40 millions d'euros pour étendre sa technologie d'affichage aux centres de données",
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "titleFr": "« Nous menons déjà la bataille d’hier » : le Premier ministre grec se montre franc à propos de l’IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-          "summaryFr": "La société de deeptech Morphotonics lève 40 millions d'euros auprès d'investisseurs dont 3M Ventures, Innovation Industries, BOM et Invest-NL.",
+          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+          "summaryFr": "La plupart des dirigeants d’une mission commerciale s’en tiennent au discours, mais lorsque j’ai interviewé le Premier ministre grec Kyriakos Mitsotakis cette semaine, il a également admis qu’aucun gouvernement n’était prêt à ce que l’IA s’apprête à faire.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-22"
+          "id": "tech-1-2026-09-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-          "titleFr": "L’homme qui a construit les magasins Apple n’achète pas le pari de la Silicon Valley sur les achats par l’IA",
+          "title": "Discord’s age verification era is upon us, despite community backlash",
+          "titleFr": "L’ère de la vérification de l’âge de Discord est à nos portes, malgré les réactions négatives de la communauté",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-          "summaryFr": "L'architecte de l'Apple Store, Ron Johnson, affirme que la sauce secrète d'Apple a toujours été ses employés.",
+          "summary": "According to Discord, 90% of users will not have to verify their age.",
+          "summaryFr": "Selon Discord, 90 % des utilisateurs n'auront pas à vérifier leur âge.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-22"
+          "id": "tech-2-2026-09-23"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Flights at major US airports delayed after cable cut by construction workers",
-          "titleFr": "Les vols dans les principaux aéroports américains ont été retardés après que le câble a été coupé par des ouvriers du bâtiment",
+          "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+          "titleFr": "L'ouragan Polo s'intensifie et devient une rare tempête de catégorie 5 au large des côtes du Mexique.",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-          "summaryFr": "Le câble a été réparé et les aéroports reprennent leurs opérations normales, a déclaré le secrétaire américain aux Transports.",
+          "summary": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
+          "summaryFr": "L'intensification soudaine de la tempête est \"vraiment remarquable\", a déclaré l'agence américaine de surveillance des ouragans.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-22"
+          "id": "fd-1-2026-09-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "titleFr": "CNN, MS NOW et Politico intentent une action en justice contre l'interdiction de Trump à la Maison Blanche",
+          "title": "Supreme Court stays out of custody case involving surrogate who refused abortion",
+          "titleFr": "La Cour suprême suspend l'affaire concernant une mère porteuse qui a refusé l'avortement",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-          "summaryFr": "Les principaux réseaux américains ont ensuite suspendu la couverture télévisée de Trump à la Maison Blanche alors qu'il se rendait à New York pour un sommet de l'ONU.",
+          "summary": "The surrogate refused an abortion request from the parents after a scan showed the foetus had a severe heart defect.",
+          "summaryFr": "La mère porteuse a refusé la demande d'avortement des parents après qu'un scanner ait montré que le fœtus souffrait d'une grave malformation cardiaque.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-22"
+          "id": "fd-2-2026-09-23"
         }
       ]
     }
