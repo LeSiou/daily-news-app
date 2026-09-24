@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-23",
-  "formattedDate": "Mercredi 23 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 23 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-24",
+  "formattedDate": "Jeudi 24 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 24 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : L'économie britannique connaîtra une croissance inférieure aux prévisions l'année prochaine, selon l'OCDE",
-    "Politique : Les États-Unis et l’Iran tiennent leurs premières négociations depuis juin après la menace « d’anéantissement » de Trump",
-    "Tech & IA : « Nous menons déjà la bataille d’hier » : le Premier ministre grec se montre franc à propos de l’IA"
+    "Économie : 170 £ le sac ? Les utilisateurs de protéines sont contraints par la flambée des prix",
+    "Politique : Un agent Rogue OpenAI a « infiltré » le site Web du gouvernement australien pour la première fois au monde",
+    "Tech & IA : Tout ce qui est nouveau arrive chez Muse, l'agent IA de Meta"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "UK economy will grow by less than expected next year, OECD says",
-          "titleFr": "L'économie britannique connaîtra une croissance inférieure aux prévisions l'année prochaine, selon l'OCDE",
+          "title": "£170 a bag? Protein users squeezed as prices soar",
+          "titleFr": "170 £ le sac ? Les utilisateurs de protéines sont contraints par la flambée des prix",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-          "summaryFr": "La hausse des prix de l’énergie due au conflit au Moyen-Orient et au changement climatique pourrait nuire à la croissance.",
+          "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+          "summaryFr": "Les consommateurs ressentent les conséquences de la hausse du coût des protéines.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-23"
+          "id": "eco-1-2026-09-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-          "titleFr": "Les constructeurs automobiles européens sont en crise. La menace de guerre les sauvera-t-elle ?",
+          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+          "titleFr": "On les qualifiait de « lunettes perverses ». Une version sans caméra transformera-t-elle leur image ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-          "summaryFr": "Les dirigeants du secteur automobile à travers l’Europe espèrent que le réarmement pourra les aider à déployer à nouveau leurs muscles industriels.",
+          "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+          "summaryFr": "Meta a dévoilé des lunettes intelligentes uniquement audio, certains se demandant s'il s'agit d'une réponse aux réactions négatives en matière de confidentialité.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-23"
+          "id": "eco-2-2026-09-24"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-          "titleFr": "Les États-Unis et l’Iran tiennent leurs premières négociations depuis juin après la menace « d’anéantissement » de Trump",
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "titleFr": "Un agent Rogue OpenAI a « infiltré » le site Web du gouvernement australien pour la première fois au monde",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-          "summaryFr": "Ces pourparlers sont les premiers depuis l'échec du cessez-le-feu en juin, les parties échangeant des tirs par intermittence.",
+          "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+          "summaryFr": "L'Australie a critiqué OpenAI pour avoir mis « trop de temps » à leur informer de la violation survenue en juin.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-23"
+          "id": "pol-1-2026-09-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Reports of violence against women in Gaza surge, UN agency finds",
-          "titleFr": "Les rapports faisant état de violences contre les femmes à Gaza se multiplient, selon une agence de l'ONU",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "titleFr": "Trump accueille chaleureusement l'arrivée du chinois Xi en visite aux États-Unis",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-          "summaryFr": "Le Fonds des Nations Unies pour la population affirme également qu'il y a eu une « grave augmentation » du nombre de mariages précoces et forcés.",
+          "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+          "summaryFr": "Le secrétaire américain au Trésor a déclaré que les États-Unis et la Chine étaient parvenus à un accord pour prolonger la trêve commerciale alors que Xi commençait sa visite.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-23"
+          "id": "pol-2-2026-09-24"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-          "titleFr": "« Nous menons déjà la bataille d’hier » : le Premier ministre grec se montre franc à propos de l’IA",
+          "title": "Everything new coming to Meta’s AI agent Muse",
+          "titleFr": "Tout ce qui est nouveau arrive chez Muse, l'agent IA de Meta",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-          "summaryFr": "La plupart des dirigeants d’une mission commerciale s’en tiennent au discours, mais lorsque j’ai interviewé le Premier ministre grec Kyriakos Mitsotakis cette semaine, il a également admis qu’aucun gouvernement n’était prêt à ce que l’IA s’apprête à faire.",
+          "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+          "summaryFr": "Le PDG Mark Zuckerberg a lancé mercredi l'événement annuel Connect de l'entreprise à Menlo Park avec un discours qui a clairement indiqué une chose : Meta se lance à fond sur Muse. Cela arrive même aux lunettes AI de Meta.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-23"
+          "id": "tech-1-2026-09-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Discord’s age verification era is upon us, despite community backlash",
-          "titleFr": "L’ère de la vérification de l’âge de Discord est à nos portes, malgré les réactions négatives de la communauté",
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+          "titleFr": "Meta a créé un portable de type Tamagotchi pour son agent Muse AI",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "According to Discord, 90% of users will not have to verify their age.",
-          "summaryFr": "Selon Discord, 90 % des utilisateurs n'auront pas à vérifier leur âge.",
+          "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+          "summaryFr": "Le petit périphérique matériel crée une autre maison mobile pour son agent IA Muse.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-23"
+          "id": "tech-2-2026-09-24"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
-          "titleFr": "L'ouragan Polo s'intensifie et devient une rare tempête de catégorie 5 au large des côtes du Mexique.",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "titleFr": "Trump accueille chaleureusement l'arrivée du chinois Xi en visite aux États-Unis",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
-          "summaryFr": "L'intensification soudaine de la tempête est \"vraiment remarquable\", a déclaré l'agence américaine de surveillance des ouragans.",
+          "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+          "summaryFr": "Le secrétaire américain au Trésor a déclaré que les États-Unis et la Chine étaient parvenus à un accord pour prolonger la trêve commerciale alors que Xi commençait sa visite.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-23"
+          "id": "fd-1-2026-09-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Supreme Court stays out of custody case involving surrogate who refused abortion",
-          "titleFr": "La Cour suprême suspend l'affaire concernant une mère porteuse qui a refusé l'avortement",
+          "title": "A red carpet and military flyover - How Trump welcomed Xi",
+          "titleFr": "Tapis rouge et survol militaire : comment Trump a accueilli Xi",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The surrogate refused an abortion request from the parents after a scan showed the foetus had a severe heart defect.",
-          "summaryFr": "La mère porteuse a refusé la demande d'avortement des parents après qu'un scanner ait montré que le fœtus souffrait d'une grave malformation cardiaque.",
+          "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+          "summaryFr": "Les deux bombardiers B-1 qui ont survolé sont un élément clé de l'arsenal de combat américain et produisent un rugissement notoirement fort lorsqu'ils passent.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-23"
+          "id": "fd-2-2026-09-24"
         }
       ]
     }
