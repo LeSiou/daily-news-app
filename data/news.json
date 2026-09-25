@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-24",
-  "formattedDate": "Jeudi 24 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 24 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-25",
+  "formattedDate": "Vendredi 25 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 25 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : 170 £ le sac ? Les utilisateurs de protéines sont contraints par la flambée des prix",
-    "Politique : Un agent Rogue OpenAI a « infiltré » le site Web du gouvernement australien pour la première fois au monde",
-    "Tech & IA : Tout ce qui est nouveau arrive chez Muse, l'agent IA de Meta"
+    "Économie : Les États-Unis soutiennent la tentative d'Elon Musk d'annuler l'amende européenne de 120 millions d'euros contre X",
+    "Politique : Trump et Xi échangent des paroles chaleureuses lors du dîner d'État mais peu de progrès sur les questions clés",
+    "Tech & IA : Lightspeed vise 250 millions de dollars pour un nouveau fonds indien, axé sur l'IA à un stade précoce"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "£170 a bag? Protein users squeezed as prices soar",
-          "titleFr": "170 £ le sac ? Les utilisateurs de protéines sont contraints par la flambée des prix",
+          "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+          "titleFr": "Les États-Unis soutiennent la tentative d'Elon Musk d'annuler l'amende européenne de 120 millions d'euros contre X",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Consumers are feeling the pinch from the rising cost of protein.",
-          "summaryFr": "Les consommateurs ressentent les conséquences de la hausse du coût des protéines.",
+          "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+          "summaryFr": "L'UE avait déclaré que X \"trompait les utilisateurs\" en vendant des ticks bleus sans \"vérifier de manière significative\" les comptes.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-24"
+          "id": "eco-1-2026-09-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "titleFr": "On les qualifiait de « lunettes perverses ». Une version sans caméra transformera-t-elle leur image ?",
+          "title": "'We're all broke': Would you chase a friend for £5?",
+          "titleFr": "« Nous sommes tous fauchés » : poursuivriez-vous un ami pour 5 £ ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-          "summaryFr": "Meta a dévoilé des lunettes intelligentes uniquement audio, certains se demandant s'il s'agit d'une réponse aux réactions négatives en matière de confidentialité.",
+          "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
+          "summaryFr": "Quelle est la plus petite somme d’argent que vous demanderiez à un ami de vous rembourser ?",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-24"
+          "id": "eco-2-2026-09-25"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "titleFr": "Un agent Rogue OpenAI a « infiltré » le site Web du gouvernement australien pour la première fois au monde",
+          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+          "titleFr": "Trump et Xi échangent des paroles chaleureuses lors du dîner d'État mais peu de progrès sur les questions clés",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-          "summaryFr": "L'Australie a critiqué OpenAI pour avoir mis « trop de temps » à leur informer de la violation survenue en juin.",
+          "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+          "summaryFr": "Malgré les subtilités et les cadeaux diplomatiques, peu de choses ont été partagées sur les questions de fond qui séparaient les dirigeants.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-24"
+          "id": "pol-1-2026-09-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-          "titleFr": "Trump accueille chaleureusement l'arrivée du chinois Xi en visite aux États-Unis",
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "titleFr": "Xi a reçu le tapis rouge de Trump, mais pas tout ce qu'il voulait",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-          "summaryFr": "Le secrétaire américain au Trésor a déclaré que les États-Unis et la Chine étaient parvenus à un accord pour prolonger la trêve commerciale alors que Xi commençait sa visite.",
+          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+          "summaryFr": "La Chine souhaitait des progrès dans les domaines du commerce, de la technologie et de Taiwan – mais n’a pas obtenu autant qu’elle l’aurait espéré.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-24"
+          "id": "pol-2-2026-09-25"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Everything new coming to Meta’s AI agent Muse",
-          "titleFr": "Tout ce qui est nouveau arrive chez Muse, l'agent IA de Meta",
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "titleFr": "Lightspeed vise 250 millions de dollars pour un nouveau fonds indien, axé sur l'IA à un stade précoce",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-          "summaryFr": "Le PDG Mark Zuckerberg a lancé mercredi l'événement annuel Connect de l'entreprise à Menlo Park avec un discours qui a clairement indiqué une chose : Meta se lance à fond sur Muse. Cela arrive même aux lunettes AI de Meta.",
+          "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "summaryFr": "La société de capital-risque aligne pour la première fois son cycle de collecte de fonds en Inde avec ses fonds mondiaux, en passant à une période d'investissement plus courte.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-24"
+          "id": "tech-1-2026-09-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "titleFr": "Meta a créé un portable de type Tamagotchi pour son agent Muse AI",
+          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+          "titleFr": "Waymo évolue rapidement : voici ce que montrent les données de la flotte",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-          "summaryFr": "Le petit périphérique matériel crée une autre maison mobile pour son agent IA Muse.",
+          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
+          "summaryFr": "Au cours du mois dernier, Waymo a élargi sa flotte au Texas de 49 %. Il existe également d’autres points chauds.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-24"
+          "id": "tech-2-2026-09-25"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-          "titleFr": "Trump accueille chaleureusement l'arrivée du chinois Xi en visite aux États-Unis",
+          "title": "Watch: Protests and walkouts as Netanyahu addresses UN",
+          "titleFr": "À regarder : Manifestations et débrayages alors que Netanyahu s’adresse à l’ONU",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-          "summaryFr": "Le secrétaire américain au Trésor a déclaré que les États-Unis et la Chine étaient parvenus à un accord pour prolonger la trêve commerciale alors que Xi commençait sa visite.",
+          "summary": "The BBC’s Nada Tawfik explains what happened even before the Israeli prime minister took to the stage at the United Nations General Assembly in New York.",
+          "summaryFr": "Nada Tawfik de la BBC explique ce qui s’est passé avant même que le Premier ministre israélien ne monte sur scène à l’Assemblée générale des Nations Unies à New York.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-24"
+          "id": "fd-1-2026-09-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "A red carpet and military flyover - How Trump welcomed Xi",
-          "titleFr": "Tapis rouge et survol militaire : comment Trump a accueilli Xi",
+          "title": "A military threat from US? Canadians react to Carney's concerns",
+          "titleFr": "Une menace militaire américaine ? Les Canadiens réagissent aux inquiétudes de Carney",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-          "summaryFr": "Les deux bombardiers B-1 qui ont survolé sont un élément clé de l'arsenal de combat américain et produisent un rugissement notoirement fort lorsqu'ils passent.",
+          "summary": "The Canadian Prime Minister told The New York Times that Canada has considered the remote possibility of US military action.",
+          "summaryFr": "Le Premier ministre canadien a déclaré au New York Times que le Canada avait envisagé la faible possibilité d'une action militaire américaine.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-24"
+          "id": "fd-2-2026-09-25"
         }
       ]
     }
