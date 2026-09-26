@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-25",
-  "formattedDate": "Vendredi 25 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 25 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-26",
+  "formattedDate": "Samedi 26 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 26 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les États-Unis soutiennent la tentative d'Elon Musk d'annuler l'amende européenne de 120 millions d'euros contre X",
-    "Politique : Trump et Xi échangent des paroles chaleureuses lors du dîner d'État mais peu de progrès sur les questions clés",
-    "Tech & IA : Lightspeed vise 250 millions de dollars pour un nouveau fonds indien, axé sur l'IA à un stade précoce"
+    "Économie : Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
+    "Politique : L’Iran propose aux États-Unis un accord pour rouvrir le détroit d’Ormuz dans sept jours",
+    "Tech & IA : Chez Meta Connect, les lunettes intelligentes de l’entreprise étaient partout"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-          "titleFr": "Les États-Unis soutiennent la tentative d'Elon Musk d'annuler l'amende européenne de 120 millions d'euros contre X",
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-          "summaryFr": "L'UE avait déclaré que X \"trompait les utilisateurs\" en vendant des ticks bleus sans \"vérifier de manière significative\" les comptes.",
+          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-25"
+          "id": "eco-1-2026-09-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'We're all broke': Would you chase a friend for £5?",
-          "titleFr": "« Nous sommes tous fauchés » : poursuivriez-vous un ami pour 5 £ ?",
+          "title": "Could an iced coffee freeze you out of the job market?",
+          "titleFr": "Un café glacé pourrait-il vous exclure du marché du travail ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
-          "summaryFr": "Quelle est la plus petite somme d’argent que vous demanderiez à un ami de vous rembourser ?",
+          "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+          "summaryFr": "Les employés et les recruteurs participent au débat en ligne sur l'étiquette des entretiens.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-25"
+          "id": "eco-2-2026-09-26"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-          "titleFr": "Trump et Xi échangent des paroles chaleureuses lors du dîner d'État mais peu de progrès sur les questions clés",
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "titleFr": "L’Iran propose aux États-Unis un accord pour rouvrir le détroit d’Ormuz dans sept jours",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-          "summaryFr": "Malgré les subtilités et les cadeaux diplomatiques, peu de choses ont été partagées sur les questions de fond qui séparaient les dirigeants.",
+          "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "summaryFr": "Interrogé sur la proposition iranienne, un responsable américain a déclaré à la BBC que des « discussions constructives » avaient lieu par l'intermédiaire de médiateurs.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-25"
+          "id": "pol-1-2026-09-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-          "titleFr": "Xi a reçu le tapis rouge de Trump, mais pas tout ce qu'il voulait",
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-          "summaryFr": "La Chine souhaitait des progrès dans les domaines du commerce, de la technologie et de Taiwan – mais n’a pas obtenu autant qu’elle l’aurait espéré.",
+          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-25"
+          "id": "pol-2-2026-09-26"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-          "titleFr": "Lightspeed vise 250 millions de dollars pour un nouveau fonds indien, axé sur l'IA à un stade précoce",
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "titleFr": "Chez Meta Connect, les lunettes intelligentes de l’entreprise étaient partout",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-          "summaryFr": "La société de capital-risque aligne pour la première fois son cycle de collecte de fonds en Inde avec ses fonds mondiaux, en passant à une période d'investissement plus courte.",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+          "summaryFr": "L'entreprise derrière Facebook et Instagram souhaite garder les consommateurs connectés au monde numérique via sa gamme toujours croissante de lunettes intelligentes.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-25"
+          "id": "tech-1-2026-09-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-          "titleFr": "Waymo évolue rapidement : voici ce que montrent les données de la flotte",
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "titleFr": "Crusoé abandonne son projet de 1,25 milliard de dollars visant à utiliser les turbines Boom dans les centres de données d'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
-          "summaryFr": "Au cours du mois dernier, Waymo a élargi sa flotte au Texas de 49 %. Il existe également d’autres points chauds.",
+          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+          "summaryFr": "Le PDG de Boom Supersonic, Blake Scholl, a déclaré que les nouvelles centrales électriques stationnaires de la société ne faisaient plus partie des plans à court terme de Crusoe.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-25"
+          "id": "tech-2-2026-09-26"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Watch: Protests and walkouts as Netanyahu addresses UN",
-          "titleFr": "À regarder : Manifestations et débrayages alors que Netanyahu s’adresse à l’ONU",
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The BBC’s Nada Tawfik explains what happened even before the Israeli prime minister took to the stage at the United Nations General Assembly in New York.",
-          "summaryFr": "Nada Tawfik de la BBC explique ce qui s’est passé avant même que le Premier ministre israélien ne monte sur scène à l’Assemblée générale des Nations Unies à New York.",
+          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-25"
+          "id": "fd-1-2026-09-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "A military threat from US? Canadians react to Carney's concerns",
-          "titleFr": "Une menace militaire américaine ? Les Canadiens réagissent aux inquiétudes de Carney",
+          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+          "titleFr": "Une femme noire retrouvée pendue à un arbre était morte avant que son corps ne soit « mis en scène », selon la police",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The Canadian Prime Minister told The New York Times that Canada has considered the remote possibility of US military action.",
-          "summaryFr": "Le Premier ministre canadien a déclaré au New York Times que le Canada avait envisagé la faible possibilité d'une action militaire américaine.",
+          "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+          "summaryFr": "Le corps de Tasia Fortune a été retrouvé pendu à un arbre sur le terrain d'une maison abandonnée à Jackson en août.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-25"
+          "id": "fd-2-2026-09-26"
         }
       ]
     }
