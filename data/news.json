@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-26",
-  "formattedDate": "Samedi 26 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 26 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-27",
+  "formattedDate": "Dimanche 27 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 27 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
-    "Politique : L’Iran propose aux États-Unis un accord pour rouvrir le détroit d’Ormuz dans sept jours",
-    "Tech & IA : Chez Meta Connect, les lunettes intelligentes de l’entreprise étaient partout"
+    "Économie : Faisal Islam : les deux grandes décisions que le chancelier doit prendre",
+    "Politique : Le ministre iranien affirme que seules les négociations peuvent mettre fin au conflit après que Trump a rejeté l'accord d'Ormuz",
+    "Tech & IA : Le nouveau masque facial du PNOE veut faire des alcootests de qualité laboratoire une affaire en libre-service"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
+          "title": "Faisal Islam: The two big decisions the chancellor must make",
+          "titleFr": "Faisal Islam : les deux grandes décisions que le chancelier doit prendre",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
+          "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+          "summaryFr": "Il doit tenir compte de la longévité des pressions économiques liées à la guerre en Iran et de la manière de maintenir un optimisme modeste, écrit Faisal Islam de la BBC.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-26"
+          "id": "eco-1-2026-09-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Could an iced coffee freeze you out of the job market?",
-          "titleFr": "Un café glacé pourrait-il vous exclure du marché du travail ?",
+          "title": "Heathrow Airport warns third runway could be delayed by four years",
+          "titleFr": "L'aéroport d'Heathrow prévient que la troisième piste pourrait être retardée de quatre ans",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
-          "summaryFr": "Les employés et les recruteurs participent au débat en ligne sur l'étiquette des entretiens.",
+          "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+          "summaryFr": "L'aéroport le plus fréquenté du Royaume-Uni prévient qu'il pourrait ne pas atteindre l'objectif du gouvernement de 2035, les ministres affirmant que l'échéance a « toujours été ambitieuse ».",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-26"
+          "id": "eco-2-2026-09-27"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-          "titleFr": "L’Iran propose aux États-Unis un accord pour rouvrir le détroit d’Ormuz dans sept jours",
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "titleFr": "Le ministre iranien affirme que seules les négociations peuvent mettre fin au conflit après que Trump a rejeté l'accord d'Ormuz",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-          "summaryFr": "Interrogé sur la proposition iranienne, un responsable américain a déclaré à la BBC que des « discussions constructives » avaient lieu par l'intermédiaire de médiateurs.",
+          "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+          "summaryFr": "Le ministre des Affaires étrangères affirme que Téhéran attend un rejet officiel de l'accord, malgré les commentaires du président américain.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-26"
+          "id": "pol-1-2026-09-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
+          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+          "titleFr": "La tueuse Christa Pike doit être exécutée dans quelques jours – mais sa défense affirme qu'elle est également une victime",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
+          "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+          "summaryFr": "Les avocats de Pike, qui a tué un camarade étudiant en 1995, affirment qu'elle devrait bénéficier d'une grâce et qu'elle ne serait pas condamnée à mort si le crime se produisait aujourd'hui.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-26"
+          "id": "pol-2-2026-09-27"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "At Meta Connect, the company’s smart glasses were everywhere",
-          "titleFr": "Chez Meta Connect, les lunettes intelligentes de l’entreprise étaient partout",
+          "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+          "titleFr": "Le nouveau masque facial du PNOE veut faire des alcootests de qualité laboratoire une affaire en libre-service",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-          "summaryFr": "L'entreprise derrière Facebook et Instagram souhaite garder les consommateurs connectés au monde numérique via sa gamme toujours croissante de lunettes intelligentes.",
+          "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+          "summaryFr": "PNOĒ, la startup basée à Malden, dans le Massachusetts, dont le masque d'analyse de l'haleine ressemblait malheureusement à celui de Bane, lance le 1er octobre une version libre-service plus élégante qui permet aux amateurs de salle de sport de mesurer leur VO₂ max et d'autres marqueurs métaboliques en huit minutes sans opérateur qualifié.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-26"
+          "id": "tech-1-2026-09-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-          "titleFr": "Crusoé abandonne son projet de 1,25 milliard de dollars visant à utiliser les turbines Boom dans les centres de données d'IA",
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "titleFr": "Google teste les achats auprès de Flipkart, propriété de Walmart, via Gemini et AI Mode en Inde",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-          "summaryFr": "Le PDG de Boom Supersonic, Blake Scholl, a déclaré que les nouvelles centrales électriques stationnaires de la société ne faisaient plus partie des plans à court terme de Crusoe.",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "summaryFr": "Le test limité couvre certains produits et utilisateurs, avec un déploiement plus large prévu plus tard en octobre.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-26"
+          "id": "tech-2-2026-09-27"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "titleFr": "Des robots OpenAI se sont mêlés à plusieurs sites d'agences gouvernementales américaines",
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "titleFr": "Nor'easter provoque des inondations alors que New York et le New Jersey déclarent l'état d'urgence",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-          "summaryFr": "OpenAI a déclaré que ses robots avaient accédé aux données publiques de diverses institutions lors d'exercices de test.",
+          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+          "summaryFr": "Des dizaines de millions de personnes, du Maine à la Virginie, sont sur le chemin de cette puissante tempête.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-26"
+          "id": "fd-1-2026-09-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-          "titleFr": "Une femme noire retrouvée pendue à un arbre était morte avant que son corps ne soit « mis en scène », selon la police",
+          "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+          "titleFr": "La sécurité du campus de l'Utah où Charlie Kirk a été tué, selon une étude",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-          "summaryFr": "Le corps de Tasia Fortune a été retrouvé pendu à un arbre sur le terrain d'une maison abandonnée à Jackson en août.",
+          "summary": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+          "summaryFr": "Le rapport indépendant indique également que les assistants de Kirk ont ​​insisté pour qu'il parle à l'extérieur, dépassant ainsi les inquiétudes des responsables du campus.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-26"
+          "id": "fd-2-2026-09-27"
         }
       ]
     }
