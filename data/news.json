@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-27",
-  "formattedDate": "Dimanche 27 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 27 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-28",
+  "formattedDate": "Lundi 28 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 28 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Faisal Islam : les deux grandes décisions que le chancelier doit prendre",
-    "Politique : Le ministre iranien affirme que seules les négociations peuvent mettre fin au conflit après que Trump a rejeté l'accord d'Ormuz",
-    "Tech & IA : Le nouveau masque facial du PNOE veut faire des alcootests de qualité laboratoire une affaire en libre-service"
+    "Économie : Le prix du diesel au Royaume-Uni atteint un niveau record, selon RAC",
+    "Politique : Dans la ville de première ligne du Yémen alors que les Houthis se battent pour le contrôle",
+    "Tech & IA : Truecaller transpose ses informations sur les escroqueries sur le Web ouvert, au-delà de l'identification de l'appelant."
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Faisal Islam: The two big decisions the chancellor must make",
-          "titleFr": "Faisal Islam : les deux grandes décisions que le chancelier doit prendre",
+          "title": "UK diesel price hits all-time high, RAC says",
+          "titleFr": "Le prix du diesel au Royaume-Uni atteint un niveau record, selon RAC",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-          "summaryFr": "Il doit tenir compte de la longévité des pressions économiques liées à la guerre en Iran et de la manière de maintenir un optimisme modeste, écrit Faisal Islam de la BBC.",
+          "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
+          "summaryFr": "La guerre entre les États-Unis et Israël contre l’Iran a fait monter en flèche les prix du carburant.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-27"
+          "id": "eco-1-2026-09-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Heathrow Airport warns third runway could be delayed by four years",
-          "titleFr": "L'aéroport d'Heathrow prévient que la troisième piste pourrait être retardée de quatre ans",
+          "title": "Why UK diesel prices have hit an all-time high",
+          "titleFr": "Pourquoi les prix du diesel au Royaume-Uni ont atteint un niveau record",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-          "summaryFr": "L'aéroport le plus fréquenté du Royaume-Uni prévient qu'il pourrait ne pas atteindre l'objectif du gouvernement de 2035, les ministres affirmant que l'échéance a « toujours été ambitieuse ».",
+          "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+          "summaryFr": "Le prix moyen d'un litre de diesel à la pompe s'élève à 198,32p, selon l'organisme automobile RAC.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-27"
+          "id": "eco-2-2026-09-28"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-          "titleFr": "Le ministre iranien affirme que seules les négociations peuvent mettre fin au conflit après que Trump a rejeté l'accord d'Ormuz",
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "titleFr": "Dans la ville de première ligne du Yémen alors que les Houthis se battent pour le contrôle",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-          "summaryFr": "Le ministre des Affaires étrangères affirme que Téhéran attend un rejet officiel de l'accord, malgré les commentaires du président américain.",
+          "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+          "summaryFr": "Dans un accès rare à la zone de conflit du Yémen, la BBC se rend sur la ligne de front avec des soldats pro-gouvernementaux.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-27"
+          "id": "pol-1-2026-09-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
-          "titleFr": "La tueuse Christa Pike doit être exécutée dans quelques jours – mais sa défense affirme qu'elle est également une victime",
+          "title": "Trump-Xi summit: What wasn't said might matter the most",
+          "titleFr": "Sommet Trump-Xi : ce qui n’a pas été dit pourrait être le plus important",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-          "summaryFr": "Les avocats de Pike, qui a tué un camarade étudiant en 1995, affirment qu'elle devrait bénéficier d'une grâce et qu'elle ne serait pas condamnée à mort si le crime se produisait aujourd'hui.",
+          "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+          "summaryFr": "La chose la plus révélatrice du sommet de Washington est peut-être ce que les deux dirigeants n'ont pas dit – et ce que nous ne savons toujours pas.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-27"
+          "id": "pol-2-2026-09-28"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-          "titleFr": "Le nouveau masque facial du PNOE veut faire des alcootests de qualité laboratoire une affaire en libre-service",
+          "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+          "titleFr": "Truecaller transpose ses informations sur les escroqueries sur le Web ouvert, au-delà de l'identification de l'appelant.",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-          "summaryFr": "PNOĒ, la startup basée à Malden, dans le Massachusetts, dont le masque d'analyse de l'haleine ressemblait malheureusement à celui de Bane, lance le 1er octobre une version libre-service plus élégante qui permet aux amateurs de salle de sport de mesurer leur VO₂ max et d'autres marqueurs métaboliques en huit minutes sans opérateur qualifié.",
+          "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+          "summaryFr": "Truecaller trouve une nouvelle façon d'atteindre les utilisateurs alors que la pression augmente sur son activité traditionnelle d'identification des appelants en Inde, son plus grand marché.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-27"
+          "id": "tech-1-2026-09-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "titleFr": "Google teste les achats auprès de Flipkart, propriété de Walmart, via Gemini et AI Mode en Inde",
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "titleFr": "Le PDG d’Anthropic s’apprête à dîner avec le président Trump",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-          "summaryFr": "Le test limité couvre certains produits et utilisateurs, avec un déploiement plus large prévu plus tard en octobre.",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "summaryFr": "Ce sera la première rencontre en tête-à-tête entre Dario Amodei et Donald Trump",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-27"
+          "id": "tech-2-2026-09-28"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-          "titleFr": "Nor'easter provoque des inondations alors que New York et le New Jersey déclarent l'état d'urgence",
+          "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
+          "titleFr": "Cinq personnes arrêtées alors que la police antiterroriste enquête sur un incident majeur près d'une base aérienne britannique utilisée par les forces américaines",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-          "summaryFr": "Des dizaines de millions de personnes, du Maine à la Virginie, sont sur le chemin de cette puissante tempête.",
+          "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+          "summaryFr": "Les hommes ont été arrêtés parce qu'ils étaient soupçonnés de préparer un acte terroriste après que trois véhicules suspects se dirigeaient vers la base.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-27"
+          "id": "fd-1-2026-09-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-          "titleFr": "La sécurité du campus de l'Utah où Charlie Kirk a été tué, selon une étude",
+          "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
+          "titleFr": "Taylor Swift bat le record du plus grand nombre de MTV VMA alors que Madonna gagne également",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-          "summaryFr": "Le rapport indépendant indique également que les assistants de Kirk ont ​​insisté pour qu'il parle à l'extérieur, dépassant ainsi les inquiétudes des responsables du campus.",
+          "summary": "Swift took home the big award for video of the year on a night when the original Queen of Pop performed.",
+          "summaryFr": "Swift a remporté le grand prix de la vidéo de l'année un soir où la reine de la pop originale s'est produite.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-27"
+          "id": "fd-2-2026-09-28"
         }
       ]
     }
