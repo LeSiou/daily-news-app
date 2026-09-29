@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-28",
-  "formattedDate": "Lundi 28 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 28 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-29",
+  "formattedDate": "Mardi 29 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 29 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le prix du diesel au Royaume-Uni atteint un niveau record, selon RAC",
-    "Politique : Dans la ville de première ligne du Yémen alors que les Houthis se battent pour le contrôle",
-    "Tech & IA : Truecaller transpose ses informations sur les escroqueries sur le Web ouvert, au-delà de l'identification de l'appelant."
+    "Économie : Burnham dévoilera un organisme public pour investir dans le réseau électrique",
+    "Politique : OpenAI abandonne le déploiement d'un nouveau modèle pour des raisons de sécurité",
+    "Tech & IA : Protego Ventures clôture un premier fonds de 125 millions de dollars pour la technologie de défense israélienne"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "UK diesel price hits all-time high, RAC says",
-          "titleFr": "Le prix du diesel au Royaume-Uni atteint un niveau record, selon RAC",
+          "title": "Burnham to unveil public body to invest in electricity grid",
+          "titleFr": "Burnham dévoilera un organisme public pour investir dans le réseau électrique",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
-          "summaryFr": "La guerre entre les États-Unis et Israël contre l’Iran a fait monter en flèche les prix du carburant.",
+          "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+          "summaryFr": "Le Premier ministre dira qu’il souhaite réduire les coûts de l’énergie lors de son premier discours en tant que leader travailliste.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-28"
+          "id": "eco-1-2026-09-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why UK diesel prices have hit an all-time high",
-          "titleFr": "Pourquoi les prix du diesel au Royaume-Uni ont atteint un niveau record",
+          "title": "Warning more homes will be uninsurable due to flood risk",
+          "titleFr": "Avertissement : davantage de maisons ne seront plus assurables en raison du risque d'inondation",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-          "summaryFr": "Le prix moyen d'un litre de diesel à la pompe s'élève à 198,32p, selon l'organisme automobile RAC.",
+          "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+          "summaryFr": "La patronne d'Aviva, Amanda Blanc, a déclaré que l'Angleterre construisait \"à coup sûr\" des maisons qui pourraient ne plus être assurables à un moment donné dans le futur.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-28"
+          "id": "eco-2-2026-09-29"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Inside Yemen's front-line city as Houthis battle for control",
-          "titleFr": "Dans la ville de première ligne du Yémen alors que les Houthis se battent pour le contrôle",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "titleFr": "OpenAI abandonne le déploiement d'un nouveau modèle pour des raisons de sécurité",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-          "summaryFr": "Dans un accès rare à la zone de conflit du Yémen, la BBC se rend sur la ligne de front avec des soldats pro-gouvernementaux.",
+          "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+          "summaryFr": "La société a également publié une mise à jour sur les incidents au cours desquels ses modèles ont accédé aux systèmes du gouvernement australien.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-28"
+          "id": "pol-1-2026-09-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump-Xi summit: What wasn't said might matter the most",
-          "titleFr": "Sommet Trump-Xi : ce qui n’a pas été dit pourrait être le plus important",
+          "title": "Evicted Spanish pensioner can move back home, lawyer says",
+          "titleFr": "Un retraité espagnol expulsé peut rentrer chez lui, selon un avocat",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
-          "summaryFr": "La chose la plus révélatrice du sommet de Washington est peut-être ce que les deux dirigeants n'ont pas dit – et ce que nous ne savons toujours pas.",
+          "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+          "summaryFr": "L'expulsion de Maricarmen Abascal, 87 ans, a déclenché des manifestations à grande échelle dans toute l'Espagne.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-28"
+          "id": "pol-2-2026-09-29"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-          "titleFr": "Truecaller transpose ses informations sur les escroqueries sur le Web ouvert, au-delà de l'identification de l'appelant.",
+          "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+          "titleFr": "Protego Ventures clôture un premier fonds de 125 millions de dollars pour la technologie de défense israélienne",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
-          "summaryFr": "Truecaller trouve une nouvelle façon d'atteindre les utilisateurs alors que la pression augmente sur son activité traditionnelle d'identification des appelants en Inde, son plus grand marché.",
+          "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+          "summaryFr": "Protego Ventures, le premier et le plus grand capital-risque dédié aux technologies de défense en Israël, vient de finaliser sa clôture finale de 125 millions de dollars, a appris TechCrunch en exclusivité.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-28"
+          "id": "tech-1-2026-09-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic’s CEO is about to have dinner with President Trump",
-          "titleFr": "Le PDG d’Anthropic s’apprête à dîner avec le président Trump",
+          "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+          "titleFr": "Une ancienne équipe de Tesla lève 12,5 millions de dollars pour mettre les chaînes d'approvisionnement en pilote automatique",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-          "summaryFr": "Ce sera la première rencontre en tête-à-tête entre Dario Amodei et Donald Trump",
+          "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+          "summaryFr": "Le logiciel de chaîne d'approvisionnement agentique d'Atomic est désormais utilisé par des entreprises comme DoorDash et HelloFresh.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-28"
+          "id": "tech-2-2026-09-29"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
-          "titleFr": "Cinq personnes arrêtées alors que la police antiterroriste enquête sur un incident majeur près d'une base aérienne britannique utilisée par les forces américaines",
+          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+          "titleFr": "L'interdiction américaine sur l'alcool et les produits laitiers canadiens entre en vigueur alors que la guerre commerciale se prolonge",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
-          "summaryFr": "Les hommes ont été arrêtés parce qu'ils étaient soupçonnés de préparer un acte terroriste après que trois véhicules suspects se dirigeaient vers la base.",
+          "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+          "summaryFr": "Il s’agit de la dernière escalade dans la guerre commerciale entre le Canada et les États-Unis après l’échec des négociations fin août, sans que l’on sache quand les pourparlers pourraient reprendre.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-28"
+          "id": "fd-1-2026-09-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-          "titleFr": "Taylor Swift bat le record du plus grand nombre de MTV VMA alors que Madonna gagne également",
+          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+          "titleFr": "Les procureurs américains rouvrent une affaire de viol collectif présumé à l'Université Cornell",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Swift took home the big award for video of the year on a night when the original Queen of Pop performed.",
-          "summaryFr": "Swift a remporté le grand prix de la vidéo de l'année un soir où la reine de la pop originale s'est produite.",
+          "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+          "summaryFr": "Cela survient après que la femme a déposé une plainte civile alléguant qu'elle avait été droguée et violée dans une maison de fraternité en 2024.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-28"
+          "id": "fd-2-2026-09-29"
         }
       ]
     }
