@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-29",
-  "formattedDate": "Mardi 29 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 29 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-09-30",
+  "formattedDate": "Mercredi 30 Septembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 30 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Burnham dévoilera un organisme public pour investir dans le réseau électrique",
-    "Politique : OpenAI abandonne le déploiement d'un nouveau modèle pour des raisons de sécurité",
-    "Tech & IA : Protego Ventures clôture un premier fonds de 125 millions de dollars pour la technologie de défense israélienne"
+    "Économie : Les factures d’énergie des ménages devraient connaître la plus forte augmentation en quatre ans",
+    "Politique : Un outil d'IA chinois explique aux chercheurs comment fabriquer des armes biologiques",
+    "Tech & IA : Apple Pay est enfin lancé en Inde après des années d'absence"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Burnham to unveil public body to invest in electricity grid",
-          "titleFr": "Burnham dévoilera un organisme public pour investir dans le réseau électrique",
+          "title": "Household energy bills forecast to see biggest rise in four years",
+          "titleFr": "Les factures d’énergie des ménages devraient connaître la plus forte augmentation en quatre ans",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
-          "summaryFr": "Le Premier ministre dira qu’il souhaite réduire les coûts de l’énergie lors de son premier discours en tant que leader travailliste.",
+          "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+          "summaryFr": "Un ménage typique est confronté à une facture annuelle de gaz et d’électricité de 1 999 £ à partir de janvier, sur la base d’une prévision clé.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-29"
+          "id": "eco-1-2026-09-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Warning more homes will be uninsurable due to flood risk",
-          "titleFr": "Avertissement : davantage de maisons ne seront plus assurables en raison du risque d'inondation",
+          "title": "Regulating AI 'not the right place to start' says Bailey",
+          "titleFr": "Réglementer l’IA n’est « pas le bon point de départ », selon Bailey",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-          "summaryFr": "La patronne d'Aviva, Amanda Blanc, a déclaré que l'Angleterre construisait \"à coup sûr\" des maisons qui pourraient ne plus être assurables à un moment donné dans le futur.",
+          "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+          "summaryFr": "L'IA a besoin de tests et de garanties « rigoureux » pour contenir les risques, déclare Andrew Bailey.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-29"
+          "id": "eco-2-2026-09-30"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "OpenAI scraps rollout of new model over safety concerns",
-          "titleFr": "OpenAI abandonne le déploiement d'un nouveau modèle pour des raisons de sécurité",
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "titleFr": "Un outil d'IA chinois explique aux chercheurs comment fabriquer des armes biologiques",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-          "summaryFr": "La société a également publié une mise à jour sur les incidents au cours desquels ses modèles ont accédé aux systèmes du gouvernement australien.",
+          "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+          "summaryFr": "Mindgard a déclaré avoir découvert en juillet que les modèles Kimi K2.6 et K3 Swarm pouvaient échapper aux limites de sécurité des développeurs.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-29"
+          "id": "pol-1-2026-09-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Evicted Spanish pensioner can move back home, lawyer says",
-          "titleFr": "Un retraité espagnol expulsé peut rentrer chez lui, selon un avocat",
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "titleFr": "Trois points à retenir du sommet de Trump sur la « Super Intelligence »",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
-          "summaryFr": "L'expulsion de Maricarmen Abascal, 87 ans, a déclenché des manifestations à grande échelle dans toute l'Espagne.",
+          "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+          "summaryFr": "La réunion à la Maison Blanche a eu lieu alors que certains patrons et experts de la technologie ont appelé à des règles plus strictes autour de l’IA.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-29"
+          "id": "pol-2-2026-09-30"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-          "titleFr": "Protego Ventures clôture un premier fonds de 125 millions de dollars pour la technologie de défense israélienne",
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "titleFr": "Apple Pay est enfin lancé en Inde après des années d'absence",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-          "summaryFr": "Protego Ventures, le premier et le plus grand capital-risque dédié aux technologies de défense en Israël, vient de finaliser sa clôture finale de 125 millions de dollars, a appris TechCrunch en exclusivité.",
+          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+          "summaryFr": "Certaines des plus grandes banques indiennes hésitent initialement à prendre en charge Apple Pay.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-29"
+          "id": "tech-1-2026-09-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-          "titleFr": "Une ancienne équipe de Tesla lève 12,5 millions de dollars pour mettre les chaînes d'approvisionnement en pilote automatique",
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "titleFr": "America.gov devient vraiment bizarre quand vous posez des questions sur Minecraft, mais ce n'est pas un problème",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-          "summaryFr": "Le logiciel de chaîne d'approvisionnement agentique d'Atomic est désormais utilisé par des entreprises comme DoorDash et HelloFresh.",
+          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+          "summaryFr": "Pour le bien de la sécurité nationale, c'est un soulagement d'apprendre qu'America.gov n'a pas d'hallucinations au point d'écrire de longs poèmes.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-29"
+          "id": "tech-2-2026-09-30"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-          "titleFr": "L'interdiction américaine sur l'alcool et les produits laitiers canadiens entre en vigueur alors que la guerre commerciale se prolonge",
+          "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+          "titleFr": "La Cour suprême des États-Unis rejette la dernière tentative de Christa Pike de suspendre son exécution",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-          "summaryFr": "Il s’agit de la dernière escalade dans la guerre commerciale entre le Canada et les États-Unis après l’échec des négociations fin août, sans que l’on sache quand les pourparlers pourraient reprendre.",
+          "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
+          "summaryFr": "Cette détenue du Tennessee attend son exécution depuis qu'elle a été condamnée à mort en 1996 pour le meurtre d'un camarade de classe adolescent.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-29"
+          "id": "fd-1-2026-09-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-          "titleFr": "Les procureurs américains rouvrent une affaire de viol collectif présumé à l'Université Cornell",
+          "title": "What we know about Cornell University frat house rape investigation",
+          "titleFr": "Ce que nous savons de l'enquête sur le viol dans une fraternité de l'Université Cornell",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-          "summaryFr": "Cela survient après que la femme a déposé une plainte civile alléguant qu'elle avait été droguée et violée dans une maison de fraternité en 2024.",
+          "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+          "summaryFr": "La femme affirme avoir été droguée et violée dans une maison de fraternité de l'université il y a deux ans.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-29"
+          "id": "fd-2-2026-09-30"
         }
       ]
     }
