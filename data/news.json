@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-30",
-  "formattedDate": "Mercredi 30 Septembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 30 Septembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-01",
+  "formattedDate": "Jeudi 1 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 1 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les factures d’énergie des ménages devraient connaître la plus forte augmentation en quatre ans",
-    "Politique : Un outil d'IA chinois explique aux chercheurs comment fabriquer des armes biologiques",
-    "Tech & IA : Apple Pay est enfin lancé en Inde après des années d'absence"
+    "Économie : Le boom de l’IA pourrait déclencher des chocs sur le marché, prévient le patron de la Banque d’Angleterre",
+    "Politique : Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
+    "Tech & IA : Satlyt, fondée par un ancien chef de produit Google et SpaceX, lève 8 millions de dollars pour faire fonctionner l'IA sur les satellites"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Household energy bills forecast to see biggest rise in four years",
-          "titleFr": "Les factures d’énergie des ménages devraient connaître la plus forte augmentation en quatre ans",
+          "title": "AI boom could trigger market shocks, Bank of England boss warns",
+          "titleFr": "Le boom de l’IA pourrait déclencher des chocs sur le marché, prévient le patron de la Banque d’Angleterre",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-          "summaryFr": "Un ménage typique est confronté à une facture annuelle de gaz et d’électricité de 1 999 £ à partir de janvier, sur la base d’une prévision clé.",
+          "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+          "summaryFr": "Andrew Bailey affirme que la banque centrale surveille « très attentivement » les vagues de liquidités investies dans l’intelligence artificielle.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-09-30"
+          "id": "eco-1-2026-10-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Regulating AI 'not the right place to start' says Bailey",
-          "titleFr": "Réglementer l’IA n’est « pas le bon point de départ », selon Bailey",
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "titleFr": "Le changement de nom de Trump en matière d'IA suscite une demande \"sans précédent\" pour les noms de sites Web slovènes",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-          "summaryFr": "L'IA a besoin de tests et de garanties « rigoureux » pour contenir les risques, déclare Andrew Bailey.",
+          "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+          "summaryFr": "Le président souhaite que l'IA soit appelée super intelligence - ou SI - les mêmes initiales utilisées par les domaines slovènes.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-09-30"
+          "id": "eco-2-2026-10-01"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Chinese AI tool told researchers how to make bioweapons",
-          "titleFr": "Un outil d'IA chinois explique aux chercheurs comment fabriquer des armes biologiques",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
+          "titleFr": "Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-          "summaryFr": "Mindgard a déclaré avoir découvert en juillet que les modèles Kimi K2.6 et K3 Swarm pouvaient échapper aux limites de sécurité des développeurs.",
+          "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+          "summaryFr": "L'avocat de la tueuse Christa Pike affirme qu'elle a reçu des \"mesures de sauvetage\" à l'hôpital après deux seringues de pentobarbital.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-09-30"
+          "id": "pol-1-2026-10-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-          "titleFr": "Trois points à retenir du sommet de Trump sur la « Super Intelligence »",
+          "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+          "titleFr": "Il est trop tôt pour dire si l'Iran est impliqué dans l'attaque aérienne Dubaï-Tel Aviv, selon le Premier ministre israélien",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-          "summaryFr": "La réunion à la Maison Blanche a eu lieu alors que certains patrons et experts de la technologie ont appelé à des règles plus strictes autour de l’IA.",
+          "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+          "summaryFr": "Un pilote qui a poignardé un autre pilote à bord d’un avion à destination d’Israël fait l’objet d’une enquête en Arabie Saoudite, a déclaré Benjamin Netanyahu.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-09-30"
+          "id": "pol-2-2026-10-01"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple Pay finally launches in India after years on the sidelines",
-          "titleFr": "Apple Pay est enfin lancé en Inde après des années d'absence",
+          "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+          "titleFr": "Satlyt, fondée par un ancien chef de produit Google et SpaceX, lève 8 millions de dollars pour faire fonctionner l'IA sur les satellites",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-          "summaryFr": "Certaines des plus grandes banques indiennes hésitent initialement à prendre en charge Apple Pay.",
+          "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+          "summaryFr": "Satlyt veut être l'Android de l'informatique orbitale, proposant un logiciel ouvert qui fonctionne sur les satellites de nombreuses entreprises, par opposition à l'approche fermée et tout-en-un de style iPhone de SpaceX.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-09-30"
+          "id": "tech-1-2026-10-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-          "titleFr": "America.gov devient vraiment bizarre quand vous posez des questions sur Minecraft, mais ce n'est pas un problème",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "titleFr": "Google lance Gemini 4 Argon, appelé son modèle le plus puissant à ce jour",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-          "summaryFr": "Pour le bien de la sécurité nationale, c'est un soulagement d'apprendre qu'America.gov n'a pas d'hallucinations au point d'écrire de longs poèmes.",
+          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+          "summaryFr": "Google a publié son dernier modèle Gemini, le commercialisant comme un outil de travail pour le travail de codage et de cybersécurité.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-09-30"
+          "id": "tech-2-2026-10-01"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-          "titleFr": "La Cour suprême des États-Unis rejette la dernière tentative de Christa Pike de suspendre son exécution",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
+          "titleFr": "Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-          "summaryFr": "Cette détenue du Tennessee attend son exécution depuis qu'elle a été condamnée à mort en 1996 pour le meurtre d'un camarade de classe adolescent.",
+          "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+          "summaryFr": "L'avocat de la tueuse Christa Pike affirme qu'elle a reçu des \"mesures de sauvetage\" à l'hôpital après deux seringues de pentobarbital.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-09-30"
+          "id": "fd-1-2026-10-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What we know about Cornell University frat house rape investigation",
-          "titleFr": "Ce que nous savons de l'enquête sur le viol dans une fraternité de l'Université Cornell",
+          "title": "What happened in failed execution of Christa Pike - and what next?",
+          "titleFr": "Que s’est-il passé lors de l’exécution ratée de Christa Pike – et que se passe-t-il ensuite ?",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
-          "summaryFr": "La femme affirme avoir été droguée et violée dans une maison de fraternité de l'université il y a deux ans.",
+          "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+          "summaryFr": "Le tueur reconnu coupable est hospitalisé dans le Tennessee après avoir survécu à deux injections mortelles, dans une affaire qui a soulevé de nombreuses questions.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-09-30"
+          "id": "fd-2-2026-10-01"
         }
       ]
     }
