@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-01",
-  "formattedDate": "Jeudi 1 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 1 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-02",
+  "formattedDate": "Vendredi 2 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 2 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le boom de l’IA pourrait déclencher des chocs sur le marché, prévient le patron de la Banque d’Angleterre",
-    "Politique : Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
-    "Tech & IA : Satlyt, fondée par un ancien chef de produit Google et SpaceX, lève 8 millions de dollars pour faire fonctionner l'IA sur les satellites"
+    "Économie : « Cela pourrait me coûter 10 000 £, mais j'ai besoin d'argent maintenant » : pourquoi la génération Z se retire des retraites",
+    "Politique : \"Je n'allais pas laisser les autres mourir\" - le pilote du vol Flydubai décrit l'attaque du cockpit par le copilote",
+    "Tech & IA : Les opérateurs de robotaxi seront passibles d'amendes s'ils bloquent les premiers intervenants"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "AI boom could trigger market shocks, Bank of England boss warns",
-          "titleFr": "Le boom de l’IA pourrait déclencher des chocs sur le marché, prévient le patron de la Banque d’Angleterre",
+          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+          "titleFr": "« Cela pourrait me coûter 10 000 £, mais j'ai besoin d'argent maintenant » : pourquoi la génération Z se retire des retraites",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-          "summaryFr": "Andrew Bailey affirme que la banque centrale surveille « très attentivement » les vagues de liquidités investies dans l’intelligence artificielle.",
+          "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+          "summaryFr": "Un nombre croissant de personnes se retirent de ces régimes en raison de pressions liées au coût de la vie.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-01"
+          "id": "eco-1-2026-10-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-          "titleFr": "Le changement de nom de Trump en matière d'IA suscite une demande \"sans précédent\" pour les noms de sites Web slovènes",
+          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+          "titleFr": "Qu'est-ce qui ne va pas chez Nike ? Comment le géant mondial du sportswear a perdu son élan",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-          "summaryFr": "Le président souhaite que l'IA soit appelée super intelligence - ou SI - les mêmes initiales utilisées par les domaines slovènes.",
+          "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+          "summaryFr": "Plusieurs erreurs qu’elle s’est infligées ont coûté cher à la plus grande marque de vêtements de sport de la planète ces dernières années.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-01"
+          "id": "eco-2-2026-10-02"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US death row inmate survives execution attempt after two lethal injections",
-          "titleFr": "Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "titleFr": "\"Je n'allais pas laisser les autres mourir\" - le pilote du vol Flydubai décrit l'attaque du cockpit par le copilote",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-          "summaryFr": "L'avocat de la tueuse Christa Pike affirme qu'elle a reçu des \"mesures de sauvetage\" à l'hôpital après deux seringues de pentobarbital.",
+          "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+          "summaryFr": "Le capitaine Smit Machchhar a déclaré au Premier ministre indien Narendra Modi qu'il avait ouvert la porte du cockpit pour laisser entrer d'autres personnes pendant l'attaque.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-01"
+          "id": "pol-1-2026-10-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-          "titleFr": "Il est trop tôt pour dire si l'Iran est impliqué dans l'attaque aérienne Dubaï-Tel Aviv, selon le Premier ministre israélien",
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "titleFr": "Christa Pike dans un état critique après avoir survécu à deux injections mortelles, selon un avocat",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
-          "summaryFr": "Un pilote qui a poignardé un autre pilote à bord d’un avion à destination d’Israël fait l’objet d’une enquête en Arabie Saoudite, a déclaré Benjamin Netanyahu.",
+          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+          "summaryFr": "Les avocats de Pike ont demandé que sa peine de mort soit commuée suite à cette exécution bâclée.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-01"
+          "id": "pol-2-2026-10-02"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-          "titleFr": "Satlyt, fondée par un ancien chef de produit Google et SpaceX, lève 8 millions de dollars pour faire fonctionner l'IA sur les satellites",
+          "title": "Robotaxi operators will face fines for blocking first responders",
+          "titleFr": "Les opérateurs de robotaxi seront passibles d'amendes s'ils bloquent les premiers intervenants",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-          "summaryFr": "Satlyt veut être l'Android de l'informatique orbitale, proposant un logiciel ouvert qui fonctionne sur les satellites de nombreuses entreprises, par opposition à l'approche fermée et tout-en-un de style iPhone de SpaceX.",
+          "summary": "A new California law places new rules on autonomous vehicles operators",
+          "summaryFr": "Une nouvelle loi californienne impose de nouvelles règles aux opérateurs de véhicules autonomes",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-01"
+          "id": "tech-1-2026-10-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-          "titleFr": "Google lance Gemini 4 Argon, appelé son modèle le plus puissant à ce jour",
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "titleFr": "Le guide du fondateur de TechCrunch Disrupt 2026 : tout ce que vous devez savoir",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-          "summaryFr": "Google a publié son dernier modèle Gemini, le commercialisant comme un outil de travail pour le travail de codage et de cybersécurité.",
+          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "summaryFr": "TechCrunch Disrupt 2026 s'articule autour d'une seule question : comment bâtir une entreprise durable à l'ère de l'IA ? Notre programmation et notre gamme de conférenciers reflètent cela.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-01"
+          "id": "tech-2-2026-10-02"
         }
       ]
     },
@@ -125,6 +125,20 @@
         {
           "isInternational": true,
           "language": "en",
+          "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
+          "titleFr": "Un « nuage noir » et une ambiance « lugubre » : comment on se sent actuellement sur le campus de Cornell",
+          "source": "BBC International",
+          "time": "08h00",
+          "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+          "summaryFr": "Les étudiants déclarent à la BBC que la tension sur le campus est devenue palpable depuis que des allégations datant de 2024 ont refait surface.",
+          "impact": "Global market & political signal via BBC International",
+          "impactFr": "Signal international majeur via BBC International",
+          "badge": "Société",
+          "id": "fd-1-2026-10-02"
+        },
+        {
+          "isInternational": true,
+          "language": "en",
           "title": "US death row inmate survives execution attempt after two lethal injections",
           "titleFr": "Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
           "source": "BBC International",
@@ -134,21 +148,7 @@
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-01"
-        },
-        {
-          "isInternational": true,
-          "language": "en",
-          "title": "What happened in failed execution of Christa Pike - and what next?",
-          "titleFr": "Que s’est-il passé lors de l’exécution ratée de Christa Pike – et que se passe-t-il ensuite ?",
-          "source": "BBC International",
-          "time": "08h00",
-          "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-          "summaryFr": "Le tueur reconnu coupable est hospitalisé dans le Tennessee après avoir survécu à deux injections mortelles, dans une affaire qui a soulevé de nombreuses questions.",
-          "impact": "Global market & political signal via BBC International",
-          "impactFr": "Signal international majeur via BBC International",
-          "badge": "Société",
-          "id": "fd-2-2026-10-01"
+          "id": "fd-2-2026-10-02"
         }
       ]
     }
