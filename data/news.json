@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-02",
-  "formattedDate": "Vendredi 2 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 2 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-03",
+  "formattedDate": "Samedi 3 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 3 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : « Cela pourrait me coûter 10 000 £, mais j'ai besoin d'argent maintenant » : pourquoi la génération Z se retire des retraites",
-    "Politique : \"Je n'allais pas laisser les autres mourir\" - le pilote du vol Flydubai décrit l'attaque du cockpit par le copilote",
-    "Tech & IA : Les opérateurs de robotaxi seront passibles d'amendes s'ils bloquent les premiers intervenants"
+    "Économie : Le G7 va libérer des millions de barils de pétrole et de diesel après la menace de Trump",
+    "Politique : Le copilote de Flydubai a attaqué le capitaine avec une hache, selon un responsable des Émirats arabes unis",
+    "Tech & IA : Meta veut que votre prochain gadget soit infusé par Muse"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-          "titleFr": "« Cela pourrait me coûter 10 000 £, mais j'ai besoin d'argent maintenant » : pourquoi la génération Z se retire des retraites",
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "titleFr": "Le G7 va libérer des millions de barils de pétrole et de diesel après la menace de Trump",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-          "summaryFr": "Un nombre croissant de personnes se retirent de ces régimes en raison de pressions liées au coût de la vie.",
+          "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+          "summaryFr": "Cette publication coordonnée vise à éviter de nouvelles hausses de prix et à éviter une interdiction des exportations américaines de diesel.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-02"
+          "id": "eco-1-2026-10-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-          "titleFr": "Qu'est-ce qui ne va pas chez Nike ? Comment le géant mondial du sportswear a perdu son élan",
+          "title": "Suppliers pile pressure on government over energy bills",
+          "titleFr": "Les fournisseurs font pression sur le gouvernement sur les factures d’énergie",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-          "summaryFr": "Plusieurs erreurs qu’elle s’est infligées ont coûté cher à la plus grande marque de vêtements de sport de la planète ces dernières années.",
+          "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+          "summaryFr": "Une action immédiate est nécessaire pour aider les ménages aux prises avec leurs factures cet hiver, déclare l'organisme professionnel Energy UK.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-02"
+          "id": "eco-2-2026-10-03"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-          "titleFr": "\"Je n'allais pas laisser les autres mourir\" - le pilote du vol Flydubai décrit l'attaque du cockpit par le copilote",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "titleFr": "Le copilote de Flydubai a attaqué le capitaine avec une hache, selon un responsable des Émirats arabes unis",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-          "summaryFr": "Le capitaine Smit Machchhar a déclaré au Premier ministre indien Narendra Modi qu'il avait ouvert la porte du cockpit pour laisser entrer d'autres personnes pendant l'attaque.",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "summaryFr": "L'homme accusé d'avoir tenté de s'emparer de l'avion à destination d'Israël est nommé Hamam al-Hammami par plusieurs médias.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-02"
+          "id": "pol-1-2026-10-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-          "titleFr": "Christa Pike dans un état critique après avoir survécu à deux injections mortelles, selon un avocat",
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "titleFr": "La Russie frappe le deuxième grand pont de Kyiv, selon le maire",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-          "summaryFr": "Les avocats de Pike ont demandé que sa peine de mort soit commuée suite à cette exécution bâclée.",
+          "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+          "summaryFr": "La grève sur Northern Bridge intervient après des attaques répétées sur un autre pont majeur ces derniers jours.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-02"
+          "id": "pol-2-2026-10-03"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Robotaxi operators will face fines for blocking first responders",
-          "titleFr": "Les opérateurs de robotaxi seront passibles d'amendes s'ils bloquent les premiers intervenants",
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "titleFr": "Meta veut que votre prochain gadget soit infusé par Muse",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "A new California law places new rules on autonomous vehicles operators",
-          "summaryFr": "Une nouvelle loi californienne impose de nouvelles règles aux opérateurs de véhicules autonomes",
+          "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+          "summaryFr": "Meta veut que Muse soit sur votre téléviseur et votre grille-pain, donc il distribue le code gratuitement.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-02"
+          "id": "tech-1-2026-10-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "titleFr": "Le guide du fondateur de TechCrunch Disrupt 2026 : tout ce que vous devez savoir",
+          "title": "Sanders introduces bill to ban the federal government from using Flock",
+          "titleFr": "Sanders présente un projet de loi interdisant au gouvernement fédéral d'utiliser Flock",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-          "summaryFr": "TechCrunch Disrupt 2026 s'articule autour d'une seule question : comment bâtir une entreprise durable à l'ère de l'IA ? Notre programmation et notre gamme de conférenciers reflètent cela.",
+          "summary": "The proposed legislation would extend to all automotica license plate readers.",
+          "summaryFr": "La législation proposée s'étendrait à tous les lecteurs de plaques d'immatriculation automobiles.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-02"
+          "id": "tech-2-2026-10-03"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
-          "titleFr": "Un « nuage noir » et une ambiance « lugubre » : comment on se sent actuellement sur le campus de Cornell",
+          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+          "titleFr": "L'accusateur de viol dans une fraternité de Cornell est « assiégé » en ligne, selon un avocat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-          "summaryFr": "Les étudiants déclarent à la BBC que la tension sur le campus est devenue palpable depuis que des allégations datant de 2024 ont refait surface.",
+          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+          "summaryFr": "Un avocat de Jane Doe affirme qu'elle \"ne va pas bien\" au milieu des tentatives visant à découvrir son identité.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-02"
+          "id": "fd-1-2026-10-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US death row inmate survives execution attempt after two lethal injections",
-          "titleFr": "Aux États-Unis, un condamné à mort survit à une tentative d'exécution après deux injections mortelles",
+          "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+          "titleFr": "La meurtrière américaine Christa Pike est inconsciente et sous respirateur après l'échec de son exécution, selon ses avocats",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-          "summaryFr": "L'avocat de la tueuse Christa Pike affirme qu'elle a reçu des \"mesures de sauvetage\" à l'hôpital après deux seringues de pentobarbital.",
+          "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+          "summaryFr": "Jeudi soir, Pike restait gravement malade et était soigné dans un hôpital de Nashville, Tennessee.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-02"
+          "id": "fd-2-2026-10-03"
         }
       ]
     }
