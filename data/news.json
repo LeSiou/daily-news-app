@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-04",
-  "formattedDate": "Dimanche 4 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 4 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-05",
+  "formattedDate": "Lundi 5 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 5 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le G7 va libérer des millions de barils de pétrole et de diesel après la menace de Trump",
-    "Politique : Un pont de Kyiv touché lors d'une nouvelle attaque de drone russe alors que le chancelier allemand effectue une visite surprise",
-    "Tech & IA : Un juge fédéral qualifie Flock de « surveillance de masse aveugle »"
+    "Économie : Le taux hypothécaire moyen sur cinq ans atteint 6 % pour la première fois en trois ans",
+    "Politique : Le Premier ministre espagnol Sánchez convoque des élections anticipées après des manifestations contre le logement",
+    "Tech & IA : Safeworld peut-il convaincre les gens que les robots GenAI ne leur feront pas de mal ?"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "titleFr": "Le G7 va libérer des millions de barils de pétrole et de diesel après la menace de Trump",
+          "title": "Average five-year mortgage rate hits 6% for first time in three years",
+          "titleFr": "Le taux hypothécaire moyen sur cinq ans atteint 6 % pour la première fois en trois ans",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-          "summaryFr": "Cette publication coordonnée vise à éviter de nouvelles hausses de prix et à éviter une interdiction des exportations américaines de diesel.",
+          "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+          "summaryFr": "Le coût d’un nouveau prêt hypothécaire à taux fixe a augmenté ces dernières semaines, les prêteurs étant confrontés à des coûts plus élevés.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-04"
+          "id": "eco-1-2026-10-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Suppliers pile pressure on government over energy bills",
-          "titleFr": "Les fournisseurs font pression sur le gouvernement sur les factures d’énergie",
+          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+          "titleFr": "BT conclut un accord de sauvetage pour racheter l'opérateur haut débit TalkTalk",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-          "summaryFr": "Une action immédiate est nécessaire pour aider les ménages aux prises avec leurs factures cet hiver, déclare l'organisme professionnel Energy UK.",
+          "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+          "summaryFr": "Le rachat doit encore être approuvé par le régulateur, mais apporterait une certitude aux millions de clients de TalkTalk.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-04"
+          "id": "eco-2-2026-10-05"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "titleFr": "Un pont de Kyiv touché lors d'une nouvelle attaque de drone russe alors que le chancelier allemand effectue une visite surprise",
+          "title": "Spanish PM Sánchez calls early election after housing protests",
+          "titleFr": "Le Premier ministre espagnol Sánchez convoque des élections anticipées après des manifestations contre le logement",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-          "summaryFr": "Les images montrent un drone frappant le pont de Pivnichyi (Nord) alors que des véhicules le traversent, créant une grosse boule de feu.",
+          "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+          "summaryFr": "Sánchez a déclaré que l'Espagne se rendrait aux urnes le 29 novembre après ses récents échecs sur les mesures visant à résoudre la crise du logement dans le pays.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-04"
+          "id": "pol-1-2026-10-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Australia investigating Flydubai co-pilot's links to country",
-          "titleFr": "L'Australie enquête sur les liens du copilote de Flydubai avec le pays",
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "titleFr": "Le copilote de Flydubai prévoyait d'écraser son avion sur l'aéroport ou un bâtiment de Tel Aviv, selon des informations",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-          "summaryFr": "La police d'État et l'agence de sécurité du pays enquêtent sur le copilote, qui a tenté de prendre le contrôle d'un avion Flydubai à destination d'Israël.",
+          "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+          "summaryFr": "Le ressortissant omanais était un extrémiste « loup solitaire », selon les informations.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-04"
+          "id": "pol-2-2026-10-05"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-          "titleFr": "Un juge fédéral qualifie Flock de « surveillance de masse aveugle »",
+          "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "titleFr": "Safeworld peut-il convaincre les gens que les robots GenAI ne leur feront pas de mal ?",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-          "summaryFr": "Un juge fédéral a statué qu’un adjoint du shérif avait violé les droits d’une femme au titre du quatrième amendement en utilisant Flock pour rechercher sa plaque d’immatriculation sans mandat.",
+          "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+          "summaryFr": "Safeworld construit des humains numériques pour s'assurer que les robots ne blessent pas les vrais.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-04"
+          "id": "tech-1-2026-10-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-          "titleFr": "Amazon répond aux réactions négatives du centre de données et déclare qu'il n'utilise plus de NDA",
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "titleFr": "Google a gelé son programme open source de bug bounty en raison d'une « augmentation significative » des soumissions d'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-          "summaryFr": "Le PDG d'Amazon Web Services a tenté de lutter contre les soupçons généralisés à l'égard des centres de données.",
+          "summary": "AI slop seems to be overwhelming bug bounty programs.",
+          "summaryFr": "Le problème de l'IA semble écraser les programmes de bug bounty.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-04"
+          "id": "tech-2-2026-10-05"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "titleFr": "Le chef de la prison du Tennessee va démissionner après l'échec de l'exécution de Christa Pike",
+          "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+          "titleFr": "Le numéro 10 insiste sur le fait que la RAF Fairford est en sécurité après le retrait des bombardiers américains",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-          "summaryFr": "Les avocats de Pike ont déclaré que l'échec \"va bien au-delà d'une seule personne\". Pike est dans un état critique après avoir survécu à deux injections mortelles.",
+          "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+          "summaryFr": "Les médias américains ont rapporté qu'une nouvelle menace avait conduit au retrait des kamikazes dimanche, à la suite d'un incident près de la base la semaine dernière.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-04"
+          "id": "fd-1-2026-10-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-          "titleFr": "L'accusateur de viol dans une fraternité de Cornell est « assiégé » en ligne, selon un avocat",
+          "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+          "titleFr": "« Pas encore » : l'arrestation d'un marin américain pour meurtre relance les manifestations à Okinawa au Japon",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-          "summaryFr": "Un avocat de Jane Doe affirme qu'elle \"ne va pas bien\" au milieu des tentatives visant à découvrir son identité.",
+          "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+          "summaryFr": "Pour de nombreux habitants de cette île, cette arrestation a remis sur le devant de la scène des décennies de frustration.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-04"
+          "id": "fd-2-2026-10-05"
         }
       ]
     }
