@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-05",
-  "formattedDate": "Lundi 5 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 5 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-06",
+  "formattedDate": "Mardi 6 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 6 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le taux hypothécaire moyen sur cinq ans atteint 6 % pour la première fois en trois ans",
-    "Politique : Le Premier ministre espagnol Sánchez convoque des élections anticipées après des manifestations contre le logement",
-    "Tech & IA : Safeworld peut-il convaincre les gens que les robots GenAI ne leur feront pas de mal ?"
+    "Économie : Les utilisateurs de l'application ASOS reçoivent des notifications push apparemment envoyées par des pirates informatiques",
+    "Politique : Un ancien chef du renseignement allemand arrêté pour espionnage et trahison",
+    "Tech & IA : Type One Energy a levé 200 millions de dollars pour construire une centrale à fusion d'ici 2034"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Average five-year mortgage rate hits 6% for first time in three years",
-          "titleFr": "Le taux hypothécaire moyen sur cinq ans atteint 6 % pour la première fois en trois ans",
+          "title": "ASOS app users receive push notifications apparently sent by hackers",
+          "titleFr": "Les utilisateurs de l'application ASOS reçoivent des notifications push apparemment envoyées par des pirates informatiques",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-          "summaryFr": "Le coût d’un nouveau prêt hypothécaire à taux fixe a augmenté ces dernières semaines, les prêteurs étant confrontés à des coûts plus élevés.",
+          "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+          "summaryFr": "Des dizaines de personnes semblent avoir reçu un étrange message de la part de l'application du magasin de vêtements et de produits de beauté.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-05"
+          "id": "eco-1-2026-10-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-          "titleFr": "BT conclut un accord de sauvetage pour racheter l'opérateur haut débit TalkTalk",
+          "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+          "titleFr": "Nous économisons 100 £ par mois pour nos enfants, mais ils ne l'obtiendront qu'à 57 ans.",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-          "summaryFr": "Le rachat doit encore être approuvé par le régulateur, mais apporterait une certitude aux millions de clients de TalkTalk.",
+          "summary": "Why a growing number of parents are opening pensions for their children.",
+          "summaryFr": "Pourquoi un nombre croissant de parents ouvrent des pensions pour leurs enfants.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-05"
+          "id": "eco-2-2026-10-06"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Spanish PM Sánchez calls early election after housing protests",
-          "titleFr": "Le Premier ministre espagnol Sánchez convoque des élections anticipées après des manifestations contre le logement",
+          "title": "Former German spy chief arrested for espionage and treason",
+          "titleFr": "Un ancien chef du renseignement allemand arrêté pour espionnage et trahison",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-          "summaryFr": "Sánchez a déclaré que l'Espagne se rendrait aux urnes le 29 novembre après ses récents échecs sur les mesures visant à résoudre la crise du logement dans le pays.",
+          "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+          "summaryFr": "August Hanning est accusé d'avoir obtenu des informations classifiées pour le compte d'une puissance étrangère.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-05"
+          "id": "pol-1-2026-10-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-          "titleFr": "Le copilote de Flydubai prévoyait d'écraser son avion sur l'aéroport ou un bâtiment de Tel Aviv, selon des informations",
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "titleFr": "Trump affirme que la « menace » a conduit les États-Unis à retirer les bombardiers de la RAF Fairford",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-          "summaryFr": "Le ressortissant omanais était un extrémiste « loup solitaire », selon les informations.",
+          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+          "summaryFr": "Le Pentagone a confirmé dimanche qu'il avait rapatrié les bombardiers B1 de leur base en Angleterre vers leurs stations d'origine en Amérique.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-05"
+          "id": "pol-2-2026-10-06"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "titleFr": "Safeworld peut-il convaincre les gens que les robots GenAI ne leur feront pas de mal ?",
+          "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+          "titleFr": "Type One Energy a levé 200 millions de dollars pour construire une centrale à fusion d'ici 2034",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-          "summaryFr": "Safeworld construit des humains numériques pour s'assurer que les robots ne blessent pas les vrais.",
+          "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+          "summaryFr": "Type One Energy parie que son approche allégée de l’énergie de fusion permettra de mettre une centrale électrique sur le réseau plus rapidement, et les investisseurs l’ont récompensée avec 200 millions de dollars.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-05"
+          "id": "tech-1-2026-10-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-          "titleFr": "Google a gelé son programme open source de bug bounty en raison d'une « augmentation significative » des soumissions d'IA",
+          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+          "titleFr": "La production de véhicules électriques de Lucid Motors tombe à son plus bas niveau en près de 2 ans",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "AI slop seems to be overwhelming bug bounty programs.",
-          "summaryFr": "Le problème de l'IA semble écraser les programmes de bug bounty.",
+          "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+          "summaryFr": "L’entreprise limite délibérément sa production après des années de lutte pour trouver une demande de masse pour ses véhicules électriques.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-05"
+          "id": "tech-2-2026-10-06"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-          "titleFr": "Le numéro 10 insiste sur le fait que la RAF Fairford est en sécurité après le retrait des bombardiers américains",
+          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+          "titleFr": "Le parti séparatiste devrait remporter les élections au Québec, ajoutant un nouveau test à l'unité du Canada",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-          "summaryFr": "Les médias américains ont rapporté qu'une nouvelle menace avait conduit au retrait des kamikazes dimanche, à la suite d'un incident près de la base la semaine dernière.",
+          "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+          "summaryFr": "Le Parti québécois, qui a obtenu une minorité, s'est engagé à tenir un référendum sur l'indépendance dans les années à venir.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-05"
+          "id": "fd-1-2026-10-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-          "titleFr": "« Pas encore » : l'arrestation d'un marin américain pour meurtre relance les manifestations à Okinawa au Japon",
+          "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
+          "titleFr": "Les dirigeants californiens ripostent après que Trump ait déclaré que l'Iran pouvait « éliminer » Los Angeles et San Diego",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-          "summaryFr": "Pour de nombreux habitants de cette île, cette arrestation a remis sur le devant de la scène des décennies de frustration.",
+          "summary": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
+          "summaryFr": "Le président américain a déclaré que la hausse des prix du gaz était « un petit prix à payer pour assurer la sécurité du monde » lors d'un rassemblement électoral au Nebraska.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-05"
+          "id": "fd-2-2026-10-06"
         }
       ]
     }
