@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-06",
-  "formattedDate": "Mardi 6 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 6 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-07",
+  "formattedDate": "Mercredi 7 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 7 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les utilisateurs de l'application ASOS reçoivent des notifications push apparemment envoyées par des pirates informatiques",
-    "Politique : Un ancien chef du renseignement allemand arrêté pour espionnage et trahison",
-    "Tech & IA : Type One Energy a levé 200 millions de dollars pour construire une centrale à fusion d'ici 2034"
+    "Économie : Les condamnations d'anciens banquiers emprisonnés pour fraude sur les taux sont annulées",
+    "Politique : La France cesse d'utiliser des grenades assourdissantes après que la main d'un garçon a été arrachée lors d'une manifestation étudiante",
+    "Tech & IA : Spotify étend les livres audio à plus de 180 marchés"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "ASOS app users receive push notifications apparently sent by hackers",
-          "titleFr": "Les utilisateurs de l'application ASOS reçoivent des notifications push apparemment envoyées par des pirates informatiques",
+          "title": "Ex-bankers jailed for rigging rates have convictions quashed",
+          "titleFr": "Les condamnations d'anciens banquiers emprisonnés pour fraude sur les taux sont annulées",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
-          "summaryFr": "Des dizaines de personnes semblent avoir reçu un étrange message de la part de l'application du magasin de vêtements et de produits de beauté.",
+          "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+          "summaryFr": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham ont vu leurs condamnations annulées par la Cour d'appel.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-06"
+          "id": "eco-1-2026-10-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-          "titleFr": "Nous économisons 100 £ par mois pour nos enfants, mais ils ne l'obtiendront qu'à 57 ans.",
+          "title": "Royal Mail plans to cut 2,500 jobs",
+          "titleFr": "Royal Mail prévoit de supprimer 2 500 emplois",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Why a growing number of parents are opening pensions for their children.",
-          "summaryFr": "Pourquoi un nombre croissant de parents ouvrent des pensions pour leurs enfants.",
+          "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+          "summaryFr": "L’entreprise de services postaux souhaite supprimer son siège social et d’autres emplois hors ligne d’ici fin 2027.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-06"
+          "id": "eco-2-2026-10-07"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Former German spy chief arrested for espionage and treason",
-          "titleFr": "Un ancien chef du renseignement allemand arrêté pour espionnage et trahison",
+          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+          "titleFr": "La France cesse d'utiliser des grenades assourdissantes après que la main d'un garçon a été arrachée lors d'une manifestation étudiante",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-          "summaryFr": "August Hanning est accusé d'avoir obtenu des informations classifiées pour le compte d'une puissance étrangère.",
+          "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+          "summaryFr": "Cette mesure intervient après que plusieurs groupes se sont plaints du recours par la police à une force disproportionnée envers les adolescents.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-06"
+          "id": "pol-1-2026-10-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-          "titleFr": "Trump affirme que la « menace » a conduit les États-Unis à retirer les bombardiers de la RAF Fairford",
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "titleFr": "Aux États-Unis, la détenue condamnée à mort Christa Pike est réveillée et parle après l'échec de son exécution, selon ses avocats",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-          "summaryFr": "Le Pentagone a confirmé dimanche qu'il avait rapatrié les bombardiers B1 de leur base en Angleterre vers leurs stations d'origine en Amérique.",
+          "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
+          "summaryFr": "Un expert médical conseillant son équipe juridique affirme que le meurtrier de Colleen Slemmer communique de « manière basique ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-06"
+          "id": "pol-2-2026-10-07"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-          "titleFr": "Type One Energy a levé 200 millions de dollars pour construire une centrale à fusion d'ici 2034",
+          "title": "Spotify expands audiobooks to over 180 markets",
+          "titleFr": "Spotify étend les livres audio à plus de 180 marchés",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
-          "summaryFr": "Type One Energy parie que son approche allégée de l’énergie de fusion permettra de mettre une centrale électrique sur le réseau plus rapidement, et les investisseurs l’ont récompensée avec 200 millions de dollars.",
+          "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+          "summaryFr": "Spotify rendra 350 000 titres disponibles dans plus de 120 langues pour cette extension",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-06"
+          "id": "tech-1-2026-10-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-          "titleFr": "La production de véhicules électriques de Lucid Motors tombe à son plus bas niveau en près de 2 ans",
+          "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+          "titleFr": "Comment savoir si Amazon pense que vous avez des « fesses plates »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-          "summaryFr": "L’entreprise limite délibérément sa production après des années de lutte pour trouver une demande de masse pour ses véhicules électriques.",
+          "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+          "summaryFr": "\"Je suis tombé sur une page d'hypothèses qu'Amazon a faites à mon sujet sur la base de mes achats et je suis littéralement sans voix\", a écrit un acheteur sur Threads.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-06"
+          "id": "tech-2-2026-10-07"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-          "titleFr": "Le parti séparatiste devrait remporter les élections au Québec, ajoutant un nouveau test à l'unité du Canada",
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "titleFr": "Aux États-Unis, la détenue condamnée à mort Christa Pike est réveillée et parle après l'échec de son exécution, selon ses avocats",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-          "summaryFr": "Le Parti québécois, qui a obtenu une minorité, s'est engagé à tenir un référendum sur l'indépendance dans les années à venir.",
+          "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
+          "summaryFr": "Un expert médical conseillant son équipe juridique affirme que le meurtrier de Colleen Slemmer communique de « manière basique ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-06"
+          "id": "fd-1-2026-10-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
-          "titleFr": "Les dirigeants californiens ripostent après que Trump ait déclaré que l'Iran pouvait « éliminer » Los Angeles et San Diego",
+          "title": "The Republican candidates walking a Trump tightrope",
+          "titleFr": "Les candidats républicains marchent sur la corde raide de Trump",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
-          "summaryFr": "Le président américain a déclaré que la hausse des prix du gaz était « un petit prix à payer pour assurer la sécurité du monde » lors d'un rassemblement électoral au Nebraska.",
+          "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+          "summaryFr": "Certains candidats aux élections de novembre décident s'ils doivent se démarquer d'un président impopulaire qui domine toujours son parti.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-06"
+          "id": "fd-2-2026-10-07"
         }
       ]
     }
