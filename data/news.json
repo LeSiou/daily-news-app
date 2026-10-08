@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-07",
-  "formattedDate": "Mercredi 7 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 7 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-08",
+  "formattedDate": "Jeudi 8 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 8 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les condamnations d'anciens banquiers emprisonnés pour fraude sur les taux sont annulées",
-    "Politique : La France cesse d'utiliser des grenades assourdissantes après que la main d'un garçon a été arrachée lors d'une manifestation étudiante",
-    "Tech & IA : Spotify étend les livres audio à plus de 180 marchés"
+    "Économie : « Revenez jusqu'au bout » dans l'UE, déclare le ministre français des Finances au Royaume-Uni",
+    "Politique : Une frappe russe contre des bus fait 33 morts, selon des responsables, alors que les attaques meurtrières contre l'Ukraine se multiplient",
+    "Tech & IA : Vesta lève 30 millions de dollars pour attirer des nuées d'agents auprès des prêteurs hypothécaires"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-          "titleFr": "Les condamnations d'anciens banquiers emprisonnés pour fraude sur les taux sont annulées",
+          "title": "'Come all the way' back to EU, French finance minister tells UK",
+          "titleFr": "« Revenez jusqu'au bout » dans l'UE, déclare le ministre français des Finances au Royaume-Uni",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-          "summaryFr": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham ont vu leurs condamnations annulées par la Cour d'appel.",
+          "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+          "summaryFr": "Roland Lescure déclare à la BBC que faire partie du bloc permet aux membres de mieux relever les défis auxquels le monde est confronté.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-07"
+          "id": "eco-1-2026-10-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Royal Mail plans to cut 2,500 jobs",
-          "titleFr": "Royal Mail prévoit de supprimer 2 500 emplois",
+          "title": "Asos hackers took more personal details than first revealed, BBC finds",
+          "titleFr": "Les pirates d'Asos ont récupéré plus de données personnelles que ce qui avait été révélé initialement, selon la BBC",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
-          "summaryFr": "L’entreprise de services postaux souhaite supprimer son siège social et d’autres emplois hors ligne d’ici fin 2027.",
+          "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+          "summaryFr": "Le détaillant publie une mise à jour après que la BBC a été contactée par des cybercriminels qui ont déclaré que la violation de cette semaine allait au-delà des « coordonnées de base »",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-07"
+          "id": "eco-2-2026-10-08"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-          "titleFr": "La France cesse d'utiliser des grenades assourdissantes après que la main d'un garçon a été arrachée lors d'une manifestation étudiante",
+          "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+          "titleFr": "Une frappe russe contre des bus fait 33 morts, selon des responsables, alors que les attaques meurtrières contre l'Ukraine se multiplient",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-          "summaryFr": "Cette mesure intervient après que plusieurs groupes se sont plaints du recours par la police à une force disproportionnée envers les adolescents.",
+          "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+          "summaryFr": "L'Ukraine a accusé la Russie d'avoir pris pour cible les bus bondés dans la ville de première ligne afin de tuer autant de civils que possible.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-07"
+          "id": "pol-1-2026-10-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-          "titleFr": "Aux États-Unis, la détenue condamnée à mort Christa Pike est réveillée et parle après l'échec de son exécution, selon ses avocats",
+          "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+          "titleFr": "Les États-Unis et le Liban protègent un général syrien recherché, selon la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
-          "summaryFr": "Un expert médical conseillant son équipe juridique affirme que le meurtrier de Colleen Slemmer communique de « manière basique ».",
+          "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+          "summaryFr": "Bassam al-Hassan est hébergé en échange d'informations, notamment sur l'enlèvement du journaliste américain Austin Tice.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-07"
+          "id": "pol-2-2026-10-08"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Spotify expands audiobooks to over 180 markets",
-          "titleFr": "Spotify étend les livres audio à plus de 180 marchés",
+          "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+          "titleFr": "Vesta lève 30 millions de dollars pour attirer des nuées d'agents auprès des prêteurs hypothécaires",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
-          "summaryFr": "Spotify rendra 350 000 titres disponibles dans plus de 120 langues pour cette extension",
+          "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+          "summaryFr": "Vesta, une startup de logiciels natifs d'IA qui aide les prêteurs à émettre des prêts hypothécaires, a annoncé un cycle de 30 millions de dollars dirigé par Conversion Capital.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-07"
+          "id": "tech-1-2026-10-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-          "titleFr": "Comment savoir si Amazon pense que vous avez des « fesses plates »",
+          "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+          "titleFr": "L’Inde rejette l’allégation de discrimination d’Elon Musk concernant le lancement de Starlink",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-          "summaryFr": "\"Je suis tombé sur une page d'hypothèses qu'Amazon a faites à mon sujet sur la base de mes achats et je suis littéralement sans voix\", a écrit un acheteur sur Threads.",
+          "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+          "summaryFr": "Starlink attend toujours une habilitation de sécurité avant de pouvoir rechercher du spectre et démarrer des services commerciaux en Inde.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-07"
+          "id": "tech-2-2026-10-08"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-          "titleFr": "Aux États-Unis, la détenue condamnée à mort Christa Pike est réveillée et parle après l'échec de son exécution, selon ses avocats",
+          "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+          "titleFr": "La poétesse canadienne « audacieuse et inventive » Anne Carson remporte le prix Nobel de littérature",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
-          "summaryFr": "Un expert médical conseillant son équipe juridique affirme que le meurtrier de Colleen Slemmer communique de « manière basique ».",
+          "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+          "summaryFr": "Carson, 76 ans, est célèbre pour ses œuvres qui dépassent souvent les frontières entre poésie, fiction et recherche.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-07"
+          "id": "fd-1-2026-10-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The Republican candidates walking a Trump tightrope",
-          "titleFr": "Les candidats républicains marchent sur la corde raide de Trump",
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "titleFr": "Christa Pike marche désormais après l'échec de son exécution aux États-Unis, déclare son avocat à la BBC",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-          "summaryFr": "Certains candidats aux élections de novembre décident s'ils doivent se démarquer d'un président impopulaire qui domine toujours son parti.",
+          "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+          "summaryFr": "Un avocat affirme que le meurtrier de Colleen Slemmer se déplace dans sa chambre d'hôpital après avoir survécu à deux injections mortelles.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-07"
+          "id": "fd-2-2026-10-08"
         }
       ]
     }
