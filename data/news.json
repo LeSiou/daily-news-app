@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-08",
-  "formattedDate": "Jeudi 8 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 8 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-09",
+  "formattedDate": "Vendredi 9 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 9 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : « Revenez jusqu'au bout » dans l'UE, déclare le ministre français des Finances au Royaume-Uni",
-    "Politique : Une frappe russe contre des bus fait 33 morts, selon des responsables, alors que les attaques meurtrières contre l'Ukraine se multiplient",
-    "Tech & IA : Vesta lève 30 millions de dollars pour attirer des nuées d'agents auprès des prêteurs hypothécaires"
+    "Économie : Trump veut réduire le coût du carburant à l’approche des élections de mi-mandat : ​​est-ce que cela fonctionnera ?",
+    "Politique : L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
+    "Tech & IA : L'alternative GPS commerciale de Xona est sur le point d'être mise en service"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Come all the way' back to EU, French finance minister tells UK",
-          "titleFr": "« Revenez jusqu'au bout » dans l'UE, déclare le ministre français des Finances au Royaume-Uni",
+          "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+          "titleFr": "Trump veut réduire le coût du carburant à l’approche des élections de mi-mandat : ​​est-ce que cela fonctionnera ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-          "summaryFr": "Roland Lescure déclare à la BBC que faire partie du bloc permet aux membres de mieux relever les défis auxquels le monde est confronté.",
+          "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+          "summaryFr": "Le prix du carburant a grimpé à mesure que le coût de la vie apparaît comme un problème clé pour des millions d’Américains.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-08"
+          "id": "eco-1-2026-10-09"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Asos hackers took more personal details than first revealed, BBC finds",
-          "titleFr": "Les pirates d'Asos ont récupéré plus de données personnelles que ce qui avait été révélé initialement, selon la BBC",
+          "title": "'Add me on WhatsApp' scam calls to be investigated",
+          "titleFr": "Les appels frauduleux « Ajoutez-moi sur WhatsApp » feront l'objet d'une enquête",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-          "summaryFr": "Le détaillant publie une mise à jour après que la BBC a été contactée par des cybercriminels qui ont déclaré que la violation de cette semaine allait au-delà des « coordonnées de base »",
+          "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+          "summaryFr": "L'organisme de surveillance des données du Royaume-Uni enquête sur une augmentation du nombre de plaintes concernant des « appels automatisés » qui semblent conduire à une escroquerie au recrutement.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-08"
+          "id": "eco-2-2026-10-09"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-          "titleFr": "Une frappe russe contre des bus fait 33 morts, selon des responsables, alors que les attaques meurtrières contre l'Ukraine se multiplient",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "titleFr": "L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
-          "summaryFr": "L'Ukraine a accusé la Russie d'avoir pris pour cible les bus bondés dans la ville de première ligne afin de tuer autant de civils que possible.",
+          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "summaryFr": "Pete Hegseth affirme que l'exécution sera publique, mais un expert juridique affirme que la décision « sans précédent » se situe sur un « terrain juridique incertain ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-08"
+          "id": "pol-1-2026-10-09"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-          "titleFr": "Les États-Unis et le Liban protègent un général syrien recherché, selon la BBC",
+          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+          "titleFr": "Un survivant de Fort Hood soutient l'exécution d'un homme armé par un peloton d'exécution mais remet en question la diffusion en direct",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-          "summaryFr": "Bassam al-Hassan est hébergé en échange d'informations, notamment sur l'enlèvement du journaliste américain Austin Tice.",
+          "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+          "summaryFr": "Alonzo Lunsford a déclaré à la BBC que la punition était digne du crime, mais il a des doutes quant à savoir si le public devrait pouvoir le regarder.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-08"
+          "id": "pol-2-2026-10-09"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-          "titleFr": "Vesta lève 30 millions de dollars pour attirer des nuées d'agents auprès des prêteurs hypothécaires",
+          "title": "Xona’s commercial GPS alternative is about to go live",
+          "titleFr": "L'alternative GPS commerciale de Xona est sur le point d'être mise en service",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-          "summaryFr": "Vesta, une startup de logiciels natifs d'IA qui aide les prêteurs à émettre des prêts hypothécaires, a annoncé un cycle de 30 millions de dollars dirigé par Conversion Capital.",
+          "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+          "summaryFr": "Le service de synchronisation et de navigation de précision de Xona entrera en phase de test bêta après le lancement par SpaceX de six satellites conçus par la société.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-08"
+          "id": "tech-1-2026-10-09"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-          "titleFr": "L’Inde rejette l’allégation de discrimination d’Elon Musk concernant le lancement de Starlink",
+          "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+          "titleFr": "Le président Trump décerne aux donateurs des Big Tech les prix scientifiques les plus élevés du pays",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-          "summaryFr": "Starlink attend toujours une habilitation de sécurité avant de pouvoir rechercher du spectre et démarrer des services commerciaux en Inde.",
+          "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+          "summaryFr": "Ensemble, les lauréats ont fait don de près de 6 milliards de dollars aux efforts liés à Trump et à son administration.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-08"
+          "id": "tech-2-2026-10-09"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-          "titleFr": "La poétesse canadienne « audacieuse et inventive » Anne Carson remporte le prix Nobel de littérature",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "titleFr": "L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-          "summaryFr": "Carson, 76 ans, est célèbre pour ses œuvres qui dépassent souvent les frontières entre poésie, fiction et recherche.",
+          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "summaryFr": "Pete Hegseth affirme que l'exécution sera publique, mais un expert juridique affirme que la décision « sans précédent » se situe sur un « terrain juridique incertain ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-08"
+          "id": "fd-1-2026-10-09"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-          "titleFr": "Christa Pike marche désormais après l'échec de son exécution aux États-Unis, déclare son avocat à la BBC",
+          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+          "titleFr": "Un survivant de Fort Hood soutient l'exécution d'un homme armé par un peloton d'exécution mais remet en question la diffusion en direct",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-          "summaryFr": "Un avocat affirme que le meurtrier de Colleen Slemmer se déplace dans sa chambre d'hôpital après avoir survécu à deux injections mortelles.",
+          "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+          "summaryFr": "Alonzo Lunsford a déclaré à la BBC que la punition était digne du crime, mais il a des doutes quant à savoir si le public devrait pouvoir le regarder.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-08"
+          "id": "fd-2-2026-10-09"
         }
       ]
     }
