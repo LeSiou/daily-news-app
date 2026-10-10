@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-09",
-  "formattedDate": "Vendredi 9 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 9 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-10",
+  "formattedDate": "Samedi 10 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 10 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Trump veut réduire le coût du carburant à l’approche des élections de mi-mandat : ​​est-ce que cela fonctionnera ?",
-    "Politique : L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
-    "Tech & IA : L'alternative GPS commerciale de Xona est sur le point d'être mise en service"
+    "Économie : Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
+    "Politique : Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
+    "Tech & IA : Elon Musk intensifie son attaque contre Ambani suite au retard du lancement de Starlink India"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-          "titleFr": "Trump veut réduire le coût du carburant à l’approche des élections de mi-mandat : ​​est-ce que cela fonctionnera ?",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-          "summaryFr": "Le prix du carburant a grimpé à mesure que le coût de la vie apparaît comme un problème clé pour des millions d’Américains.",
+          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-09"
+          "id": "eco-1-2026-10-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Add me on WhatsApp' scam calls to be investigated",
-          "titleFr": "Les appels frauduleux « Ajoutez-moi sur WhatsApp » feront l'objet d'une enquête",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
-          "summaryFr": "L'organisme de surveillance des données du Royaume-Uni enquête sur une augmentation du nombre de plaintes concernant des « appels automatisés » qui semblent conduire à une escroquerie au recrutement.",
+          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-09"
+          "id": "eco-2-2026-10-10"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "titleFr": "L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-          "summaryFr": "Pete Hegseth affirme que l'exécution sera publique, mais un expert juridique affirme que la décision « sans précédent » se situe sur un « terrain juridique incertain ».",
+          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-09"
+          "id": "pol-1-2026-10-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "titleFr": "Un survivant de Fort Hood soutient l'exécution d'un homme armé par un peloton d'exécution mais remet en question la diffusion en direct",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-          "summaryFr": "Alonzo Lunsford a déclaré à la BBC que la punition était digne du crime, mais il a des doutes quant à savoir si le public devrait pouvoir le regarder.",
+          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-09"
+          "id": "pol-2-2026-10-10"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Xona’s commercial GPS alternative is about to go live",
-          "titleFr": "L'alternative GPS commerciale de Xona est sur le point d'être mise en service",
+          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+          "titleFr": "Elon Musk intensifie son attaque contre Ambani suite au retard du lancement de Starlink India",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-          "summaryFr": "Le service de synchronisation et de navigation de précision de Xona entrera en phase de test bêta après le lancement par SpaceX de six satellites conçus par la société.",
+          "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+          "summaryFr": "Elon Musk a accusé le milliardaire indien Mukesh Ambani de bloquer la concurrence.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-09"
+          "id": "tech-1-2026-10-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-          "titleFr": "Le président Trump décerne aux donateurs des Big Tech les prix scientifiques les plus élevés du pays",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "titleFr": "Anthropic ne peut pas contrôler de manière fiable ses agents IA. À la place, il coupe ses évaluations internes d'Internet en direct.",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-          "summaryFr": "Ensemble, les lauréats ont fait don de près de 6 milliards de dollars aux efforts liés à Trump et à son administration.",
+          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "summaryFr": "Anthropic a déclaré avoir « désactivé l'accès Internet en direct » pour « toutes nos évaluations internes » jusqu'à nouvel ordre.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-09"
+          "id": "tech-2-2026-10-10"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "titleFr": "L'exécution d'un peloton d'exécution sera retransmise en direct, selon le Pentagone",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-          "summaryFr": "Pete Hegseth affirme que l'exécution sera publique, mais un expert juridique affirme que la décision « sans précédent » se situe sur un « terrain juridique incertain ».",
+          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-09"
+          "id": "fd-1-2026-10-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "titleFr": "Un survivant de Fort Hood soutient l'exécution d'un homme armé par un peloton d'exécution mais remet en question la diffusion en direct",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-          "summaryFr": "Alonzo Lunsford a déclaré à la BBC que la punition était digne du crime, mais il a des doutes quant à savoir si le public devrait pouvoir le regarder.",
+          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-09"
+          "id": "fd-2-2026-10-10"
         }
       ]
     }
