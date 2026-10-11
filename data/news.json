@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-10",
-  "formattedDate": "Samedi 10 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 10 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-11",
+  "formattedDate": "Dimanche 11 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 11 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
     "Économie : Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
-    "Politique : Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
-    "Tech & IA : Elon Musk intensifie son attaque contre Ambani suite au retard du lancement de Starlink India"
+    "Politique : \"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
+    "Tech & IA : Satya Nadella de Microsoft affirme que les modèles d'IA ont besoin d'un « frein d'urgence »"
   ],
   "categories": [
     {
@@ -26,7 +26,7 @@
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-10"
+          "id": "eco-1-2026-10-11"
         },
         {
           "isInternational": true,
@@ -40,7 +40,7 @@
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-10"
+          "id": "eco-2-2026-10-11"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "titleFr": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
+          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+          "summaryFr": "Le dirigeant ukrainien avait déclaré que l'accord avec la Russie sur la fourniture de diesel aux États-Unis aiderait Moscou à financer la guerre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-10"
+          "id": "pol-1-2026-10-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "titleFr": "Le pape Léon va se faire opérer après la découverte d'une grosseur au poumon",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
+          "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+          "summaryFr": "Le pontife de 71 ans a déclaré que le nodule avait été identifié \"à un stade très précoce\".",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-10"
+          "id": "pol-2-2026-10-11"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-          "titleFr": "Elon Musk intensifie son attaque contre Ambani suite au retard du lancement de Starlink India",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "titleFr": "Satya Nadella de Microsoft affirme que les modèles d'IA ont besoin d'un « frein d'urgence »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-          "summaryFr": "Elon Musk a accusé le milliardaire indien Mukesh Ambani de bloquer la concurrence.",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "summaryFr": "Dans un article publié samedi matin, le PDG de Microsoft a écrit qu'il était temps de « prendre du recul et d'évaluer l'architecture de confiance » de l'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-10"
+          "id": "tech-1-2026-10-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "titleFr": "Anthropic ne peut pas contrôler de manière fiable ses agents IA. À la place, il coupe ses évaluations internes d'Internet en direct.",
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "titleFr": "Apple révèle un accord pour embaucher une équipe et acquérir des licences techniques auprès de la startup de podcasts personnalisés Huxe",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-          "summaryFr": "Anthropic a déclaré avoir « désactivé l'accès Internet en direct » pour « toutes nos évaluations internes » jusqu'à nouvel ordre.",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+          "summaryFr": "Apple espère-t-il se lancer dans le secteur des podcasts générés par l’IA ?",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-10"
+          "id": "tech-2-2026-10-11"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "titleFr": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
+          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+          "summaryFr": "Le dirigeant ukrainien avait déclaré que l'accord avec la Russie sur la fourniture de diesel aux États-Unis aiderait Moscou à financer la guerre.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-10"
+          "id": "fd-1-2026-10-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
+          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+          "titleFr": "La meurtrière américaine Christa Pike est sortie de l'hôpital 10 jours après l'échec de son exécution",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
+          "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+          "summaryFr": "Les avocats de Pike disent qu'elle est « reconnaissante » envers l'équipe médicale qui s'est occupée d'elle après qu'elle ait survécu à deux injections mortelles le mois dernier.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-10"
+          "id": "fd-2-2026-10-11"
         }
       ]
     }
