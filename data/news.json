@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-11",
-  "formattedDate": "Dimanche 11 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 11 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-12",
+  "formattedDate": "Lundi 12 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 12 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
-    "Politique : \"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
-    "Tech & IA : Satya Nadella de Microsoft affirme que les modèles d'IA ont besoin d'un « frein d'urgence »"
+    "Économie : Healey fait face à un défi budgétaire de 35 milliards de livres sterling pour respecter ses promesses de dépenses, selon un groupe de réflexion",
+    "Politique : Des documents falsifiés pour échapper à l'impôt sur la fortune d'Abramovich, selon la BBC",
+    "Tech & IA : TechCrunch Disrupt 2026 commence demain : votre dernière chance d'obtenir jusqu'à 100 $ d'économies sur les billets"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "titleFr": "Trump annonce un accord sur le diesel russe alors que Zelensky le qualifie de cadeau à Poutine",
+          "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+          "titleFr": "Healey fait face à un défi budgétaire de 35 milliards de livres sterling pour respecter ses promesses de dépenses, selon un groupe de réflexion",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-          "summaryFr": "Le président ukrainien a vivement critiqué cette décision, la qualifiant d'« investissement dans une guerre qui doit prendre fin et non pas prolonger ».",
+          "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
+          "summaryFr": "L'Institut d'études fiscales affirme que le gouvernement aura besoin d'un « complément » de plusieurs milliards de livres s'il veut respecter ses plans de dépenses.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-11"
+          "id": "eco-1-2026-10-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "titleFr": "Analyse : l'accord choc de Trump avec la Russie met en évidence la pression croissante pour réduire les prix du carburant",
+          "title": "How to avoid getting stung if you miss credit card payments",
+          "titleFr": "Comment éviter de vous faire piquer si vous manquez des paiements par carte de crédit",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-          "summaryFr": "Le président américain espère apaiser les souffrances de son parti avant les élections de mi-mandat du mois prochain, écrit le correspondant de la BBC en Amérique du Nord.",
+          "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+          "summaryFr": "Les gens prennent de plus en plus de retard dans les remboursements de leurs cartes de crédit. Voici donc la meilleure façon d'obtenir des conseils en matière d'endettement.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-11"
+          "id": "eco-2-2026-10-12"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "titleFr": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "titleFr": "Des documents falsifiés pour échapper à l'impôt sur la fortune d'Abramovich, selon la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-          "summaryFr": "Le dirigeant ukrainien avait déclaré que l'accord avec la Russie sur la fourniture de diesel aux États-Unis aiderait Moscou à financer la guerre.",
+          "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+          "summaryFr": "Des documents antidatés ont également fait disparaître des comptes les yachts et les demeures de l’oligarque russe, selon une enquête.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-11"
+          "id": "pol-1-2026-10-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Pope Leo to have surgery after lump found on lung",
-          "titleFr": "Le pape Léon va se faire opérer après la découverte d'une grosseur au poumon",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "titleFr": "Le ministre saoudien promet une « réponse sérieuse » aux attaques des Houthis contre les aéroports",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-          "summaryFr": "Le pontife de 71 ans a déclaré que le nodule avait été identifié \"à un stade très précoce\".",
+          "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+          "summaryFr": "Cela survient après que le groupe armé a frappé l'aéroport international de Riyad et une autre installation, tuant 13 personnes, dans une escalade significative.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-11"
+          "id": "pol-2-2026-10-12"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "titleFr": "Satya Nadella de Microsoft affirme que les modèles d'IA ont besoin d'un « frein d'urgence »",
+          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+          "titleFr": "TechCrunch Disrupt 2026 commence demain : votre dernière chance d'obtenir jusqu'à 100 $ d'économies sur les billets",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-          "summaryFr": "Dans un article publié samedi matin, le PDG de Microsoft a écrit qu'il était temps de « prendre du recul et d'évaluer l'architecture de confiance » de l'IA.",
+          "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+          "summaryFr": "Demain à 8 heures du matin, heure du Pacifique, tout commence. Plus de 10 000 fondateurs, investisseurs et opérateurs technologiques se réuniront au Moscone West de San Francisco pour TechCrunch Disrupt 2026 pour trois jours d'idées, de connexions et de startups qui façonneront l'avenir. Ce sont vos dernières 24 heures pour économiser jusqu'à 100 $ sur vos billets et obtenir 50 % de réduction par seconde.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-11"
+          "id": "tech-1-2026-10-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "titleFr": "Apple révèle un accord pour embaucher une équipe et acquérir des licences techniques auprès de la startup de podcasts personnalisés Huxe",
+          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "titleFr": "L'ancien cadre de Plaud lève 26 millions de dollars pour une application d'IA qui vous écoute en arrière-plan",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-          "summaryFr": "Apple espère-t-il se lancer dans le secteur des podcasts générés par l’IA ?",
+          "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+          "summaryFr": "Ambi lance des applications pour iPhone, Mac et Apple Watch qui permettent la capture ambiante",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-11"
+          "id": "tech-2-2026-10-12"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "titleFr": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\", déclare Trump après que Zelensky a condamné l'accord sur le diesel",
+          "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
+          "titleFr": "Zelensky soutient le « cessez-le-feu énergétique » de Trump mais affirme que la Russie continue de frapper les centrales électriques",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-          "summaryFr": "Le dirigeant ukrainien avait déclaré que l'accord avec la Russie sur la fourniture de diesel aux États-Unis aiderait Moscou à financer la guerre.",
+          "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+          "summaryFr": "Le dirigeant ukrainien a déclaré qu'il soutiendrait une telle trêve si Moscou le faisait, après avoir initialement exprimé sa surprise face à l'annonce de Donald Trump.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-11"
+          "id": "fd-1-2026-10-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-          "titleFr": "La meurtrière américaine Christa Pike est sortie de l'hôpital 10 jours après l'échec de son exécution",
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "titleFr": "Trump fait face à des réactions croissantes face à son projet d’importer du diesel de Russie",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-          "summaryFr": "Les avocats de Pike disent qu'elle est « reconnaissante » envers l'équipe médicale qui s'est occupée d'elle après qu'elle ait survécu à deux injections mortelles le mois dernier.",
+          "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+          "summaryFr": "Les législateurs républicains et démocrates ont critiqué l’accord, annoncé quelques semaines avant les élections américaines de mi-mandat.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-11"
+          "id": "fd-2-2026-10-12"
         }
       ]
     }
