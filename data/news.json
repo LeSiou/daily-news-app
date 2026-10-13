@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-12",
-  "formattedDate": "Lundi 12 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 12 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-13",
+  "formattedDate": "Mardi 13 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 13 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Healey fait face à un défi budgétaire de 35 milliards de livres sterling pour respecter ses promesses de dépenses, selon un groupe de réflexion",
-    "Politique : Des documents falsifiés pour échapper à l'impôt sur la fortune d'Abramovich, selon la BBC",
-    "Tech & IA : TechCrunch Disrupt 2026 commence demain : votre dernière chance d'obtenir jusqu'à 100 $ d'économies sur les billets"
+    "Économie : Trois choses que nous avons apprises du FMI sur l'économie britannique",
+    "Politique : La capacité offensive de la Russie est brisée, déclare l'ancien général de Kiev à la BBC",
+    "Tech & IA : Apple fait un nouvel effort sur le marché de la maison intelligente avec HomeView"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-          "titleFr": "Healey fait face à un défi budgétaire de 35 milliards de livres sterling pour respecter ses promesses de dépenses, selon un groupe de réflexion",
+          "title": "Three things we've learnt about the UK economy from the IMF",
+          "titleFr": "Trois choses que nous avons apprises du FMI sur l'économie britannique",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-          "summaryFr": "L'Institut d'études fiscales affirme que le gouvernement aura besoin d'un « complément » de plusieurs milliards de livres s'il veut respecter ses plans de dépenses.",
+          "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+          "summaryFr": "L'influent organisme économique a revu à la hausse ses prévisions de croissance au Royaume-Uni pour cette année, mais des risques demeurent.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-12"
+          "id": "eco-1-2026-10-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "How to avoid getting stung if you miss credit card payments",
-          "titleFr": "Comment éviter de vous faire piquer si vous manquez des paiements par carte de crédit",
+          "title": "Poundland in rescue talks as owners seek buyer",
+          "titleFr": "Poundland en pourparlers de sauvetage alors que les propriétaires cherchent un acheteur",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-          "summaryFr": "Les gens prennent de plus en plus de retard dans les remboursements de leurs cartes de crédit. Voici donc la meilleure façon d'obtenir des conseils en matière d'endettement.",
+          "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+          "summaryFr": "L'équipe dirigeante tente de procéder à un rachat, mais un syndicat a prévenu que le détaillant pourrait tomber sous administration judiciaire.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-12"
+          "id": "eco-2-2026-10-13"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-          "titleFr": "Des documents falsifiés pour échapper à l'impôt sur la fortune d'Abramovich, selon la BBC",
+          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+          "titleFr": "La capacité offensive de la Russie est brisée, déclare l'ancien général de Kiev à la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-          "summaryFr": "Des documents antidatés ont également fait disparaître des comptes les yachts et les demeures de l’oligarque russe, selon une enquête.",
+          "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+          "summaryFr": "Dans sa première interview depuis qu'il a été contraint de quitter son poste, le général Syrskyi parle de l'avenir de l'Ukraine dans la guerre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-12"
+          "id": "pol-1-2026-10-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "titleFr": "Le ministre saoudien promet une « réponse sérieuse » aux attaques des Houthis contre les aéroports",
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "titleFr": "L'acteur de Breaking Bad, RJ Mitte, est décédé à l'âge de 34 ans.",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-          "summaryFr": "Cela survient après que le groupe armé a frappé l'aéroport international de Riyad et une autre installation, tuant 13 personnes, dans une escalade significative.",
+          "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+          "summaryFr": "Mitte, qui vivait avec une paralysie cérébrale, a joué le rôle de Walter White Jr dans la série dramatique primée aux Emmy Awards.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-12"
+          "id": "pol-2-2026-10-13"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-          "titleFr": "TechCrunch Disrupt 2026 commence demain : votre dernière chance d'obtenir jusqu'à 100 $ d'économies sur les billets",
+          "title": "Apple makes another push into the smart home market with HomeView",
+          "titleFr": "Apple fait un nouvel effort sur le marché de la maison intelligente avec HomeView",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-          "summaryFr": "Demain à 8 heures du matin, heure du Pacifique, tout commence. Plus de 10 000 fondateurs, investisseurs et opérateurs technologiques se réuniront au Moscone West de San Francisco pour TechCrunch Disrupt 2026 pour trois jours d'idées, de connexions et de startups qui façonneront l'avenir. Ce sont vos dernières 24 heures pour économiser jusqu'à 100 $ sur vos billets et obtenir 50 % de réduction par seconde.",
+          "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
+          "summaryFr": "Apple prend un grand tournant sur le marché de la maison intelligente avec son dernier produit qui concurrence Amazon Echo Show et Google Nest Hub.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-12"
+          "id": "tech-1-2026-10-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "titleFr": "L'ancien cadre de Plaud lève 26 millions de dollars pour une application d'IA qui vous écoute en arrière-plan",
+          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+          "titleFr": "Amex introduit un cadre pour empêcher les agents IA d'effectuer des achats non autorisés",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-          "summaryFr": "Ambi lance des applications pour iPhone, Mac et Apple Watch qui permettent la capture ambiante",
+          "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+          "summaryFr": "American Express introduit un nouveau cadre conçu pour garantir que les agents IA effectuent uniquement les achats autorisés par leurs utilisateurs, évitant ainsi des erreurs et des litiges coûteux à mesure que les achats basés sur l'IA se développent.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-12"
+          "id": "tech-2-2026-10-13"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-          "titleFr": "Zelensky soutient le « cessez-le-feu énergétique » de Trump mais affirme que la Russie continue de frapper les centrales électriques",
+          "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
+          "titleFr": "Les enregistrements des appels d’urgence aux États-Unis révèlent une confusion après l’échec de l’exécution de Christa Pike",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-          "summaryFr": "Le dirigeant ukrainien a déclaré qu'il soutiendrait une telle trêve si Moscou le faisait, après avoir initialement exprimé sa surprise face à l'annonce de Donald Trump.",
+          "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
+          "summaryFr": "L'assassin de Colleen Slemmer a finalement été transporté à l'hôpital après que deux doses d'injection mortelle ne l'ont pas tuée.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-12"
+          "id": "fd-1-2026-10-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump faces growing backlash over plans to import diesel from Russia",
-          "titleFr": "Trump fait face à des réactions croissantes face à son projet d’importer du diesel de Russie",
+          "title": "Where the US midterm elections will be won and lost",
+          "titleFr": "Où les élections américaines de mi-mandat seront gagnées et perdues",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-          "summaryFr": "Les législateurs républicains et démocrates ont critiqué l’accord, annoncé quelques semaines avant les élections américaines de mi-mandat.",
+          "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+          "summaryFr": "Un examen approfondi des principaux sondages, courses et enjeux avant une élection qui définira les deux dernières années de Trump en tant que président.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-12"
+          "id": "fd-2-2026-10-13"
         }
       ]
     }
