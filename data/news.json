@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-13",
-  "formattedDate": "Mardi 13 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 13 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-14",
+  "formattedDate": "Mercredi 14 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 14 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Trois choses que nous avons apprises du FMI sur l'économie britannique",
-    "Politique : La capacité offensive de la Russie est brisée, déclare l'ancien général de Kiev à la BBC",
-    "Tech & IA : Apple fait un nouvel effort sur le marché de la maison intelligente avec HomeView"
+    "Économie : Wayfair parmi les entreprises condamnées à une amende de plusieurs millions pour tactiques de vente trompeuses",
+    "Politique : Les frappes russes laissent 600 000 personnes sans électricité en Ukraine, alors que les restrictions Starlink affectent la ligne de front",
+    "Tech & IA : Le ministère de la Justice affirme que les Nord-Coréens ont infiltré des dizaines d'entreprises américaines"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three things we've learnt about the UK economy from the IMF",
-          "titleFr": "Trois choses que nous avons apprises du FMI sur l'économie britannique",
+          "title": "Wayfair among firms fined millions for misleading sales tactics",
+          "titleFr": "Wayfair parmi les entreprises condamnées à une amende de plusieurs millions pour tactiques de vente trompeuses",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-          "summaryFr": "L'influent organisme économique a revu à la hausse ses prévisions de croissance au Royaume-Uni pour cette année, mais des risques demeurent.",
+          "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+          "summaryFr": "L'Autorité de la concurrence et des marchés a infligé une amende totale de 6 millions de livres sterling à Wayfair, Appliances Direct et Gold's Gym.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-13"
+          "id": "eco-1-2026-10-14"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Poundland in rescue talks as owners seek buyer",
-          "titleFr": "Poundland en pourparlers de sauvetage alors que les propriétaires cherchent un acheteur",
+          "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+          "titleFr": "Ne pas construire une troisième piste serait une « énorme opportunité manquée », prévient le patron d'Heathrow",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-          "summaryFr": "L'équipe dirigeante tente de procéder à un rachat, mais un syndicat a prévenu que le détaillant pourrait tomber sous administration judiciaire.",
+          "summary": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+          "summaryFr": "Thomas Woldbye a déclaré à l'émission Today qu'il serait \"bon de connaître\" la position du gouvernement sur le projet, après les commentaires du Premier ministre.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-13"
+          "id": "eco-2-2026-10-14"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-          "titleFr": "La capacité offensive de la Russie est brisée, déclare l'ancien général de Kiev à la BBC",
+          "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+          "titleFr": "Les frappes russes laissent 600 000 personnes sans électricité en Ukraine, alors que les restrictions Starlink affectent la ligne de front",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-          "summaryFr": "Dans sa première interview depuis qu'il a été contraint de quitter son poste, le général Syrskyi parle de l'avenir de l'Ukraine dans la guerre.",
+          "summary": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
+          "summaryFr": "Des infrastructures énergétiques critiques sont touchées, l'Ukraine affirmant que les restrictions de vitesse du Starlink d'Elon Musk perturbent les missions sur le champ de bataille.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-13"
+          "id": "pol-1-2026-10-14"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Breaking Bad actor RJ Mitte dies aged 34",
-          "titleFr": "L'acteur de Breaking Bad, RJ Mitte, est décédé à l'âge de 34 ans.",
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "titleFr": "Le pape a reçu un diagnostic de cancer du poumon mais a subi une opération chirurgicale réussie, selon le Vatican",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-          "summaryFr": "Mitte, qui vivait avec une paralysie cérébrale, a joué le rôle de Walter White Jr dans la série dramatique primée aux Emmy Awards.",
+          "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+          "summaryFr": "Le pape Léon a passé une \"nuit paisible\" à l'hôpital après l'opération chirurgicale visant à lui retirer un lobe inférieur de son poumon droit, selon le Vatican.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-13"
+          "id": "pol-2-2026-10-14"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple makes another push into the smart home market with HomeView",
-          "titleFr": "Apple fait un nouvel effort sur le marché de la maison intelligente avec HomeView",
+          "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+          "titleFr": "Le ministère de la Justice affirme que les Nord-Coréens ont infiltré des dizaines d'entreprises américaines",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
-          "summaryFr": "Apple prend un grand tournant sur le marché de la maison intelligente avec son dernier produit qui concurrence Amazon Echo Show et Google Nest Hub.",
+          "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+          "summaryFr": "Les autorités américaines préviennent que les pirates informatiques sanctionnés ciblent de plus en plus les Américains pour servir de facilitateurs entre les entreprises américaines victimes de violations et Pyongyang.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-13"
+          "id": "tech-1-2026-10-14"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-          "titleFr": "Amex introduit un cadre pour empêcher les agents IA d'effectuer des achats non autorisés",
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "titleFr": "Science Corporation implante sa puce de restauration de la vision chez son premier patient atteint de la maladie de Stargardt",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-          "summaryFr": "American Express introduit un nouveau cadre conçu pour garantir que les agents IA effectuent uniquement les achats autorisés par leurs utilisateurs, évitant ainsi des erreurs et des litiges coûteux à mesure que les achats basés sur l'IA se développent.",
+          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+          "summaryFr": "Max Hodak, ancien président et co-fondateur de Neuralink, a expliqué sur scène à TechCrunch Disrupt comment le travail de son entreprise avec PRIMA fait partie de son chemin vers une nouvelle interface cerveau-ordinateur (BCI).",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-13"
+          "id": "tech-2-2026-10-14"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
-          "titleFr": "Les enregistrements des appels d’urgence aux États-Unis révèlent une confusion après l’échec de l’exécution de Christa Pike",
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "titleFr": "Le pape a reçu un diagnostic de cancer du poumon mais a subi une opération chirurgicale réussie, selon le Vatican",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
-          "summaryFr": "L'assassin de Colleen Slemmer a finalement été transporté à l'hôpital après que deux doses d'injection mortelle ne l'ont pas tuée.",
+          "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+          "summaryFr": "Le pape Léon a passé une \"nuit paisible\" à l'hôpital après l'opération chirurgicale visant à lui retirer un lobe inférieur de son poumon droit, selon le Vatican.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-13"
+          "id": "fd-1-2026-10-14"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Where the US midterm elections will be won and lost",
-          "titleFr": "Où les élections américaines de mi-mandat seront gagnées et perdues",
+          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+          "titleFr": "Trump renverse Kimberly Guilfoyle de son poste d'ambassadrice américaine en Grèce après des allégations de corruption",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-          "summaryFr": "Un examen approfondi des principaux sondages, courses et enjeux avant une élection qui définira les deux dernières années de Trump en tant que président.",
+          "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+          "summaryFr": "Guilfoyle a déclaré que les allégations de conduite inappropriée étaient fausses et qu'être ambassadeur était \"l'honneur de sa vie\".",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-13"
+          "id": "fd-2-2026-10-14"
         }
       ]
     }
