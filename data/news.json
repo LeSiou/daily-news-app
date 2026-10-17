@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-16",
-  "formattedDate": "Vendredi 16 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 16 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-17",
+  "formattedDate": "Samedi 17 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 17 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
     "Économie : Les banques s'attendent à des hausses d'impôts dans le budget",
-    "Politique : Des enfants âgés de 5, 8 et 11 ans tués dans une fusillade dans une école aux États-Unis avant que le suspect ne soit abattu par un passant",
-    "Tech & IA : Même Benchmark pense que l'IA érode le pacte de capital-risque face à ses rivaux."
+    "Politique : Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
+    "Tech & IA : Mark Wahlberg veut affronter le public des startups de la longévité avec un concept de salle de sport abordable"
   ],
   "categories": [
     {
@@ -26,21 +26,21 @@
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-16"
+          "id": "eco-1-2026-10-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "I find it quite demoralising in store - why I do all my shopping online",
-          "titleFr": "Je trouve ça assez démoralisant en magasin - pourquoi je fais tous mes achats en ligne",
+          "title": "Watch: Did Tesla really just unveil a flying car?",
+          "titleFr": "Regardez : Tesla vient-il vraiment de dévoiler une voiture volante ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-          "summaryFr": "Après que Primark a annoncé son intention de livrer à domicile, nous entendons des femmes qui ne vont jamais dans les magasins de vêtements.",
+          "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+          "summaryFr": "Le PDG de Tesla, Elon Musk, a présenté le véhicule dans une installation appartenant à sa société SpaceX, qui a contribué au développement du modèle.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-16"
+          "id": "eco-2-2026-10-17"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-          "titleFr": "Des enfants âgés de 5, 8 et 11 ans tués dans une fusillade dans une école aux États-Unis avant que le suspect ne soit abattu par un passant",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "titleFr": "Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-          "summaryFr": "Un enseignant a également été tué lors de l'attaque survenue à l'école primaire Silver Rail, dans la ville de Bend, dans l'Oregon, selon la police.",
+          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+          "summaryFr": "Le président américain met temporairement fin à de nombreuses restrictions imposées à Moscou récemment votées par le Congrès pour des raisons de « sécurité nationale ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-16"
+          "id": "pol-1-2026-10-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-          "titleFr": "\"C'est vraiment difficile à croire\" - Comment s'est déroulée la fusillade dans une école primaire de l'Oregon",
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "titleFr": "Un enseignant de l'Oregon a combattu l'agresseur de l'école avant que son père armé ne tire sur le suspect \"à plusieurs reprises\"",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-          "summaryFr": "Trois enfants âgés de 5, 8 et 11 ans ainsi qu'un enseignant ont été tués après qu'un suspect de 16 ans a ouvert le feu dans la ville de Bend, a indiqué la police locale.",
+          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "summaryFr": "Le suspect, âgé de 16 ans, fréquentait auparavant une école primaire et avait ciblé une classe ayant des besoins éducatifs spéciaux, a indiqué la police.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-16"
+          "id": "pol-2-2026-10-17"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-          "titleFr": "Même Benchmark pense que l'IA érode le pacte de capital-risque face à ses rivaux.",
+          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+          "titleFr": "Mark Wahlberg veut affronter le public des startups de la longévité avec un concept de salle de sport abordable",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-          "summaryFr": "Benchmark affirme que la règle de la Valley interdisant de soutenir ses rivaux est de plus en plus difficile à respecter.",
+          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+          "summaryFr": "Mark Wahlberg, qui a autrefois investi de l'argent dans une chaîne de salles de sport qui a été exclue du NYSE, construit maintenant la sienne, et il promet que vous obtiendrez un bain froid, un test sanguin et un muffin protéiné sans avoir besoin d'un fonds en fiducie.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-16"
+          "id": "tech-1-2026-10-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-          "titleFr": "Tesla dévoile un Roadster propulsé par SpaceX qui vole et tombe avec style",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "titleFr": "Replit ne travaille plus avec Anthropic, déclare le PDG",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-          "summaryFr": "La nouvelle voiture a utilisé des propulseurs pour sauter par-dessus un Cybercab, un Cybertruck, un Tesla Semi, un Model Y et un Model 3 lors d'une démonstration au Texas.",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+          "summaryFr": "Masad a déclaré que la décision avait été prise pour un certain nombre de raisons différentes, notamment le coût. Replit a annoncé un partenariat avec OpenAI en août, mais rien n'indique qu'il ne s'agissait plus d'Anthropic.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-16"
+          "id": "tech-2-2026-10-17"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-          "titleFr": "Des enfants âgés de 5, 8 et 11 ans tués dans une fusillade dans une école aux États-Unis avant que le suspect ne soit abattu par un passant",
+          "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+          "titleFr": "L'actrice Selma Blair déclare qu'elle \"n'avait l'intention de faire de mal à personne\" lors d'une altercation dans l'avion",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-          "summaryFr": "Un enseignant a également été tué lors de l'attaque survenue à l'école primaire Silver Rail, dans la ville de Bend, dans l'Oregon, selon la police.",
+          "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+          "summaryFr": "Un publiciste de l'actrice a déclaré que l'incident découlait d'une \"urgence médicale\" et a déclaré qu'elle souffrait d'un trouble neurologique pouvant provoquer des réactions incontrôlables.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-16"
+          "id": "fd-1-2026-10-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-          "titleFr": "Trump annule la diffusion en direct de l'exécution par un peloton d'exécution de l'attaquant de Fort Hood",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "titleFr": "Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-          "summaryFr": "Trump a déclaré que certains « préféreraient ne pas assister » au meurtre de Nidal Hasan, la première exécution militaire depuis plus de 60 ans.",
+          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+          "summaryFr": "Le président américain met temporairement fin à de nombreuses restrictions imposées à Moscou récemment votées par le Congrès pour des raisons de « sécurité nationale ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-16"
+          "id": "fd-2-2026-10-17"
         }
       ]
     }
