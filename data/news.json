@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-17",
-  "formattedDate": "Samedi 17 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 17 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-18",
+  "formattedDate": "Dimanche 18 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 18 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les banques s'attendent à des hausses d'impôts dans le budget",
-    "Politique : Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
-    "Tech & IA : Mark Wahlberg veut affronter le public des startups de la longévité avec un concept de salle de sport abordable"
+    "Économie : Il existe une répression contre le piratage sportif – mais est-il déjà hors de contrôle ?",
+    "Politique : Des voitures incendiées et des vitres brisées dans les rues de Paris après que les manifestations se soient transformées en émeutes et pillages",
+    "Tech & IA : Meta supprime le langage qui soulevait des problèmes de scraping et de formation à l'IA"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Banks expect to be hit with higher taxes in Budget",
-          "titleFr": "Les banques s'attendent à des hausses d'impôts dans le budget",
+          "title": "There's a crackdown on sports piracy - but is it already out of control?",
+          "titleFr": "Il existe une répression contre le piratage sportif – mais est-il déjà hors de contrôle ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-          "summaryFr": "De hauts dirigeants du secteur bancaire ont déclaré à la BBC qu'ils s'attendaient à figurer « au menu » de la taxe budgétaire du chancelier plus tard ce mois-ci.",
+          "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+          "summaryFr": "Le modèle commercial lucratif de l'industrie du sport est miné par des clés TV douteuses et des liens de streaming illégaux, écrit Theo Leggett.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-17"
+          "id": "eco-1-2026-10-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Watch: Did Tesla really just unveil a flying car?",
-          "titleFr": "Regardez : Tesla vient-il vraiment de dévoiler une voiture volante ?",
+          "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+          "titleFr": "Une troisième piste à l'aéroport d'Heathrow stimulerait la croissance, selon Healey",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-          "summaryFr": "Le PDG de Tesla, Elon Musk, a présenté le véhicule dans une installation appartenant à sa société SpaceX, qui a contribué au développement du modèle.",
+          "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+          "summaryFr": "Cela survient après que le Premier ministre a refusé de dire s’il soutenait l’expansion.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-17"
+          "id": "eco-2-2026-10-18"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "titleFr": "Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "titleFr": "Des voitures incendiées et des vitres brisées dans les rues de Paris après que les manifestations se soient transformées en émeutes et pillages",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-          "summaryFr": "Le président américain met temporairement fin à de nombreuses restrictions imposées à Moscou récemment votées par le Congrès pour des raisons de « sécurité nationale ».",
+          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+          "summaryFr": "Environ 1 800 personnes ont été arrêtées après des manifestations à l’échelle nationale qui ont vu des flambées de violence et de vandalisme.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-17"
+          "id": "pol-1-2026-10-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-          "titleFr": "Un enseignant de l'Oregon a combattu l'agresseur de l'école avant que son père armé ne tire sur le suspect \"à plusieurs reprises\"",
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "titleFr": "Des photos montrent un bateau de luxe avec une piscine de 50 m et des toboggans près de la retraite d'été de Kim Jong Un",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-          "summaryFr": "Le suspect, âgé de 16 ans, fréquentait auparavant une école primaire et avait ciblé une classe ayant des besoins éducatifs spéciaux, a indiqué la police.",
+          "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+          "summaryFr": "Les images satellite donnent des indices sur la façon dont Kim passe ses vacances, ce qui est hors de portée pour la plupart des Nord-Coréens.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-17"
+          "id": "pol-2-2026-10-18"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-          "titleFr": "Mark Wahlberg veut affronter le public des startups de la longévité avec un concept de salle de sport abordable",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "titleFr": "Meta supprime le langage qui soulevait des problèmes de scraping et de formation à l'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-          "summaryFr": "Mark Wahlberg, qui a autrefois investi de l'argent dans une chaîne de salles de sport qui a été exclue du NYSE, construit maintenant la sienne, et il promet que vous obtiendrez un bain froid, un test sanguin et un muffin protéiné sans avoir besoin d'un fonds en fiducie.",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "summaryFr": "Un porte-parole de Meta a insisté sur le fait que les conditions mises à jour ne reflétaient pas un changement dans la façon dont Meta explore le Web.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-17"
+          "id": "tech-1-2026-10-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "titleFr": "Replit ne travaille plus avec Anthropic, déclare le PDG",
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "titleFr": "TikTok interdit définitivement le compte publicitaire documentaire « Musk »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-          "summaryFr": "Masad a déclaré que la décision avait été prise pour un certain nombre de raisons différentes, notamment le coût. Replit a annoncé un partenariat avec OpenAI en août, mais rien n'indique qu'il ne s'agissait plus d'Anthropic.",
+          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+          "summaryFr": "Un documentaire de quatre heures sur Elon Musk continue de rencontrer la résistance des plateformes de médias sociaux.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-17"
+          "id": "tech-2-2026-10-18"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-          "titleFr": "L'actrice Selma Blair déclare qu'elle \"n'avait l'intention de faire de mal à personne\" lors d'une altercation dans l'avion",
+          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+          "titleFr": "Une vague de drogues synthétiques artisanales déferle sur les États-Unis et aggrave la crise",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-          "summaryFr": "Un publiciste de l'actrice a déclaré que l'incident découlait d'une \"urgence médicale\" et a déclaré qu'elle souffrait d'un trouble neurologique pouvant provoquer des réactions incontrôlables.",
+          "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+          "summaryFr": "BBC News entend les utilisateurs, les dealers, les pénitenciers et les agents de réinsertion alors que le pays se bat contre une nouvelle épidémie mortelle de drogue.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-17"
+          "id": "fd-1-2026-10-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "titleFr": "Trump renonce à plusieurs sanctions contre la Russie alors que la dispute avec Zelensky s'intensifie",
+          "title": "Three takeaways from Elon Musk's latest political donations",
+          "titleFr": "Trois points à retenir des derniers dons politiques d'Elon Musk",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-          "summaryFr": "Le président américain met temporairement fin à de nombreuses restrictions imposées à Moscou récemment votées par le Congrès pour des raisons de « sécurité nationale ».",
+          "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
+          "summaryFr": "De nouveaux documents montrent que la personne la plus riche du monde a encore passé cet été à essayer d'aider les républicains à remporter le pouvoir, en se concentrant principalement sur un seul candidat.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-17"
+          "id": "fd-2-2026-10-18"
         }
       ]
     }
