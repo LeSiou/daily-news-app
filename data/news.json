@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-18",
-  "formattedDate": "Dimanche 18 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 18 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-19",
+  "formattedDate": "Lundi 19 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 19 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Il existe une répression contre le piratage sportif – mais est-il déjà hors de contrôle ?",
-    "Politique : Des voitures incendiées et des vitres brisées dans les rues de Paris après que les manifestations se soient transformées en émeutes et pillages",
-    "Tech & IA : Meta supprime le langage qui soulevait des problèmes de scraping et de formation à l'IA"
+    "Économie : Les vendeurs de maisons réduisent les prix demandés sur 3 000 propriétés par jour",
+    "Politique : Dans le monde obscur du sabotage anti-Poutine en Russie",
+    "Tech & IA : Khosla Ventures mise sur Even Healthcare pour défier l’économie des hôpitaux indiens"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "There's a crackdown on sports piracy - but is it already out of control?",
-          "titleFr": "Il existe une répression contre le piratage sportif – mais est-il déjà hors de contrôle ?",
+          "title": "Home sellers cut asking prices on 3,000 properties a day",
+          "titleFr": "Les vendeurs de maisons réduisent les prix demandés sur 3 000 propriétés par jour",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-          "summaryFr": "Le modèle commercial lucratif de l'industrie du sport est miné par des clés TV douteuses et des liens de streaming illégaux, écrit Theo Leggett.",
+          "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+          "summaryFr": "Les prix demandés dans l'immobilier sont plus réduits que jamais en 15 ans, selon les données partagées avec la BBC.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-18"
+          "id": "eco-1-2026-10-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-          "titleFr": "Une troisième piste à l'aéroport d'Heathrow stimulerait la croissance, selon Healey",
+          "title": "Musk and Anthropic pledge public share giveaways",
+          "titleFr": "Musk et Anthropic s'engagent à distribuer des actions au public",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "It comes after the prime minister refused to say whether he backed expansion.",
-          "summaryFr": "Cela survient après que le Premier ministre a refusé de dire s’il soutenait l’expansion.",
+          "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+          "summaryFr": "L'annonce de Musk intervient après qu'Anthropic s'est engagé à créer un fonds d'utilité publique avant sa cotation en bourse à succès.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-18"
+          "id": "eco-2-2026-10-19"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "titleFr": "Des voitures incendiées et des vitres brisées dans les rues de Paris après que les manifestations se soient transformées en émeutes et pillages",
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "titleFr": "Dans le monde obscur du sabotage anti-Poutine en Russie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-          "summaryFr": "Environ 1 800 personnes ont été arrêtées après des manifestations à l’échelle nationale qui ont vu des flambées de violence et de vandalisme.",
+          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+          "summaryFr": "Deux hommes racontent le travail qu'ils disent avoir accompli pour soutenir les services de renseignement ukrainiens pendant la guerre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-18"
+          "id": "pol-1-2026-10-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-          "titleFr": "Des photos montrent un bateau de luxe avec une piscine de 50 m et des toboggans près de la retraite d'été de Kim Jong Un",
+          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+          "titleFr": "L'Alberta se rend aux urnes pour décider si elle tiendra un vote sur la séparation du Canada",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-          "summaryFr": "Les images satellite donnent des indices sur la façon dont Kim passe ses vacances, ce qui est hors de portée pour la plupart des Nord-Coréens.",
+          "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+          "summaryFr": "Les sondages suggèrent que la plupart des Albertains sont favorables au maintien d'une partie du pays, même si le débat à lui seul s'est avéré source de division.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-18"
+          "id": "pol-2-2026-10-19"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "titleFr": "Meta supprime le langage qui soulevait des problèmes de scraping et de formation à l'IA",
+          "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+          "titleFr": "Khosla Ventures mise sur Even Healthcare pour défier l’économie des hôpitaux indiens",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-          "summaryFr": "Un porte-parole de Meta a insisté sur le fait que les conditions mises à jour ne reflétaient pas un changement dans la façon dont Meta explore le Web.",
+          "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+          "summaryFr": "Even Healthcare atteint une valorisation de 300 millions de dollars lors d'un cycle dirigé par Khosla Ventures alors qu'il envisage d'étendre son réseau hospitalier en Inde.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-18"
+          "id": "tech-1-2026-10-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-          "titleFr": "TikTok interdit définitivement le compte publicitaire documentaire « Musk »",
+          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+          "titleFr": "Pas d’agenda, pas de précipitation, pas de départ de San Francisco : les partenaires de Benchmark sur l’investissement dans un marché frénétique",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-          "summaryFr": "Un documentaire de quatre heures sur Elon Musk continue de rencontrer la résistance des plateformes de médias sociaux.",
+          "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+          "summaryFr": "Benchmark a peut-être augmenté ses fonds et échangé certains partenaires, mais sur scène, les cinq qui restent ressemblaient à des amis qui se trouvent justement à la tête de l'une des entreprises les plus réputées de la Valley.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-18"
+          "id": "tech-2-2026-10-19"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-          "titleFr": "Une vague de drogues synthétiques artisanales déferle sur les États-Unis et aggrave la crise",
+          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+          "titleFr": "L'Alberta se rend aux urnes pour décider si elle tiendra un vote sur la séparation du Canada",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-          "summaryFr": "BBC News entend les utilisateurs, les dealers, les pénitenciers et les agents de réinsertion alors que le pays se bat contre une nouvelle épidémie mortelle de drogue.",
+          "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+          "summaryFr": "Les sondages suggèrent que la plupart des Albertains sont favorables au maintien d'une partie du pays, même si le débat à lui seul s'est avéré source de division.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-18"
+          "id": "fd-1-2026-10-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three takeaways from Elon Musk's latest political donations",
-          "titleFr": "Trois points à retenir des derniers dons politiques d'Elon Musk",
+          "title": "The father and son on opposite sides of Alberta’s separation vote",
+          "titleFr": "Le père et le fils des côtés opposés du vote pour la séparation de l’Alberta",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
-          "summaryFr": "De nouveaux documents montrent que la personne la plus riche du monde a encore passé cet été à essayer d'aider les républicains à remporter le pouvoir, en se concentrant principalement sur un seul candidat.",
+          "summary": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
+          "summaryFr": "Les Albertains votent pour savoir s'ils veulent rester au Canada ou poursuivre leur indépendance via un référendum, divisant même certaines familles très unies.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-18"
+          "id": "fd-2-2026-10-19"
         }
       ]
     }
