@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-19",
-  "formattedDate": "Lundi 19 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 19 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-20",
+  "formattedDate": "Mardi 20 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 20 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les vendeurs de maisons réduisent les prix demandés sur 3 000 propriétés par jour",
-    "Politique : Dans le monde obscur du sabotage anti-Poutine en Russie",
-    "Tech & IA : Khosla Ventures mise sur Even Healthcare pour défier l’économie des hôpitaux indiens"
+    "Économie : Le taux de chômage baisse mais les petites entreprises réduisent leurs embauches",
+    "Politique : Un suspect arrêté après l'incendie d'un hôtel de ville historique lors de troubles - médias français",
+    "Tech & IA : Blackwall quadruple sa valorisation à 2,2 milliards de dollars alors que les sites Web se débattent avec un Internet de plus en plus encombré"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "titleFr": "Les vendeurs de maisons réduisent les prix demandés sur 3 000 propriétés par jour",
+          "title": "Jobless rate falls but small firms cut back hiring",
+          "titleFr": "Le taux de chômage baisse mais les petites entreprises réduisent leurs embauches",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-          "summaryFr": "Les prix demandés dans l'immobilier sont plus réduits que jamais en 15 ans, selon les données partagées avec la BBC.",
+          "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+          "summaryFr": "Les petites entreprises citent les coûts de main-d'œuvre comme un facteur clé dans la réduction des embauches, selon l'Office national des statistiques.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-19"
+          "id": "eco-1-2026-10-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Musk and Anthropic pledge public share giveaways",
-          "titleFr": "Musk et Anthropic s'engagent à distribuer des actions au public",
+          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+          "titleFr": "La chancelière rejette les appels à augmenter l'impôt sur les plus-values ​​dans le budget",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-          "summaryFr": "L'annonce de Musk intervient après qu'Anthropic s'est engagé à créer un fonds d'utilité publique avant sa cotation en bourse à succès.",
+          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+          "summaryFr": "Des personnalités travaillistes influentes ont fait pression pour égaliser la CGT et l'impôt sur le revenu, mais les critiques ont déclaré que cela pourrait chasser les riches de Grande-Bretagne.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-19"
+          "id": "eco-2-2026-10-20"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-          "titleFr": "Dans le monde obscur du sabotage anti-Poutine en Russie",
+          "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+          "titleFr": "Un suspect arrêté après l'incendie d'un hôtel de ville historique lors de troubles - médias français",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-          "summaryFr": "Deux hommes racontent le travail qu'ils disent avoir accompli pour soutenir les services de renseignement ukrainiens pendant la guerre.",
+          "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+          "summaryFr": "La flèche de la tour de l'horloge de l'hôtel de ville de Limoges s'est effondrée de façon dramatique lorsqu'elle a été la proie des flammes samedi.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-19"
+          "id": "pol-1-2026-10-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-          "titleFr": "L'Alberta se rend aux urnes pour décider si elle tiendra un vote sur la séparation du Canada",
+          "title": "Seventh day of violent clashes between Albanian protesters and police",
+          "titleFr": "Septième jour de violents affrontements entre manifestants albanais et policiers",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-          "summaryFr": "Les sondages suggèrent que la plupart des Albertains sont favorables au maintien d'une partie du pays, même si le débat à lui seul s'est avéré source de division.",
+          "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+          "summaryFr": "Près de 300 personnes ont été blessées, dont plus de la moitié sont des policiers, alors que les violentes manifestations antigouvernementales ne montrent aucun signe de ralentissement.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-19"
+          "id": "pol-2-2026-10-20"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-          "titleFr": "Khosla Ventures mise sur Even Healthcare pour défier l’économie des hôpitaux indiens",
+          "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+          "titleFr": "Blackwall quadruple sa valorisation à 2,2 milliards de dollars alors que les sites Web se débattent avec un Internet de plus en plus encombré",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-          "summaryFr": "Even Healthcare atteint une valorisation de 300 millions de dollars lors d'un cycle dirigé par Khosla Ventures alors qu'il envisage d'étendre son réseau hospitalier en Inde.",
+          "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+          "summaryFr": "Blackwall a levé 100 millions de dollars pour une valorisation de 2,2 milliards de dollars pour continuer à créer des outils de sécurité et de filtrage qui aident les sites Web à faire face à la croissance du trafic de robots et d'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-19"
+          "id": "tech-1-2026-10-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-          "titleFr": "Pas d’agenda, pas de précipitation, pas de départ de San Francisco : les partenaires de Benchmark sur l’investissement dans un marché frénétique",
+          "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+          "titleFr": "Flipkart de Walmart construit tranquillement un challenger de livraison de nourriture en Inde",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-          "summaryFr": "Benchmark a peut-être augmenté ses fonds et échangé certains partenaires, mais sur scène, les cinq qui restent ressemblaient à des amis qui se trouvent justement à la tête de l'une des entreprises les plus réputées de la Valley.",
+          "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+          "summaryFr": "Flipkart a étendu l'accès à son service de livraison de nourriture à des milliers d'employés avant son lancement public.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-19"
+          "id": "tech-2-2026-10-20"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-          "titleFr": "L'Alberta se rend aux urnes pour décider si elle tiendra un vote sur la séparation du Canada",
+          "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest",
+          "titleFr": "L’Alberta vote massivement pour rester au Canada, selon les projections",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-          "summaryFr": "Les sondages suggèrent que la plupart des Albertains sont favorables au maintien d'une partie du pays, même si le débat à lui seul s'est avéré source de division.",
+          "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+          "summaryFr": "Le vote a été salué par le Premier ministre Mark Carney comme « un choix clair » en faveur de l'unité nationale.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-19"
+          "id": "fd-1-2026-10-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The father and son on opposite sides of Alberta’s separation vote",
-          "titleFr": "Le père et le fils des côtés opposés du vote pour la séparation de l’Alberta",
+          "title": "How is the US economy really doing under President Trump?",
+          "titleFr": "Comment se porte réellement l’économie américaine sous le président Trump ?",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
-          "summaryFr": "Les Albertains votent pour savoir s'ils veulent rester au Canada ou poursuivre leur indépendance via un référendum, divisant même certaines familles très unies.",
+          "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+          "summaryFr": "Avant les élections de mi-mandat, Trump s’est vanté des performances de l’économie américaine. BBC Verify examine l'inflation, l'emploi et la croissance économique du pays.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-19"
+          "id": "fd-2-2026-10-20"
         }
       ]
     }
