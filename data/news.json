@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-20",
-  "formattedDate": "Mardi 20 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 20 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-21",
+  "formattedDate": "Mercredi 21 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 21 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le taux de chômage baisse mais les petites entreprises réduisent leurs embauches",
-    "Politique : Un suspect arrêté après l'incendie d'un hôtel de ville historique lors de troubles - médias français",
-    "Tech & IA : Blackwall quadruple sa valorisation à 2,2 milliards de dollars alors que les sites Web se débattent avec un Internet de plus en plus encombré"
+    "Économie : Faisal Islam : les chiffres de l'inflation et des emprunts illustrent le défi budgétaire du chancelier",
+    "Politique : Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
+    "Tech & IA : Anthropic présente un projet de loi sur la sécurité de l'IA qui pourrait bloquer un modèle si plus de 50 personnes pouvaient être tuées"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Jobless rate falls but small firms cut back hiring",
-          "titleFr": "Le taux de chômage baisse mais les petites entreprises réduisent leurs embauches",
+          "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+          "titleFr": "Faisal Islam : les chiffres de l'inflation et des emprunts illustrent le défi budgétaire du chancelier",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-          "summaryFr": "Les petites entreprises citent les coûts de main-d'œuvre comme un facteur clé dans la réduction des embauches, selon l'Office national des statistiques.",
+          "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+          "summaryFr": "Les chiffres économiques publiés mercredi montrent les contraintes auxquelles se trouve confronté John Healey alors qu'il met la touche finale à son budget.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-20"
+          "id": "eco-1-2026-10-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-          "titleFr": "La chancelière rejette les appels à augmenter l'impôt sur les plus-values ​​dans le budget",
+          "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+          "titleFr": "L'inflation et les emprunts publics sont au plus haut depuis un an avant le budget de la semaine prochaine",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-          "summaryFr": "Des personnalités travaillistes influentes ont fait pression pour égaliser la CGT et l'impôt sur le revenu, mais les critiques ont déclaré que cela pourrait chasser les riches de Grande-Bretagne.",
+          "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+          "summaryFr": "L'inflation s'est accélérée à 3,5% contre 3,1% sur l'année jusqu'en septembre, selon l'Office des statistiques nationales (ONS).",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-20"
+          "id": "eco-2-2026-10-21"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-          "titleFr": "Un suspect arrêté après l'incendie d'un hôtel de ville historique lors de troubles - médias français",
+          "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+          "titleFr": "Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-          "summaryFr": "La flèche de la tour de l'horloge de l'hôtel de ville de Limoges s'est effondrée de façon dramatique lorsqu'elle a été la proie des flammes samedi.",
+          "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
+          "summaryFr": "L'ancien enseignant a été libéré sans qu'aucun « échange » ne soit requis, selon le président.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-20"
+          "id": "pol-1-2026-10-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Seventh day of violent clashes between Albanian protesters and police",
-          "titleFr": "Septième jour de violents affrontements entre manifestants albanais et policiers",
+          "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+          "titleFr": "Trump et Zelensky semblent en désaccord malgré un nouvel optimisme",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-          "summaryFr": "Près de 300 personnes ont été blessées, dont plus de la moitié sont des policiers, alors que les violentes manifestations antigouvernementales ne montrent aucun signe de ralentissement.",
+          "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+          "summaryFr": "L'accolade du dirigeant ukrainien avec Steve Witkoff dans la capitale norvégienne ne dissipera probablement pas les inquiétudes quant à la politique américaine à l'égard de son pays, écrit Paul Adams.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-20"
+          "id": "pol-2-2026-10-21"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-          "titleFr": "Blackwall quadruple sa valorisation à 2,2 milliards de dollars alors que les sites Web se débattent avec un Internet de plus en plus encombré",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "titleFr": "Anthropic présente un projet de loi sur la sécurité de l'IA qui pourrait bloquer un modèle si plus de 50 personnes pouvaient être tuées",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-          "summaryFr": "Blackwall a levé 100 millions de dollars pour une valorisation de 2,2 milliards de dollars pour continuer à créer des outils de sécurité et de filtrage qui aident les sites Web à faire face à la croissance du trafic de robots et d'IA.",
+          "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+          "summaryFr": "La politique proposée semble offrir des protections contre les IA déchaînées, mais interdit en fait aux agences fédérales de bloquer la sortie d'un modèle sans l'autorisation d'un juge.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-20"
+          "id": "tech-1-2026-10-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-          "titleFr": "Flipkart de Walmart construit tranquillement un challenger de livraison de nourriture en Inde",
+          "title": "SpaceX and Tesla boards form special committees to review merger",
+          "titleFr": "Les conseils d'administration de SpaceX et de Tesla forment des comités spéciaux pour examiner la fusion",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-          "summaryFr": "Flipkart a étendu l'accès à son service de livraison de nourriture à des milliers d'employés avant son lancement public.",
+          "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+          "summaryFr": "Elon Musk aime l'idée mais affirme ne faire partie d'aucun des deux comités, composés d'administrateurs indépendants.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-20"
+          "id": "tech-2-2026-10-21"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Alberta votes overwhelmingly to remain part of Canada, projections suggest",
-          "titleFr": "L’Alberta vote massivement pour rester au Canada, selon les projections",
+          "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+          "titleFr": "Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
-          "summaryFr": "Le vote a été salué par le Premier ministre Mark Carney comme « un choix clair » en faveur de l'unité nationale.",
+          "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
+          "summaryFr": "L'ancien enseignant a été libéré sans qu'aucun « échange » ne soit requis, selon le président.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-20"
+          "id": "fd-1-2026-10-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "How is the US economy really doing under President Trump?",
-          "titleFr": "Comment se porte réellement l’économie américaine sous le président Trump ?",
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "titleFr": "La décision décisive de l'Alberta de rester au Canada donne à Carney le soutien nécessaire pour affronter Trump",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-          "summaryFr": "Avant les élections de mi-mandat, Trump s’est vanté des performances de l’économie américaine. BBC Verify examine l'inflation, l'emploi et la croissance économique du pays.",
+          "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+          "summaryFr": "Le vote écrasant de l'Alberta en faveur du maintien au Canada donne à Mark Carney un capital politique pour se concentrer sur la reconstruction de l'économie du pays, écrit Lyse Doucet de la BBC.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-20"
+          "id": "fd-2-2026-10-21"
         }
       ]
     }
