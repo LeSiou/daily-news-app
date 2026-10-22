@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-21",
-  "formattedDate": "Mercredi 21 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 21 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-22",
+  "formattedDate": "Jeudi 22 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 22 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Faisal Islam : les chiffres de l'inflation et des emprunts illustrent le défi budgétaire du chancelier",
-    "Politique : Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
-    "Tech & IA : Anthropic présente un projet de loi sur la sécurité de l'IA qui pourrait bloquer un modèle si plus de 50 personnes pouvaient être tuées"
+    "Économie : Barclays supprime 5 000 emplois car elle dépend davantage de l'IA",
+    "Politique : Comment les partis arabes pourraient détenir un équilibre critique du pouvoir lors des élections israéliennes",
+    "Tech & IA : Tesla dit qu'elle commencera à vendre des Cybercabs d'ici la fin de l'année"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-          "titleFr": "Faisal Islam : les chiffres de l'inflation et des emprunts illustrent le défi budgétaire du chancelier",
+          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "titleFr": "Barclays supprime 5 000 emplois car elle dépend davantage de l'IA",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-          "summaryFr": "Les chiffres économiques publiés mercredi montrent les contraintes auxquelles se trouve confronté John Healey alors qu'il met la touche finale à son budget.",
+          "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+          "summaryFr": "La banque affirme qu’elle utilise davantage l’IA, ce qui entraînera une réduction de 5 % de ses effectifs.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-21"
+          "id": "eco-1-2026-10-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-          "titleFr": "L'inflation et les emprunts publics sont au plus haut depuis un an avant le budget de la semaine prochaine",
+          "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+          "titleFr": "Le fonds pétrolier d'un montant de « milliards de milliards de livres » que le gouvernement estime que la Grande-Bretagne aurait pu créer",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-          "summaryFr": "L'inflation s'est accélérée à 3,5% contre 3,1% sur l'année jusqu'en septembre, selon l'Office des statistiques nationales (ONS).",
+          "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+          "summaryFr": "Pour la première fois, le Trésor calcule combien le Royaume-Uni aurait pu récolter en investissant les recettes de la mer du Nord.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-21"
+          "id": "eco-2-2026-10-22"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-          "titleFr": "Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "titleFr": "Comment les partis arabes pourraient détenir un équilibre critique du pouvoir lors des élections israéliennes",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
-          "summaryFr": "L'ancien enseignant a été libéré sans qu'aucun « échange » ne soit requis, selon le président.",
+          "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+          "summaryFr": "La désaffection a souvent fait baisser la participation des Arabes israéliens, mais il existe une forte pression pour se débarrasser de la coalition gouvernementale de droite.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-21"
+          "id": "pol-1-2026-10-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-          "titleFr": "Trump et Zelensky semblent en désaccord malgré un nouvel optimisme",
+          "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+          "titleFr": "Un célèbre requin guidé hors du canal sud-coréen refuse de nager vers la mer",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-          "summaryFr": "L'accolade du dirigeant ukrainien avec Steve Witkoff dans la capitale norvégienne ne dissipera probablement pas les inquiétudes quant à la politique américaine à l'égard de son pays, écrit Paul Adams.",
+          "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+          "summaryFr": "Bukangi, le requin, est devenu une sensation improbable après avoir été repéré dans un canal à Busan il y a quelques semaines.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-21"
+          "id": "pol-2-2026-10-22"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "titleFr": "Anthropic présente un projet de loi sur la sécurité de l'IA qui pourrait bloquer un modèle si plus de 50 personnes pouvaient être tuées",
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "titleFr": "Tesla dit qu'elle commencera à vendre des Cybercabs d'ici la fin de l'année",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-          "summaryFr": "La politique proposée semble offrir des protections contre les IA déchaînées, mais interdit en fait aux agences fédérales de bloquer la sortie d'un modèle sans l'autorisation d'un juge.",
+          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+          "summaryFr": "Tesla a annoncé mercredi qu'elle commencerait à vendre son Cybercab à ses clients d'ici la fin de l'année, alors même que les régulateurs fédéraux enquêtent pour savoir si le véhicule répond aux normes de sécurité des véhicules. Le biplace autonome aux teintes dorées n’a pas de volant ni d’autres commandes traditionnelles. Lors de l'appel aux résultats du troisième trimestre de l'entreprise, Lars Moravy, vice-président de l'ingénierie chez Tesla, […]",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-21"
+          "id": "tech-1-2026-10-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "SpaceX and Tesla boards form special committees to review merger",
-          "titleFr": "Les conseils d'administration de SpaceX et de Tesla forment des comités spéciaux pour examiner la fusion",
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "titleFr": "Jas Khaira de Blackstone dit que les craintes concernant la dette liée au développement de l'IA sont exagérées",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-          "summaryFr": "Elon Musk aime l'idée mais affirme ne faire partie d'aucun des deux comités, composés d'administrateurs indépendants.",
+          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+          "summaryFr": "L'IA de Blackstone explique pourquoi le géant du PE n'est pas paniqué par la nervosité du marché.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-21"
+          "id": "tech-2-2026-10-22"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-          "titleFr": "Le citoyen américain Stephen Hubbard a été libéré par la Russie et « sur le chemin du retour », selon Trump",
+          "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+          "titleFr": "Vance dit aux républicains d'arrêter de se plaindre à propos de la publicité controversée sur l'attaque de l'Ohio",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
-          "summaryFr": "L'ancien enseignant a été libéré sans qu'aucun « échange » ne soit requis, selon le président.",
+          "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+          "summaryFr": "La publicité du républicain de l'Ohio Vivek Ramaswamy met en scène l'ex-mère de son rival démocrate, qu'elle n'a pas vue depuis que son beau-père a été accusé d'abus sexuels dans son enfance.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-21"
+          "id": "fd-1-2026-10-22"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-          "titleFr": "La décision décisive de l'Alberta de rester au Canada donne à Carney le soutien nécessaire pour affronter Trump",
+          "title": "US embassy accuses Canada of election meddling ahead of midterms",
+          "titleFr": "L'ambassade américaine accuse le Canada d'ingérence électorale avant les élections de mi-mandat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-          "summaryFr": "Le vote écrasant de l'Alberta en faveur du maintien au Canada donne à Mark Carney un capital politique pour se concentrer sur la reconstruction de l'économie du pays, écrit Lyse Doucet de la BBC.",
+          "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
+          "summaryFr": "Le Premier ministre Mark Carney a rejeté cette affirmation, soulignant que les États-Unis avaient engagé des actions commerciales contre le Canada.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-21"
+          "id": "fd-2-2026-10-22"
         }
       ]
     }
