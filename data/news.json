@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-22",
-  "formattedDate": "Jeudi 22 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 22 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-23",
+  "formattedDate": "Vendredi 23 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 23 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Barclays supprime 5 000 emplois car elle dépend davantage de l'IA",
-    "Politique : Comment les partis arabes pourraient détenir un équilibre critique du pouvoir lors des élections israéliennes",
-    "Tech & IA : Tesla dit qu'elle commencera à vendre des Cybercabs d'ici la fin de l'année"
+    "Économie : Les lumières resteront allumées cet hiver, déclare l'opérateur du réseau après des inquiétudes",
+    "Politique : L'Ukraine affirme que Starlink est toujours soumis à des restrictions après que Trump a déclaré que les limites étaient levées",
+    "Tech & IA : Oura poursuit à nouveau son rival Ultrahuman, menaçant son retour sur le ring intelligent américain"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-          "titleFr": "Barclays supprime 5 000 emplois car elle dépend davantage de l'IA",
+          "title": "Lights will stay on this winter, grid operator says after concerns",
+          "titleFr": "Les lumières resteront allumées cet hiver, déclare l'opérateur du réseau après des inquiétudes",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-          "summaryFr": "La banque affirme qu’elle utilise davantage l’IA, ce qui entraînera une réduction de 5 % de ses effectifs.",
+          "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+          "summaryFr": "L'assurance de l'Opérateur national du système énergétique intervient au milieu des inquiétudes de ses ingénieurs quant à leur capacité à assurer un approvisionnement adéquat.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-22"
+          "id": "eco-1-2026-10-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-          "titleFr": "Le fonds pétrolier d'un montant de « milliards de milliards de livres » que le gouvernement estime que la Grande-Bretagne aurait pu créer",
+          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+          "titleFr": "\"J'ai 96 ans et 15 millions de followers\" : les mamies s'emparent de TikTok",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-          "summaryFr": "Pour la première fois, le Trésor calcule combien le Royaume-Uni aurait pu récolter en investissant les recettes de la mer du Nord.",
+          "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+          "summaryFr": "Grand-mère Droniak, Nonna Gracie, Viv Truran et Barbara Costello sont toutes devenues célèbres sur les réseaux sociaux au cours de leurs dernières années.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-22"
+          "id": "eco-2-2026-10-23"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "How Arab parties could hold critical balance of power in Israeli election",
-          "titleFr": "Comment les partis arabes pourraient détenir un équilibre critique du pouvoir lors des élections israéliennes",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "titleFr": "L'Ukraine affirme que Starlink est toujours soumis à des restrictions après que Trump a déclaré que les limites étaient levées",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-          "summaryFr": "La désaffection a souvent fait baisser la participation des Arabes israéliens, mais il existe une forte pression pour se débarrasser de la coalition gouvernementale de droite.",
+          "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+          "summaryFr": "Des problèmes subsistent avec le réseau utilisé par l'armée ukrainienne, selon des sources, après les dénégations répétées d'un ralentissement délibéré.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-22"
+          "id": "pol-1-2026-10-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-          "titleFr": "Un célèbre requin guidé hors du canal sud-coréen refuse de nager vers la mer",
+          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "titleFr": "Cinq Israéliens blessés et deux attaquants palestiniens présumés tués dans une fusillade en Cisjordanie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-          "summaryFr": "Bukangi, le requin, est devenu une sensation improbable après avoir été repéré dans un canal à Busan il y a quelques semaines.",
+          "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+          "summaryFr": "L'attaque intervient à un moment de tensions accrues en Cisjordanie et quatre jours avant les élections générales israéliennes.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-22"
+          "id": "pol-2-2026-10-23"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Tesla says it will start selling Cybercabs by end of year",
-          "titleFr": "Tesla dit qu'elle commencera à vendre des Cybercabs d'ici la fin de l'année",
+          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+          "titleFr": "Oura poursuit à nouveau son rival Ultrahuman, menaçant son retour sur le ring intelligent américain",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
-          "summaryFr": "Tesla a annoncé mercredi qu'elle commencerait à vendre son Cybercab à ses clients d'ici la fin de l'année, alors même que les régulateurs fédéraux enquêtent pour savoir si le véhicule répond aux normes de sécurité des véhicules. Le biplace autonome aux teintes dorées n’a pas de volant ni d’autres commandes traditionnelles. Lors de l'appel aux résultats du troisième trimestre de l'entreprise, Lars Moravy, vice-président de l'ingénierie chez Tesla, […]",
+          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+          "summaryFr": "Oura allègue dans son nouveau procès que le Ring Pro d'Ultrahuman enfreint deux de ses brevets.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-22"
+          "id": "tech-1-2026-10-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-          "titleFr": "Jas Khaira de Blackstone dit que les craintes concernant la dette liée au développement de l'IA sont exagérées",
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "titleFr": "Le rival d'Uber, inDrive, envisage des tests de robotaxi en 2027 en Asie centrale avec Pony.ai et Nvidia",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-          "summaryFr": "L'IA de Blackstone explique pourquoi le géant du PE n'est pas paniqué par la nervosité du marché.",
+          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "summaryFr": "inDrive prévoit de commencer à tester le robotaxis de Pony.ai dans la capitale du Kazakhstan au premier semestre 2027.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-22"
+          "id": "tech-2-2026-10-23"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-          "titleFr": "Vance dit aux républicains d'arrêter de se plaindre à propos de la publicité controversée sur l'attaque de l'Ohio",
+          "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+          "titleFr": "Les électeurs hispaniques ont contribué à amener Trump au pouvoir – au Texas, le vent pourrait être en train de tourner",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
-          "summaryFr": "La publicité du républicain de l'Ohio Vivek Ramaswamy met en scène l'ex-mère de son rival démocrate, qu'elle n'a pas vue depuis que son beau-père a été accusé d'abus sexuels dans son enfance.",
+          "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+          "summaryFr": "Des sondages récents suggèrent que le président est confronté à des vents contraires difficiles dans l'État à l'approche des élections de mi-mandat.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-22"
+          "id": "fd-1-2026-10-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US embassy accuses Canada of election meddling ahead of midterms",
-          "titleFr": "L'ambassade américaine accuse le Canada d'ingérence électorale avant les élections de mi-mandat",
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "titleFr": "Trump a ordonné de répondre sous serment aux questions dans le cadre du procès de la BBC",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-          "summaryFr": "Le Premier ministre Mark Carney a rejeté cette affirmation, soulignant que les États-Unis avaient engagé des actions commerciales contre le Canada.",
+          "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+          "summaryFr": "Trump poursuit la BBC pour un épisode de Panorama qui éditait ensemble deux sections différentes d'un discours qu'il avait prononcé en 2021.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-22"
+          "id": "fd-2-2026-10-23"
         }
       ]
     }
