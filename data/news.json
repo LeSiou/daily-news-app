@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-23",
-  "formattedDate": "Vendredi 23 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 23 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-24",
+  "formattedDate": "Samedi 24 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 24 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les lumières resteront allumées cet hiver, déclare l'opérateur du réseau après des inquiétudes",
-    "Politique : L'Ukraine affirme que Starlink est toujours soumis à des restrictions après que Trump a déclaré que les limites étaient levées",
-    "Tech & IA : Oura poursuit à nouveau son rival Ultrahuman, menaçant son retour sur le ring intelligent américain"
+    "Économie : Comment la pension de l’État britannique se compare-t-elle à celle des autres pays ?",
+    "Politique : Arrestation effectuée après l'incendie de la retraite Eagle's Nest d'Hitler au sommet d'une montagne",
+    "Tech & IA : Les startups n’ont pas besoin de devenir virales pour gagner des clients"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lights will stay on this winter, grid operator says after concerns",
-          "titleFr": "Les lumières resteront allumées cet hiver, déclare l'opérateur du réseau après des inquiétudes",
+          "title": "How does the UK state pension compare with other countries?",
+          "titleFr": "Comment la pension de l’État britannique se compare-t-elle à celle des autres pays ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-          "summaryFr": "L'assurance de l'Opérateur national du système énergétique intervient au milieu des inquiétudes de ses ingénieurs quant à leur capacité à assurer un approvisionnement adéquat.",
+          "summary": "Do British pensioners have it better or worse than those in other countries?",
+          "summaryFr": "Les retraités britanniques vivent-ils mieux ou moins bien que ceux des autres pays ?",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-23"
+          "id": "eco-1-2026-10-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-          "titleFr": "\"J'ai 96 ans et 15 millions de followers\" : les mamies s'emparent de TikTok",
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "titleFr": "Le Royaume-Uni va investir 100 millions de livres sterling dans un « premier laboratoire de biosécurité en IA au monde »",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-          "summaryFr": "Grand-mère Droniak, Nonna Gracie, Viv Truran et Barbara Costello sont toutes devenues célèbres sur les réseaux sociaux au cours de leurs dernières années.",
+          "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+          "summaryFr": "La chancelière dévoilera les dépenses consacrées à l'IA visant à renforcer la défense du Royaume-Uni dans le budget de mercredi.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-23"
+          "id": "eco-2-2026-10-24"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "titleFr": "L'Ukraine affirme que Starlink est toujours soumis à des restrictions après que Trump a déclaré que les limites étaient levées",
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "titleFr": "Arrestation effectuée après l'incendie de la retraite Eagle's Nest d'Hitler au sommet d'une montagne",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-          "summaryFr": "Des problèmes subsistent avec le réseau utilisé par l'armée ukrainienne, selon des sources, après les dénégations répétées d'un ralentissement délibéré.",
+          "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+          "summaryFr": "Environ 200 secouristes sont déployés pour lutter contre l'incendie de la résidence alpine du dictateur nazi en Allemagne.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-23"
+          "id": "pol-1-2026-10-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-          "titleFr": "Cinq Israéliens blessés et deux attaquants palestiniens présumés tués dans une fusillade en Cisjordanie",
+          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+          "titleFr": "Le père qui a tué le tireur d'une école de l'Oregon décrit son angoisse face aux enfants qu'il n'a pas pu sauver",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-          "summaryFr": "L'attaque intervient à un moment de tensions accrues en Cisjordanie et quatre jours avant les élections générales israéliennes.",
+          "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+          "summaryFr": "Kaylub Giamanco a été salué comme un héros pour avoir tué un adolescent qui a tué par balle trois enfants et un enseignant.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-23"
+          "id": "pol-2-2026-10-24"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-          "titleFr": "Oura poursuit à nouveau son rival Ultrahuman, menaçant son retour sur le ring intelligent américain",
+          "title": "Startups don’t need to go viral to win customers",
+          "titleFr": "Les startups n’ont pas besoin de devenir virales pour gagner des clients",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-          "summaryFr": "Oura allègue dans son nouveau procès que le Ring Pro d'Ultrahuman enfreint deux de ses brevets.",
+          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+          "summaryFr": "Lors de TechCrunch Disrupt la semaine dernière, deux fondateurs et un VC ont discuté de la manière non seulement de gagner un public précoce, mais aussi d'en conserver un.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-23"
+          "id": "tech-1-2026-10-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-          "titleFr": "Le rival d'Uber, inDrive, envisage des tests de robotaxi en 2027 en Asie centrale avec Pony.ai et Nvidia",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "titleFr": "OpenAI déclare qu'il ne formera plus ses modèles d'IA sur Internet en direct, invoquant des « risques importants »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-          "summaryFr": "inDrive prévoit de commencer à tester le robotaxis de Pony.ai dans la capitale du Kazakhstan au premier semestre 2027.",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "summaryFr": "OpenAI coupera les modèles frontières d'Internet quelques semaines après qu'un de ses ingénieurs ait déclaré que cette solution ne fonctionnerait pas.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-23"
+          "id": "tech-2-2026-10-24"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-          "titleFr": "Les électeurs hispaniques ont contribué à amener Trump au pouvoir – au Texas, le vent pourrait être en train de tourner",
+          "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+          "titleFr": "Les électeurs californiens sont-ils sur le point d'imposer la « première taxe au monde » aux milliardaires ?",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
-          "summaryFr": "Des sondages récents suggèrent que le président est confronté à des vents contraires difficiles dans l'État à l'approche des élections de mi-mandat.",
+          "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+          "summaryFr": "Les électeurs sont sur le point de décider si les plus riches parmi eux devraient consacrer des milliards de dollars à l’amélioration des soins de santé.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-23"
+          "id": "fd-1-2026-10-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "titleFr": "Trump a ordonné de répondre sous serment aux questions dans le cadre du procès de la BBC",
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "titleFr": "La Maison Blanche lève les droits de douane sur certains produits canadiens à l'approche des élections de mi-mandat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-          "summaryFr": "Trump poursuit la BBC pour un épisode de Panorama qui éditait ensemble deux sections différentes d'un discours qu'il avait prononcé en 2021.",
+          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+          "summaryFr": "À partir du 30 octobre, les droits de douane seront allégés sur certains produits, notamment certaines machines, et appliqués à d'autres, comme les tapis.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-23"
+          "id": "fd-2-2026-10-24"
         }
       ]
     }
