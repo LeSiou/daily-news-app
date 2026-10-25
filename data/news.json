@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-24",
-  "formattedDate": "Samedi 24 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 24 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-25",
+  "formattedDate": "Dimanche 25 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 25 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Comment la pension de l’État britannique se compare-t-elle à celle des autres pays ?",
-    "Politique : Arrestation effectuée après l'incendie de la retraite Eagle's Nest d'Hitler au sommet d'une montagne",
-    "Tech & IA : Les startups n’ont pas besoin de devenir virales pour gagner des clients"
+    "Économie : Quatre façons dont les travaillistes pourraient lever des fonds dans le budget sans augmenter l'impôt sur le revenu",
+    "Politique : Près de 1 000 personnes arrêtées alors que des affrontements font suite à une autre journée de manifestations de masse à travers la France",
+    "Tech & IA : Starlink semble fonctionner à nouveau normalement en Ukraine"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "How does the UK state pension compare with other countries?",
-          "titleFr": "Comment la pension de l’État britannique se compare-t-elle à celle des autres pays ?",
+          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+          "titleFr": "Quatre façons dont les travaillistes pourraient lever des fonds dans le budget sans augmenter l'impôt sur le revenu",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Do British pensioners have it better or worse than those in other countries?",
-          "summaryFr": "Les retraités britanniques vivent-ils mieux ou moins bien que ceux des autres pays ?",
+          "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+          "summaryFr": "Le chancelier John Healey devra peut-être lever des fonds pour augmenter sa marge budgétaire – BBC Verify examine quelles options pourraient être sur la table.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-24"
+          "id": "eco-1-2026-10-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-          "titleFr": "Le Royaume-Uni va investir 100 millions de livres sterling dans un « premier laboratoire de biosécurité en IA au monde »",
+          "title": "Budget to include £1bn for social and affordable housing",
+          "titleFr": "Le budget comprendra 1 milliard de livres sterling pour le logement social et abordable",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-          "summaryFr": "La chancelière dévoilera les dépenses consacrées à l'IA visant à renforcer la défense du Royaume-Uni dans le budget de mercredi.",
+          "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+          "summaryFr": "Cette décision portera le financement du programme sur 10 ans à plus de 40 milliards de livres sterling.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-24"
+          "id": "eco-2-2026-10-25"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "titleFr": "Arrestation effectuée après l'incendie de la retraite Eagle's Nest d'Hitler au sommet d'une montagne",
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "titleFr": "Près de 1 000 personnes arrêtées alors que des affrontements font suite à une autre journée de manifestations de masse à travers la France",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-          "summaryFr": "Environ 200 secouristes sont déployés pour lutter contre l'incendie de la résidence alpine du dictateur nazi en Allemagne.",
+          "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+          "summaryFr": "Des centaines de milliers de personnes ont participé à des manifestations en France, et des manifestations ont également eu lieu dans d'autres pays européens.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-24"
+          "id": "pol-1-2026-10-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-          "titleFr": "Le père qui a tué le tireur d'une école de l'Oregon décrit son angoisse face aux enfants qu'il n'a pas pu sauver",
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "titleFr": "Israël va fermer les passages de Cisjordanie le jour des élections alors que la répression s'intensifie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-          "summaryFr": "Kaylub Giamanco a été salué comme un héros pour avoir tué un adolescent qui a tué par balle trois enfants et un enseignant.",
+          "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+          "summaryFr": "Les Forces de défense israéliennes annoncent des restrictions sur les mouvements des travailleurs palestiniens à l'approche des élections de mardi.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-24"
+          "id": "pol-2-2026-10-25"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Startups don’t need to go viral to win customers",
-          "titleFr": "Les startups n’ont pas besoin de devenir virales pour gagner des clients",
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "titleFr": "Starlink semble fonctionner à nouveau normalement en Ukraine",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-          "summaryFr": "Lors de TechCrunch Disrupt la semaine dernière, deux fondateurs et un VC ont discuté de la manière non seulement de gagner un public précoce, mais aussi d'en conserver un.",
+          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+          "summaryFr": "Elon Musk aurait ordonné à SpaceX de limiter l'accès Starlink en Ukraine.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-24"
+          "id": "tech-1-2026-10-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "titleFr": "OpenAI déclare qu'il ne formera plus ses modèles d'IA sur Internet en direct, invoquant des « risques importants »",
+          "title": "Will AI expose the rickety infrastructure of the internet?",
+          "titleFr": "L’IA va-t-elle révéler l’infrastructure branlante d’Internet ?",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-          "summaryFr": "OpenAI coupera les modèles frontières d'Internet quelques semaines après qu'un de ses ingénieurs ait déclaré que cette solution ne fonctionnerait pas.",
+          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+          "summaryFr": "Au moment où vous réalisez qu’Internet est « tenu ensemble par la colle et les rêves ».",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-24"
+          "id": "tech-2-2026-10-25"
         }
       ]
     },
@@ -125,6 +125,20 @@
         {
           "isInternational": true,
           "language": "en",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "titleFr": "Obama attaque Trump alors qu'il fait campagne pour les démocrates avant les élections de mi-mandat",
+          "source": "BBC International",
+          "time": "08h00",
+          "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+          "summaryFr": "Obama a déclaré que l'élection était \"la dernière meilleure chance de maîtriser au moins une partie de la folie de cette administration\".",
+          "impact": "Global market & political signal via BBC International",
+          "impactFr": "Signal international majeur via BBC International",
+          "badge": "Société",
+          "id": "fd-1-2026-10-25"
+        },
+        {
+          "isInternational": true,
+          "language": "en",
           "title": "Are California voters about to impose 'world's first' tax on billionaires?",
           "titleFr": "Les électeurs californiens sont-ils sur le point d'imposer la « première taxe au monde » aux milliardaires ?",
           "source": "BBC International",
@@ -134,21 +148,7 @@
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-24"
-        },
-        {
-          "isInternational": true,
-          "language": "en",
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "titleFr": "La Maison Blanche lève les droits de douane sur certains produits canadiens à l'approche des élections de mi-mandat",
-          "source": "BBC International",
-          "time": "08h00",
-          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-          "summaryFr": "À partir du 30 octobre, les droits de douane seront allégés sur certains produits, notamment certaines machines, et appliqués à d'autres, comme les tapis.",
-          "impact": "Global market & political signal via BBC International",
-          "impactFr": "Signal international majeur via BBC International",
-          "badge": "Société",
-          "id": "fd-2-2026-10-24"
+          "id": "fd-2-2026-10-25"
         }
       ]
     }
