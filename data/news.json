@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-25",
-  "formattedDate": "Dimanche 25 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 25 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-26",
+  "formattedDate": "Lundi 26 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 26 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Quatre façons dont les travaillistes pourraient lever des fonds dans le budget sans augmenter l'impôt sur le revenu",
-    "Politique : Près de 1 000 personnes arrêtées alors que des affrontements font suite à une autre journée de manifestations de masse à travers la France",
-    "Tech & IA : Starlink semble fonctionner à nouveau normalement en Ukraine"
+    "Économie : Healey protégera les retraités à faible revenu de l'impôt sur le revenu dans le budget",
+    "Politique : Célébrations en Serbie après la défaite électorale du dirigeant vétéran Vučić face à un mouvement de protestation dirigé par les étudiants",
+    "Tech & IA : Les meilleures applications pour suivre votre lecture et découvrir de nouveaux livres"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-          "titleFr": "Quatre façons dont les travaillistes pourraient lever des fonds dans le budget sans augmenter l'impôt sur le revenu",
+          "title": "Healey to shield low-income pensioners from income tax in the Budget",
+          "titleFr": "Healey protégera les retraités à faible revenu de l'impôt sur le revenu dans le budget",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-          "summaryFr": "Le chancelier John Healey devra peut-être lever des fonds pour augmenter sa marge budgétaire – BBC Verify examine quelles options pourraient être sur la table.",
+          "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+          "summaryFr": "Des changements sont nécessaires pour éviter que la pension complète et forfaitaire de l'État ne devienne assujettie à l'impôt sur le revenu après son augmentation en avril.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-25"
+          "id": "eco-1-2026-10-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Budget to include £1bn for social and affordable housing",
-          "titleFr": "Le budget comprendra 1 milliard de livres sterling pour le logement social et abordable",
+          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "titleFr": "Le budget de Healey doit soutenir une économie plus forte en accumulant des nuages",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The move will take funding for the 10-year programme to more than £40bn.",
-          "summaryFr": "Cette décision portera le financement du programme sur 10 ans à plus de 40 milliards de livres sterling.",
+          "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+          "summaryFr": "La situation économique est désormais positive, mais en janvier, les choses pourraient devenir plus délicates pour le gouvernement travailliste.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-25"
+          "id": "eco-2-2026-10-26"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "titleFr": "Près de 1 000 personnes arrêtées alors que des affrontements font suite à une autre journée de manifestations de masse à travers la France",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "titleFr": "Célébrations en Serbie après la défaite électorale du dirigeant vétéran Vučić face à un mouvement de protestation dirigé par les étudiants",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-          "summaryFr": "Des centaines de milliers de personnes ont participé à des manifestations en France, et des manifestations ont également eu lieu dans d'autres pays européens.",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "summaryFr": "Le leader populiste de droite depuis 12 ans affirme qu'il est « clair » que son parti a perdu le vote présenté comme un référendum sur l'avenir du pays.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-25"
+          "id": "pol-1-2026-10-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "titleFr": "Israël va fermer les passages de Cisjordanie le jour des élections alors que la répression s'intensifie",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "titleFr": "La chef de l’opposition vénézuélienne María Machado revient après des mois d’exil",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-          "summaryFr": "Les Forces de défense israéliennes annoncent des restrictions sur les mouvements des travailleurs palestiniens à l'approche des élections de mardi.",
+          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "summaryFr": "Machado avait quitté le pays juste un mois avant que le gouvernement américain ne s'empare du président vénézuélien Nicolas Maduro.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-25"
+          "id": "pol-2-2026-10-26"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Starlink seems to be working normally again in Ukraine",
-          "titleFr": "Starlink semble fonctionner à nouveau normalement en Ukraine",
+          "title": "The best apps for tracking your reading and discovering new books",
+          "titleFr": "Les meilleures applications pour suivre votre lecture et découvrir de nouveaux livres",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-          "summaryFr": "Elon Musk aurait ordonné à SpaceX de limiter l'accès Starlink en Ukraine.",
+          "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+          "summaryFr": "Il existe de nombreuses applications sur le marché qui promettent de faire exactement cela, nous avons donc compilé une liste de certaines des meilleures pour vous aider à choisir celle qui vous convient.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-25"
+          "id": "tech-1-2026-10-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Will AI expose the rickety infrastructure of the internet?",
-          "titleFr": "L’IA va-t-elle révéler l’infrastructure branlante d’Internet ?",
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "titleFr": "Grok publie les sept premières minutes de son « Odyssée » générée par l’IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-          "summaryFr": "Au moment où vous réalisez qu’Internet est « tenu ensemble par la colle et les rêves ».",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "summaryFr": "Les images semblent correctes, tant que vous ne recherchez pas le talent artistique, l'inspiration ou l'intérêt humain.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-25"
+          "id": "tech-2-2026-10-26"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "titleFr": "Obama attaque Trump alors qu'il fait campagne pour les démocrates avant les élections de mi-mandat",
+          "title": "Five ways Trump has changed immigration in the US",
+          "titleFr": "Cinq façons dont Trump a modifié l'immigration aux États-Unis",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
-          "summaryFr": "Obama a déclaré que l'élection était \"la dernière meilleure chance de maîtriser au moins une partie de la folie de cette administration\".",
+          "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+          "summaryFr": "C’est ainsi que s’est déroulée sa politique phare après son retour au pouvoir en promettant la fermeture des frontières et les expulsions massives.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-25"
+          "id": "fd-1-2026-10-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-          "titleFr": "Les électeurs californiens sont-ils sur le point d'imposer la « première taxe au monde » aux milliardaires ?",
+          "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+          "titleFr": "Eric Bauza, la voix de Bugs Bunny et Daffy Duck, est décédé à l'âge de 46 ans",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-          "summaryFr": "Les électeurs sont sur le point de décider si les plus riches parmi eux devraient consacrer des milliards de dollars à l’amélioration des soins de santé.",
+          "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+          "summaryFr": "Bauza avait interprété un certain nombre de personnages dans le film d'animation à succès Coyote vs. Acme de cet été.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-25"
+          "id": "fd-2-2026-10-26"
         }
       ]
     }
