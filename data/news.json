@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-26",
-  "formattedDate": "Lundi 26 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 26 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-27",
+  "formattedDate": "Mardi 27 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 27 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Healey protégera les retraités à faible revenu de l'impôt sur le revenu dans le budget",
-    "Politique : Célébrations en Serbie après la défaite électorale du dirigeant vétéran Vučić face à un mouvement de protestation dirigé par les étudiants",
-    "Tech & IA : Les meilleures applications pour suivre votre lecture et découvrir de nouveaux livres"
+    "Économie : Je suis une mère célibataire avec 41 000 £ et je limite mes achats hebdomadaires à 40 £ – c'est difficile",
+    "Politique : Le taux de participation est le plus élevé depuis des décennies alors que les Israéliens votent lors d'élections cruciales",
+    "Tech & IA : Nvidia soutient une startup indienne qui aide les entreprises à exécuter des modèles d'IA avec moins de GPU"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Healey to shield low-income pensioners from income tax in the Budget",
-          "titleFr": "Healey protégera les retraités à faible revenu de l'impôt sur le revenu dans le budget",
+          "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+          "titleFr": "Je suis une mère célibataire avec 41 000 £ et je limite mes achats hebdomadaires à 40 £ – c'est difficile",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-          "summaryFr": "Des changements sont nécessaires pour éviter que la pension complète et forfaitaire de l'État ne devienne assujettie à l'impôt sur le revenu après son augmentation en avril.",
+          "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+          "summaryFr": "Les personnes gagnant entre 380 £ par mois et 150 000 £ par an expliquent à la BBC ce qu'elles souhaitent voir dans le budget de cette année.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-26"
+          "id": "eco-1-2026-10-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-          "titleFr": "Le budget de Healey doit soutenir une économie plus forte en accumulant des nuages",
+          "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+          "titleFr": "La chancelière va réduire les droits de douane sur certains produits alimentaires et geler les taxes sur le carburant pour donner aux familles un « répit »",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-          "summaryFr": "La situation économique est désormais positive, mais en janvier, les choses pourraient devenir plus délicates pour le gouvernement travailliste.",
+          "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
+          "summaryFr": "Une série de petites annonces font partie de l'engagement de John Healey d'aider les ménages à couvrir le coût de la vie.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-26"
+          "id": "eco-2-2026-10-27"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "titleFr": "Célébrations en Serbie après la défaite électorale du dirigeant vétéran Vučić face à un mouvement de protestation dirigé par les étudiants",
+          "title": "Turnout highest so far in decades as Israelis vote in pivotal election",
+          "titleFr": "Le taux de participation est le plus élevé depuis des décennies alors que les Israéliens votent lors d'élections cruciales",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-          "summaryFr": "Le leader populiste de droite depuis 12 ans affirme qu'il est « clair » que son parti a perdu le vote présenté comme un référendum sur l'avenir du pays.",
+          "summary": "The elections - the first since the Hamas-led attacks on Israel and the war which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+          "summaryFr": "Les élections – les premières depuis les attaques menées par le Hamas contre Israël et la guerre qui a suivi – sont largement considérées comme un référendum sur Benjamin Netanyahu.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-26"
+          "id": "pol-1-2026-10-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "titleFr": "La chef de l’opposition vénézuélienne María Machado revient après des mois d’exil",
+          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+          "titleFr": "Le retour de Lula au Brésil met à mal les ambitions de Trump pour l'Amérique latine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-          "summaryFr": "Machado avait quitté le pays juste un mois avant que le gouvernement américain ne s'empare du président vénézuélien Nicolas Maduro.",
+          "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+          "summaryFr": "La relation Trump-Lula s’est peut-être dégelée, mais plusieurs sujets pourraient raviver les tensions entre les deux dirigeants.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-26"
+          "id": "pol-2-2026-10-27"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "The best apps for tracking your reading and discovering new books",
-          "titleFr": "Les meilleures applications pour suivre votre lecture et découvrir de nouveaux livres",
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "titleFr": "Nvidia soutient une startup indienne qui aide les entreprises à exécuter des modèles d'IA avec moins de GPU",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-          "summaryFr": "Il existe de nombreuses applications sur le marché qui promettent de faire exactement cela, nous avons donc compilé une liste de certaines des meilleures pour vous aider à choisir celle qui vous convient.",
+          "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+          "summaryFr": "Simplismart affirme que son taux de revenus annualisé a été multiplié par 14 en six mois, les États-Unis représentant plus de la moitié de ses revenus.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-26"
+          "id": "tech-1-2026-10-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-          "titleFr": "Grok publie les sept premières minutes de son « Odyssée » générée par l’IA",
+          "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+          "titleFr": "X incite les utilisateurs à promouvoir leurs publications en pointant la main, et les gens sont confus",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-          "summaryFr": "Les images semblent correctes, tant que vous ne recherchez pas le talent artistique, l'inspiration ou l'intérêt humain.",
+          "summary": "Whose hand is behind this travesty?",
+          "summaryFr": "Quelle main est derrière cette parodie ?",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-26"
+          "id": "tech-2-2026-10-27"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Five ways Trump has changed immigration in the US",
-          "titleFr": "Cinq façons dont Trump a modifié l'immigration aux États-Unis",
+          "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+          "titleFr": "\"Je le referais\" - Kaepernick réfléchit au prix de la protestation, 10 ans plus tard",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
-          "summaryFr": "C’est ainsi que s’est déroulée sa politique phare après son retour au pouvoir en promettant la fermeture des frontières et les expulsions massives.",
+          "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+          "summaryFr": "Dans sa première interview avec BBC Sport depuis qu'il s'est mis à genoux pour la première fois, Colin Kaepernick revient sur son parcours.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-26"
+          "id": "fd-1-2026-10-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-          "titleFr": "Eric Bauza, la voix de Bugs Bunny et Daffy Duck, est décédé à l'âge de 46 ans",
+          "title": "Jay-Z to perform at Super Bowl half-time show",
+          "titleFr": "Jay-Z se produira à la mi-temps du Super Bowl",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-          "summaryFr": "Bauza avait interprété un certain nombre de personnages dans le film d'animation à succès Coyote vs. Acme de cet été.",
+          "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+          "summaryFr": "Le rappeur est impliqué dans la série depuis des années, mais n'a jamais participé au match de championnat de la NFL.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-26"
+          "id": "fd-2-2026-10-27"
         }
       ]
     }
