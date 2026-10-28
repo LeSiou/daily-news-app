@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-27",
-  "formattedDate": "Mardi 27 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 27 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-28",
+  "formattedDate": "Mercredi 28 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 28 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Je suis une mère célibataire avec 41 000 £ et je limite mes achats hebdomadaires à 40 £ – c'est difficile",
-    "Politique : Le taux de participation est le plus élevé depuis des décennies alors que les Israéliens votent lors d'élections cruciales",
-    "Tech & IA : Nvidia soutient une startup indienne qui aide les entreprises à exécuter des modèles d'IA avec moins de GPU"
+    "Économie : Je reçois 4 062 £ par an et je fais de mon mieux : voici ce que j'attends du budget",
+    "Politique : Les croisiéristes de luxe bloqués au Cambodge en raison de la flambée des prix du carburant",
+    "Tech & IA : Les actions de Jio bondissent de 21 % lors de leurs débuts sur le marché après l'introduction en bourse à succès en Inde"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-          "titleFr": "Je suis une mère célibataire avec 41 000 £ et je limite mes achats hebdomadaires à 40 £ – c'est difficile",
+          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "titleFr": "Je reçois 4 062 £ par an et je fais de mon mieux : voici ce que j'attends du budget",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-          "summaryFr": "Les personnes gagnant entre 380 £ par mois et 150 000 £ par an expliquent à la BBC ce qu'elles souhaitent voir dans le budget de cette année.",
+          "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+          "summaryFr": "Des personnes dont les revenus varient entre 4 062 £ et 150 000 £ par an expliquent à la BBC ce qu'elles souhaitent voir dans le budget de cette année.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-27"
+          "id": "eco-1-2026-10-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-          "titleFr": "La chancelière va réduire les droits de douane sur certains produits alimentaires et geler les taxes sur le carburant pour donner aux familles un « répit »",
+          "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+          "titleFr": "Aide à la facture énergétique, augmentation du salaire minimum et taxes bancaires : que pourrait contenir le budget ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
-          "summaryFr": "Une série de petites annonces font partie de l'engagement de John Healey d'aider les ménages à couvrir le coût de la vie.",
+          "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+          "summaryFr": "Le chancelier John Healey exposera ses projets en matière de fiscalité britannique le 28 octobre.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-27"
+          "id": "eco-2-2026-10-28"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Turnout highest so far in decades as Israelis vote in pivotal election",
-          "titleFr": "Le taux de participation est le plus élevé depuis des décennies alors que les Israéliens votent lors d'élections cruciales",
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "titleFr": "Les croisiéristes de luxe bloqués au Cambodge en raison de la flambée des prix du carburant",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The elections - the first since the Hamas-led attacks on Israel and the war which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-          "summaryFr": "Les élections – les premières depuis les attaques menées par le Hamas contre Israël et la guerre qui a suivi – sont largement considérées comme un référendum sur Benjamin Netanyahu.",
+          "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+          "summaryFr": "La Villa Vie Odyssey a suspendu son voyage et travaille avec les passagers sur des « modalités de vie temporaires ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-27"
+          "id": "pol-1-2026-10-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-          "titleFr": "Le retour de Lula au Brésil met à mal les ambitions de Trump pour l'Amérique latine",
+          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+          "titleFr": "Un Serbe abattu après avoir attaqué un officier devant l'ambassade israélienne, selon le ministre",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-          "summaryFr": "La relation Trump-Lula s’est peut-être dégelée, mais plusieurs sujets pourraient raviver les tensions entre les deux dirigeants.",
+          "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+          "summaryFr": "Les autorités affirment que l'agresseur de Belgrade était un mineur qui était surveillé par les services de sécurité.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-27"
+          "id": "pol-2-2026-10-28"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-          "titleFr": "Nvidia soutient une startup indienne qui aide les entreprises à exécuter des modèles d'IA avec moins de GPU",
+          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+          "titleFr": "Les actions de Jio bondissent de 21 % lors de leurs débuts sur le marché après l'introduction en bourse à succès en Inde",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-          "summaryFr": "Simplismart affirme que son taux de revenus annualisé a été multiplié par 14 en six mois, les États-Unis représentant plus de la moitié de ses revenus.",
+          "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+          "summaryFr": "Jio a fait ses débuts en tant que deuxième société cotée en bourse en Inde, derrière sa société mère, Reliance Industries.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-27"
+          "id": "tech-1-2026-10-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-          "titleFr": "X incite les utilisateurs à promouvoir leurs publications en pointant la main, et les gens sont confus",
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+          "titleFr": "Les sociétés de capital-risque gagneront des milliards grâce à l’introduction en bourse d’Anthropic, mais Amazon devrait gagner beaucoup (beaucoup) plus",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Whose hand is behind this travesty?",
-          "summaryFr": "Quelle main est derrière cette parodie ?",
+          "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+          "summaryFr": "Des conversions massives de notes révèlent la véritable étendue de la propriété d'Amazon dans Anthropic.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-27"
+          "id": "tech-2-2026-10-28"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-          "titleFr": "\"Je le referais\" - Kaepernick réfléchit au prix de la protestation, 10 ans plus tard",
+          "title": "Four investigations Democrats could launch if they win Congress",
+          "titleFr": "Quatre enquêtes que les démocrates pourraient lancer s'ils remportent le Congrès",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-          "summaryFr": "Dans sa première interview avec BBC Sport depuis qu'il s'est mis à genoux pour la première fois, Colin Kaepernick revient sur son parcours.",
+          "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
+          "summaryFr": "Les démocrates ont promis une vague d’enquêtes sur l’administration Trump s’ils reconquièrent la Chambre.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-27"
+          "id": "fd-1-2026-10-28"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Jay-Z to perform at Super Bowl half-time show",
-          "titleFr": "Jay-Z se produira à la mi-temps du Super Bowl",
+          "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
+          "titleFr": "Confusion sur le sort de Flávio Bolsonaro alors que l'Argentine affirme qu'il s'est envolé pour l'Équateur",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-          "summaryFr": "Le rappeur est impliqué dans la série depuis des années, mais n'a jamais participé au match de championnat de la NFL.",
+          "summary": "The defeated presidential candidate crossed a land border into Argentina late on Tuesday, Argentine migration authorities say.",
+          "summaryFr": "Le candidat défait à la présidentielle a traversé une frontière terrestre avec l'Argentine mardi soir, ont indiqué les autorités argentines des migrations.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-27"
+          "id": "fd-2-2026-10-28"
         }
       ]
     }
