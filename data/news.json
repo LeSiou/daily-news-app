@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-28",
-  "formattedDate": "Mercredi 28 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 28 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-29",
+  "formattedDate": "Jeudi 29 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 29 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Je reçois 4 062 £ par an et je fais de mon mieux : voici ce que j'attends du budget",
-    "Politique : Les croisiéristes de luxe bloqués au Cambodge en raison de la flambée des prix du carburant",
-    "Tech & IA : Les actions de Jio bondissent de 21 % lors de leurs débuts sur le marché après l'introduction en bourse à succès en Inde"
+    "Économie : L'avenir de Poundland est en jeu alors que la chaîne est sur le point de s'effondrer",
+    "Politique : L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident mortel d'un train en Espagne",
+    "Tech & IA : Upwind lève 400 millions de dollars après avoir renoncé à l'offre d'acquisition de Datadog"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-          "titleFr": "Je reçois 4 062 £ par an et je fais de mon mieux : voici ce que j'attends du budget",
+          "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+          "titleFr": "L'avenir de Poundland est en jeu alors que la chaîne est sur le point de s'effondrer",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-          "summaryFr": "Des personnes dont les revenus varient entre 4 062 £ et 150 000 £ par an expliquent à la BBC ce qu'elles souhaitent voir dans le budget de cette année.",
+          "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+          "summaryFr": "Les patrons de Poundland déposent un avis d'intention de nommer des administrateurs pour l'entreprise.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-28"
+          "id": "eco-1-2026-10-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-          "titleFr": "Aide à la facture énergétique, augmentation du salaire minimum et taxes bancaires : que pourrait contenir le budget ?",
+          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "titleFr": "Je gagne 30 000 £. Je suis en colère parce qu'il n'y a pas eu de réduction des taxes sur le carburant dans le budget",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-          "summaryFr": "Le chancelier John Healey exposera ses projets en matière de fiscalité britannique le 28 octobre.",
+          "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+          "summaryFr": "Des personnes dont les revenus varient entre 4 062 £ et 150 000 £ par an expliquent à la BBC ce qu'elles pensent du budget de cette année.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-28"
+          "id": "eco-2-2026-10-29"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "titleFr": "Les croisiéristes de luxe bloqués au Cambodge en raison de la flambée des prix du carburant",
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+          "titleFr": "L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident mortel d'un train en Espagne",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-          "summaryFr": "La Villa Vie Odyssey a suspendu son voyage et travaille avec les passagers sur des « modalités de vie temporaires ».",
+          "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+          "summaryFr": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-28"
+          "id": "pol-1-2026-10-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-          "titleFr": "Un Serbe abattu après avoir attaqué un officier devant l'ambassade israélienne, selon le ministre",
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "titleFr": "Flávio Bolsonaro nie avoir fui le Brésil après avoir atterri à Miami",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-          "summaryFr": "Les autorités affirment que l'agresseur de Belgrade était un mineur qui était surveillé par les services de sécurité.",
+          "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+          "summaryFr": "Le candidat brésilien battu se dit victime d’un coup d’État et de persécutions politiques, recyclant des allégations non fondées de « fraude électorale ».",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-28"
+          "id": "pol-2-2026-10-29"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-          "titleFr": "Les actions de Jio bondissent de 21 % lors de leurs débuts sur le marché après l'introduction en bourse à succès en Inde",
+          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "titleFr": "Upwind lève 400 millions de dollars après avoir renoncé à l'offre d'acquisition de Datadog",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-          "summaryFr": "Jio a fait ses débuts en tant que deuxième société cotée en bourse en Inde, derrière sa société mère, Reliance Industries.",
+          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+          "summaryFr": "La startup de sécurité cloud a levé une série C pour une valorisation de 3,8 milliards de dollars, au lieu de se vendre au même prix.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-28"
+          "id": "tech-1-2026-10-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "titleFr": "Les sociétés de capital-risque gagneront des milliards grâce à l’introduction en bourse d’Anthropic, mais Amazon devrait gagner beaucoup (beaucoup) plus",
+          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "titleFr": "Le MacBook Pro à écran tactile d'Apple pousse le prix des ordinateurs portables à un nouvel extrême",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-          "summaryFr": "Des conversions massives de notes révèlent la véritable étendue de la propriété d'Amazon dans Anthropic.",
+          "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+          "summaryFr": "Préparez-vous à débourser environ 14 549 $ si vous souhaitez que le nouveau MacBook Pro à écran tactile bénéficie de toutes les mises à niveau.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-28"
+          "id": "tech-2-2026-10-29"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Four investigations Democrats could launch if they win Congress",
-          "titleFr": "Quatre enquêtes que les démocrates pourraient lancer s'ils remportent le Congrès",
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "titleFr": "Le gouverneur de l'Alaska ordonne une enquête sur les liens présumés de la campagne démocrate avec le candidat du même nom",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
-          "summaryFr": "Les démocrates ont promis une vague d’enquêtes sur l’administration Trump s’ils reconquièrent la Chambre.",
+          "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+          "summaryFr": "Le gouverneur républicain répondait aux allégations du New York Times selon lesquelles les démocrates auraient recruté un candidat spoiler, Dan Sullivan.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-28"
+          "id": "fd-1-2026-10-29"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
-          "titleFr": "Confusion sur le sort de Flávio Bolsonaro alors que l'Argentine affirme qu'il s'est envolé pour l'Équateur",
+          "title": "Voter voices: Which issues matter most to Americans?",
+          "titleFr": "Voix des électeurs : quelles sont les questions qui comptent le plus pour les Américains ?",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The defeated presidential candidate crossed a land border into Argentina late on Tuesday, Argentine migration authorities say.",
-          "summaryFr": "Le candidat défait à la présidentielle a traversé une frontière terrestre avec l'Argentine mardi soir, ont indiqué les autorités argentines des migrations.",
+          "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots.",
+          "summaryFr": "La BBC a parlé aux électeurs de tous les États-Unis de leurs plus grandes priorités électorales lorsqu'ils votent.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-28"
+          "id": "fd-2-2026-10-29"
         }
       ]
     }
