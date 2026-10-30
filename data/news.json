@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-29",
-  "formattedDate": "Jeudi 29 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 29 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-30",
+  "formattedDate": "Vendredi 30 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 30 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : L'avenir de Poundland est en jeu alors que la chaîne est sur le point de s'effondrer",
-    "Politique : L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident mortel d'un train en Espagne",
-    "Tech & IA : Upwind lève 400 millions de dollars après avoir renoncé à l'offre d'acquisition de Datadog"
+    "Économie : De Levi's à Primark : les chaînes de mode vendant des vêtements raccommodés",
+    "Politique : Les habitants quittent Oleshky dévasté par l'occupation russe alors que le couloir d'évacuation s'ouvre",
+    "Tech & IA : Waymo fait appel à Toyota pour fournir des robotaxis au Japon et au Royaume-Uni"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-          "titleFr": "L'avenir de Poundland est en jeu alors que la chaîne est sur le point de s'effondrer",
+          "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+          "titleFr": "De Levi's à Primark : les chaînes de mode vendant des vêtements raccommodés",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-          "summaryFr": "Les patrons de Poundland déposent un avis d'intention de nommer des administrateurs pour l'entreprise.",
+          "summary": "A new generation is embracing eye-catching patching and visible mends.",
+          "summaryFr": "Une nouvelle génération adopte des patchs accrocheurs et des réparations visibles.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-29"
+          "id": "eco-1-2026-10-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-          "titleFr": "Je gagne 30 000 £. Je suis en colère parce qu'il n'y a pas eu de réduction des taxes sur le carburant dans le budget",
+          "title": "Yorkshire Water boss resigns after firm downgraded",
+          "titleFr": "Le patron de Yorkshire Water démissionne après le déclassement de son entreprise",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-          "summaryFr": "Des personnes dont les revenus varient entre 4 062 £ et 150 000 £ par an expliquent à la BBC ce qu'elles pensent du budget de cette année.",
+          "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+          "summaryFr": "Nicola Shaw, qui dirigeait l'entreprise depuis 2022, quittera ses fonctions en janvier, a-t-on annoncé.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-29"
+          "id": "eco-2-2026-10-30"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-          "titleFr": "L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident mortel d'un train en Espagne",
+          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+          "titleFr": "Les habitants quittent Oleshky dévasté par l'occupation russe alors que le couloir d'évacuation s'ouvre",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-          "summaryFr": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne.",
+          "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+          "summaryFr": "Plusieurs centaines de personnes auraient décidé de rester dans la ville de première ligne, malgré le manque de gaz, d'électricité et d'eau courante.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-29"
+          "id": "pol-1-2026-10-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "titleFr": "Flávio Bolsonaro nie avoir fui le Brésil après avoir atterri à Miami",
+          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+          "titleFr": "Le meurtrier des champignons ne parvient pas à annuler ses condamnations lors d'une contestation judiciaire australienne",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-          "summaryFr": "Le candidat brésilien battu se dit victime d’un coup d’État et de persécutions politiques, recyclant des allégations non fondées de « fraude électorale ».",
+          "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+          "summaryFr": "Erin Patterson a fait valoir que son procès était inéquitable en raison de sept motifs, mais trois juges d'appel les ont tous rejetés.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-29"
+          "id": "pol-2-2026-10-30"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-          "titleFr": "Upwind lève 400 millions de dollars après avoir renoncé à l'offre d'acquisition de Datadog",
+          "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+          "titleFr": "Waymo fait appel à Toyota pour fournir des robotaxis au Japon et au Royaume-Uni",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-          "summaryFr": "La startup de sécurité cloud a levé une série C pour une valorisation de 3,8 milliards de dollars, au lieu de se vendre au même prix.",
+          "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+          "summaryFr": "Waymo commencera à tester des versions autonomes des véhicules électriques bZ4X de Toyota au Japon l'année prochaine dans le cadre d'un partenariat plus large avec le constructeur automobile.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-29"
+          "id": "tech-1-2026-10-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-          "titleFr": "Le MacBook Pro à écran tactile d'Apple pousse le prix des ordinateurs portables à un nouvel extrême",
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "titleFr": "Vous n’avez pas besoin de croire en un dieu pour obtenir une exemption religieuse concernant l’utilisation de l’IA au travail",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-          "summaryFr": "Préparez-vous à débourser environ 14 549 $ si vous souhaitez que le nouveau MacBook Pro à écran tactile bénéficie de toutes les mises à niveau.",
+          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "summaryFr": "David Durman, administrateur de l’Université du Kentucky, a récemment obtenu une exemption religieuse lui permettant d’utiliser l’IA sur le lieu de travail.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-29"
+          "id": "tech-2-2026-10-30"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-          "titleFr": "Le gouverneur de l'Alaska ordonne une enquête sur les liens présumés de la campagne démocrate avec le candidat du même nom",
+          "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+          "titleFr": "Sir Ian McKellen rend hommage à « l'acteur bien-aimé » Sir Patrick Stewart après sa mort à 86 ans",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-          "summaryFr": "Le gouverneur républicain répondait aux allégations du New York Times selon lesquelles les démocrates auraient recruté un candidat spoiler, Dan Sullivan.",
+          "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+          "summaryFr": "L'acteur est décédé à Los Angeles après un « voyage bref et poignant » atteint de la maladie d'Alzheimer et de la démence à corps de Lewy.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-29"
+          "id": "fd-1-2026-10-30"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Voter voices: Which issues matter most to Americans?",
-          "titleFr": "Voix des électeurs : quelles sont les questions qui comptent le plus pour les Américains ?",
+          "title": "Sir Patrick Stewart: The life of an iconic actor",
+          "titleFr": "Sir Patrick Stewart : La vie d'un acteur emblématique",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots.",
-          "summaryFr": "La BBC a parlé aux électeurs de tous les États-Unis de leurs plus grandes priorités électorales lorsqu'ils votent.",
+          "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
+          "summaryFr": "Le célèbre acteur britannique est décédé après \"un bref et poignant voyage\" atteint de la maladie d'Alzheimer et de la démence à corps de Lewy, a indiqué son porte-parole.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-29"
+          "id": "fd-2-2026-10-30"
         }
       ]
     }
