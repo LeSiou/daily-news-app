@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-30",
-  "formattedDate": "Vendredi 30 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 30 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-10-31",
+  "formattedDate": "Samedi 31 Octobre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 31 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : De Levi's à Primark : les chaînes de mode vendant des vêtements raccommodés",
-    "Politique : Les habitants quittent Oleshky dévasté par l'occupation russe alors que le couloir d'évacuation s'ouvre",
-    "Tech & IA : Waymo fait appel à Toyota pour fournir des robotaxis au Japon et au Royaume-Uni"
+    "Économie : Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
+    "Politique : Les États-Unis approuvent la vente de 500 missiles Patriot à l'Ukraine",
+    "Tech & IA : Accumulations, paiements et pression de rythme : les investisseurs derrière les sociétés de capital-risque s'ouvrent"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-          "titleFr": "De Levi's à Primark : les chaînes de mode vendant des vêtements raccommodés",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "titleFr": "Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A new generation is embracing eye-catching patching and visible mends.",
-          "summaryFr": "Une nouvelle génération adopte des patchs accrocheurs et des réparations visibles.",
+          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+          "summaryFr": "La cyberattaque, que l'entreprise qualifie de complexe, serait la plus importante jamais réalisée en son genre.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-30"
+          "id": "eco-1-2026-10-31"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Yorkshire Water boss resigns after firm downgraded",
-          "titleFr": "Le patron de Yorkshire Water démissionne après le déclassement de son entreprise",
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "titleFr": "Les valeurs technologiques américaines connaissent de fortes chutes alors que les dépenses en IA approchent les 1 000 milliards de dollars",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-          "summaryFr": "Nicola Shaw, qui dirigeait l'entreprise depuis 2022, quittera ses fonctions en janvier, a-t-on annoncé.",
+          "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+          "summaryFr": "Les actions d'Intel continuent de chuter tandis que le Nasdaq, à forte composante technologique, ouvre à son plus bas niveau depuis plus de deux mois.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-30"
+          "id": "eco-2-2026-10-31"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "titleFr": "Les habitants quittent Oleshky dévasté par l'occupation russe alors que le couloir d'évacuation s'ouvre",
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "titleFr": "Les États-Unis approuvent la vente de 500 missiles Patriot à l'Ukraine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-          "summaryFr": "Plusieurs centaines de personnes auraient décidé de rester dans la ville de première ligne, malgré le manque de gaz, d'électricité et d'eau courante.",
+          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+          "summaryFr": "Les intercepteurs de fabrication américaine sont la seule arme efficace pour abattre les missiles balistiques russes.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-30"
+          "id": "pol-1-2026-10-31"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-          "titleFr": "Le meurtrier des champignons ne parvient pas à annuler ses condamnations lors d'une contestation judiciaire australienne",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "titleFr": "Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-          "summaryFr": "Erin Patterson a fait valoir que son procès était inéquitable en raison de sept motifs, mais trois juges d'appel les ont tous rejetés.",
+          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+          "summaryFr": "La cyberattaque, que l'entreprise qualifie de complexe, serait la plus importante jamais réalisée en son genre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-30"
+          "id": "pol-2-2026-10-31"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-          "titleFr": "Waymo fait appel à Toyota pour fournir des robotaxis au Japon et au Royaume-Uni",
+          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "titleFr": "Accumulations, paiements et pression de rythme : les investisseurs derrière les sociétés de capital-risque s'ouvrent",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-          "summaryFr": "Waymo commencera à tester des versions autonomes des véhicules électriques bZ4X de Toyota au Japon l'année prochaine dans le cadre d'un partenariat plus large avec le constructeur automobile.",
+          "summary": "The money behind the money is thrilled, mostly.",
+          "summaryFr": "L’argent derrière l’argent est surtout ravi.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-30"
+          "id": "tech-1-2026-10-31"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-          "titleFr": "Vous n’avez pas besoin de croire en un dieu pour obtenir une exemption religieuse concernant l’utilisation de l’IA au travail",
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "titleFr": "Nvidia envisage de jouer le rôle de cosignataire du centre de données IA de Nscale en Virginie occidentale",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-          "summaryFr": "David Durman, administrateur de l’Université du Kentucky, a récemment obtenu une exemption religieuse lui permettant d’utiliser l’IA sur le lieu de travail.",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "summaryFr": "Lorsque les investisseurs s’inquiètent des dépenses en IA, il est utile que le fabricant de puces qui vend les puces propose de cosigner le prêt.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-30"
+          "id": "tech-2-2026-10-31"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-          "titleFr": "Sir Ian McKellen rend hommage à « l'acteur bien-aimé » Sir Patrick Stewart après sa mort à 86 ans",
+          "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+          "titleFr": "Les tarifs douaniers de Trump pourraient fermer cette ville canadienne – ses habitants se battent pour la sauver",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
-          "summaryFr": "L'acteur est décédé à Los Angeles après un « voyage bref et poignant » atteint de la maladie d'Alzheimer et de la démence à corps de Lewy.",
+          "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+          "summaryFr": "Une usine de papier centenaire à Témiscaming, au Québec, est fermée pour une durée indéterminée après que les États-Unis ont imposé des tarifs douaniers de 50 % sur ses produits, mettant des centaines de personnes au chômage.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-30"
+          "id": "fd-1-2026-10-31"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Sir Patrick Stewart: The life of an iconic actor",
-          "titleFr": "Sir Patrick Stewart : La vie d'un acteur emblématique",
+          "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+          "titleFr": "« La cravate est morte » : comment les candidats américains à mi-mandat s'habillent pour voter",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-          "summaryFr": "Le célèbre acteur britannique est décédé après \"un bref et poignant voyage\" atteint de la maladie d'Alzheimer et de la démence à corps de Lewy, a indiqué son porte-parole.",
+          "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+          "summaryFr": "De l’Alaska au Texas, les candidats qui ont un œil sur le Congrès utilisent leur style personnel pour se démarquer.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-30"
+          "id": "fd-2-2026-10-31"
         }
       ]
     }
