@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-31",
-  "formattedDate": "Samedi 31 Octobre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 31 Octobre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-01",
+  "formattedDate": "Dimanche 1 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 1 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
-    "Politique : Les États-Unis approuvent la vente de 500 missiles Patriot à l'Ukraine",
-    "Tech & IA : Accumulations, paiements et pression de rythme : les investisseurs derrière les sociétés de capital-risque s'ouvrent"
+    "Économie : Fini la vaisselle : comment les nouvelles règles de la maison d'Airbnb ont divisé les hôtes et les invités",
+    "Politique : Des magasins pillés alors que les manifestations contre le coût de la vie deviennent violentes en Allemagne",
+    "Tech & IA : Les centres de données sont désormais un problème à moyen terme, même à Brooklyn"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "titleFr": "Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
+          "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+          "titleFr": "Fini la vaisselle : comment les nouvelles règles de la maison d'Airbnb ont divisé les hôtes et les invités",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-          "summaryFr": "La cyberattaque, que l'entreprise qualifie de complexe, serait la plus importante jamais réalisée en son genre.",
+          "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+          "summaryFr": "Les hôtes Airbnb doivent cesser de demander aux voyageurs de faire la vaisselle ou de sortir les poubelles selon les règles qui entreront en vigueur en novembre.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-10-31"
+          "id": "eco-1-2026-11-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "titleFr": "Les valeurs technologiques américaines connaissent de fortes chutes alors que les dépenses en IA approchent les 1 000 milliards de dollars",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "titleFr": "La société de cryptographie Binance couvre 90 % des pertes après un piratage de 6,3 milliards de dollars",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-          "summaryFr": "Les actions d'Intel continuent de chuter tandis que le Nasdaq, à forte composante technologique, ouvre à son plus bas niveau depuis plus de deux mois.",
+          "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+          "summaryFr": "Le Bureau fédéral d'enquête (FBI) affirme que la Corée du Nord est responsable du piratage.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-10-31"
+          "id": "eco-2-2026-11-01"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "titleFr": "Les États-Unis approuvent la vente de 500 missiles Patriot à l'Ukraine",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "titleFr": "Des magasins pillés alors que les manifestations contre le coût de la vie deviennent violentes en Allemagne",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-          "summaryFr": "Les intercepteurs de fabrication américaine sont la seule arme efficace pour abattre les missiles balistiques russes.",
+          "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+          "summaryFr": "Les manifestations dans des villes allemandes, notamment à Berlin, Hambourg et Francfort, ont eu lieu le même jour et des centaines de milliers de personnes ont également manifesté en France.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-10-31"
+          "id": "pol-1-2026-11-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "titleFr": "Le géant de la crypto Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "titleFr": "\"Nous sommes revenus de l'enfer\", disent les Ukrainiens après des années passées dans une ville de première ligne occupée par la Russie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-          "summaryFr": "La cyberattaque, que l'entreprise qualifie de complexe, serait la plus importante jamais réalisée en son genre.",
+          "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+          "summaryFr": "Un couple évacué affirme avoir traversé des champs de mines à Oleshky à la recherche de nourriture.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-10-31"
+          "id": "pol-2-2026-11-01"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-          "titleFr": "Accumulations, paiements et pression de rythme : les investisseurs derrière les sociétés de capital-risque s'ouvrent",
+          "title": "Data centers are now a midterm issue, even in Brooklyn",
+          "titleFr": "Les centres de données sont désormais un problème à moyen terme, même à Brooklyn",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The money behind the money is thrilled, mostly.",
-          "summaryFr": "L’argent derrière l’argent est surtout ravi.",
+          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+          "summaryFr": "Lors d’une fête de mi-mandat à Brooklyn cinq jours avant le jour du scrutin, chaque conversation, depuis la conversation au coin du feu d’un membre du conseil jusqu’à un débat sur le Parti démocrate, revenait sans cesse à l’IA et aux centres de données.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-10-31"
+          "id": "tech-1-2026-11-01"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "titleFr": "Nvidia envisage de jouer le rôle de cosignataire du centre de données IA de Nscale en Virginie occidentale",
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "titleFr": "Le PDG d’Apple déclare que l’entreprise ne « veut pas proposer de l’IA pour le plaisir de l’IA »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-          "summaryFr": "Lorsque les investisseurs s’inquiètent des dépenses en IA, il est utile que le fabricant de puces qui vend les puces propose de cosigner le prêt.",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "summaryFr": "Le nouveau PDG d'Apple a défendu la position actuelle de l'entreprise dans le paysage de l'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-10-31"
+          "id": "tech-2-2026-11-01"
         }
       ]
     },
@@ -125,8 +125,8 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-          "titleFr": "Les tarifs douaniers de Trump pourraient fermer cette ville canadienne – ses habitants se battent pour la sauver",
+          "title": "The fight to save Canadian town threatened by Trump's tariffs",
+          "titleFr": "La lutte pour sauver une ville canadienne menacée par les tarifs douaniers de Trump",
           "source": "BBC International",
           "time": "08h00",
           "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
@@ -134,7 +134,7 @@
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-10-31"
+          "id": "fd-1-2026-11-01"
         },
         {
           "isInternational": true,
@@ -148,7 +148,7 @@
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-10-31"
+          "id": "fd-2-2026-11-01"
         }
       ]
     }
