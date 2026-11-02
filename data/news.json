@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-01",
-  "formattedDate": "Dimanche 1 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 1 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-02",
+  "formattedDate": "Lundi 2 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 2 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Fini la vaisselle : comment les nouvelles règles de la maison d'Airbnb ont divisé les hôtes et les invités",
-    "Politique : Des magasins pillés alors que les manifestations contre le coût de la vie deviennent violentes en Allemagne",
-    "Tech & IA : Les centres de données sont désormais un problème à moyen terme, même à Brooklyn"
+    "Économie : Ryanair dit qu'elle pourrait geler les salaires des travailleurs et augmenter les tarifs aériens",
+    "Politique : Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
+    "Tech & IA : Une nouvelle vague de cyberattaques a frappé les réfrigérateurs des supermarchés européens, détruisant des aliments dans tous les pays."
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-          "titleFr": "Fini la vaisselle : comment les nouvelles règles de la maison d'Airbnb ont divisé les hôtes et les invités",
+          "title": "Ryanair says it may freeze workers' pay and raise airfares",
+          "titleFr": "Ryanair dit qu'elle pourrait geler les salaires des travailleurs et augmenter les tarifs aériens",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-          "summaryFr": "Les hôtes Airbnb doivent cesser de demander aux voyageurs de faire la vaisselle ou de sortir les poubelles selon les règles qui entreront en vigueur en novembre.",
+          "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+          "summaryFr": "La compagnie aérienne affirme que les prix du carburant pourraient augmenter de 2 milliards d’euros en 2028 à moins que la guerre entre les États-Unis et Israël contre l’Iran ne prenne fin.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-01"
+          "id": "eco-1-2026-11-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "titleFr": "La société de cryptographie Binance couvre 90 % des pertes après un piratage de 6,3 milliards de dollars",
+          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+          "titleFr": "Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-          "summaryFr": "Le Bureau fédéral d'enquête (FBI) affirme que la Corée du Nord est responsable du piratage.",
+          "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "summaryFr": "La température des congélateurs de plusieurs magasins à travers l’Europe aurait atteint 50°C.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-01"
+          "id": "eco-2-2026-11-02"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Shops looted as German cost of living protests turn violent",
-          "titleFr": "Des magasins pillés alors que les manifestations contre le coût de la vie deviennent violentes en Allemagne",
+          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+          "titleFr": "Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-          "summaryFr": "Les manifestations dans des villes allemandes, notamment à Berlin, Hambourg et Francfort, ont eu lieu le même jour et des centaines de milliers de personnes ont également manifesté en France.",
+          "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "summaryFr": "La température des congélateurs de plusieurs magasins à travers l’Europe aurait atteint 50°C.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-01"
+          "id": "pol-1-2026-11-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "titleFr": "\"Nous sommes revenus de l'enfer\", disent les Ukrainiens après des années passées dans une ville de première ligne occupée par la Russie",
+          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+          "titleFr": "De fausses alertes nucléaires émises après le piratage d’applications d’alerte aérienne ukrainiennes et russes",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-          "summaryFr": "Un couple évacué affirme avoir traversé des champs de mines à Oleshky à la recherche de nourriture.",
+          "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+          "summaryFr": "Aucun des deux gouvernements n’a confirmé qui était responsable des cyberattaques de dimanche soir.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-01"
+          "id": "pol-2-2026-11-02"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Data centers are now a midterm issue, even in Brooklyn",
-          "titleFr": "Les centres de données sont désormais un problème à moyen terme, même à Brooklyn",
+          "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+          "titleFr": "Une nouvelle vague de cyberattaques a frappé les réfrigérateurs des supermarchés européens, détruisant des aliments dans tous les pays.",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-          "summaryFr": "Lors d’une fête de mi-mandat à Brooklyn cinq jours avant le jour du scrutin, chaque conversation, depuis la conversation au coin du feu d’un membre du conseil jusqu’à un débat sur le Parti démocrate, revenait sans cesse à l’IA et aux centres de données.",
+          "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+          "summaryFr": "Il s’agit de la deuxième vague de cyberattaques frappant les réfrigérateurs des supermarchés en un mois, gâchant les aliments et perturbant les approvisionnements.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-01"
+          "id": "tech-1-2026-11-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "titleFr": "Le PDG d’Apple déclare que l’entreprise ne « veut pas proposer de l’IA pour le plaisir de l’IA »",
+          "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+          "titleFr": "2 jours avant le sommet des fondateurs TechCrunch : les fondateurs de Boston n'ont pas besoin d'une adresse dans la Silicon Valley pour construire quelque chose de grand",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-          "summaryFr": "Le nouveau PDG d'Apple a défendu la position actuelle de l'entreprise dans le paysage de l'IA.",
+          "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+          "summaryFr": "Le TechCrunch Founder Summit aura lieu le 4 novembre à Boston pour un programme axé sur les fondateurs et des connexions percutantes. Économisez jusqu'à 100 $ ou bénéficiez de réductions avec les laissez-passer de groupe.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-01"
+          "id": "tech-2-2026-11-02"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "The fight to save Canadian town threatened by Trump's tariffs",
-          "titleFr": "La lutte pour sauver une ville canadienne menacée par les tarifs douaniers de Trump",
+          "title": "Nine killed as small jet crashes on Florida street",
+          "titleFr": "Neuf morts dans le crash d'un petit avion dans une rue de Floride",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-          "summaryFr": "Une usine de papier centenaire à Témiscaming, au Québec, est fermée pour une durée indéterminée après que les États-Unis ont imposé des tarifs douaniers de 50 % sur ses produits, mettant des centaines de personnes au chômage.",
+          "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+          "summaryFr": "Dans le son du trafic aérien, on peut entendre un membre d'équipage crier : \"Nous allons nous écraser au sol\".",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-01"
+          "id": "fd-1-2026-11-02"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-          "titleFr": "« La cravate est morte » : comment les candidats américains à mi-mandat s'habillent pour voter",
+          "title": "Dashcam footage captures Florida private jet crash",
+          "titleFr": "Des images d’une Dashcam capturent le crash d’un jet privé en Floride",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
-          "summaryFr": "De l’Alaska au Texas, les candidats qui ont un œil sur le Congrès utilisent leur style personnel pour se démarquer.",
+          "summary": "The US transport secretary says all nine passengers were killed in the incident on Sunday.",
+          "summaryFr": "Le secrétaire américain aux Transports a déclaré que les neuf passagers avaient été tués dans l'incident de dimanche.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-01"
+          "id": "fd-2-2026-11-02"
         }
       ]
     }
