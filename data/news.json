@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-02",
-  "formattedDate": "Lundi 2 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 2 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-03",
+  "formattedDate": "Mardi 3 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 3 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Ryanair dit qu'elle pourrait geler les salaires des travailleurs et augmenter les tarifs aériens",
-    "Politique : Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
-    "Tech & IA : Une nouvelle vague de cyberattaques a frappé les réfrigérateurs des supermarchés européens, détruisant des aliments dans tous les pays."
+    "Économie : Les conducteurs pourraient recevoir des offres d’indemnisation avant la fin de la saga du financement automobile",
+    "Politique : Les États-Unis frappent une île iranienne avant les élections de mi-mandat",
+    "Tech & IA : Yvonne Bajela apporte 17 millions de dollars de nouveaux capitaux à la scène des startups européennes"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ryanair says it may freeze workers' pay and raise airfares",
-          "titleFr": "Ryanair dit qu'elle pourrait geler les salaires des travailleurs et augmenter les tarifs aériens",
+          "title": "Drivers may get compensation offers before car finance saga ends",
+          "titleFr": "Les conducteurs pourraient recevoir des offres d’indemnisation avant la fin de la saga du financement automobile",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-          "summaryFr": "La compagnie aérienne affirme que les prix du carburant pourraient augmenter de 2 milliards d’euros en 2028 à moins que la guerre entre les États-Unis et Israël contre l’Iran ne prenne fin.",
+          "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+          "summaryFr": "Le régulateur affirme qu’il soutient les prêteurs proposant des offres de compensation anticipées, à condition qu’elles soient équitables.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-02"
+          "id": "eco-1-2026-11-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-          "titleFr": "Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "titleFr": "Le Royaume-Uni et l’UE conviennent d’un projet d’accord pour supprimer les formalités administratives liées au Brexit concernant les exportations alimentaires",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-          "summaryFr": "La température des congélateurs de plusieurs magasins à travers l’Europe aurait atteint 50°C.",
+          "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+          "summaryFr": "L’accord alimentaire, qui précède le sommet entre le Royaume-Uni et l’Union européenne plus tard ce mois-ci, constitue la partie la plus importante de ce que l’on appelle la réinitialisation du Brexit convenue jusqu’à présent.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-02"
+          "id": "eco-2-2026-11-03"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-          "titleFr": "Des congélateurs de magasins dans sept pays européens touchés par une cyberattaque présumée",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "titleFr": "Les États-Unis frappent une île iranienne avant les élections de mi-mandat",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-          "summaryFr": "La température des congélateurs de plusieurs magasins à travers l’Europe aurait atteint 50°C.",
+          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "summaryFr": "Les responsables américains ont qualifié les attaques sur l'île de Qeshm de limitées et défensives, selon CBS, le partenaire américain de la BBC.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-02"
+          "id": "pol-1-2026-11-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-          "titleFr": "De fausses alertes nucléaires émises après le piratage d’applications d’alerte aérienne ukrainiennes et russes",
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "titleFr": "L'attaquant de Tenerife, De Miguel, décède après une collision sur le terrain",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-          "summaryFr": "Aucun des deux gouvernements n’a confirmé qui était responsable des cyberattaques de dimanche soir.",
+          "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+          "summaryFr": "L'attaquant de Tenerife, Jesus de Miguel, est décédé à l'âge de 30 ans après une collision sur le terrain lors d'un match de deuxième division espagnole.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-02"
+          "id": "pol-2-2026-11-03"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-          "titleFr": "Une nouvelle vague de cyberattaques a frappé les réfrigérateurs des supermarchés européens, détruisant des aliments dans tous les pays.",
+          "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+          "titleFr": "Yvonne Bajela apporte 17 millions de dollars de nouveaux capitaux à la scène des startups européennes",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
-          "summaryFr": "Il s’agit de la deuxième vague de cyberattaques frappant les réfrigérateurs des supermarchés en un mois, gâchant les aliments et perturbant les approvisionnements.",
+          "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+          "summaryFr": "Evertrue Capital annonce un premier fonds de 17 millions de dollars pour soutenir les premiers stades de l'IA et de la fintech.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-02"
+          "id": "tech-1-2026-11-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-          "titleFr": "2 jours avant le sommet des fondateurs TechCrunch : les fondateurs de Boston n'ont pas besoin d'une adresse dans la Silicon Valley pour construire quelque chose de grand",
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+          "titleFr": "Les fonctionnalités d’IA d’Apple Watch pour rembobiner et récapituler les conversations commencent les tests bêta",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-          "summaryFr": "Le TechCrunch Founder Summit aura lieu le 4 novembre à Boston pour un programme axé sur les fondateurs et des connexions percutantes. Économisez jusqu'à 100 $ ou bénéficiez de réductions avec les laissez-passer de groupe.",
+          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+          "summaryFr": "Maintenant en version bêta : les nouvelles fonctionnalités Audio Intelligence d'Apple peuvent vous aider à vous souvenir de ce que quelqu'un a dit ou à prendre des notes sur des conversations.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-02"
+          "id": "tech-2-2026-11-03"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nine killed as small jet crashes on Florida street",
-          "titleFr": "Neuf morts dans le crash d'un petit avion dans une rue de Floride",
+          "title": "Three scenarios for how the US midterm results could unfold",
+          "titleFr": "Trois scénarios sur la façon dont les résultats américains à mi-parcours pourraient se dérouler",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
-          "summaryFr": "Dans le son du trafic aérien, on peut entendre un membre d'équipage crier : \"Nous allons nous écraser au sol\".",
+          "summary": "Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.",
+          "summaryFr": "Vague démocrate ou résilience républicaine ? Voici trois résultats possibles une fois que les Américains auront eu leur mot à dire.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-02"
+          "id": "fd-1-2026-11-03"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Dashcam footage captures Florida private jet crash",
-          "titleFr": "Des images d’une Dashcam capturent le crash d’un jet privé en Floride",
+          "title": "Voter voices: Trump's influence on US midterm voters",
+          "titleFr": "Voix des électeurs : l'influence de Trump sur les électeurs américains de mi-mandat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US transport secretary says all nine passengers were killed in the incident on Sunday.",
-          "summaryFr": "Le secrétaire américain aux Transports a déclaré que les neuf passagers avaient été tués dans l'incident de dimanche.",
+          "summary": "We asked voters whether they supported Trump in 2024, and how his performance in office is shaping their choices this time.",
+          "summaryFr": "Nous avons demandé aux électeurs s’ils avaient soutenu Trump en 2024 et comment sa performance au pouvoir influencerait leurs choix cette fois-ci.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-02"
+          "id": "fd-2-2026-11-03"
         }
       ]
     }
