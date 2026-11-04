@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-03",
-  "formattedDate": "Mardi 3 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 3 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-04",
+  "formattedDate": "Mercredi 4 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 4 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les conducteurs pourraient recevoir des offres d’indemnisation avant la fin de la saga du financement automobile",
-    "Politique : Les États-Unis frappent une île iranienne avant les élections de mi-mandat",
-    "Tech & IA : Yvonne Bajela apporte 17 millions de dollars de nouveaux capitaux à la scène des startups européennes"
+    "Économie : Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
+    "Politique : Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
+    "Tech & IA : TechCrunch Founder Summit 2026 : portes ouvertes à 9 h HE à Boston"
   ],
   "categories": [
     {
@@ -17,16 +17,16 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Drivers may get compensation offers before car finance saga ends",
-          "titleFr": "Les conducteurs pourraient recevoir des offres d’indemnisation avant la fin de la saga du financement automobile",
+          "title": "Poundland owner in crunch talks with as retailer's collapse looms",
+          "titleFr": "Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-          "summaryFr": "Le régulateur affirme qu’il soutient les prêteurs proposant des offres de compensation anticipées, à condition qu’elles soient équitables.",
+          "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+          "summaryFr": "Gordon Brothers rencontrera Jonathan Reynolds mercredi alors que la société d'investissement fait face à un examen minutieux de Poundland.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-03"
+          "id": "eco-1-2026-11-04"
         },
         {
           "isInternational": true,
@@ -36,11 +36,11 @@
           "source": "BBC Business",
           "time": "08h00",
           "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-          "summaryFr": "L’accord alimentaire, qui précède le sommet entre le Royaume-Uni et l’Union européenne plus tard ce mois-ci, constitue la partie la plus importante de ce que l’on appelle la réinitialisation du Brexit convenue jusqu’à présent.",
+          "summaryFr": "L’accord alimentaire, qui précède le sommet entre le Royaume-Uni et l’UE plus tard ce mois-ci, constitue la partie la plus importante de ce que l’on appelle la réinitialisation du Brexit convenue jusqu’à présent.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-03"
+          "id": "eco-2-2026-11-04"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "titleFr": "Les États-Unis frappent une île iranienne avant les élections de mi-mandat",
+          "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+          "titleFr": "Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-          "summaryFr": "Les responsables américains ont qualifié les attaques sur l'île de Qeshm de limitées et défensives, selon CBS, le partenaire américain de la BBC.",
+          "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+          "summaryFr": "Il a écrit sur Truth Social que les Républicains auraient gagné « de manière écrasante » si son nom avait figuré sur le bulletin de vote.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-03"
+          "id": "pol-1-2026-11-04"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Tenerife striker De Miguel dies after on-field collision",
-          "titleFr": "L'attaquant de Tenerife, De Miguel, décède après une collision sur le terrain",
+          "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+          "titleFr": "Le démocrate de gauche Abdul El-Sayed remporte le Michigan et devient le premier sénateur musulman",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-          "summaryFr": "L'attaquant de Tenerife, Jesus de Miguel, est décédé à l'âge de 30 ans après une collision sur le terrain lors d'un match de deuxième division espagnole.",
+          "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+          "summaryFr": "El-Sayed a battu le républicain Mike Rogers pour devenir le premier sénateur musulman de l'histoire des États-Unis.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-03"
+          "id": "pol-2-2026-11-04"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-          "titleFr": "Yvonne Bajela apporte 17 millions de dollars de nouveaux capitaux à la scène des startups européennes",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+          "titleFr": "TechCrunch Founder Summit 2026 : portes ouvertes à 9 h HE à Boston",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
-          "summaryFr": "Evertrue Capital annonce un premier fonds de 17 millions de dollars pour soutenir les premiers stades de l'IA et de la fintech.",
+          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+          "summaryFr": "Aujourd'hui est le jour pour rejoindre le TechCrunch Founder Summit 2026 à la centrale électrique SoWa de Boston. Inscrivez-vous maintenant pour rejoindre cette conférence axée sur les fondateurs dès aujourd'hui.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-03"
+          "id": "tech-1-2026-11-04"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-          "titleFr": "Les fonctionnalités d’IA d’Apple Watch pour rembobiner et récapituler les conversations commencent les tests bêta",
+          "title": "Canva lays off over 1,200 people amid slowing growth",
+          "titleFr": "Canva licencie plus de 1 200 personnes dans un contexte de ralentissement de la croissance",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-          "summaryFr": "Maintenant en version bêta : les nouvelles fonctionnalités Audio Intelligence d'Apple peuvent vous aider à vous souvenir de ce que quelqu'un a dit ou à prendre des notes sur des conversations.",
+          "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+          "summaryFr": "Canva supprime 22 % de ses effectifs alors qu'elle fait face à son « année la plus difficile » à ce jour.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-03"
+          "id": "tech-2-2026-11-04"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three scenarios for how the US midterm results could unfold",
-          "titleFr": "Trois scénarios sur la façon dont les résultats américains à mi-parcours pourraient se dérouler",
+          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+          "titleFr": "Anthony Zurcher : les démocrates pénètrent profondément au cœur de Trump lors d’une nuit historique",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.",
-          "summaryFr": "Vague démocrate ou résilience républicaine ? Voici trois résultats possibles une fois que les Américains auront eu leur mot à dire.",
+          "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+          "summaryFr": "Deux élections sénatoriales qui, il y a un an, étaient considérées comme des champs de bataille se sont révélées être un échec pour les démocrates.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-03"
+          "id": "fd-1-2026-11-04"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Voter voices: Trump's influence on US midterm voters",
-          "titleFr": "Voix des électeurs : l'influence de Trump sur les électeurs américains de mi-mandat",
+          "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+          "titleFr": "Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "We asked voters whether they supported Trump in 2024, and how his performance in office is shaping their choices this time.",
-          "summaryFr": "Nous avons demandé aux électeurs s’ils avaient soutenu Trump en 2024 et comment sa performance au pouvoir influencerait leurs choix cette fois-ci.",
+          "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+          "summaryFr": "Il a écrit sur Truth Social que les Républicains auraient gagné « de manière écrasante » si son nom avait figuré sur le bulletin de vote.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-03"
+          "id": "fd-2-2026-11-04"
         }
       ]
     }
