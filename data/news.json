@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-04",
-  "formattedDate": "Mercredi 4 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 4 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-05",
+  "formattedDate": "Jeudi 5 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 5 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
-    "Politique : Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
-    "Tech & IA : TechCrunch Founder Summit 2026 : portes ouvertes à 9 h HE à Boston"
+    "Économie : Faisal Islam : jusqu’où iront les taux d’intérêt ?",
+    "Politique : Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
+    "Tech & IA : Une startup de YC consacre 1 million de dollars à cinq problèmes non résolus de science des matériaux pour l'IA"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Poundland owner in crunch talks with as retailer's collapse looms",
-          "titleFr": "Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
+          "title": "Faisal Islam: How high will interest rates go?",
+          "titleFr": "Faisal Islam : jusqu’où iront les taux d’intérêt ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-          "summaryFr": "Gordon Brothers rencontrera Jonathan Reynolds mercredi alors que la société d'investissement fait face à un examen minutieux de Poundland.",
+          "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+          "summaryFr": "Le rédacteur économique de la BBC considère qu'un taux d'intérêt supplémentaire est probable, mais pense que ce sera tout.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-04"
+          "id": "eco-1-2026-11-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-          "titleFr": "Le Royaume-Uni et l’UE conviennent d’un projet d’accord pour supprimer les formalités administratives liées au Brexit concernant les exportations alimentaires",
+          "title": "Three ways the interest rate rise could affect you",
+          "titleFr": "Trois façons dont la hausse des taux d’intérêt pourrait vous affecter",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-          "summaryFr": "L’accord alimentaire, qui précède le sommet entre le Royaume-Uni et l’UE plus tard ce mois-ci, constitue la partie la plus importante de ce que l’on appelle la réinitialisation du Brexit convenue jusqu’à présent.",
+          "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+          "summaryFr": "L'emploi, les prêts et l'épargne sont tous affectés par la hausse des taux d'intérêt annoncée par la Banque d'Angleterre.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-04"
+          "id": "eco-2-2026-11-05"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-          "titleFr": "Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "titleFr": "Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-          "summaryFr": "Il a écrit sur Truth Social que les Républicains auraient gagné « de manière écrasante » si son nom avait figuré sur le bulletin de vote.",
+          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "summaryFr": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-04"
+          "id": "pol-1-2026-11-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-          "titleFr": "Le démocrate de gauche Abdul El-Sayed remporte le Michigan et devient le premier sénateur musulman",
+          "title": "What Democrats can and can't do with their new power after taking Congress",
+          "titleFr": "Ce que les démocrates peuvent et ne peuvent pas faire avec leur nouveau pouvoir après avoir accédé au Congrès",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-          "summaryFr": "El-Sayed a battu le républicain Mike Rogers pour devenir le premier sénateur musulman de l'histoire des États-Unis.",
+          "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+          "summaryFr": "Les démocrates peuvent voter une loi. Mais Trump dispose toujours d’un droit de veto.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-04"
+          "id": "pol-2-2026-11-05"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-          "titleFr": "TechCrunch Founder Summit 2026 : portes ouvertes à 9 h HE à Boston",
+          "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+          "titleFr": "Une startup de YC consacre 1 million de dollars à cinq problèmes non résolus de science des matériaux pour l'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-          "summaryFr": "Aujourd'hui est le jour pour rejoindre le TechCrunch Founder Summit 2026 à la centrale électrique SoWa de Boston. Inscrivez-vous maintenant pour rejoindre cette conférence axée sur les fondateurs dès aujourd'hui.",
+          "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+          "summaryFr": "Discovered Materials, une startup de YC vieille de plusieurs mois qui utilise l'IA pour trouver des matériaux pour puces, offre 200 000 $ pour chaque solution à cinq problèmes ouverts de science des matériaux.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-04"
+          "id": "tech-1-2026-11-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Canva lays off over 1,200 people amid slowing growth",
-          "titleFr": "Canva licencie plus de 1 200 personnes dans un contexte de ralentissement de la croissance",
+          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+          "titleFr": "Agility est la première entreprise de robots purement humanoïdes cotée en bourse. Achetez-vous ?",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-          "summaryFr": "Canva supprime 22 % de ses effectifs alors qu'elle fait face à son « année la plus difficile » à ce jour.",
+          "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+          "summaryFr": "Agility arrive aujourd'hui au Nasdaq en tant que première entreprise de robotique humanoïde purement cotée en bourse.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-04"
+          "id": "tech-2-2026-11-05"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-          "titleFr": "Anthony Zurcher : les démocrates pénètrent profondément au cœur de Trump lors d’une nuit historique",
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "titleFr": "Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-          "summaryFr": "Deux élections sénatoriales qui, il y a un an, étaient considérées comme des champs de bataille se sont révélées être un échec pour les démocrates.",
+          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "summaryFr": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-04"
+          "id": "fd-1-2026-11-05"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-          "titleFr": "Trump vise les républicains mais affirme que les démocrates ont fait du « bon travail »",
+          "title": "What Democrats can and can't do with their new power after taking Congress",
+          "titleFr": "Ce que les démocrates peuvent et ne peuvent pas faire avec leur nouveau pouvoir après avoir accédé au Congrès",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-          "summaryFr": "Il a écrit sur Truth Social que les Républicains auraient gagné « de manière écrasante » si son nom avait figuré sur le bulletin de vote.",
+          "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+          "summaryFr": "Les démocrates peuvent voter une loi. Mais Trump dispose toujours d’un droit de veto.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-04"
+          "id": "fd-2-2026-11-05"
         }
       ]
     }
