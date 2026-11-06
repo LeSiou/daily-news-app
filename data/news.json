@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-05",
-  "formattedDate": "Jeudi 5 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 5 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-06",
+  "formattedDate": "Vendredi 6 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 6 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Faisal Islam : jusqu’où iront les taux d’intérêt ?",
-    "Politique : Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
-    "Tech & IA : Une startup de YC consacre 1 million de dollars à cinq problèmes non résolus de science des matériaux pour l'IA"
+    "Économie : Comment cela m’affecte-t-il si le cours des actions baisse ?",
+    "Politique : La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
+    "Tech & IA : Underdog présente un modèle vocal de 32 Mo dans une nouvelle démo"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Faisal Islam: How high will interest rates go?",
-          "titleFr": "Faisal Islam : jusqu’où iront les taux d’intérêt ?",
+          "title": "How does it affect me if share prices fall?",
+          "titleFr": "Comment cela m’affecte-t-il si le cours des actions baisse ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-          "summaryFr": "Le rédacteur économique de la BBC considère qu'un taux d'intérêt supplémentaire est probable, mais pense que ce sera tout.",
+          "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+          "summaryFr": "Les changements dans le FTSE 100 et d’autres indices ne sont pas réservés aux experts financiers : ils peuvent affecter nos vies.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-05"
+          "id": "eco-1-2026-11-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three ways the interest rate rise could affect you",
-          "titleFr": "Trois façons dont la hausse des taux d’intérêt pourrait vous affecter",
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "titleFr": "Elon Musk semble signaler la fin du chemin pour Cybertruck",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-          "summaryFr": "L'emploi, les prêts et l'épargne sont tous affectés par la hausse des taux d'intérêt annoncée par la Banque d'Angleterre.",
+          "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+          "summaryFr": "Musk a déclaré qu'il allait faire de la place pour la production de ses Cybercabs, des taxis autonomes sans chauffeur.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-05"
+          "id": "eco-2-2026-11-06"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-          "titleFr": "Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "titleFr": "La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-          "summaryFr": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente.",
+          "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+          "summaryFr": "Les médias américains rapportent que des appels ont été lancés pour remplacer Pete Hegseth, qui risque également un éventuel vote de destitution, tandis que Marco Rubio envisagerait, selon les rumeurs, de se présenter à la présidentielle.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-05"
+          "id": "pol-1-2026-11-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What Democrats can and can't do with their new power after taking Congress",
-          "titleFr": "Ce que les démocrates peuvent et ne peuvent pas faire avec leur nouveau pouvoir après avoir accédé au Congrès",
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "titleFr": "Trump signe un décret pour préserver le Bureau Ovale comme monument national",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-          "summaryFr": "Les démocrates peuvent voter une loi. Mais Trump dispose toujours d’un droit de veto.",
+          "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "summaryFr": "Cet ordre intervient après que Trump ait apporté une série de changements majeurs au décor du bureau ovale et démoli l’aile est de la Maison Blanche.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-05"
+          "id": "pol-2-2026-11-06"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-          "titleFr": "Une startup de YC consacre 1 million de dollars à cinq problèmes non résolus de science des matériaux pour l'IA",
+          "title": "Underdog shows off a 32MB speech model in new demo",
+          "titleFr": "Underdog présente un modèle vocal de 32 Mo dans une nouvelle démo",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-          "summaryFr": "Discovered Materials, une startup de YC vieille de plusieurs mois qui utilise l'IA pour trouver des matériaux pour puces, offre 200 000 $ pour chaque solution à cinq problèmes ouverts de science des matériaux.",
+          "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+          "summaryFr": "Malgré sa petite taille, le nouveau modèle d'Underdog peut générer à la fois de la parole et de la musique.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-05"
+          "id": "tech-1-2026-11-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-          "titleFr": "Agility est la première entreprise de robots purement humanoïdes cotée en bourse. Achetez-vous ?",
+          "title": "Physicl raises $10M to make the digital world real enough for robots",
+          "titleFr": "Physicl lève 10 millions de dollars pour rendre le monde numérique suffisamment réel pour les robots",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-          "summaryFr": "Agility arrive aujourd'hui au Nasdaq en tant que première entreprise de robotique humanoïde purement cotée en bourse.",
+          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+          "summaryFr": "Physicl tente de combler le fossé entre la simulation et le réel avec un pipeline initialement conçu pour commercialiser des produits en ligne.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-05"
+          "id": "tech-2-2026-11-06"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-          "titleFr": "Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
+          "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+          "titleFr": "Les actions mondiales chutent alors que les craintes concernant le ralentissement de l’IA aux États-Unis se propagent à l’Asie et à l’Europe",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-          "summaryFr": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente.",
+          "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+          "summaryFr": "Les investisseurs ont réagi à un éventuel examen plus strict de la construction de centres de données et de l’industrie de l’IA.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-05"
+          "id": "fd-1-2026-11-06"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What Democrats can and can't do with their new power after taking Congress",
-          "titleFr": "Ce que les démocrates peuvent et ne peuvent pas faire avec leur nouveau pouvoir après avoir accédé au Congrès",
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "titleFr": "La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-          "summaryFr": "Les démocrates peuvent voter une loi. Mais Trump dispose toujours d’un droit de veto.",
+          "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+          "summaryFr": "Les médias américains rapportent que des appels ont été lancés pour remplacer Pete Hegseth, qui risque également un éventuel vote de destitution, tandis que Marco Rubio envisagerait, selon les rumeurs, de se présenter à la présidentielle.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-05"
+          "id": "fd-2-2026-11-06"
         }
       ]
     }
