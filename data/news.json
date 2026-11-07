@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-06",
-  "formattedDate": "Vendredi 6 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 6 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-07",
+  "formattedDate": "Samedi 7 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 7 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Comment cela m’affecte-t-il si le cours des actions baisse ?",
-    "Politique : La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
-    "Tech & IA : Underdog présente un modèle vocal de 32 Mo dans une nouvelle démo"
+    "Économie : Les actions de l’IA grimpent après que des milliers de milliards aient été effacés des valeurs marchandes",
+    "Politique : Avec le choix de Stephen Miller, Trump se prépare au combat",
+    "Tech & IA : Sequoia met fin à son programme Scouts marque la fin d'une époque"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "How does it affect me if share prices fall?",
-          "titleFr": "Comment cela m’affecte-t-il si le cours des actions baisse ?",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "titleFr": "Les actions de l’IA grimpent après que des milliers de milliards aient été effacés des valeurs marchandes",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-          "summaryFr": "Les changements dans le FTSE 100 et d’autres indices ne sont pas réservés aux experts financiers : ils peuvent affecter nos vies.",
+          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+          "summaryFr": "Les investisseurs avaient vendu des actions technologiques en partie parce qu’ils craignaient que la victoire des démocrates aux élections n’entraîne un ralentissement du développement de l’IA.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-06"
+          "id": "eco-1-2026-11-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "titleFr": "Elon Musk semble signaler la fin du chemin pour Cybertruck",
+          "title": "Why the US midterms sparked an AI stock selloff",
+          "titleFr": "Pourquoi les élections de mi-mandat aux États-Unis ont déclenché une vente massive d'actions dans le domaine de l'IA",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-          "summaryFr": "Musk a déclaré qu'il allait faire de la place pour la production de ses Cybercabs, des taxis autonomes sans chauffeur.",
+          "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+          "summaryFr": "Les craintes d’une réglementation accrue de l’IA semblent avoir suscité des craintes parmi les investisseurs, mais les inquiétudes concernant le secteur augmentent depuis un certain temps.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-06"
+          "id": "eco-2-2026-11-07"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-          "titleFr": "La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "titleFr": "Avec le choix de Stephen Miller, Trump se prépare au combat",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-          "summaryFr": "Les médias américains rapportent que des appels ont été lancés pour remplacer Pete Hegseth, qui risque également un éventuel vote de destitution, tandis que Marco Rubio envisagerait, selon les rumeurs, de se présenter à la présidentielle.",
+          "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+          "summaryFr": "La promotion par le président américain de Miller, un fervent partisan fidèle, au poste de chef de cabinet, suscite de probables affrontements avec le Congrès.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-06"
+          "id": "pol-1-2026-11-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump signs order to preserve Oval Office as national monument",
-          "titleFr": "Trump signe un décret pour préserver le Bureau Ovale comme monument national",
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "titleFr": "Le président du Paraguay destitué et assigné à résidence après la faillite d'une banque",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-          "summaryFr": "Cet ordre intervient après que Trump ait apporté une série de changements majeurs au décor du bureau ovale et démoli l’aile est de la Maison Blanche.",
+          "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+          "summaryFr": "Santiago Peña a été évincé en raison d'une crise bancaire qui a empêché des millions de personnes d'accéder à leur argent.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-06"
+          "id": "pol-2-2026-11-07"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Underdog shows off a 32MB speech model in new demo",
-          "titleFr": "Underdog présente un modèle vocal de 32 Mo dans une nouvelle démo",
+          "title": "Sequoia shutting down its Scouts program marks the end of an era",
+          "titleFr": "Sequoia met fin à son programme Scouts marque la fin d'une époque",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-          "summaryFr": "Malgré sa petite taille, le nouveau modèle d'Underdog peut générer à la fois de la parole et de la musique.",
+          "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+          "summaryFr": "Sequoia a été le pionnier du modèle des scouts et de nombreuses sociétés de capital-risque ont emboîté le pas, mais un consensus semble désormais se former sur le fait que le modèle a atteint ses limites dans sa forme actuelle.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-06"
+          "id": "tech-1-2026-11-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Physicl raises $10M to make the digital world real enough for robots",
-          "titleFr": "Physicl lève 10 millions de dollars pour rendre le monde numérique suffisamment réel pour les robots",
+          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+          "titleFr": "Du premier rang à la sellette : ce que signifient les élections de mi-mandat pour les Big Tech",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-          "summaryFr": "Physicl tente de combler le fossé entre la simulation et le réel avec un pipeline initialement conçu pour commercialiser des produits en ligne.",
+          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+          "summaryFr": "Après avoir passé deux ans à se rapprocher de la Maison Blanche, les Big Tech tentent soudainement de se lier d'amitié avec les démocrates, et la question ouverte est de savoir si cette transformation de l'image peut résister à ce que les États, les communautés locales et les marchés sont sur le point de faire.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-06"
+          "id": "tech-2-2026-11-07"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-          "titleFr": "Les actions mondiales chutent alors que les craintes concernant le ralentissement de l’IA aux États-Unis se propagent à l’Asie et à l’Europe",
+          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+          "titleFr": "Le père de Meghan, Thomas Markle, assigné à résidence après une accusation d'abus sexuels sur des enfants",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-          "summaryFr": "Les investisseurs ont réagi à un éventuel examen plus strict de la construction de centres de données et de l’industrie de l’IA.",
+          "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+          "summaryFr": "L'homme de 82 ans a comparu devant un tribunal de Floride après que le FBI ait fouillé deux unités de stockage qu'il avait louées dans la région de Los Angeles.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-06"
+          "id": "fd-1-2026-11-07"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-          "titleFr": "La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
+          "title": "These are the federal charges Thomas Markle faces",
+          "titleFr": "Ce sont les accusations fédérales auxquelles Thomas Markle fait face",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-          "summaryFr": "Les médias américains rapportent que des appels ont été lancés pour remplacer Pete Hegseth, qui risque également un éventuel vote de destitution, tandis que Marco Rubio envisagerait, selon les rumeurs, de se présenter à la présidentielle.",
+          "summary": "The BBC's Ione Wells explains the charges facing the estranged father of Meghan, Duchess of Sussex.",
+          "summaryFr": "Ione Wells de la BBC explique les accusations portées contre l'ex-père de Meghan, duchesse de Sussex.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-06"
+          "id": "fd-2-2026-11-07"
         }
       ]
     }
