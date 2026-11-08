@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-07",
-  "formattedDate": "Samedi 7 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 7 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-08",
+  "formattedDate": "Dimanche 8 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 8 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les actions de l’IA grimpent après que des milliers de milliards aient été effacés des valeurs marchandes",
-    "Politique : Avec le choix de Stephen Miller, Trump se prépare au combat",
-    "Tech & IA : Sequoia met fin à son programme Scouts marque la fin d'une époque"
+    "Économie : Le gouvernement envisage sérieusement d'interdire l'accès à Vinted et eBay aux moins de 16 ans",
+    "Politique : Ce que nous savons jusqu'à présent après l'attaque à Cracovie",
+    "Tech & IA : Après les élections de mi-mandat, les choses s'annoncent difficiles pour Elon Musk et les centres de données"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "AI stocks climb after trillions wiped from market values",
-          "titleFr": "Les actions de l’IA grimpent après que des milliers de milliards aient été effacés des valeurs marchandes",
+          "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "titleFr": "Le gouvernement envisage sérieusement d'interdire l'accès à Vinted et eBay aux moins de 16 ans",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-          "summaryFr": "Les investisseurs avaient vendu des actions technologiques en partie parce qu’ils craignaient que la victoire des démocrates aux élections n’entraîne un ralentissement du développement de l’IA.",
+          "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+          "summaryFr": "Le secrétaire à la Culture confirme les informations selon lesquelles elles pourraient figurer sur la liste des plateformes qui devraient être interdites en mars prochain.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-07"
+          "id": "eco-1-2026-11-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why the US midterms sparked an AI stock selloff",
-          "titleFr": "Pourquoi les élections de mi-mandat aux États-Unis ont déclenché une vente massive d'actions dans le domaine de l'IA",
+          "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+          "titleFr": "« Mon prêt hypothécaire augmente de 200 £ par mois » : comment la hausse des taux d'intérêt touche les poches des gens",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-          "summaryFr": "Les craintes d’une réglementation accrue de l’IA semblent avoir suscité des craintes parmi les investisseurs, mais les inquiétudes concernant le secteur augmentent depuis un certain temps.",
+          "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+          "summaryFr": "Avec la hausse des taux d’intérêt au Royaume-Uni, les hypothèques, les cartes de crédit et les prêts pourraient devenir plus chers pour des millions de personnes.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-07"
+          "id": "eco-2-2026-11-08"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "titleFr": "Avec le choix de Stephen Miller, Trump se prépare au combat",
+          "title": "What we know so far after Krakow gun attack",
+          "titleFr": "Ce que nous savons jusqu'à présent après l'attaque à Cracovie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-          "summaryFr": "La promotion par le président américain de Miller, un fervent partisan fidèle, au poste de chef de cabinet, suscite de probables affrontements avec le Congrès.",
+          "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+          "summaryFr": "Six personnes ont été tuées dans une fusillade aléatoire sur la place principale de Cracovie, et trois corps ont ensuite été retrouvés au domicile de l'agresseur.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-07"
+          "id": "pol-1-2026-11-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Paraguay's president impeached and under house arrest after bank collapse",
-          "titleFr": "Le président du Paraguay destitué et assigné à résidence après la faillite d'une banque",
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "titleFr": "Les Houthis disent qu'au moins 33 personnes ont été tuées dans une frappe aérienne saoudienne",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-          "summaryFr": "Santiago Peña a été évincé en raison d'une crise bancaire qui a empêché des millions de personnes d'accéder à leur argent.",
+          "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+          "summaryFr": "L'Arabie saoudite, qui dirige une coalition combattant les Houthis au Yémen, n'a pas fait de commentaire.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-07"
+          "id": "pol-2-2026-11-08"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Sequoia shutting down its Scouts program marks the end of an era",
-          "titleFr": "Sequoia met fin à son programme Scouts marque la fin d'une époque",
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "titleFr": "Après les élections de mi-mandat, les choses s'annoncent difficiles pour Elon Musk et les centres de données",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-          "summaryFr": "Sequoia a été le pionnier du modèle des scouts et de nombreuses sociétés de capital-risque ont emboîté le pas, mais un consensus semble désormais se former sur le fait que le modèle a atteint ses limites dans sa forme actuelle.",
+          "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+          "summaryFr": "Concernant Equity, nous avons expliqué ce que les élections de mi-mandat signifient pour le secteur technologique.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-07"
+          "id": "tech-1-2026-11-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-          "titleFr": "Du premier rang à la sellette : ce que signifient les élections de mi-mandat pour les Big Tech",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "titleFr": "Un dirigeant de Megaspeed a été recruté pour espionner le PDG de Nvidia, selon une note du renseignement américain",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-          "summaryFr": "Après avoir passé deux ans à se rapprocher de la Maison Blanche, les Big Tech tentent soudainement de se lier d'amitié avec les démocrates, et la question ouverte est de savoir si cette transformation de l'image peut résister à ce que les États, les communautés locales et les marchés sont sur le point de faire.",
+          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+          "summaryFr": "Une note diffusée plus tôt cette année aurait affirmé que le ministère chinois de la Sécurité d'État avait recruté une femme responsable du secteur technologique pour espionner le PDG de Nvidia.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-07"
+          "id": "tech-2-2026-11-08"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-          "titleFr": "Le père de Meghan, Thomas Markle, assigné à résidence après une accusation d'abus sexuels sur des enfants",
+          "title": "The Trump coalition is shattered - what will Republicans do now?",
+          "titleFr": "La coalition Trump est brisée : que vont faire les Républicains maintenant ?",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-          "summaryFr": "L'homme de 82 ans a comparu devant un tribunal de Floride après que le FBI ait fouillé deux unités de stockage qu'il avait louées dans la région de Los Angeles.",
+          "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+          "summaryFr": "Les Républicains peuvent s’en tenir au Trumpisme ou tracer une nouvelle voie, écrit Daniel Bush, correspondant de la BBC à Washington.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-07"
+          "id": "fd-1-2026-11-08"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "These are the federal charges Thomas Markle faces",
-          "titleFr": "Ce sont les accusations fédérales auxquelles Thomas Markle fait face",
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "titleFr": "« Dana, s'il te plaît, accepte le travail ! » - Trump demande au patron de l'UFC d'être attaché de presse à la Maison Blanche",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The BBC's Ione Wells explains the charges facing the estranged father of Meghan, Duchess of Sussex.",
-          "summaryFr": "Ione Wells de la BBC explique les accusations portées contre l'ex-père de Meghan, duchesse de Sussex.",
+          "summary": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
+          "summaryFr": "Il n'était pas clair si l'offre du président était authentique, même si White a déclaré plus tard qu'il se rendrait à Washington pour qu'ils se rencontrent.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-07"
+          "id": "fd-2-2026-11-08"
         }
       ]
     }
