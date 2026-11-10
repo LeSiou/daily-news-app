@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-09",
-  "formattedDate": "Lundi 9 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 9 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-10",
+  "formattedDate": "Mardi 10 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 10 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Ce que nous savons jusqu'à présent sur la liaison de Jensen Huang avec un espion chinois présumé",
-    "Politique : Le suspect de la fusillade de Cracovie est décédé à l'hôpital, selon la police",
-    "Tech & IA : Découvrez Drops, la nouvelle application musicale qui redonne le plaisir de partager des chansons avec des amis"
+    "Économie : Anthropic se dirige vers une valorisation de 1,3 billion de dollars lors d'une importante cotation en bourse",
+    "Politique : Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
+    "Tech & IA : Après avoir défié Android de Google avec Cyanogen, son co-fondateur vise l'ère Windows pour l'IA"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "titleFr": "Ce que nous savons jusqu'à présent sur la liaison de Jensen Huang avec un espion chinois présumé",
+          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+          "titleFr": "Anthropic se dirige vers une valorisation de 1,3 billion de dollars lors d'une importante cotation en bourse",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-          "summaryFr": "Le dirigeant milliardaire de la technologie se retrouve embourbé dans un scandale personnel et de sécurité nationale.",
+          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+          "summaryFr": "La société d'IA à l'origine du chatbot Claude proposera ses actions entre 70 et 78 dollars.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-09"
+          "id": "eco-1-2026-11-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-          "titleFr": "Que sait-on de la liaison du PDG de Nvidia avec un espion chinois présumé ?",
+          "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+          "titleFr": "Les ventes d'aliments en conserve et d'eau en bouteille bondissent après le lancement de la campagne « Soyez prêts »",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-          "summaryFr": "L'adoration pour le PDG du géant américain de la technologie, Jensen Huang, a été qualifiée de « Jensanity », mais sa réputation pourra-t-elle survivre à l'annonce de sa liaison ?",
+          "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+          "summaryFr": "Les ventes de biens essentiels tels que le désinfectant pour les mains montent en flèche après que le gouvernement a appelé les ménages à se préparer aux situations d'urgence.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-09"
+          "id": "eco-2-2026-11-10"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "titleFr": "Le suspect de la fusillade de Cracovie est décédé à l'hôpital, selon la police",
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "titleFr": "Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-          "summaryFr": "Six personnes ont été tuées dans la fusillade et trois corps de membres de la famille du suspect ont été retrouvés à leur domicile.",
+          "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "summaryFr": "Le président américain a déclaré avoir parlé lundi avec Jensen Huang et l'avoir interrogé sur la liaison avec l'espion présumé.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-09"
+          "id": "pol-1-2026-11-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Inside the French drug gangs recruiting children to kill",
-          "titleFr": "Au cœur des gangs de drogue français qui recrutent des enfants pour tuer",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "titleFr": "Les négociations de paix en Ukraine reprennent avec « une certaine flexibilité » de la part des belligérants, selon des responsables américains",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-          "summaryFr": "La BBC pénètre dans le monde souterrain dangereux de Marseille, où les jeunes sont piégés, brutalisés et exploités.",
+          "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+          "summaryFr": "Kiev, Washington et Moscou ont tous envoyé des délégations aux Émirats arabes unis pour les premières négociations trilatérales depuis février.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-09"
+          "id": "pol-2-2026-11-10"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-          "titleFr": "Découvrez Drops, la nouvelle application musicale qui redonne le plaisir de partager des chansons avec des amis",
+          "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+          "titleFr": "Après avoir défié Android de Google avec Cyanogen, son co-fondateur vise l'ère Windows pour l'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
-          "summaryFr": "La nouvelle application de découverte musicale permet aux utilisateurs de faire défiler des extraits de chansons de 10 à 30 secondes, de commenter et de partager avec des amis.",
+          "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+          "summaryFr": "Kora devrait être lancé en tant qu'alternative gratuite à Windows, ciblant les utilisateurs qui s'appuient fortement sur des modèles et des agents d'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-09"
+          "id": "tech-1-2026-11-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-          "titleFr": "Automattic lance une plate-forme pour déployer des applications de codage d'ambiance dans un Internet en évolution",
+          "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+          "titleFr": "Ring, connu pour ses caméras de sonnette, lance un drone de sécurité domestique et un robot de sécurité d'entreprise",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
-          "summaryFr": "Automattic vise à rivaliser avec Lovable avec Spacefast",
+          "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+          "summaryFr": "Ring, propriété d'Amazon, se lance dans la robotique avec le lancement d'un drone de sécurité domestique et d'un robot roulant conçu pour patrouiller et protéger les entreprises.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-09"
+          "id": "tech-2-2026-11-10"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
-          "titleFr": "Trump affirme que la répression contre l'immigration était \"trop ​​dure\" et a joué un rôle dans la défaite à mi-mandat",
+          "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
+          "titleFr": "Hegseth : La tentative de destitution est une « farce » et une « cascade »",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The president tells the CBS programme 60 Minutes he had been politically \"hurt\" by sweeping deportations.",
-          "summaryFr": "Le président a déclaré à l'émission CBS 60 Minutes qu'il avait été politiquement « blessé » par les expulsions massives.",
+          "summary": "In his first news conference in six months, the defence secretary defended the US's \"lawful military operations\".",
+          "summaryFr": "Lors de sa première conférence de presse en six mois, le secrétaire à la Défense a défendu les « opérations militaires légales » des États-Unis.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-09"
+          "id": "fd-1-2026-11-10"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
-          "titleFr": "Le principal démocrate de la Chambre des représentants « un oui catégorique » à la destitution de Hegseth",
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "titleFr": "Trump estime que de nouvelles attaques américaines contre l'Iran sont \"hautement improbables\"",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "But the Pentagon said the US defence secretary would not be deterred by \"phony investigations\".",
-          "summaryFr": "Mais le Pentagone a déclaré que le secrétaire américain à la Défense ne se laisserait pas dissuader par de « fausses enquêtes ».",
+          "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+          "summaryFr": "Le président a déclaré que les États-Unis maintenaient le « statu quo » avec l’Iran, mais qu’ils resteraient « verrouillés et chargés » si la situation changeait.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-09"
+          "id": "fd-2-2026-11-10"
         }
       ]
     }
