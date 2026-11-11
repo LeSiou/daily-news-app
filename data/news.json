@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-10",
-  "formattedDate": "Mardi 10 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 10 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-11",
+  "formattedDate": "Mercredi 11 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 11 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Anthropic se dirige vers une valorisation de 1,3 billion de dollars lors d'une importante cotation en bourse",
-    "Politique : Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
-    "Tech & IA : Après avoir défié Android de Google avec Cyanogen, son co-fondateur vise l'ère Windows pour l'IA"
+    "Économie : Poundland a besoin de plus de temps pour conclure un accord de sauvetage alors que les pourparlers d'urgence se poursuivent",
+    "Politique : Trois suspects soutenus par l'Iran ont planifié des attaques, notamment l'incident de la RAF Fairford, selon les États-Unis",
+    "Tech & IA : La crise de Nvidia incite les experts en gouvernance d’entreprise à se tourner vers le pop-corn"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-          "titleFr": "Anthropic se dirige vers une valorisation de 1,3 billion de dollars lors d'une importante cotation en bourse",
+          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+          "titleFr": "Poundland a besoin de plus de temps pour conclure un accord de sauvetage alors que les pourparlers d'urgence se poursuivent",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-          "summaryFr": "La société d'IA à l'origine du chatbot Claude proposera ses actions entre 70 et 78 dollars.",
+          "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+          "summaryFr": "La BBC croit savoir que la chaîne discount, qui est sur le point de se placer sous administration, aura plus de temps pour trouver un acheteur.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-10"
+          "id": "eco-1-2026-11-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-          "titleFr": "Les ventes d'aliments en conserve et d'eau en bouteille bondissent après le lancement de la campagne « Soyez prêts »",
+          "title": "Christmas toy rush being driven by squishies and building sets",
+          "titleFr": "Ruée vers les jouets de Noël animée par des squishies et des jeux de construction",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-          "summaryFr": "Les ventes de biens essentiels tels que le désinfectant pour les mains montent en flèche après que le gouvernement a appelé les ménages à se préparer aux situations d'urgence.",
+          "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+          "summaryFr": "Jusqu’à présent, une année exceptionnelle pour les ventes de jouets survient alors que le débat s’intensifie sur le temps passé devant un écran et la connectivité technologique.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-10"
+          "id": "eco-2-2026-11-11"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "titleFr": "Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "titleFr": "Trois suspects soutenus par l'Iran ont planifié des attaques, notamment l'incident de la RAF Fairford, selon les États-Unis",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-          "summaryFr": "Le président américain a déclaré avoir parlé lundi avec Jensen Huang et l'avoir interrogé sur la liaison avec l'espion présumé.",
+          "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+          "summaryFr": "Le ministère américain de la Justice affirme que les hommes étaient impliqués dans une série de complots, notamment un incident majeur près de la base aérienne britannique utilisée par les forces armées américaines.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-10"
+          "id": "pol-1-2026-11-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "titleFr": "Les négociations de paix en Ukraine reprennent avec « une certaine flexibilité » de la part des belligérants, selon des responsables américains",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "titleFr": "La Chambre des représentants bloque pour le moment la tentative de destitution du secrétaire à la Défense Pete Hegseth",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-          "summaryFr": "Kiev, Washington et Moscou ont tous envoyé des délégations aux Émirats arabes unis pour les premières négociations trilatérales depuis février.",
+          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "summaryFr": "Trump se félicite du résultat, qualifiant Hegseth de « grand patriote américain », mais les démocrates peuvent réessayer l’année prochaine.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-10"
+          "id": "pol-2-2026-11-11"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-          "titleFr": "Après avoir défié Android de Google avec Cyanogen, son co-fondateur vise l'ère Windows pour l'IA",
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "titleFr": "La crise de Nvidia incite les experts en gouvernance d’entreprise à se tourner vers le pop-corn",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-          "summaryFr": "Kora devrait être lancé en tant qu'alternative gratuite à Windows, ciblant les utilisateurs qui s'appuient fortement sur des modèles et des agents d'IA.",
+          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+          "summaryFr": "Les experts en gouvernance avec lesquels nous avons parlé affirment que personne n’a rien vu de pareil à ce qui se passe actuellement.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-10"
+          "id": "tech-1-2026-11-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-          "titleFr": "Ring, connu pour ses caméras de sonnette, lance un drone de sécurité domestique et un robot de sécurité d'entreprise",
+          "title": "X launches its own clipping feature to spur influencer engagement",
+          "titleFr": "X lance sa propre fonctionnalité de découpage pour stimuler l'engagement des influenceurs",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-          "summaryFr": "Ring, propriété d'Amazon, se lance dans la robotique avec le lancement d'un drone de sécurité domestique et d'un robot roulant conçu pour patrouiller et protéger les entreprises.",
+          "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+          "summaryFr": "X se lance dans le clipping, la pratique populaire consistant à découper de longues vidéos en clips courts et partageables qui peuvent devenir viraux.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-10"
+          "id": "tech-2-2026-11-11"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
-          "titleFr": "Hegseth : La tentative de destitution est une « farce » et une « cascade »",
+          "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
+          "titleFr": "Dans le Mississippi, les électeurs attendent avec espoir et frustration le résultat décisif du Sénat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "In his first news conference in six months, the defence secretary defended the US's \"lawful military operations\".",
-          "summaryFr": "Lors de sa première conférence de presse en six mois, le secrétaire à la Défense a défendu les « opérations militaires légales » des États-Unis.",
+          "summary": "Democratic voters tell the BBC their candidate is on the brink of history, while Republicans vent disappointment.",
+          "summaryFr": "Les électeurs démocrates déclarent à la BBC que leur candidat est au bord de l'histoire, tandis que les républicains expriment leur déception.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-10"
+          "id": "fd-1-2026-11-11"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump says more US attacks on Iran 'highly unlikely'",
-          "titleFr": "Trump estime que de nouvelles attaques américaines contre l'Iran sont \"hautement improbables\"",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "titleFr": "La Chambre des représentants bloque pour le moment la tentative de destitution du secrétaire à la Défense Pete Hegseth",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-          "summaryFr": "Le président a déclaré que les États-Unis maintenaient le « statu quo » avec l’Iran, mais qu’ils resteraient « verrouillés et chargés » si la situation changeait.",
+          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "summaryFr": "Trump se félicite du résultat, qualifiant Hegseth de « grand patriote américain », mais les démocrates peuvent réessayer l’année prochaine.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-10"
+          "id": "fd-2-2026-11-11"
         }
       ]
     }
