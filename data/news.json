@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-11",
-  "formattedDate": "Mercredi 11 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 11 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-12",
+  "formattedDate": "Jeudi 12 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 12 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Poundland a besoin de plus de temps pour conclure un accord de sauvetage alors que les pourparlers d'urgence se poursuivent",
-    "Politique : Trois suspects soutenus par l'Iran ont planifié des attaques, notamment l'incident de la RAF Fairford, selon les États-Unis",
-    "Tech & IA : La crise de Nvidia incite les experts en gouvernance d’entreprise à se tourner vers le pop-corn"
+    "Économie : Le PDG de Nvidia était la rock star de l'IA avant son drame",
+    "Politique : « Pas de lumière, pas d'eau, pas de chauffage » : les Ukrainiens sont aux prises avec des coupures de courant alors que la Russie touche au réseau électrique",
+    "Tech & IA : Jensen Huang de Nvidia démissionne, le fabricant de puces nomme la directrice financière Colette Kress au poste de PDG par intérim"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-          "titleFr": "Poundland a besoin de plus de temps pour conclure un accord de sauvetage alors que les pourparlers d'urgence se poursuivent",
+          "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+          "titleFr": "Le PDG de Nvidia était la rock star de l'IA avant son drame",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-          "summaryFr": "La BBC croit savoir que la chaîne discount, qui est sur le point de se placer sous administration, aura plus de temps pour trouver un acheteur.",
+          "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+          "summaryFr": "En quelques jours, le statut de Huang en tant que figure apparemment intouchable menant la course mondiale à l’IA s’est effondré.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-11"
+          "id": "eco-1-2026-11-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Christmas toy rush being driven by squishies and building sets",
-          "titleFr": "Ruée vers les jouets de Noël animée par des squishies et des jeux de construction",
+          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+          "titleFr": "Qui pourrait remplacer Jensen Huang à la tête de Nvidia ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-          "summaryFr": "Jusqu’à présent, une année exceptionnelle pour les ventes de jouets survient alors que le débat s’intensifie sur le temps passé devant un écran et la connectivité technologique.",
+          "summary": "As the boss of the AI resigns, some names have emerged as potential successors.",
+          "summaryFr": "Alors que le patron de l’IA démissionne, certains noms se font jour comme successeurs potentiels.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-11"
+          "id": "eco-2-2026-11-12"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "titleFr": "Trois suspects soutenus par l'Iran ont planifié des attaques, notamment l'incident de la RAF Fairford, selon les États-Unis",
+          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "titleFr": "« Pas de lumière, pas d'eau, pas de chauffage » : les Ukrainiens sont aux prises avec des coupures de courant alors que la Russie touche au réseau électrique",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-          "summaryFr": "Le ministère américain de la Justice affirme que les hommes étaient impliqués dans une série de complots, notamment un incident majeur près de la base aérienne britannique utilisée par les forces armées américaines.",
+          "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+          "summaryFr": "Pour les parents de certaines régions d’Ukraine, tenter de mener une vie de famille normale avec seulement quelques heures d’énergie par jour a des conséquences néfastes.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-11"
+          "id": "pol-1-2026-11-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "titleFr": "La Chambre des représentants bloque pour le moment la tentative de destitution du secrétaire à la Défense Pete Hegseth",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "titleFr": "Le démocrate Scott Colom entre dans l'histoire en tant que premier sénateur noir du Mississippi depuis le 19e siècle",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-          "summaryFr": "Trump se félicite du résultat, qualifiant Hegseth de « grand patriote américain », mais les démocrates peuvent réessayer l’année prochaine.",
+          "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+          "summaryFr": "Dans un État remporté par Trump il y a deux ans par 22 points, la victoire de Colom prolonge une série de victoires démocrates au Sénat.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-11"
+          "id": "pol-2-2026-11-12"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-          "titleFr": "La crise de Nvidia incite les experts en gouvernance d’entreprise à se tourner vers le pop-corn",
+          "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+          "titleFr": "Jensen Huang de Nvidia démissionne, le fabricant de puces nomme la directrice financière Colette Kress au poste de PDG par intérim",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-          "summaryFr": "Les experts en gouvernance avec lesquels nous avons parlé affirment que personne n’a rien vu de pareil à ce qui se passe actuellement.",
+          "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+          "summaryFr": "Nvidia a un nouveau directeur général, quelques jours après que l'ancien PDG Jensen Huang a admis avoir eu une liaison amoureuse avec un espion chinois présumé.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-11"
+          "id": "tech-1-2026-11-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "X launches its own clipping feature to spur influencer engagement",
-          "titleFr": "X lance sa propre fonctionnalité de découpage pour stimuler l'engagement des influenceurs",
+          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+          "titleFr": "Neuf startups coréennes se disputent une place dans le concours Startup Battlefield 200 de Disrupt 2027",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-          "summaryFr": "X se lance dans le clipping, la pratique populaire consistant à découper de longues vidéos en clips courts et partageables qui peuvent devenir viraux.",
+          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+          "summaryFr": "Les startups travaillent dans le secteur des technologies profondes, notamment la santé, la fintech, l’énergie, les semi-conducteurs et l’IA. Tous les neuf cherchent à entrer aux États-Unis.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-11"
+          "id": "tech-2-2026-11-12"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
-          "titleFr": "Dans le Mississippi, les électeurs attendent avec espoir et frustration le résultat décisif du Sénat",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "titleFr": "Le démocrate Scott Colom entre dans l'histoire en tant que premier sénateur noir du Mississippi depuis le 19e siècle",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Democratic voters tell the BBC their candidate is on the brink of history, while Republicans vent disappointment.",
-          "summaryFr": "Les électeurs démocrates déclarent à la BBC que leur candidat est au bord de l'histoire, tandis que les républicains expriment leur déception.",
+          "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+          "summaryFr": "Dans un État remporté par Trump il y a deux ans par 22 points, la victoire de Colom prolonge une série de victoires démocrates au Sénat.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-11"
+          "id": "fd-1-2026-11-12"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "titleFr": "La Chambre des représentants bloque pour le moment la tentative de destitution du secrétaire à la Défense Pete Hegseth",
+          "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+          "titleFr": "Pourquoi la victoire du démocrate Scott Colom dans la course au Sénat du Mississippi est si importante",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-          "summaryFr": "Trump se félicite du résultat, qualifiant Hegseth de « grand patriote américain », mais les démocrates peuvent réessayer l’année prochaine.",
+          "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
+          "summaryFr": "La victoire de Colom fait de lui le premier Noir de cet État à être élu au Sénat américain depuis plus de 140 ans.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-11"
+          "id": "fd-2-2026-11-12"
         }
       ]
     }
