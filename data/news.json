@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-12",
-  "formattedDate": "Jeudi 12 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 12 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-13",
+  "formattedDate": "Vendredi 13 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 13 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le PDG de Nvidia était la rock star de l'IA avant son drame",
-    "Politique : « Pas de lumière, pas d'eau, pas de chauffage » : les Ukrainiens sont aux prises avec des coupures de courant alors que la Russie touche au réseau électrique",
-    "Tech & IA : Jensen Huang de Nvidia démissionne, le fabricant de puces nomme la directrice financière Colette Kress au poste de PDG par intérim"
+    "Économie : Ce que nous savons de la panne mondiale de Microsoft",
+    "Politique : Ce que nous savons de la panne mondiale de Microsoft",
+    "Tech & IA : La dernière panne de messagerie de Microsoft s’est transformée en une véritable crise mondiale du cloud"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-          "titleFr": "Le PDG de Nvidia était la rock star de l'IA avant son drame",
+          "title": "What we know about the global Microsoft outage",
+          "titleFr": "Ce que nous savons de la panne mondiale de Microsoft",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
-          "summaryFr": "En quelques jours, le statut de Huang en tant que figure apparemment intouchable menant la course mondiale à l’IA s’est effondré.",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "summaryFr": "Microsoft a déclaré que la panne n'était pas causée par un incident de cybersécurité, mais les efforts visant à résoudre les problèmes ont jusqu'à présent été largement infructueux.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-12"
+          "id": "eco-1-2026-11-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-          "titleFr": "Qui pourrait remplacer Jensen Huang à la tête de Nvidia ?",
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "titleFr": "Comment un scandale sexuel chez Nvidia fait pression sur la Maison Blanche",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "As the boss of the AI resigns, some names have emerged as potential successors.",
-          "summaryFr": "Alors que le patron de l’IA démissionne, certains noms se font jour comme successeurs potentiels.",
+          "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+          "summaryFr": "La vie personnelle de Jensen Huang a peut-être déclenché la crise, mais les questions touchent désormais la Maison Blanche elle-même.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-12"
+          "id": "eco-2-2026-11-13"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-          "titleFr": "« Pas de lumière, pas d'eau, pas de chauffage » : les Ukrainiens sont aux prises avec des coupures de courant alors que la Russie touche au réseau électrique",
+          "title": "What we know about the global Microsoft outage",
+          "titleFr": "Ce que nous savons de la panne mondiale de Microsoft",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-          "summaryFr": "Pour les parents de certaines régions d’Ukraine, tenter de mener une vie de famille normale avec seulement quelques heures d’énergie par jour a des conséquences néfastes.",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "summaryFr": "Microsoft a déclaré que la panne n'était pas causée par un incident de cybersécurité, mais les efforts visant à résoudre les problèmes ont jusqu'à présent été largement infructueux.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-12"
+          "id": "pol-1-2026-11-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "titleFr": "Le démocrate Scott Colom entre dans l'histoire en tant que premier sénateur noir du Mississippi depuis le 19e siècle",
+          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "titleFr": "Regardez : Comment une panne de serveur a mis hors service Microsoft Teams et Outlook",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-          "summaryFr": "Dans un État remporté par Trump il y a deux ans par 22 points, la victoire de Colom prolonge une série de victoires démocrates au Sénat.",
+          "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+          "summaryFr": "Une panne de Microsoft affecte des services tels que Teams, Outlook et le logiciel d'IA Copilot.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-12"
+          "id": "pol-2-2026-11-13"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-          "titleFr": "Jensen Huang de Nvidia démissionne, le fabricant de puces nomme la directrice financière Colette Kress au poste de PDG par intérim",
+          "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+          "titleFr": "La dernière panne de messagerie de Microsoft s’est transformée en une véritable crise mondiale du cloud",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-          "summaryFr": "Nvidia a un nouveau directeur général, quelques jours après que l'ancien PDG Jensen Huang a admis avoir eu une liaison amoureuse avec un espion chinois présumé.",
+          "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+          "summaryFr": "La panne d'une journée de Microsoft a commencé avec Outlook et Teams et a fini par mettre hors ligne une grande partie des services cloud de l'entreprise. Microsoft affirme restaurer progressivement le service.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-12"
+          "id": "tech-1-2026-11-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-          "titleFr": "Neuf startups coréennes se disputent une place dans le concours Startup Battlefield 200 de Disrupt 2027",
+          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+          "titleFr": "Les sociétés de capital-risque israéliennes voient une opportunité pour les challengers dans la tourmente de Nvidia",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
-          "summaryFr": "Les startups travaillent dans le secteur des technologies profondes, notamment la santé, la fintech, l’énergie, les semi-conducteurs et l’IA. Tous les neuf cherchent à entrer aux États-Unis.",
+          "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+          "summaryFr": "Compte tenu de la place forte de Nvidia dans l’IA et de son importance en Israël, de nombreux acteurs de l’écosystème des startups du pays s’inquiètent de l’impact de son départ.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-12"
+          "id": "tech-2-2026-11-13"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "titleFr": "Le démocrate Scott Colom entre dans l'histoire en tant que premier sénateur noir du Mississippi depuis le 19e siècle",
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "titleFr": "Comment un scandale sexuel chez Nvidia fait pression sur la Maison Blanche",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-          "summaryFr": "Dans un État remporté par Trump il y a deux ans par 22 points, la victoire de Colom prolonge une série de victoires démocrates au Sénat.",
+          "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+          "summaryFr": "La vie personnelle de Jensen Huang a peut-être déclenché la crise, mais les questions touchent désormais la Maison Blanche elle-même.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-12"
+          "id": "fd-1-2026-11-13"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
-          "titleFr": "Pourquoi la victoire du démocrate Scott Colom dans la course au Sénat du Mississippi est si importante",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "titleFr": "L'ancien PDG de Nvidia, Jensen Huang, convoqué pour témoigner devant le Congrès au sujet d'une liaison avec un espion chinois présumé",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
-          "summaryFr": "La victoire de Colom fait de lui le premier Noir de cet État à être élu au Sénat américain depuis plus de 140 ans.",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+          "summaryFr": "Huang a brusquement démissionné jeudi de ses fonctions de directeur de l'une des sociétés les plus valorisées au monde après des révélations sur de prétendues relations extraconjugales.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-12"
+          "id": "fd-2-2026-11-13"
         }
       ]
     }
