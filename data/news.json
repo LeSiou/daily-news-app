@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-14",
-  "formattedDate": "Samedi 14 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Samedi 14 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-15",
+  "formattedDate": "Dimanche 15 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Dimanche 15 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Microsoft affirme que les services sont entièrement rétablis après une panne mondiale d'une journée",
-    "Politique : Ce que nous savons du contrôle au sol et que faire si vous êtes concerné",
-    "Tech & IA : Le nouveau Kindle Colorsoft d'Amazon est une liseuse premium à un prix premium"
+    "Économie : Les calendriers de l'Avent beauté peuvent coûter des centaines d'euros, mais ont-ils un bon rapport qualité-prix ?",
+    "Politique : Le port de la Nouvelle-Orléans intente une action en justice d'un million de dollars pour la collision d'un pétrolier « miracle sur le Mississippi »",
+    "Tech & IA : Où était l’équipe de sécurité de Nvidia ?"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "titleFr": "Microsoft affirme que les services sont entièrement rétablis après une panne mondiale d'une journée",
+          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+          "titleFr": "Les calendriers de l'Avent beauté peuvent coûter des centaines d'euros, mais ont-ils un bon rapport qualité-prix ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-          "summaryFr": "Les efforts visant à résoudre le problème sous-jacent avec Outlook, Teams et Copilot sont terminés, indique la société technologique.",
+          "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+          "summaryFr": "Les calendriers de beauté sont devenus un incontournable de Noël et sont devenus particulièrement populaires auprès des acheteuses.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-14"
+          "id": "eco-1-2026-11-15"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "titleFr": "Pourquoi la panne de Microsoft dure-t-elle si longtemps et les e-mails seront-ils perdus ?",
+          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+          "titleFr": "Comment le scandale Jensen Huang a créé un casse-tête pour Singapour, favorable aux entreprises",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-          "summaryFr": "Microsoft affirme qu'il continue de restaurer les services, notamment Outlook et Teams, suite à une panne mondiale.",
+          "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+          "summaryFr": "Le scandale a mis en lumière le succès de Singapour en tant que plaque tournante des puces électroniques et lieu de commerce présumé illicite.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-14"
+          "id": "eco-2-2026-11-15"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "What we know about the ground stop and what to do if you're affected",
-          "titleFr": "Ce que nous savons du contrôle au sol et que faire si vous êtes concerné",
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "titleFr": "Le port de la Nouvelle-Orléans intente une action en justice d'un million de dollars pour la collision d'un pétrolier « miracle sur le Mississippi »",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-          "summaryFr": "Les responsables américains affirment que la perturbation a été causée par une surcharge d’anciens équipements et non par une cyber-attaque.",
+          "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+          "summaryFr": "La poursuite intentée par les autorités de la Nouvelle-Orléans demande également que le pétrolier impliqué dans la collision avec le bateau de croisière soit saisi et vendu pour payer les dommages.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-14"
+          "id": "pol-1-2026-11-15"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "titleFr": "Les États-Unis ont proposé que l'Ukraine cède le Donbass pour devenir membre de l'OTAN, selon Zelensky",
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "titleFr": "Jordanie : trois hommes condamnés à mort pour une fusillade mortelle dans une église",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-          "summaryFr": "Le président ukrainien a déclaré que les envoyés américains ont présenté cet échange comme faisant partie des efforts visant à mettre fin à la guerre avec la Russie.",
+          "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+          "summaryFr": "L'attaque contre les funérailles d'une église grecque orthodoxe a fait neuf morts et 34 autres blessés le mois dernier.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-14"
+          "id": "pol-2-2026-11-15"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "titleFr": "Le nouveau Kindle Colorsoft d'Amazon est une liseuse premium à un prix premium",
+          "title": "Where was Nvidia’s security team?",
+          "titleFr": "Où était l’équipe de sécurité de Nvidia ?",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-          "summaryFr": "Le dernier modèle est plus léger et plus fin que son prédécesseur et dispose d'un écran bord à bord. Mais si vous possédez déjà Colorsoft de première génération, il n’y a aucune raison de procéder à une mise à niveau.",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+          "summaryFr": "Le chef de la sécurité de Nvidia est parti discrètement en août, et maintenant que le PDG Jensen Huang a démissionné en raison de ses relations, notamment avec un cadre d'une entreprise soupçonné d'acheminer des puces vers la Chine, un ancien officier du renseignement affirme que c'est le genre de fuite qui alimente les conversations quotidiennes, que la plupart des équipes de sécurité d'entreprise sont mal équipées pour détecter.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-14"
+          "id": "tech-1-2026-11-15"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "titleFr": "Le départ de Jensen Huang crée un trou important dans le financement des startups de l'IA, selon les sociétés de capital-risque et les fondateurs",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "titleFr": "Elon Musk et d'autres dirigeants technologiques signent une pétition appelant Nvidia à réintégrer Jensen Huang",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "summaryFr": "Nvidia a investi des dizaines de milliards dans les startups d’IA sous Huang. Sans lui à la barre, les fondateurs et les sociétés de capital-risque se préparent à des chèques plus modestes et à des valorisations plus faibles.",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "summaryFr": "La pétition avait recueilli plus de 115 000 signatures samedi après-midi.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-14"
+          "id": "tech-2-2026-11-15"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "What we know about the US ground stop and what to do if your flight is affected",
-          "titleFr": "Ce que nous savons de l'escale aux États-Unis et que faire si votre vol est affecté",
+          "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+          "titleFr": "SpaceX réussit à attraper le sommet d'une énorme fusée Starship pour la première fois",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-          "summaryFr": "Les responsables américains affirment que la perturbation a été causée par une surcharge d’anciens équipements et non par une cyber-attaque.",
+          "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
+          "summaryFr": "L'étage de la fusée a été capturé dans les airs à l'aide d'énormes bras mécaniques surnommés « baguettes ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-14"
+          "id": "fd-1-2026-11-15"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "titleFr": "\"Miracle sur le Mississippi\" - Tous les passagers secourus après la collision d'un bateau de croisière à la Nouvelle-Orléans",
+          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+          "titleFr": "La mise à niveau du fil de cuivre derrière la suspension des vols américains, selon le secrétaire aux Transports",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-          "summaryFr": "La collision laisse 32 personnes hospitalisées avec des blessures non critiques, mais personne n'est porté disparu.",
+          "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+          "summaryFr": "Le gouvernement américain tente de déterminer si le chaos est dû à une « incompétence » ou à un équipement défectueux.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-14"
+          "id": "fd-2-2026-11-15"
         }
       ]
     }
