@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-15",
-  "formattedDate": "Dimanche 15 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 15 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-16",
+  "formattedDate": "Lundi 16 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 16 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les calendriers de l'Avent beauté peuvent coûter des centaines d'euros, mais ont-ils un bon rapport qualité-prix ?",
-    "Politique : Le port de la Nouvelle-Orléans intente une action en justice d'un million de dollars pour la collision d'un pétrolier « miracle sur le Mississippi »",
-    "Tech & IA : Où était l’équipe de sécurité de Nvidia ?"
+    "Économie : Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
+    "Politique : Les forces yéménites se retirent pour défendre la ville portuaire contre les Houthis",
+    "Tech & IA : Mazama Energy a une solution au plus gros problème de forage géothermique"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-          "titleFr": "Les calendriers de l'Avent beauté peuvent coûter des centaines d'euros, mais ont-ils un bon rapport qualité-prix ?",
+          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+          "titleFr": "Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-          "summaryFr": "Les calendriers de beauté sont devenus un incontournable de Noël et sont devenus particulièrement populaires auprès des acheteuses.",
+          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+          "summaryFr": "Un certain nombre de personnalités technologiques souhaitent que le conseil d’administration du géant des puces IA redonne son poste à Jensen Huang.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-15"
+          "id": "eco-1-2026-11-16"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "titleFr": "Comment le scandale Jensen Huang a créé un casse-tête pour Singapour, favorable aux entreprises",
+          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+          "titleFr": "Créer plus d'emplois pour les moins de 25 ans en supprimant l'assurance nationale, préconise un rapport clé",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-          "summaryFr": "Le scandale a mis en lumière le succès de Singapour en tant que plaque tournante des puces électroniques et lieu de commerce présumé illicite.",
+          "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+          "summaryFr": "Certains parents ont tellement envie que leurs enfants trouvent un emploi qu'ils ont proposé de payer leur salaire, a déclaré un coiffeur à la BBC.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-15"
+          "id": "eco-2-2026-11-16"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "titleFr": "Le port de la Nouvelle-Orléans intente une action en justice d'un million de dollars pour la collision d'un pétrolier « miracle sur le Mississippi »",
+          "title": "Yemeni forces retreat to defend port city from Houthis",
+          "titleFr": "Les forces yéménites se retirent pour défendre la ville portuaire contre les Houthis",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-          "summaryFr": "La poursuite intentée par les autorités de la Nouvelle-Orléans demande également que le pétrolier impliqué dans la collision avec le bateau de croisière soit saisi et vendu pour payer les dommages.",
+          "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+          "summaryFr": "Les forces soutenues par l'Arabie saoudite affirment qu'elles déplacent leurs troupes du détroit de Bab al-Mandab pour protéger la capitale provisoire, Aden.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-15"
+          "id": "pol-1-2026-11-16"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-          "titleFr": "Jordanie : trois hommes condamnés à mort pour une fusillade mortelle dans une église",
+          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+          "titleFr": "Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-          "summaryFr": "L'attaque contre les funérailles d'une église grecque orthodoxe a fait neuf morts et 34 autres blessés le mois dernier.",
+          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+          "summaryFr": "Un certain nombre de personnalités technologiques souhaitent que le conseil d’administration du géant des puces IA redonne son poste à Jensen Huang.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-15"
+          "id": "pol-2-2026-11-16"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Where was Nvidia’s security team?",
-          "titleFr": "Où était l’équipe de sécurité de Nvidia ?",
+          "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+          "titleFr": "Mazama Energy a une solution au plus gros problème de forage géothermique",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-          "summaryFr": "Le chef de la sécurité de Nvidia est parti discrètement en août, et maintenant que le PDG Jensen Huang a démissionné en raison de ses relations, notamment avec un cadre d'une entreprise soupçonné d'acheminer des puces vers la Chine, un ancien officier du renseignement affirme que c'est le genre de fuite qui alimente les conversations quotidiennes, que la plupart des équipes de sécurité d'entreprise sont mal équipées pour détecter.",
+          "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+          "summaryFr": "Mazama Energy, soutenu par Khosla, a développé une nouvelle façon de surrefroidir ses forets géothermiques, lui permettant de forer plus rapidement et plus profondément dans le but de réduire le coût de l'électricité.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-15"
+          "id": "tech-1-2026-11-16"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "titleFr": "Elon Musk et d'autres dirigeants technologiques signent une pétition appelant Nvidia à réintégrer Jensen Huang",
+          "title": "After dodging death, battery startup Our Next Energy is now going public",
+          "titleFr": "Après avoir évité la mort, le démarrage de la batterie Our Next Energy est désormais rendu public",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-          "summaryFr": "La pétition avait recueilli plus de 115 000 signatures samedi après-midi.",
+          "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+          "summaryFr": "Notre Next Energy est la dernière startup de batterie à être rendue publique via SPAC. A-t-elle désormais ce dont elle a besoin pour survivre dans une industrie acharnée des batteries ?",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-15"
+          "id": "tech-2-2026-11-16"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-          "titleFr": "SpaceX réussit à attraper le sommet d'une énorme fusée Starship pour la première fois",
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "titleFr": "Zelensky exhorte les États-Unis et Musk à lever les restrictions sur Starlink et à être du « bon côté de l’histoire »",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-          "summaryFr": "L'étage de la fusée a été capturé dans les airs à l'aide d'énormes bras mécaniques surnommés « baguettes ».",
+          "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+          "summaryFr": "Le président ukrainien affirme que le ralentissement d’Internet rend difficile la lutte contre les attaques russes.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-15"
+          "id": "fd-1-2026-11-16"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-          "titleFr": "La mise à niveau du fil de cuivre derrière la suspension des vols américains, selon le secrétaire aux Transports",
+          "title": "US flights nearing 'full capacity' after weekend of disruption, Duffy says",
+          "titleFr": "Les vols américains approchent de leur « pleine capacité » après un week-end de perturbations, selon Duffy",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-          "summaryFr": "Le gouvernement américain tente de déterminer si le chaos est dû à une « incompétence » ou à un équipement défectueux.",
+          "summary": "There was a weekend of disruption as the national air-traffic control system recovered from a technical failure.",
+          "summaryFr": "Il y a eu un week-end de perturbations alors que le système national de contrôle du trafic aérien se remettait d'une panne technique.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-15"
+          "id": "fd-2-2026-11-16"
         }
       ]
     }
