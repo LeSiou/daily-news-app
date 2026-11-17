@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-16",
-  "formattedDate": "Lundi 16 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 16 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-17",
+  "formattedDate": "Mardi 17 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 17 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
-    "Politique : Les forces yéménites se retirent pour défendre la ville portuaire contre les Houthis",
-    "Tech & IA : Mazama Energy a une solution au plus gros problème de forage géothermique"
+    "Économie : Un dysfonctionnement des radars pourrait avoir permis aux conducteurs d'échapper aux amendes",
+    "Politique : Le pont de Poutine en Crimée s'effondre alors que Zelensky salue l'attaque \"sans précédent\" de l'Ukraine",
+    "Tech & IA : Le service de livraison par drone d'Uber et Zipline décolle au Texas, et des dizaines de villes suivront"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-          "titleFr": "Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "titleFr": "Un dysfonctionnement des radars pourrait avoir permis aux conducteurs d'échapper aux amendes",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-          "summaryFr": "Un certain nombre de personnalités technologiques souhaitent que le conseil d’administration du géant des puces IA redonne son poste à Jensen Huang.",
+          "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+          "summaryFr": "Le ministère de l'Intérieur a révoqué l'autorisation autorisant l'utilisation des images des radars comme preuve.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-16"
+          "id": "eco-1-2026-11-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-          "titleFr": "Créer plus d'emplois pour les moins de 25 ans en supprimant l'assurance nationale, préconise un rapport clé",
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "titleFr": "Où se trouvent le plus d’emplois pour les 18-24 ans ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-          "summaryFr": "Certains parents ont tellement envie que leurs enfants trouvent un emploi qu'ils ont proposé de payer leur salaire, a déclaré un coiffeur à la BBC.",
+          "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+          "summaryFr": "Combien d’emplois y a-t-il là où vous vivez et dans quels secteurs êtes-vous le plus susceptible de trouver une ouverture ?",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-16"
+          "id": "eco-2-2026-11-17"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Yemeni forces retreat to defend port city from Houthis",
-          "titleFr": "Les forces yéménites se retirent pour défendre la ville portuaire contre les Houthis",
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "titleFr": "Le pont de Poutine en Crimée s'effondre alors que Zelensky salue l'attaque \"sans précédent\" de l'Ukraine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-          "summaryFr": "Les forces soutenues par l'Arabie saoudite affirment qu'elles déplacent leurs troupes du détroit de Bab al-Mandab pour protéger la capitale provisoire, Aden.",
+          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+          "summaryFr": "L’Ukraine affirme que l’attaque de missiles et de drones contre le pont stratégique de la Crimée annexée par la Russie a pris des semaines à être planifiée.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-16"
+          "id": "pol-1-2026-11-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-          "titleFr": "Elon Musk rejoint la campagne « Bring Jensen Back » pour réintégrer l'ancien patron de Nvidia",
+          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "titleFr": "L'Ukraine accuse la Russie d'avoir ciblé une opération de sauvetage après qu'une frappe à double pression ait tué 72 personnes",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-          "summaryFr": "Un certain nombre de personnalités technologiques souhaitent que le conseil d’administration du géant des puces IA redonne son poste à Jensen Huang.",
+          "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+          "summaryFr": "Les efforts visant à retrouver les corps après une attaque « à double frappe » dans le sud de l’Ukraine sont entravés par la poursuite des frappes russes, selon des responsables.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-16"
+          "id": "pol-2-2026-11-17"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-          "titleFr": "Mazama Energy a une solution au plus gros problème de forage géothermique",
+          "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+          "titleFr": "Le service de livraison par drone d'Uber et Zipline décolle au Texas, et des dizaines de villes suivront",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
-          "summaryFr": "Mazama Energy, soutenu par Khosla, a développé une nouvelle façon de surrefroidir ses forets géothermiques, lui permettant de forer plus rapidement et plus profondément dans le but de réduire le coût de l'électricité.",
+          "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+          "summaryFr": "Les deux sociétés souhaitent réaliser un million de livraisons par jour grâce aux drones Zipline d’ici fin 2029.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-16"
+          "id": "tech-1-2026-11-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "After dodging death, battery startup Our Next Energy is now going public",
-          "titleFr": "Après avoir évité la mort, le démarrage de la batterie Our Next Energy est désormais rendu public",
+          "title": "Meta launches Direct, a standalone messaging app for Instagram",
+          "titleFr": "Meta lance Direct, une application de messagerie autonome pour Instagram",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
-          "summaryFr": "Notre Next Energy est la dernière startup de batterie à être rendue publique via SPAC. A-t-elle désormais ce dont elle a besoin pour survivre dans une industrie acharnée des batteries ?",
+          "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+          "summaryFr": "Direct est lancé en Turquie et en Thaïlande et peut être utilisé avec ou sans compte Instagram.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-16"
+          "id": "tech-2-2026-11-17"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "titleFr": "Zelensky exhorte les États-Unis et Musk à lever les restrictions sur Starlink et à être du « bon côté de l’histoire »",
+          "title": "We couldn't afford a house alone, so we bought one with strangers",
+          "titleFr": "Nous ne pouvions pas nous permettre une maison seuls, alors nous en avons acheté une avec des inconnus",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-          "summaryFr": "Le président ukrainien affirme que le ralentissement d’Internet rend difficile la lutte contre les attaques russes.",
+          "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+          "summaryFr": "Les gens qui n’ont pas les moyens d’accéder au logement achètent une maison avec quelqu’un qu’ils ne connaissent pas.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-16"
+          "id": "fd-1-2026-11-17"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US flights nearing 'full capacity' after weekend of disruption, Duffy says",
-          "titleFr": "Les vols américains approchent de leur « pleine capacité » après un week-end de perturbations, selon Duffy",
+          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+          "titleFr": "Lindsay Clancy sera rejugée l'année prochaine pour la mort de ses trois enfants",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "There was a weekend of disruption as the national air-traffic control system recovered from a technical failure.",
-          "summaryFr": "Il y a eu un week-end de perturbations alors que le système national de contrôle du trafic aérien se remettait d'une panne technique.",
+          "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+          "summaryFr": "Le premier procès de l'homme de 36 ans a échoué cette année lorsqu'un jury composé de 12 personnes n'est pas parvenu à rendre un verdict.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-16"
+          "id": "fd-2-2026-11-17"
         }
       ]
     }
