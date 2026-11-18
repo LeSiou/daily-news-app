@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-17",
-  "formattedDate": "Mardi 17 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 17 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-18",
+  "formattedDate": "Mercredi 18 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 18 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Un dysfonctionnement des radars pourrait avoir permis aux conducteurs d'échapper aux amendes",
-    "Politique : Le pont de Poutine en Crimée s'effondre alors que Zelensky salue l'attaque \"sans précédent\" de l'Ukraine",
-    "Tech & IA : Le service de livraison par drone d'Uber et Zipline décolle au Texas, et des dizaines de villes suivront"
+    "Économie : Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "Politique : Trump serre la main de Poutine et de Xi avant des négociations historiques en Chine",
+    "Tech & IA : Nvidia clarifies when it will — and won’t —keep financing neoclouds"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Speed camera fault may have allowed drivers to escape fines",
-          "titleFr": "Un dysfonctionnement des radars pourrait avoir permis aux conducteurs d'échapper aux amendes",
+          "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+          "titleFr": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-          "summaryFr": "Le ministère de l'Intérieur a révoqué l'autorisation autorisant l'utilisation des images des radars comme preuve.",
+          "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+          "summaryFr": "Les factures d’énergie devraient augmenter de 26 % par an pour un ménage type, alors que l’inflation britannique atteint son taux le plus élevé depuis un an.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-17"
+          "id": "eco-1-2026-11-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Where are the most jobs for 18-24 year-olds?",
-          "titleFr": "Où se trouvent le plus d’emplois pour les 18-24 ans ?",
+          "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+          "titleFr": "Factures de chauffage, chocolat et nourriture pour chats : ce que signifient pour vous les chiffres de l’inflation",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-          "summaryFr": "Combien d’emplois y a-t-il là où vous vivez et dans quels secteurs êtes-vous le plus susceptible de trouver une ouverture ?",
+          "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+          "summaryFr": "Les prix augmentent à leur rythme le plus rapide depuis un an au Royaume-Uni, et une hausse des coûts de l’énergie est à prévoir.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-17"
+          "id": "eco-2-2026-11-18"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "titleFr": "Le pont de Poutine en Crimée s'effondre alors que Zelensky salue l'attaque \"sans précédent\" de l'Ukraine",
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "titleFr": "Trump serre la main de Poutine et de Xi avant des négociations historiques en Chine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-          "summaryFr": "L’Ukraine affirme que l’attaque de missiles et de drones contre le pont stratégique de la Crimée annexée par la Russie a pris des semaines à être planifiée.",
+          "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+          "summaryFr": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-17"
+          "id": "pol-1-2026-11-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "titleFr": "L'Ukraine accuse la Russie d'avoir ciblé une opération de sauvetage après qu'une frappe à double pression ait tué 72 personnes",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "titleFr": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-          "summaryFr": "Les efforts visant à retrouver les corps après une attaque « à double frappe » dans le sud de l’Ukraine sont entravés par la poursuite des frappes russes, selon des responsables.",
+          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "summaryFr": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-17"
+          "id": "pol-2-2026-11-18"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-          "titleFr": "Le service de livraison par drone d'Uber et Zipline décolle au Texas, et des dizaines de villes suivront",
+          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+          "titleFr": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-          "summaryFr": "Les deux sociétés souhaitent réaliser un million de livraisons par jour grâce aux drones Zipline d’ici fin 2029.",
+          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+          "summaryFr": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-17"
+          "id": "tech-1-2026-11-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Meta launches Direct, a standalone messaging app for Instagram",
-          "titleFr": "Meta lance Direct, une application de messagerie autonome pour Instagram",
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "titleFr": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-          "summaryFr": "Direct est lancé en Turquie et en Thaïlande et peut être utilisé avec ou sans compte Instagram.",
+          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+          "summaryFr": "Avec une équipe de seulement sept personnes, Unsiloed AI prévoit de rivaliser avec les géants de la technologie et les startups spécialisées sur le marché encombré du traitement de documents par l'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-17"
+          "id": "tech-2-2026-11-18"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "We couldn't afford a house alone, so we bought one with strangers",
-          "titleFr": "Nous ne pouvions pas nous permettre une maison seuls, alors nous en avons acheté une avec des inconnus",
+          "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+          "titleFr": "Rubio says US not 'under systemic attack' after series of tech outages",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-          "summaryFr": "Les gens qui n’ont pas les moyens d’accéder au logement achètent une maison avec quelqu’un qu’ils ne connaissent pas.",
+          "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+          "summaryFr": "Le secrétaire d'État Marco Rubio a déclaré qu'il n'y avait \"aucune preuve\" soutenant les théories en ligne selon lesquelles les récentes perturbations affectant Microsoft, les banques et les vols sont liées.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-17"
+          "id": "fd-1-2026-11-18"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "titleFr": "Lindsay Clancy sera rejugée l'année prochaine pour la mort de ses trois enfants",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "titleFr": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-          "summaryFr": "Le premier procès de l'homme de 36 ans a échoué cette année lorsqu'un jury composé de 12 personnes n'est pas parvenu à rendre un verdict.",
+          "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+          "summaryFr": "La Chine craint que le scandale n’intensifie la pression sur les États-Unis pour qu’ils restreignent davantage la vente de puces avancées.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-17"
+          "id": "fd-2-2026-11-18"
         }
       ]
     }
