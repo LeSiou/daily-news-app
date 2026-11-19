@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-18",
-  "formattedDate": "Mercredi 18 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 18 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-19",
+  "formattedDate": "Jeudi 19 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 19 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-    "Politique : Trump serre la main de Poutine et de Xi avant des négociations historiques en Chine",
-    "Tech & IA : Nvidia clarifies when it will — and won’t —keep financing neoclouds"
+    "Économie : Simon Jack : L'introduction en bourse record d'Anthropic peut-elle empêcher l'éclatement de la bulle de l'IA ?",
+    "Politique : Des dizaines de disparus après le naufrage d'un bateau transportant 100 migrants au large des côtes du Sénégal",
+    "Tech & IA : L’introduction en bourse d’Anthropic met à l’épreuve le boom du financement circulaire de l’IA"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-          "titleFr": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+          "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+          "titleFr": "Simon Jack : L'introduction en bourse record d'Anthropic peut-elle empêcher l'éclatement de la bulle de l'IA ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-          "summaryFr": "Les factures d’énergie devraient augmenter de 26 % par an pour un ménage type, alors que l’inflation britannique atteint son taux le plus élevé depuis un an.",
+          "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+          "summaryFr": "L'introduction en bourse très attendue d'Anthropic devrait la placer parmi les 10 sociétés américaines les plus valorisées, mais l'avenir est incertain.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-18"
+          "id": "eco-1-2026-11-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-          "titleFr": "Factures de chauffage, chocolat et nourriture pour chats : ce que signifient pour vous les chiffres de l’inflation",
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "titleFr": "Les sept fondateurs d'Anthropic en passe de devenir multimilliardaires",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-          "summaryFr": "Les prix augmentent à leur rythme le plus rapide depuis un an au Royaume-Uni, et une hausse des coûts de l’énergie est à prévoir.",
+          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+          "summaryFr": "La société d'IA derrière Claude est sur le point de vendre ses actions à la bourse américaine, rendant ainsi ses fondateurs très riches.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-18"
+          "id": "eco-2-2026-11-19"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "titleFr": "Trump serre la main de Poutine et de Xi avant des négociations historiques en Chine",
+          "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+          "titleFr": "Des dizaines de disparus après le naufrage d'un bateau transportant 100 migrants au large des côtes du Sénégal",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-          "summaryFr": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+          "summary": "Some local media report that at least four bodies have been recovered.",
+          "summaryFr": "Certains médias locaux rapportent qu'au moins quatre corps ont été retrouvés.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-18"
+          "id": "pol-1-2026-11-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "titleFr": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "titleFr": "Un tableau de Van Gogh vendu pour un montant record de 190,4 millions de dollars après une dispute sur son histoire nazie",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-          "summaryFr": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+          "summaryFr": "Châtaigniers en fleurs a été peint en 1890 au cours des deux derniers mois de la vie de Vincent van Gogh.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-18"
+          "id": "pol-2-2026-11-19"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-          "titleFr": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "titleFr": "L’introduction en bourse d’Anthropic met à l’épreuve le boom du financement circulaire de l’IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-          "summaryFr": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+          "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+          "summaryFr": "Anthropic fait face à d'énormes engagements en matière de calcul lors de son introduction en bourse, mais ses plus grands partenaires d'infrastructure, dont Amazon et Google, pourraient continuer à profiter de l'IA même si Anthropic perd son avance.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-18"
+          "id": "tech-1-2026-11-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-          "titleFr": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+          "titleFr": "Nimble entre sur le marché du suivi des articles avec des étiquettes à bagages et des porte-clés écologiques",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-          "summaryFr": "Avec une équipe de seulement sept personnes, Unsiloed AI prévoit de rivaliser avec les géants de la technologie et les startups spécialisées sur le marché encombré du traitement de documents par l'IA.",
+          "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+          "summaryFr": "Alors que Google affronte Apple sur le marché du suivi des articles, Nimble espère que ses portefeuilles, porte-clés, étiquettes de bagages et couvertures de passeport traçables se démarqueront.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-18"
+          "id": "tech-2-2026-11-19"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-          "titleFr": "Rubio says US not 'under systemic attack' after series of tech outages",
+          "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+          "titleFr": "\"Frustrés\" - Les démocrates restent un parti divisé malgré de grandes victoires à mi-mandat",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-          "summaryFr": "Le secrétaire d'État Marco Rubio a déclaré qu'il n'y avait \"aucune preuve\" soutenant les théories en ligne selon lesquelles les récentes perturbations affectant Microsoft, les banques et les vols sont liées.",
+          "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+          "summaryFr": "Après avoir pris le pouvoir au Congrès, une conférence démocrate à Denver a été animée par des discussions sur la meilleure voie à suivre.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-18"
+          "id": "fd-1-2026-11-19"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-          "titleFr": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+          "titleFr": "Le Venezuela signe un accord militaire avec les États-Unis moins d'un an après la destitution de Maduro",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-          "summaryFr": "La Chine craint que le scandale n’intensifie la pression sur les États-Unis pour qu’ils restreignent davantage la vente de puces avancées.",
+          "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+          "summaryFr": "Le secrétaire américain à la Défense affirme que le Venezuela est « passé du statut de menace régionale la plus agressive à celui de partenaire de sécurité docile ».",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-18"
+          "id": "fd-2-2026-11-19"
         }
       ]
     }
