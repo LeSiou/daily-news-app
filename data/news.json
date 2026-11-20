@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-19",
-  "formattedDate": "Jeudi 19 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 19 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-20",
+  "formattedDate": "Vendredi 20 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 20 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Simon Jack : L'introduction en bourse record d'Anthropic peut-elle empêcher l'éclatement de la bulle de l'IA ?",
-    "Politique : Des dizaines de disparus après le naufrage d'un bateau transportant 100 migrants au large des côtes du Sénégal",
-    "Tech & IA : L’introduction en bourse d’Anthropic met à l’épreuve le boom du financement circulaire de l’IA"
+    "Économie : Les actions d'Anthropic chutent après une ouverture à succès",
+    "Politique : La Russie cible les passages de Kyiv quelques jours après que l’Ukraine a heurté le pont de Crimée",
+    "Tech & IA : Six gadgets basés sur l'IA qui pourraient rendre votre bureau à domicile plus intelligent"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-          "titleFr": "Simon Jack : L'introduction en bourse record d'Anthropic peut-elle empêcher l'éclatement de la bulle de l'IA ?",
+          "title": "Anthropic shares fall after blockbuster opening",
+          "titleFr": "Les actions d'Anthropic chutent après une ouverture à succès",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-          "summaryFr": "L'introduction en bourse très attendue d'Anthropic devrait la placer parmi les 10 sociétés américaines les plus valorisées, mais l'avenir est incertain.",
+          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+          "summaryFr": "D’autres entreprises technologiques ont également été touchées par la chute généralisée des marchés boursiers.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-19"
+          "id": "eco-1-2026-11-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "titleFr": "Les sept fondateurs d'Anthropic en passe de devenir multimilliardaires",
+          "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+          "titleFr": "Les conserves et le lait longue conservation stimulent les ventes au détail après le lancement de la campagne « Soyez prêts »",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-          "summaryFr": "La société d'IA derrière Claude est sur le point de vendre ses actions à la bourse américaine, rendant ainsi ses fondateurs très riches.",
+          "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+          "summaryFr": "Les personnes qui s'approvisionnent en aliments de longue conservation ont fait grimper les ventes au détail en octobre, selon les données officielles.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-19"
+          "id": "eco-2-2026-11-20"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-          "titleFr": "Des dizaines de disparus après le naufrage d'un bateau transportant 100 migrants au large des côtes du Sénégal",
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "titleFr": "La Russie cible les passages de Kyiv quelques jours après que l’Ukraine a heurté le pont de Crimée",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Some local media report that at least four bodies have been recovered.",
-          "summaryFr": "Certains médias locaux rapportent qu'au moins quatre corps ont été retrouvés.",
+          "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+          "summaryFr": "La Russie a lancé l’une de ses plus grandes attaques aériennes à ce jour, rejetant la perspective de garanties de sécurité pour l’Ukraine.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-19"
+          "id": "pol-1-2026-11-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-          "titleFr": "Un tableau de Van Gogh vendu pour un montant record de 190,4 millions de dollars après une dispute sur son histoire nazie",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "titleFr": "Un missile russe frappe la Pologne alors que les alliés de l'Ukraine organisent un exercice militaire, selon Tusk",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-          "summaryFr": "Châtaigniers en fleurs a été peint en 1890 au cours des deux derniers mois de la vie de Vincent van Gogh.",
+          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "summaryFr": "Personne n'a été blessé et aucun dégât n'a été signalé, mais Varsovie a qualifié l'incident de \"provocation\" de la part de Moscou.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-19"
+          "id": "pol-2-2026-11-20"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-          "titleFr": "L’introduction en bourse d’Anthropic met à l’épreuve le boom du financement circulaire de l’IA",
+          "title": "Six AI-powered gadgets that could make your home office smarter",
+          "titleFr": "Six gadgets basés sur l'IA qui pourraient rendre votre bureau à domicile plus intelligent",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-          "summaryFr": "Anthropic fait face à d'énormes engagements en matière de calcul lors de son introduction en bourse, mais ses plus grands partenaires d'infrastructure, dont Amazon et Google, pourraient continuer à profiter de l'IA même si Anthropic perd son avance.",
+          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+          "summaryFr": "Des preneurs de notes aux webcams, voici six gadgets basés sur l'IA pour améliorer votre espace de travail.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-19"
+          "id": "tech-1-2026-11-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-          "titleFr": "Nimble entre sur le marché du suivi des articles avec des étiquettes à bagages et des porte-clés écologiques",
+          "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+          "titleFr": "Derrière le départ de Jensen Huang, des interrogations sur un style de management fondé sur la peur",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-          "summaryFr": "Alors que Google affronte Apple sur le marché du suivi des articles, Nimble espère que ses portefeuilles, porte-clés, étiquettes de bagages et couvertures de passeport traçables se démarqueront.",
+          "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+          "summaryFr": "Elon Musk a peut-être exagéré lorsqu’il a déclaré que les employés de Nvidia « aiment » Jensen Huang, évincé.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-19"
+          "id": "tech-2-2026-11-20"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-          "titleFr": "\"Frustrés\" - Les démocrates restent un parti divisé malgré de grandes victoires à mi-mandat",
+          "title": "Texas death-row inmate screams as execution takes more than one hour",
+          "titleFr": "Un condamné à mort du Texas hurle alors que son exécution dure plus d'une heure",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-          "summaryFr": "Après avoir pris le pouvoir au Congrès, une conférence démocrate à Denver a été animée par des discussions sur la meilleure voie à suivre.",
+          "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+          "summaryFr": "Cette exécution prolongée survient quelques semaines après que Christa Pike ait survécu à l'injection mortelle de la même drogue.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-19"
+          "id": "fd-1-2026-11-20"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-          "titleFr": "Le Venezuela signe un accord militaire avec les États-Unis moins d'un an après la destitution de Maduro",
+          "title": "Why Canada is embracing AI data centres while the US pushes back",
+          "titleFr": "Pourquoi le Canada adopte les centres de données IA alors que les États-Unis s'y opposent",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
-          "summaryFr": "Le secrétaire américain à la Défense affirme que le Venezuela est « passé du statut de menace régionale la plus agressive à celui de partenaire de sécurité docile ».",
+          "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+          "summaryFr": "Kevin O'Leary de Shark Tank fait partie des grands investisseurs qui envisagent le Canada comme destination de développement de centres de données, tandis que son projet américain se heurte à une opposition locale.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-19"
+          "id": "fd-2-2026-11-20"
         }
       ]
     }
