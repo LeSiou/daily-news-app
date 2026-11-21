@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-20",
-  "formattedDate": "Vendredi 20 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Vendredi 20 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-21",
+  "formattedDate": "Samedi 21 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Samedi 21 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les actions d'Anthropic chutent après une ouverture à succès",
-    "Politique : La Russie cible les passages de Kyiv quelques jours après que l’Ukraine a heurté le pont de Crimée",
-    "Tech & IA : Six gadgets basés sur l'IA qui pourraient rendre votre bureau à domicile plus intelligent"
+    "Économie : La liquidation des actions technologiques entraîne la baisse des marchés alors que les actions d'Anthropic chutent",
+    "Politique : Zelensky déclare que Crimean Bridge apporte une \"réponse équitable\" lors de sa rencontre avec Streeting au Royaume-Uni",
+    "Tech & IA : Une startup poursuit Apple en Inde pour la fonctionnalité de contacts Taper pour partager"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Anthropic shares fall after blockbuster opening",
-          "titleFr": "Les actions d'Anthropic chutent après une ouverture à succès",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "titleFr": "La liquidation des actions technologiques entraîne la baisse des marchés alors que les actions d'Anthropic chutent",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "summaryFr": "D’autres entreprises technologiques ont également été touchées par la chute généralisée des marchés boursiers.",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "summaryFr": "Les pressions ont pesé sur les marchés américains, le S&P 500 et le Dow Jones Industrial Average étant entrés en territoire de correction.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-20"
+          "id": "eco-1-2026-11-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-          "titleFr": "Les conserves et le lait longue conservation stimulent les ventes au détail après le lancement de la campagne « Soyez prêts »",
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "titleFr": "Le Royaume-Uni explorera des liens encore plus étroits avec l'UE après avoir conclu un accord, déclare Burnham",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-          "summaryFr": "Les personnes qui s'approvisionnent en aliments de longue conservation ont fait grimper les ventes au détail en octobre, selon les données officielles.",
+          "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+          "summaryFr": "L’accord entre le Royaume-Uni et l’UE conclu vendredi couvre les exportations alimentaires britanniques, l’échange de droits d’émission et un programme d’expérience pour les jeunes.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-20"
+          "id": "eco-2-2026-11-21"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "titleFr": "La Russie cible les passages de Kyiv quelques jours après que l’Ukraine a heurté le pont de Crimée",
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "titleFr": "Zelensky déclare que Crimean Bridge apporte une \"réponse équitable\" lors de sa rencontre avec Streeting au Royaume-Uni",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-          "summaryFr": "La Russie a lancé l’une de ses plus grandes attaques aériennes à ce jour, rejetant la perspective de garanties de sécurité pour l’Ukraine.",
+          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+          "summaryFr": "Le président ukrainien a déclaré que Kiev avait agi après 109 attaques aériennes russes distinctes contre des ponts en Ukraine.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-20"
+          "id": "pol-1-2026-11-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "titleFr": "Un missile russe frappe la Pologne alors que les alliés de l'Ukraine organisent un exercice militaire, selon Tusk",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "titleFr": "La liquidation des actions technologiques entraîne la baisse des marchés alors que les actions d'Anthropic chutent",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-          "summaryFr": "Personne n'a été blessé et aucun dégât n'a été signalé, mais Varsovie a qualifié l'incident de \"provocation\" de la part de Moscou.",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "summaryFr": "Les pressions ont pesé sur les marchés américains, le S&P 500 et le Dow Jones Industrial Average étant entrés en territoire de correction.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-20"
+          "id": "pol-2-2026-11-21"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "titleFr": "Six gadgets basés sur l'IA qui pourraient rendre votre bureau à domicile plus intelligent",
+          "title": "Startup sues Apple in India over tap-to-share contacts feature",
+          "titleFr": "Une startup poursuit Apple en Inde pour la fonctionnalité de contacts Taper pour partager",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-          "summaryFr": "Des preneurs de notes aux webcams, voici six gadgets basés sur l'IA pour améliorer votre espace de travail.",
+          "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+          "summaryFr": "Une startup américaine demande 162 millions de dollars de dommages et intérêts et une injonction pour avoir un impact sur les importations d'iPhone et d'Apple Watch en Inde.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-20"
+          "id": "tech-1-2026-11-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-          "titleFr": "Derrière le départ de Jensen Huang, des interrogations sur un style de management fondé sur la peur",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "titleFr": "Les experts mettent en garde : presque tout le monde dans l’IA est actuellement susceptible d’être victime d’un piège à miel",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-          "summaryFr": "Elon Musk a peut-être exagéré lorsqu’il a déclaré que les employés de Nvidia « aiment » Jensen Huang, évincé.",
+          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+          "summaryFr": "Les techniciens construisent des technologies qui peuvent faire progresser tous les aspects du monde, mais peuvent-ils protéger leur cœur ? C’est la vulnérabilité exploitée par les pots de miel.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-20"
+          "id": "tech-2-2026-11-21"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Texas death-row inmate screams as execution takes more than one hour",
-          "titleFr": "Un condamné à mort du Texas hurle alors que son exécution dure plus d'une heure",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "titleFr": "La liquidation des actions technologiques entraîne la baisse des marchés alors que les actions d'Anthropic chutent",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-          "summaryFr": "Cette exécution prolongée survient quelques semaines après que Christa Pike ait survécu à l'injection mortelle de la même drogue.",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "summaryFr": "Les pressions ont pesé sur les marchés américains, le S&P 500 et le Dow Jones Industrial Average étant entrés en territoire de correction.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-20"
+          "id": "fd-1-2026-11-21"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why Canada is embracing AI data centres while the US pushes back",
-          "titleFr": "Pourquoi le Canada adopte les centres de données IA alors que les États-Unis s'y opposent",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "titleFr": "Trump menace d'interdire aux entreprises américaines de construire des centres de données d'IA à l'étranger",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
-          "summaryFr": "Kevin O'Leary de Shark Tank fait partie des grands investisseurs qui envisagent le Canada comme destination de développement de centres de données, tandis que son projet américain se heurte à une opposition locale.",
+          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+          "summaryFr": "Le président américain a fourni peu de détails sur cette politique potentielle, affirmant que d'autres membres de son équipe en entendaient parler pour la première fois.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-20"
+          "id": "fd-2-2026-11-21"
         }
       ]
     }
