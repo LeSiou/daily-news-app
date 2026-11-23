@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-22",
-  "formattedDate": "Dimanche 22 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Dimanche 22 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-23",
+  "formattedDate": "Lundi 23 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Lundi 23 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les employeurs sont invités à donner leur avis lors des entretiens : voici ce que veulent les candidats",
-    "Politique : Le ministre sud-coréen de l'Éducation démissionne suite à un scandale de tricherie aux examens",
-    "Tech & IA : Signal restreint les captures d’écran mobiles car il fait face à une « menace existentielle » de surveillance par l’IA"
+    "Économie : Les actions Nvidia en hausse de 30 % et les valeurs technologiques rebondissent après le retour de Jensen Huang",
+    "Politique : Trump dit avoir « convaincu » Nvidia de réintégrer Jensen Huang",
+    "Tech & IA : Trump aurait convoqué une réunion du conseil d'administration de Nvidia pour plaider en faveur du retour de Huang"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Employers are being asked to give interview feedback - here's what applicants want",
-          "titleFr": "Les employeurs sont invités à donner leur avis lors des entretiens : voici ce que veulent les candidats",
+          "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+          "titleFr": "Les actions Nvidia en hausse de 30 % et les valeurs technologiques rebondissent après le retour de Jensen Huang",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-          "summaryFr": "Les gens disent qu’ils n’ont souvent aucune réponse après avoir postulé à un emploi. Mais les employeurs pourraient-ils être obligés de répondre à chaque candidat ?",
+          "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+          "summaryFr": "La hausse des actions Nvidia a également stimulé les marchés boursiers, le Nasdaq, très technologique, en hausse de 6,5 % en début de séance.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-22"
+          "id": "eco-1-2026-11-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Can AI really help spot Black Friday deals? We put it to the test",
-          "titleFr": "L’IA peut-elle vraiment aider à repérer les offres du Black Friday ? Nous l'avons mis à l'épreuve",
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "titleFr": "Quelle est l’importance de Nvidia et Jensen Huang pour l’économie américaine ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-          "summaryFr": "Nous avons testé quatre modèles d’IA pour voir s’ils pouvaient nous faire économiser de l’argent sur un nouveau téléviseur.",
+          "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+          "summaryFr": "Le PDG de Nvidia a été au centre du boom de l’intelligence artificielle.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-22"
+          "id": "eco-2-2026-11-23"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "South Korea education minister resigns over exam cheating scandal",
-          "titleFr": "Le ministre sud-coréen de l'Éducation démissionne suite à un scandale de tricherie aux examens",
+          "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+          "titleFr": "Trump dit avoir « convaincu » Nvidia de réintégrer Jensen Huang",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-          "summaryFr": "Choi Kyo-jin admet que les mesures de dernière minute visant à mettre fin à la tricherie assistée par l'IA lors de l'examen d'entrée à l'université ont provoqué le chaos.",
+          "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+          "summaryFr": "Le président américain est personnellement intervenu pour s'adresser aux membres du conseil d'administration de Nvidia.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-22"
+          "id": "pol-1-2026-11-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-          "titleFr": "Un navire à destination de la Russie toujours en feu après une attaque dans le golfe de Finlande",
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "titleFr": "Un navire de guerre russe touché par des drones ukrainiens en Libye, selon Zelensky",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-          "summaryFr": "Les forces de défense finlandaises affirment que l’Ukraine était probablement à l’origine de l’attaque du drone contre le navire.",
+          "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+          "summaryFr": "Le Kremlin met en garde contre une \"escalade des tensions dans la région\", mais refuse de commenter directement les attaques en Libye.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-22"
+          "id": "pol-2-2026-11-23"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "titleFr": "Signal restreint les captures d’écran mobiles car il fait face à une « menace existentielle » de surveillance par l’IA",
+          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+          "titleFr": "Trump aurait convoqué une réunion du conseil d'administration de Nvidia pour plaider en faveur du retour de Huang",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-          "summaryFr": "Signal limite la capacité des utilisateurs à prendre des captures d'écran dans ses applications Android et iOS.",
+          "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+          "summaryFr": "\"Je leur ai parlé, permettez-moi de le dire ainsi... Et je les ai convaincus\", a déclaré le président à CNBC.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-22"
+          "id": "tech-1-2026-11-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "A tale of two Nvidias",
-          "titleFr": "L'histoire de deux Nvidia",
+          "title": "CrowdStrike to acquire Zscaler for $44 billion",
+          "titleFr": "CrowdStrike va acquérir Zscaler pour 44 milliards de dollars",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-          "summaryFr": "Nous avons eu deux images très différentes de Nvidia : le dernier rapport sur les résultats de la société et les dirigeants technologiques appelant haut et fort au retour de Jensen Huang.",
+          "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+          "summaryFr": "Le géant de la cybersécurité a déclaré que l'accord d'achat de Zscaler, qui fournit des produits sans confiance aux grandes entreprises, permettra à ses clients de mieux équiper leurs clients pour qu'ils puissent utiliser des agents d'IA.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-22"
+          "id": "tech-2-2026-11-23"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump threatens ban on US firms building AI data centres overseas",
-          "titleFr": "Trump menace d'interdire aux entreprises américaines de construire des centres de données d'IA à l'étranger",
+          "title": "Seattle airport operator 'outraged' over ICE arrest of two passengers",
+          "titleFr": "L'exploitant de l'aéroport de Seattle « indigné » par l'arrestation par ICE de deux passagers",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-          "summaryFr": "Le président américain a fourni peu de détails sur cette politique potentielle, affirmant que d'autres membres de son équipe en entendaient parler pour la première fois.",
+          "summary": "ICE said a man and a woman, who are said to be father and daughter and both Mexican nationals, were arrested for allegedly overstaying their visas.",
+          "summaryFr": "L'ICE a déclaré qu'un homme et une femme, qui seraient un père et une fille et tous deux de nationalité mexicaine, ont été arrêtés pour avoir prétendument dépassé la durée de leur visa.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-22"
+          "id": "fd-1-2026-11-23"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "titleFr": "Le FBI aurait enquêté sur un piratage apparent de sa base de données criminelle",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "titleFr": "Un baron de la drogue mexicain figurant sur la liste des 10 personnes les plus recherchées du FBI arrêté lors d'une fusillade",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-          "summaryFr": "La base de données du National Crime Information Center est utilisée par les forces de l'ordre fédérales et locales pour partager des informations.",
+          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+          "summaryFr": "Fausto Isidro \"Chapo Idisro\" Meza Flores, accusé de trafic de drogue et de torture, est arrêté après une fusillade avec les autorités.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-22"
+          "id": "fd-2-2026-11-23"
         }
       ]
     }
