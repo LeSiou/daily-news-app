@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-23",
-  "formattedDate": "Lundi 23 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Lundi 23 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-24",
+  "formattedDate": "Mardi 24 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mardi 24 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Les actions Nvidia en hausse de 30 % et les valeurs technologiques rebondissent après le retour de Jensen Huang",
-    "Politique : Trump dit avoir « convaincu » Nvidia de réintégrer Jensen Huang",
-    "Tech & IA : Trump aurait convoqué une réunion du conseil d'administration de Nvidia pour plaider en faveur du retour de Huang"
+    "Économie : Le bouleversement auquel sont confrontés les locataires alors qu’un nouveau type de propriétaire émerge",
+    "Politique : Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
+    "Tech & IA : Uber et Nuro commencent les tests sans conducteur du robotaxis Lucid avant son lancement en 2027"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
-          "titleFr": "Les actions Nvidia en hausse de 30 % et les valeurs technologiques rebondissent après le retour de Jensen Huang",
+          "title": "The shake-up facing renters as a new kind of landlord emerges",
+          "titleFr": "Le bouleversement auquel sont confrontés les locataires alors qu’un nouveau type de propriétaire émerge",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
-          "summaryFr": "La hausse des actions Nvidia a également stimulé les marchés boursiers, le Nasdaq, très technologique, en hausse de 6,5 % en début de séance.",
+          "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
+          "summaryFr": "Les entreprises qui construisent des appartements qu’elles louent ensuite pourraient entraîner de grands changements pour les locataires.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-23"
+          "id": "eco-1-2026-11-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "titleFr": "Quelle est l’importance de Nvidia et Jensen Huang pour l’économie américaine ?",
+          "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+          "titleFr": "Un tournage secret de la BBC montre un éleveur de chiens vendant des chiots malades pour 2 000 £ chacun",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-          "summaryFr": "Le PDG de Nvidia a été au centre du boom de l’intelligence artificielle.",
+          "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+          "summaryFr": "La note de l'éleveur a été dégradée, mais il a continué à afficher cinq étoiles, selon l'enquête.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-23"
+          "id": "eco-2-2026-11-24"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-          "titleFr": "Trump dit avoir « convaincu » Nvidia de réintégrer Jensen Huang",
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "titleFr": "Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-          "summaryFr": "Le président américain est personnellement intervenu pour s'adresser aux membres du conseil d'administration de Nvidia.",
+          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+          "summaryFr": "Nvidia avait subi des pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 000 milliards de dollars à la valeur des actions de la société.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-23"
+          "id": "pol-1-2026-11-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "titleFr": "Un navire de guerre russe touché par des drones ukrainiens en Libye, selon Zelensky",
+          "title": "What Jensen Huang's return teaches China's Xi about Trump",
+          "titleFr": "Ce que le retour de Jensen Huang enseigne au Xi chinois sur Trump",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-          "summaryFr": "Le Kremlin met en garde contre une \"escalade des tensions dans la région\", mais refuse de commenter directement les attaques en Libye.",
+          "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+          "summaryFr": "Le retour de Huang à la tête de Nvidia ne constitue pas une garantie de soulagement pour Pékin.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-23"
+          "id": "pol-2-2026-11-24"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-          "titleFr": "Trump aurait convoqué une réunion du conseil d'administration de Nvidia pour plaider en faveur du retour de Huang",
+          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+          "titleFr": "Uber et Nuro commencent les tests sans conducteur du robotaxis Lucid avant son lancement en 2027",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
-          "summaryFr": "\"Je leur ai parlé, permettez-moi de le dire ainsi... Et je les ai convaincus\", a déclaré le président à CNBC.",
+          "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+          "summaryFr": "Uber et Nuro ont commencé à tester des SUV Lucid Gravity sans conducteur dans les rues publiques de la région de la baie de San Francisco.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-23"
+          "id": "tech-1-2026-11-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "CrowdStrike to acquire Zscaler for $44 billion",
-          "titleFr": "CrowdStrike va acquérir Zscaler pour 44 milliards de dollars",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "titleFr": "Pourquoi un investisseur de Crusoe parie sur l'énergie solaire et les batteries pour alimenter les futurs centres de données d'IA",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-          "summaryFr": "Le géant de la cybersécurité a déclaré que l'accord d'achat de Zscaler, qui fournit des produits sans confiance aux grandes entreprises, permettra à ses clients de mieux équiper leurs clients pour qu'ils puissent utiliser des agents d'IA.",
+          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+          "summaryFr": "Les centres de données de nouvelle génération auront besoin de dizaines de gigawatts d’énergie chaque année. L'un des investisseurs de Crusoe pense que l'énergie solaire et le stockage d'énergie sont le choix évident.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-23"
+          "id": "tech-2-2026-11-24"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Seattle airport operator 'outraged' over ICE arrest of two passengers",
-          "titleFr": "L'exploitant de l'aéroport de Seattle « indigné » par l'arrestation par ICE de deux passagers",
+          "title": "Analysis: Why Jensen Huang proved too big to fire",
+          "titleFr": "Analyse : Pourquoi Jensen Huang s'est avéré trop important pour être licencié",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "ICE said a man and a woman, who are said to be father and daughter and both Mexican nationals, were arrested for allegedly overstaying their visas.",
-          "summaryFr": "L'ICE a déclaré qu'un homme et une femme, qui seraient un père et une fille et tous deux de nationalité mexicaine, ont été arrêtés pour avoir prétendument dépassé la durée de leur visa.",
+          "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+          "summaryFr": "Le rôle de Huang au centre du parcours de son entreprise vers la cheville ouvrière de l’IA s’est avéré crucial.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-23"
+          "id": "fd-1-2026-11-24"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "titleFr": "Un baron de la drogue mexicain figurant sur la liste des 10 personnes les plus recherchées du FBI arrêté lors d'une fusillade",
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "titleFr": "Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-          "summaryFr": "Fausto Isidro \"Chapo Idisro\" Meza Flores, accusé de trafic de drogue et de torture, est arrêté après une fusillade avec les autorités.",
+          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+          "summaryFr": "Nvidia avait subi des pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 000 milliards de dollars à la valeur des actions de la société.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-23"
+          "id": "fd-2-2026-11-24"
         }
       ]
     }
