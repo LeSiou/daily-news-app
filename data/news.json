@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-24",
-  "formattedDate": "Mardi 24 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mardi 24 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-25",
+  "formattedDate": "Mercredi 25 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Mercredi 25 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Le bouleversement auquel sont confrontés les locataires alors qu’un nouveau type de propriétaire émerge",
-    "Politique : Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
-    "Tech & IA : Uber et Nuro commencent les tests sans conducteur du robotaxis Lucid avant son lancement en 2027"
+    "Économie : Poundland s'effondre, mettant en péril 11 000 emplois",
+    "Politique : Les propres chiffres de la Russie montrent qu'elle a perdu près de 500 000 personnes dans la guerre en Ukraine",
+    "Tech & IA : Allstate subit une panne technique de plusieurs jours avant Thanksgiving"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "The shake-up facing renters as a new kind of landlord emerges",
-          "titleFr": "Le bouleversement auquel sont confrontés les locataires alors qu’un nouveau type de propriétaire émerge",
+          "title": "Poundland collapses putting 11,000 jobs at risk",
+          "titleFr": "Poundland s'effondre, mettant en péril 11 000 emplois",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
-          "summaryFr": "Les entreprises qui construisent des appartements qu’elles louent ensuite pourraient entraîner de grands changements pour les locataires.",
+          "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+          "summaryFr": "La chaîne de discount s'est effondrée et a été placée sous administration judiciaire après que ses propriétaires n'ont pas réussi à trouver un acheteur.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-24"
+          "id": "eco-1-2026-11-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-          "titleFr": "Un tournage secret de la BBC montre un éleveur de chiens vendant des chiots malades pour 2 000 £ chacun",
+          "title": "US stocks fall further as fears over AI intensify",
+          "titleFr": "Les actions américaines continuent de baisser alors que les craintes concernant l'IA s'intensifient",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-          "summaryFr": "La note de l'éleveur a été dégradée, mais il a continué à afficher cinq étoiles, selon l'enquête.",
+          "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+          "summaryFr": "Les trois principaux indices américains étaient en baisse en début de séance, le Nasdaq, dominé par la technologie, en baisse de près de 4 %.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-24"
+          "id": "eco-2-2026-11-25"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-          "titleFr": "Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
+          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+          "titleFr": "Les propres chiffres de la Russie montrent qu'elle a perdu près de 500 000 personnes dans la guerre en Ukraine",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-          "summaryFr": "Nvidia avait subi des pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 000 milliards de dollars à la valeur des actions de la société.",
+          "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+          "summaryFr": "Des données divulguées révèlent à quel point l’invasion à grande échelle de l’Ukraine a fondamentalement modifié les schémas de mortalité en Russie.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-24"
+          "id": "pol-1-2026-11-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "What Jensen Huang's return teaches China's Xi about Trump",
-          "titleFr": "Ce que le retour de Jensen Huang enseigne au Xi chinois sur Trump",
+          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "titleFr": "Ma famille a été tuée en Ukraine. Ma mère a blâmé les troupes de Zelensky : la vérité est compliquée",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-          "summaryFr": "Le retour de Huang à la tête de Nvidia ne constitue pas une garantie de soulagement pour Pékin.",
+          "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "summaryFr": "La journaliste de la BBC Anastasiya Gribanova enquête sur qui a tué son père et ses grands-parents pendant la guerre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-24"
+          "id": "pol-2-2026-11-25"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-          "titleFr": "Uber et Nuro commencent les tests sans conducteur du robotaxis Lucid avant son lancement en 2027",
+          "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+          "titleFr": "Allstate subit une panne technique de plusieurs jours avant Thanksgiving",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-          "summaryFr": "Uber et Nuro ont commencé à tester des SUV Lucid Gravity sans conducteur dans les rues publiques de la région de la baie de San Francisco.",
+          "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+          "summaryFr": "Cette perturbation survient à un moment particulièrement difficile pour le géant de l'assurance, alors que des millions d'Américains se préparent à voyager pour le week-end de Thanksgiving.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-24"
+          "id": "tech-1-2026-11-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-          "titleFr": "Pourquoi un investisseur de Crusoe parie sur l'énergie solaire et les batteries pour alimenter les futurs centres de données d'IA",
+          "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+          "titleFr": "Todoist confirme que 6 % des informations de ses clients ont été volées suite à une violation de données",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-          "summaryFr": "Les centres de données de nouvelle génération auront besoin de dizaines de gigawatts d’énergie chaque année. L'un des investisseurs de Crusoe pense que l'énergie solaire et le stockage d'énergie sont le choix évident.",
+          "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+          "summaryFr": "Todoist a déclaré qu'un pirate informatique avait accédé à ses systèmes de production et volé les données des clients, notamment les identifiants de messagerie, les hachages de mots de passe et les dates de création de compte.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-24"
+          "id": "tech-2-2026-11-25"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Analysis: Why Jensen Huang proved too big to fire",
-          "titleFr": "Analyse : Pourquoi Jensen Huang s'est avéré trop important pour être licencié",
+          "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
+          "titleFr": "\"Cela pourrait être apocalyptique\" - une communauté se penche sur l'explosion contrôlée de l'armée américaine",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-          "summaryFr": "Le rôle de Huang au centre du parcours de son entreprise vers la cheville ouvrière de l’IA s’est avéré crucial.",
+          "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
+          "summaryFr": "Certains habitants déclarent à la BBC que la détonation de mercredi pourrait changer leur vie, tandis que d'autres souhaitent simplement que cela cesse.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-24"
+          "id": "fd-1-2026-11-25"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-          "titleFr": "Trump fait face à des réactions négatives après avoir déclaré avoir « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
+          "title": "She spent decades as an FBI agent and this is the case she could not let go",
+          "titleFr": "Elle a passé des décennies en tant qu'agent du FBI et c'est le cas, elle ne pouvait pas lâcher prise.",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-          "summaryFr": "Nvidia avait subi des pressions de la part du président Trump pour reconduire Huang, dont le retour a contribué à ajouter 1 000 milliards de dollars à la valeur des actions de la société.",
+          "summary": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.",
+          "summaryFr": "Jane Collins avait pratiquement renoncé à voir Michael Donovan et Richard Moore comparaître devant la justice. Ensuite, ils ont été accusés d’avoir volé le frère d’un tireur de masse.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-24"
+          "id": "fd-2-2026-11-25"
         }
       ]
     }
