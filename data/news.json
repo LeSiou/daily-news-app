@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-25",
-  "formattedDate": "Mercredi 25 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Mercredi 25 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-26",
+  "formattedDate": "Jeudi 26 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Jeudi 26 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Poundland s'effondre, mettant en péril 11 000 emplois",
-    "Politique : Les propres chiffres de la Russie montrent qu'elle a perdu près de 500 000 personnes dans la guerre en Ukraine",
-    "Tech & IA : Allstate subit une panne technique de plusieurs jours avant Thanksgiving"
+    "Économie : Des millions de personnes verront leurs mensualités hypothécaires moyennes augmenter de 100 £",
+    "Politique : Un concessionnaire de bateaux allemand soupçonné d'approvisionner les gangs de contrebandiers de la Manche, selon la BBC",
+    "Tech & IA : En tant qu'introductions en bourse anthropiques, Grand Theft Auto VI prouve pourquoi l'efficacité n'est pas une vertu"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Poundland collapses putting 11,000 jobs at risk",
-          "titleFr": "Poundland s'effondre, mettant en péril 11 000 emplois",
+          "title": "Millions of people to see average monthly mortgage payments rise by £100",
+          "titleFr": "Des millions de personnes verront leurs mensualités hypothécaires moyennes augmenter de 100 £",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-          "summaryFr": "La chaîne de discount s'est effondrée et a été placée sous administration judiciaire après que ses propriétaires n'ont pas réussi à trouver un acheteur.",
+          "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+          "summaryFr": "De plus en plus de personnes sont confrontées à des remboursements hypothécaires plus élevés lorsqu’elles concluent un accord fixe que prévu.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-25"
+          "id": "eco-1-2026-11-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "US stocks fall further as fears over AI intensify",
-          "titleFr": "Les actions américaines continuent de baisser alors que les craintes concernant l'IA s'intensifient",
+          "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+          "titleFr": "Simon Jack : Le propriétaire américain de Poundland est-il responsable de son effondrement ?",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-          "summaryFr": "Les trois principaux indices américains étaient en baisse en début de séance, le Nasdaq, dominé par la technologie, en baisse de près de 4 %.",
+          "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+          "summaryFr": "La direction et les députés de Poundland accusent les propriétaires du détaillant, Gordon Brothers, mais la société américaine affirme que sans eux, la chaîne se serait effondrée l'année dernière.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-25"
+          "id": "eco-2-2026-11-26"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-          "titleFr": "Les propres chiffres de la Russie montrent qu'elle a perdu près de 500 000 personnes dans la guerre en Ukraine",
+          "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+          "titleFr": "Un concessionnaire de bateaux allemand soupçonné d'approvisionner les gangs de contrebandiers de la Manche, selon la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-          "summaryFr": "Des données divulguées révèlent à quel point l’invasion à grande échelle de l’Ukraine a fondamentalement modifié les schémas de mortalité en Russie.",
+          "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+          "summaryFr": "Près d'un tiers des traversées début 2026 auraient impliqué des bateaux ou des moteurs de la firme allemande.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-25"
+          "id": "pol-1-2026-11-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-          "titleFr": "Ma famille a été tuée en Ukraine. Ma mère a blâmé les troupes de Zelensky : la vérité est compliquée",
+          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+          "titleFr": "Regarder : La BBC confronte un Allemand soupçonné d’avoir fourni de petits bateaux à des gangs de migrants",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-          "summaryFr": "La journaliste de la BBC Anastasiya Gribanova enquête sur qui a tué son père et ses grands-parents pendant la guerre.",
+          "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+          "summaryFr": "Marvin Reuter conteste son extradition vers la France, où il pourrait faire face à des accusations de contrebande, d'association de malfaiteurs et d'homicide involontaire.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-25"
+          "id": "pol-2-2026-11-26"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-          "titleFr": "Allstate subit une panne technique de plusieurs jours avant Thanksgiving",
+          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "titleFr": "En tant qu'introductions en bourse anthropiques, Grand Theft Auto VI prouve pourquoi l'efficacité n'est pas une vertu",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-          "summaryFr": "Cette perturbation survient à un moment particulièrement difficile pour le géant de l'assurance, alors que des millions d'Américains se préparent à voyager pour le week-end de Thanksgiving.",
+          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "summaryFr": "Le jour même où Anthropic faisait son entrée sur le marché public, un jeu vidéo minutieusement humain devenait l’un des lancements de divertissement les plus réussis de tous les temps.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-25"
+          "id": "tech-1-2026-11-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-          "titleFr": "Todoist confirme que 6 % des informations de ses clients ont été volées suite à une violation de données",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "titleFr": "S&P envisage un abaissement de la note de crédit de Nvidia en raison des risques liés à la gouvernance et aux « hommes clés »",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
-          "summaryFr": "Todoist a déclaré qu'un pirate informatique avait accédé à ses systèmes de production et volé les données des clients, notamment les identifiants de messagerie, les hachages de mots de passe et les dates de création de compte.",
+          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+          "summaryFr": "L'agence de notation de crédit pourrait abaisser la note de crédit de Nvidia à AA-, la quatrième note la plus élevée.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-25"
+          "id": "tech-2-2026-11-26"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
-          "titleFr": "\"Cela pourrait être apocalyptique\" - une communauté se penche sur l'explosion contrôlée de l'armée américaine",
+          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+          "titleFr": "Des centaines de vols annulés alors que des conditions météorologiques extrêmes perturbent les voyages de Thanksgiving aux États-Unis",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
-          "summaryFr": "Certains habitants déclarent à la BBC que la détonation de mercredi pourrait changer leur vie, tandis que d'autres souhaitent simplement que cela cesse.",
+          "summary": "More than 80 million Americans are expected to be traveling as severe weather is forecast on the western and eastern coasts of the US.",
+          "summaryFr": "Plus de 80 millions d'Américains devraient voyager alors que des conditions météorologiques extrêmes sont prévues sur les côtes ouest et est des États-Unis.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-25"
+          "id": "fd-1-2026-11-26"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "She spent decades as an FBI agent and this is the case she could not let go",
-          "titleFr": "Elle a passé des décennies en tant qu'agent du FBI et c'est le cas, elle ne pouvait pas lâcher prise.",
+          "title": "California warns of flooding as King Tides peak over Thanksgiving",
+          "titleFr": "La Californie met en garde contre les inondations alors que les King Tides culminent à Thanksgiving",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.",
-          "summaryFr": "Jane Collins avait pratiquement renoncé à voir Michael Donovan et Richard Moore comparaître devant la justice. Ensuite, ils ont été accusés d’avoir volé le frère d’un tireur de masse.",
+          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+          "summaryFr": "Certaines parties de la province canadienne de la Colombie-Britannique pourraient également être touchées par les tempêtes et les inondations, qui surviennent alors que des millions de personnes voyagent pour les vacances.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-25"
+          "id": "fd-2-2026-11-26"
         }
       ]
     }
