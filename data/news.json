@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-26",
-  "formattedDate": "Jeudi 26 Novembre 2026",
-  "summary": "Le bulletin international en anglais du Jeudi 26 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
+  "date": "2026-11-27",
+  "formattedDate": "Vendredi 27 Novembre 2026",
+  "summary": "Le bulletin international en anglais du Vendredi 27 Novembre 2026 regroupe 100% d'actualités mondiales (BBC News, TechCrunch) avec option de traduction immédiate en français.",
   "keyTakeaways": [
-    "Économie : Des millions de personnes verront leurs mensualités hypothécaires moyennes augmenter de 100 £",
-    "Politique : Un concessionnaire de bateaux allemand soupçonné d'approvisionner les gangs de contrebandiers de la Manche, selon la BBC",
-    "Tech & IA : En tant qu'introductions en bourse anthropiques, Grand Theft Auto VI prouve pourquoi l'efficacité n'est pas une vertu"
+    "Économie : Faisal Islam : Pourquoi les nouveaux tarifs douaniers de Trump constituent moins une menace",
+    "Politique : Zelensky critique \"l'étrange\" amitié Trump-Poutine dans une interview à la BBC",
+    "Tech & IA : Nvidia suspend ses expéditions de puces vers l'Asie du Sud-Est"
   ],
   "categories": [
     {
@@ -17,30 +17,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Millions of people to see average monthly mortgage payments rise by £100",
-          "titleFr": "Des millions de personnes verront leurs mensualités hypothécaires moyennes augmenter de 100 £",
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "titleFr": "Faisal Islam : Pourquoi les nouveaux tarifs douaniers de Trump constituent moins une menace",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-          "summaryFr": "De plus en plus de personnes sont confrontées à des remboursements hypothécaires plus élevés lorsqu’elles concluent un accord fixe que prévu.",
+          "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+          "summaryFr": "D’autres pays ont réorienté leurs échanges commerciaux en réponse à sa première salve tarifaire, mais ils regardent désormais au-delà du mandat de Trump.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-1-2026-11-26"
+          "id": "eco-1-2026-11-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-          "titleFr": "Simon Jack : Le propriétaire américain de Poundland est-il responsable de son effondrement ?",
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "titleFr": "D'un travail de 250 £ à une facture de 9 000 £ : à l'intérieur des réseaux de commerçants malhonnêtes qui escroquent les clients à grande échelle",
           "source": "BBC Business",
           "time": "08h00",
-          "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-          "summaryFr": "La direction et les députés de Poundland accusent les propriétaires du détaillant, Gordon Brothers, mais la société américaine affirme que sans eux, la chaîne se serait effondrée l'année dernière.",
+          "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+          "summaryFr": "Les réseaux de plombiers et d’électriciens escroquent les gens à grande échelle, révèle la BBC.",
           "impact": "Global market & political signal via BBC Business",
           "impactFr": "Signal international majeur via BBC Business",
           "badge": "Économie",
-          "id": "eco-2-2026-11-26"
+          "id": "eco-2-2026-11-27"
         }
       ]
     },
@@ -53,30 +53,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-          "titleFr": "Un concessionnaire de bateaux allemand soupçonné d'approvisionner les gangs de contrebandiers de la Manche, selon la BBC",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "titleFr": "Zelensky critique \"l'étrange\" amitié Trump-Poutine dans une interview à la BBC",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-          "summaryFr": "Près d'un tiers des traversées début 2026 auraient impliqué des bateaux ou des moteurs de la firme allemande.",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "summaryFr": "Le président ukrainien exprime sa frustration à l'égard des États-Unis et affirme que ceux-ci ne poussent pas assez fort la Russie dans les pourparlers de paix pour mettre fin à la guerre.",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-1-2026-11-26"
+          "id": "pol-1-2026-11-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-          "titleFr": "Regarder : La BBC confronte un Allemand soupçonné d’avoir fourni de petits bateaux à des gangs de migrants",
+          "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+          "titleFr": "John Simpson : L’Ukraine est courbée mais toujours ininterrompue alors que le temps glacial s’installe",
           "source": "BBC World News",
           "time": "08h00",
-          "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-          "summaryFr": "Marvin Reuter conteste son extradition vers la France, où il pourrait faire face à des accusations de contrebande, d'association de malfaiteurs et d'homicide involontaire.",
+          "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+          "summaryFr": "L’Ukraine s’installe dans un nouvel hiver dévastateur alors que les questions persistent : comment tout cela va-t-il se terminer ?",
           "impact": "Global market & political signal via BBC World News",
           "impactFr": "Signal international majeur via BBC World News",
           "badge": "Politique",
-          "id": "pol-2-2026-11-26"
+          "id": "pol-2-2026-11-27"
         }
       ]
     },
@@ -89,30 +89,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "titleFr": "En tant qu'introductions en bourse anthropiques, Grand Theft Auto VI prouve pourquoi l'efficacité n'est pas une vertu",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "titleFr": "Nvidia suspend ses expéditions de puces vers l'Asie du Sud-Est",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-          "summaryFr": "Le jour même où Anthropic faisait son entrée sur le marché public, un jeu vidéo minutieusement humain devenait l’un des lancements de divertissement les plus réussis de tous les temps.",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "summaryFr": "Nvidia a demandé à ses partenaires fabricants de suspendre les expéditions de serveurs vers la Malaisie, Singapour, la Thaïlande et l'Indonésie alors que les États-Unis renforcent leurs efforts pour empêcher les puces d'IA d'entrer en Chine.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-1-2026-11-26"
+          "id": "tech-1-2026-11-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-          "titleFr": "S&P envisage un abaissement de la note de crédit de Nvidia en raison des risques liés à la gouvernance et aux « hommes clés »",
+          "title": "Is Alice Huang a spy or not?",
+          "titleFr": "Alice Huang est-elle une espionne ou non ?",
           "source": "TechCrunch",
           "time": "08h00",
-          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-          "summaryFr": "L'agence de notation de crédit pourrait abaisser la note de crédit de Nvidia à AA-, la quatrième note la plus élevée.",
+          "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+          "summaryFr": "L'affirmation centrale, encore non prouvée, du scandale Nvidia est qu'Alice Huang, l'ancienne dirigeante de Megaspeed avec qui le PDG de Nvidia, Jensen Huang a eu une liaison extraconjugale, est une espionne chinoise.",
           "impact": "Global market & political signal via TechCrunch",
           "impactFr": "Signal international majeur via TechCrunch",
           "badge": "Global Tech",
-          "id": "tech-2-2026-11-26"
+          "id": "tech-2-2026-11-27"
         }
       ]
     },
@@ -125,30 +125,30 @@
         {
           "isInternational": true,
           "language": "en",
-          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-          "titleFr": "Des centaines de vols annulés alors que des conditions météorologiques extrêmes perturbent les voyages de Thanksgiving aux États-Unis",
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "titleFr": "Des centaines de milliers de personnes toujours privées d'électricité après les tempêtes qui ont frappé les États-Unis à Thanksgiving",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "More than 80 million Americans are expected to be traveling as severe weather is forecast on the western and eastern coasts of the US.",
-          "summaryFr": "Plus de 80 millions d'Américains devraient voyager alors que des conditions météorologiques extrêmes sont prévues sur les côtes ouest et est des États-Unis.",
+          "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+          "summaryFr": "La Pennsylvanie et les États voisins restent gravement touchés vendredi après que les deux côtes ont été frappées par le vent et la pluie.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-1-2026-11-26"
+          "id": "fd-1-2026-11-27"
         },
         {
           "isInternational": true,
           "language": "en",
-          "title": "California warns of flooding as King Tides peak over Thanksgiving",
-          "titleFr": "La Californie met en garde contre les inondations alors que les King Tides culminent à Thanksgiving",
+          "title": "Marching bands scramble to cover NYC costs after parade rearranged",
+          "titleFr": "Les fanfares se démènent pour couvrir les frais de New York après la réorganisation du défilé",
           "source": "BBC International",
           "time": "08h00",
-          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-          "summaryFr": "Certaines parties de la province canadienne de la Colombie-Britannique pourraient également être touchées par les tempêtes et les inondations, qui surviennent alors que des millions de personnes voyagent pour les vacances.",
+          "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+          "summaryFr": "Le temps orageux à New York a incité les organisateurs à repousser de deux jours le défilé Macy's, laissant certains musiciens bloqués.",
           "impact": "Global market & political signal via BBC International",
           "impactFr": "Signal international majeur via BBC International",
           "badge": "Société",
-          "id": "fd-2-2026-11-26"
+          "id": "fd-2-2026-11-27"
         }
       ]
     }
